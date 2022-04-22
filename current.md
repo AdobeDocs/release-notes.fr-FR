@@ -6,10 +6,10 @@ last-update: April 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: f8a3a96d35bf434af09dc0b536984feb4ff7de27
+source-git-commit: 68df02857374608feb9ae1c848b6ca1357d73382
 workflow-type: tm+mt
-source-wordcount: '6118'
-ht-degree: 43%
+source-wordcount: '6428'
+ht-degree: 41%
 
 ---
 
@@ -25,7 +25,7 @@ Vous êtes prêt à commencer ? [Répondez à un petit quiz de 5 minutes pour 
 >
 >Pour recevoir une notification mensuelle par e-mail des mises à jour de cette page, abonnez-vous à la [Mise à jour prioritaire des produits Adobe](https://www.adobe.com/subscription/priority-product-update.html). Consultez régulièrement ce site pour rester au courant de ce qui se passe sur Experience League.
 
-Dernière mise à jour : **18 avril 2022**
+Dernière mise à jour : **22 avril 2022**
 
 * [Évènements [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -500,12 +500,16 @@ Last updated: **October 27, 2021**
 
 ### Nouveautés de la version [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Dernière mise à jour : **11 avril 2022**
+Dernière mise à jour : **22 avril 2022** pour la version du 23 avril
 
 | Fonctionnalité | Description |
 | ------- | ----------- |
+| [!UICONTROL Audiences] | ([!DNL Microsoft Advertising] comptes éligibles à la correspondance client) Tous les utilisateurs peuvent désormais créer et gérer des audiences de correspondance client en chargeant des fichiers CSV avec des adresses électroniques. Les données doivent être hachées à l’aide de l’algorithme SHA-256. |
+| [!UICONTROL Campagnes] | Les fonctionnalités bêta suivantes sont disponibles pour les annonceurs qui acceptent :<ul><li>([!DNL Microsoft Advertising] ) Prise en charge de la synchronisation, de la visibilité en lecture seule et de la création de rapports (y compris les données d’affichage publicitaire) pour vos campagnes publicitaires natives existantes sur le [!DNL Microsoft Audience Network], y compris [!DNL Microsoft Audience Ads].</li><li>([!DNL Google Ads] et [!DNL Microsoft Advertising] ) Possibilité d’importer vos [!DNL Google Ads] campagnes et structure de campagne vers [!DNL Microsoft Advertising] depuis Advertising Cloud Search.</li></ul>Contactez votre gestionnaire de compte d’Adobe si vous êtes intéressé par l’un ou l’autre des programmes bêta. |
+| [!UICONTROL Campagnes]<br><br>[!UICONTROL Portfolios] | ([!DNL Microsoft Advertising] (campagnes) L’assistance est disponible pour les stratégies d’offres suivantes :<ul><li>(Disponibilité générale) [!UICONTROL Maximiser les conversions], [!UICONTROL Target CPA], et [!UICONTROL Ciblage du retour sur dépenses publicitaires]: Ces stratégies sont désormais accessibles à tous. Vous pouvez ajouter des campagnes de recherche avec cette stratégie d’offre à des portefeuilles hybrides (mais pas standard).</li><li>(Fonction bêta) [!UICONTROL Partage d’impression Target]: Si vous participez à la version bêta d’optimisation hybride, vous pouvez configurer des campagnes avec cette stratégie et éventuellement définir un partage d’impression cible, une position de publicité cible et un coût maximum par clic. Attention : Cette option n’est pas encore prise en charge dans les portefeuilles hybrides et ne peut pas être ajoutée aux portefeuilles standard.</li><li>(Fonction bêta) [!UICONTROL Maximiser les clics]: Si vous participez à la version bêta d’optimisation hybride, vous pouvez configurer des campagnes avec cette stratégie et éventuellement définir un coût maximum de clic pour la cible. Vous pouvez inclure des campagnes avec cette stratégie dans des portefeuilles standard ou hybrides. Pour utiliser cette stratégie dans un portfolio hybride, l&#39;objectif du portfolio ne doit inclure que [!DNL Adobe] propriétés (mesures) et vous devez activer le téléchargement des objectifs Advertising Cloud Search vers [!DNL Microsoft Ads].</li></ul>Si vous ne participez pas déjà à la version bêta d’optimisation hybride et souhaitez la rejoindre, contactez votre [!DNL Adobe] gestionnaire de compte. |
+| [!UICONTROL Informations publicitaires] | Toutes les informations, à l’exception de [!UICONTROL Correspondance croisée des requêtes] et [!UICONTROL Préparation à la configuration de Portfolio hybride] sont désormais obsolètes. |
 | [!UICONTROL Campagnes]<br><br>[!UICONTROL Informations publicitaires] | (11 avril); [!DNL Google Ads] comptes) Advertising Cloud Search a passé tous les appels API de l’ancien [!DNL Google AdWords API] à la dernière [!DNL Google Ads API]. Passage au nouveau [!DNL Google Ads API] assure la continuité des fonctionnalités existantes et permet l’accès à [!DNL Google’s] dernier [!DNL Ads] fonctions.<br><br>Certaines fonctionnalités n’ont pas encore été mises à jour vers la nouvelle API et sont temporairement indisponibles :<ul><li>Extensions d’emplacement :<ul>Les extensions d’emplacement ne sont pas visibles dans la variable [!UICONTROL Extensions] vue.</li><li>Vous ne pouvez pas créer d’extension.</li><li>Les filtres sur les emplacements ne fonctionnent pas.</li></li></ul><li>[!UICONTROL Informations publicitaires]: Le [!UICONTROL Partage d’impression perdu] et [!UICONTROL Query Cross Matching Beta] les analyses ne sont pas disponibles.</li></ul>Nous prévoyons de restaurer les fonctionnalités d’extension de localisation d’ici la fin avril. Une fois que nous avons déterminé quand [!UICONTROL Informations publicitaires] Les modules peuvent également être restaurés. Nous enverrons une mise à jour avec la date estimée. |
-| Intégration avec Adobe Analytics | (7 avril) Dans le flux de données envoyé par Advertising Cloud à [!DNL Analytics], données pour [!DNL Google Ads] et [!DNL Microsoft® Advertising] les annonces responsives sur la Recherche (RSA) sont désormais classées avec la variable [!UICONTROL Type d’annonce réactif] &quot;[!UICONTROL Publicités de recherche réactives].&quot; Auparavant, les données étaient incluses pour la variable [!UICONTROL Type d’annonce réactif] &quot;[!UICONTROL Publicités textuelles réactives].&quot;<br><br>En outre, la variable [!UICONTROL Titre de la publicité réactive] est maintenant renseigné avec le premier titre et la variable [!UICONTROL Description de l’annonce réactive] est renseignée avec la première description. |
+| Intégration avec Adobe Analytics | (7 avril) Dans le flux de données envoyé par Advertising Cloud à [!DNL Analytics], données pour [!DNL Google Ads] et [!DNL Microsoft Advertising] les annonces responsives sur la Recherche (RSA) sont reclassées avec la variable [!UICONTROL Type de publicité] &quot;[!UICONTROL Publicités de recherche réactives]&quot; lorsqu’ils reçoivent de nouveaux clics. Auparavant, les données étaient incluses pour la variable [!UICONTROL Type de publicité] &quot;[!UICONTROL Publicités texte].&quot; Les RSA dans les campagnes inactives ne seront pas reclassés.<br><br>Pour les RSA reclassés, la variable [!UICONTROL Titre de la publicité réactive] est maintenant renseigné avec le premier titre et la variable [!UICONTROL Description de l’annonce réactive] est renseignée avec la première description. |
 
 {style=&quot;table-layout:auto&quot;}
 
