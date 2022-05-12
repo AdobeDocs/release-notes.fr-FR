@@ -25,7 +25,7 @@ Vous êtes prêt à commencer ? [Répondez à un petit quiz de 5 minutes pour 
 >
 >Pour recevoir une notification mensuelle par e-mail des mises à jour de cette page, abonnez-vous à la [Mise à jour prioritaire des produits Adobe](https://www.adobe.com/subscription/priority-product-update.html). Consultez régulièrement ce site pour rester au courant de ce qui se passe sur Experience League.
 
-Dernière mise à jour : **11 mai 2022**
+Dernière mise à jour : **22 avril 2022**
 
 * [Évènements [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
