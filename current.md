@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 0550d7a4ccf69654f6f205752a109fbb9a83e172
+source-git-commit: 84794d6d051c913cef2ca11504d8cc9857af3000
 workflow-type: tm+mt
-source-wordcount: '4972'
+source-wordcount: '4971'
 ht-degree: 50%
 
 ---
@@ -321,7 +321,7 @@ Toutes les notes de mise à jour d’Experience Manager sont conservées dans l
 
 Les guides du Experience Manager (anciennement XML Documentation for Experience Manager) sont une application déployée sur AEM. C’est une puissante solution de gestion de contenu par composant (CCMS) de qualité professionnelle qui permet la prise en charge native de DITA dans Adobe Experience Manager, ce qui permet à AEM de gérer la création et la diffusion de contenu basé sur DITA.
 
-En savoir plus sur [XML Documentation for AEM](https://www.adobe.com/fr/products/xml-documentation-for-experience-manager/features.html).
+En savoir plus sur [Guides du Experience Manager](https://www.adobe.com/fr/products/xml-documentation-for-experience-manager/features.html).
 
 ### Ressources supplémentaires
 
