@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d4aed4b509b13fbc0fc73d11dcb30ac4f2fdbfd7
+source-git-commit: d397fe8a435cf411147e773ee11c34c29ecf7f5b
 workflow-type: tm+mt
-source-wordcount: '4935'
+source-wordcount: '4933'
 ht-degree: 50%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 50%
 
 ![Bannière](assets/experience-cloud-banner-3.png)
 
-En tant que créateur d’expériences, votre chemin vers la réussite commence avec [Adobe Experience League](https://experienceleague.adobe.com/?lang=fr#home). Vous y trouverez une vaste bibliothèque de documents pratiques, des tutoriels autonomes, des vidéos pratiques et des cours pour tous niveaux et rôles. Bénéficiez également des conseils de la communauté internet de pairs et de lʼassistance fournie par un expert lorsque vous en avez besoin.
+En tant que créateur d’expériences, votre chemin vers la réussite commence avec [ Experience League](https://experienceleague.adobe.com/?lang=fr#home). Vous y trouverez une vaste bibliothèque de documents pratiques, des tutoriels autonomes, des vidéos pratiques et des cours pour tous niveaux et rôles. Bénéficiez également des conseils de la communauté internet de pairs et de lʼassistance fournie par un expert lorsque vous en avez besoin.
 
 Vous êtes prêt à commencer ? [Répondez à un petit quiz de 5 minutes pour réussir](https://exploreadobe.com/experience-league-quiz/?sdid=4NM897N2&amp;mv=email&amp;mv2=nslsp) !
 
@@ -49,7 +49,7 @@ Dernière mise à jour : **24 mai 2022**
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Plans directeurs en matière d’expérience digitale : tutoriels](#blueprints)
 
-Besoin d’aide ? Rendez-vous sur [Adobe Experience League](https://experienceleague.adobe.com/?lang=fr#home) pour trouver de la documentation technique et sur les produits, des cours préparés par Adobe, des tutoriels vidéo, des réponses rapides, des informations provenant de la communauté et des formations dispensées par un instructeur.
+Besoin d’aide ? Rendez-vous sur [ Experience League](https://experienceleague.adobe.com/?lang=fr#home) pour trouver de la documentation technique et sur les produits, des cours préparés par Adobe, des tutoriels vidéo, des réponses rapides, des informations provenant de la communauté et des formations dispensées par un instructeur.
 
 ## ![Icône](/assets/experience-league.png) Événements [!DNL Experience League] {#events}
 
