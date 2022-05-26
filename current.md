@@ -6,9 +6,9 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d397fe8a435cf411147e773ee11c34c29ecf7f5b
+source-git-commit: 3efc33c9d154e1943e4bbf5f3a6d1bd9c702ccaf
 workflow-type: tm+mt
-source-wordcount: '4933'
+source-wordcount: '4966'
 ht-degree: 50%
 
 ---
@@ -55,13 +55,14 @@ Besoin d’aide ? Rendez-vous sur [ Experience League](https://experienceleag
 
 Les événements Experience League sont un excellent endroit pour apprendre, interagir et obtenir des réponses d’experts en produits Adobe !
 
-Mise à jour : **24 mai 2022**
+Mise à jour : **26 mai 2022**
 
 | Événement | Type | Description |
 | -----------|---------- | ----|
+| [Demandez aux experts : Principes de base du SDK Web](https://www.youtube.com/watch?v=g0KajUfq-S4) | Webinaire | Comprendre et utiliser les bonnes pratiques en matière de collecte de données. <br>[Planification et événements passés](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=fr) |
 | [Adobe Campaign - Série de webinaires sur le succès client](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer : Amélioration de vos Parcours client via Adobe Campaign. | Rejoignez cette discussion en direct par les pairs avec Anja Starun, responsable des opérations d&#39;engagement dans les marques Kayo, Binge et Flash de Streamotion. Entendez-vous directement sur les stratégies réussies mises en oeuvre par son équipe pour créer des parcours client personnalisés à l’aide d’Adobe Campaign. <br>**Date :** 26 mai à 15h00 (EST) <br>[Détails et enregistrement](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
-| [Notifications push avec Journey Optimizer - Comment configurer facilement votre application mobile pour les notifications push](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE  | Découvrez les cas d’utilisation courants de la notification push avec Adobe Journey Optimizer et découvrez les détails techniques de configuration d’une application pour la notification push optimisée par Adobe Experience Platform. <br>**Date :** 12 mai 2022 à 9h30 PDT<br>[Planification et événements passés](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=fr) |
 | [Adobe Target Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940?profile.language=fr#M3096) | Session Q&amp;A Coffee Break (Pause-café Questions/réponses de la communauté Adobe Target) | Rejoignez Brent Kostak et Drew Burns de l’équipe produit Adobe Target qui peuvent répondre à vos questions Adobe Target sur les audiences partagées, Real-Time CDP, les données propriétaires, les workflows de personnalisation de bout en bout, etc.<br>Regardez le récent [Webinaire de personnalisation en temps réel](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012) et d&#39;apporter vos questions de suivi aux experts du [fil Coffee Break](https://adobe.ly/3MyiDHa) dans la communauté Adobe Target !<br>**Date :** 25 mai 2022 à 8 heures du matin (heure d&#39;été)<br>[Détails et enregistrement](https://adobe.ly/3MyiDHa) |
+| [Notifications push avec Journey Optimizer - Comment configurer facilement votre application mobile pour les notifications push](https://www.youtube.com/watch?v=t36Xjhukmro) | Experience League LIVE  | Découvrez les cas d’utilisation courants de la notification push avec Adobe Journey Optimizer et découvrez les détails techniques de configuration d’une application pour la notification push optimisée par Adobe Experience Platform. <br>**Date :** 12 mai 2022 à 9h30 PDT<br>[Planification et événements passés](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) |
 | [Adobe [!DNL Developers Live]: Commerce](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=en) | Vidéos à la demande | _Adobe Developers Live : Commerce 2022_ réunit des développeurs et des créateurs d’expérience aux origines diverses et ayant un objectif unique, afin de créer des expériences de bout en bout incroyables. Cette conférence virtuelle d’une journée comprend d’importantes mises à jour pour les développeurs Commerce et Open Source, des sessions techniques, des opportunités de mise en réseau communautaire, etc. |
 | [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) | Vidéos à la demande | Découvrez l’importance de votre feuille de route Marketo et comment éviter une mauvaise planification. Obtenez des conseils sur le déverrouillage des champs personnalisés des membres de programme, des astuces et des astuces sur les Marketo Engage, et bien plus encore dans la section [!DNL Marketo] Échange de compétences d&#39;août 2021, désormais en Experience League. |
 | [Adobe Summit 2022](https://business.adobe.com/summit/adobe-summit.html) | Sessions à la demande | Écoutez les dirigeants Adobe, Ryan Reynolds, Rosalind Brewer, CEO, Walgreens Boots Alliance, Inc, John Donahoe, CEO, NIKE, Inc., et Gail J. McGovern, CEO, American Red Cross qui expliquent comment les expériences clients sont la devise de notre économie numérique.<br>Découvrez les [sessions à la demande](https://business.adobe.com/summit/2022/sessions.html) du Adobe Summit 2022. |
