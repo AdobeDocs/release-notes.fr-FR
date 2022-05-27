@@ -6,10 +6,10 @@ last-update: May 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 3efc33c9d154e1943e4bbf5f3a6d1bd9c702ccaf
+source-git-commit: 045b3df6e345a97bd4172c752c953580e42181c6
 workflow-type: tm+mt
-source-wordcount: '4966'
-ht-degree: 50%
+source-wordcount: '5033'
+ht-degree: 49%
 
 ---
 
@@ -25,9 +25,9 @@ Vous êtes prêt à commencer ? [Répondez à un petit quiz de 5 minutes pour 
 >
 >Pour recevoir une notification mensuelle par e-mail des mises à jour de cette page, abonnez-vous à la [Mise à jour prioritaire des produits Adobe](https://www.adobe.com/subscription/priority-product-update.html). Consultez régulièrement ce site pour rester au courant de ce qui se passe sur Experience League.
 
-Dernière mise à jour : **24 mai 2022**
+Dernière mise à jour : **27 mai 2022**
 
-* [Évènements [!DNL Experience League]](#events)
+* [[!DNL Experience League] events](#events) (Mise à jour) **27 mai**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - Composants de l’interface centrale et administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -55,10 +55,11 @@ Besoin d’aide ? Rendez-vous sur [ Experience League](https://experienceleag
 
 Les événements Experience League sont un excellent endroit pour apprendre, interagir et obtenir des réponses d’experts en produits Adobe !
 
-Mise à jour : **26 mai 2022**
+Mise à jour : **27 mai 2022**
 
 | Événement | Type | Description |
 | -----------|---------- | ----|
+| [Forum du gouvernement des créateurs d’expérience](https://adobegovforum.govexec.com/agenda/) | Vidéo à la demande | Le 13ème AEMF annuel du 10 mai a été un succès, avec une combinaison de participants virtuels et en personne. Sessions principales et de petits groupes sur le thème de la _Expériences digitales qui donnent la priorité aux personnes_. Meilleures sessions incluses _Manhunters : Comment nous avons abattu Pablo Escobar_, _L&#39;avenir du CX_, et _L&#39;âge d&#39;or de la créativité et de l&#39;espace de travail moderne_. |
 | [Demandez aux experts : Principes de base du SDK Web](https://www.youtube.com/watch?v=g0KajUfq-S4) | Webinaire | Comprendre et utiliser les bonnes pratiques en matière de collecte de données. <br>[Planification et événements passés](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=fr) |
 | [Adobe Campaign - Série de webinaires sur le succès client](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) | Peer2Peer : Amélioration de vos Parcours client via Adobe Campaign. | Rejoignez cette discussion en direct par les pairs avec Anja Starun, responsable des opérations d&#39;engagement dans les marques Kayo, Binge et Flash de Streamotion. Entendez-vous directement sur les stratégies réussies mises en oeuvre par son équipe pour créer des parcours client personnalisés à l’aide d’Adobe Campaign. <br>**Date :** 26 mai à 15h00 (EST) <br>[Détails et enregistrement](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/) |
 | [Adobe Target Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940?profile.language=fr#M3096) | Session Q&amp;A Coffee Break (Pause-café Questions/réponses de la communauté Adobe Target) | Rejoignez Brent Kostak et Drew Burns de l’équipe produit Adobe Target qui peuvent répondre à vos questions Adobe Target sur les audiences partagées, Real-Time CDP, les données propriétaires, les workflows de personnalisation de bout en bout, etc.<br>Regardez le récent [Webinaire de personnalisation en temps réel](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012) et d&#39;apporter vos questions de suivi aux experts du [fil Coffee Break](https://adobe.ly/3MyiDHa) dans la communauté Adobe Target !<br>**Date :** 25 mai 2022 à 8 heures du matin (heure d&#39;été)<br>[Détails et enregistrement](https://adobe.ly/3MyiDHa) |
