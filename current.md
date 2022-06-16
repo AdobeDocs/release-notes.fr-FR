@@ -6,9 +6,9 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5d75fb745b2694e31346b27efdb1d5f71fe91449
+source-git-commit: fbe6dd6b917a94fa8c26f832f373584becd6796a
 workflow-type: tm+mt
-source-wordcount: '4691'
+source-wordcount: '4696'
 ht-degree: 54%
 
 ---
@@ -51,7 +51,7 @@ Besoin d’aide ? Rendez-vous sur [Experience League](https://experienceleague
 
 ## ![Icône](/assets/experience-league.png) Événements [!DNL Experience League] {#events}
 
-Les événements Experience League sont un excellent endroit pour apprendre, interagir et obtenir des réponses d’experts en produits Adobe !
+[Les événements Experience League sont un excellent endroit pour apprendre, interagir et obtenir des réponses d’experts en produits Adobe !](https://experienceleague.adobe.com/events/?lang=en)
 
 Mis à jour le **10 juin 2022**
 
@@ -160,7 +160,7 @@ Nouveaux tutoriels, vidéos ou cours publiés pour CJA.
 | Juin 2022 | [Lier des dimensions dans les vues de données](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/binding-dimensions-in-data-views.html?lang=en) | Vidéo | En savoir plus sur les dimensions de liaison. Cette fonctionnalité vous permet de prendre une dimension et de la connecter à une autre dimension pour une affectation de persistance plus affinée. |
 | Juin 2022 | [Page de destination de Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/cja-basics/customer-journey-analytics-landing-page.html) | Vidéo | La page de destination de Customer Journey Analytics présente une vue par défaut de vos projets et de vos cartes de performance mobiles, ainsi qu’une section d’apprentissage pour vous permettre de démarrer plus efficacement. |
 | Juin 2022 | [Ingérer, mapper et transformer les données Adobe Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-prep/ingest-map-and-transform-adobe-analytics-data.html) | Vidéo | Découvrez comment utiliser les fonctions de prétraitement des données pour [!DNL Analytics] données, y compris les fonctions de manipulation de données. Par exemple, vous pouvez mapper des variables Analytics à de nouveaux champs personnalisés et effectuer des transformations et des calculs. |
-| Juin 2022 | [Configuration des paramètres du composant de sous-chaîne](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/configure-substring-component-settings.html) | Vidéo | Découvrez comment utiliser des méthodes de manipulation de chaîne pour obtenir la partie souhaitée des valeurs de dimension dans les rapports de Customer Journey Analytics. Une fois appliquée, la transformation des données se produit rétroactivement et immédiatement. |
+| Juin 2022 | [Configurer les paramètres du composant de sous-chaîne](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/configure-substring-component-settings.html) | Vidéo | Découvrez comment utiliser des méthodes de manipulation de chaîne pour obtenir la partie souhaitée des valeurs de dimension dans les rapports Customer Journey Analytics. Une fois appliquée, la transformation des données se produit rétroactivement et immédiatement. |
 | Juin 2022 | [Créer une carte de performance mobile](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=fr) | Vidéo | Découvrez comment configurer et présenter des tableaux de bord pour les utilisateurs en charge de l’exécution. |
 | Juin 2022 | [Expérience Création et modification de connexions](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/cja-connections-creation-and-edit-experience.html) | Vidéo | Découvrez comment activer la fenêtre de rétention des données en continu, activer et demander des données de renvoi en fonction de l’horodatage des événements et importer des données existantes par jeu de données. |
 
