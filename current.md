@@ -6,7 +6,7 @@ last-update: June 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4256f9f814955a7819c8f0333ea8ba3bc9c2745a
+source-git-commit: e2a292b6e5dc404f3c0164eec583cb4486746f53
 workflow-type: tm+mt
 source-wordcount: '4288'
 ht-degree: 95%
@@ -60,9 +60,9 @@ Mis à jour le **28 juin 2022**
 | [Exploiter les données d’intelligence profonde pour optimiser la personnalisation](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) | Webinaire sur la réussite client | Rejoignez notre expert en Adobe pour découvrir comment les fonctionnalités avancées d’Adobe Analytics permettront aux analystes et aux spécialistes du marketing de votre entreprise d’accélérer l’analyse des données approfondie et de traiter les informations opportunes afin d’offrir des expériences client plus personnalisées entre les canaux, les moments et les étapes d’achat.<br>**Date :** 6 juillet à 15h00 AEST - [Détails et enregistrement](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
 | [Adobe Target - Compétences pour réussir](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) | Adobe Experience Makers | Découvrez les concepts et les fonctionnalités de base d’Adobe Target pour tester, personnaliser et reconnaître la puissance de l’IA qui transforme votre expérience de marque de générique en génie.<br>**Date :** 30 juin et 1er juillet - [Détails et enregistrement](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 
-Voir [Événements](https://experienceleague.adobe.com/events/?lang=en) sur Experience League pour rester à jour.
-
 {style=&quot;table-layout:auto&quot;}
+
+Voir [Événements](https://experienceleague.adobe.com/events/?lang=en) sur Experience League pour rester à jour.
 
 ## ![Icône](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
