@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 5c20e56d96b6fbe571cc686e2b4ed27559f39a3d
+source-git-commit: 58049fdc92ec5b172527c58d9d557d271e77b92c
 workflow-type: tm+mt
-source-wordcount: '5576'
+source-wordcount: '5577'
 ht-degree: 50%
 
 ---
@@ -75,8 +75,6 @@ Les [composants de l’interface utilisateur centrale](https://experienceleague.
 
 ### Mise à jour de l’approvisionnement
 
-Mise à jour : **19 juillet 2022**
-
 >[!IMPORTANT]
 >
 >Veuillez consulter l’avis suivant concernant la mise en service des Experience Cloud.
@@ -85,9 +83,11 @@ Adobe met à jour sa configuration afin de fournir à tous les clients Experienc
 
 Adobe Experience Platform [!UICONTROL Collecte de données] inclut [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) pour une gestion universelle simplifiée des balises et offre une infrastructure de données en continu fiable, robuste et complète. Les balises simplifient la collecte de données d’expérience client et simplifient la diffusion d’expérience.
 
-Avec cette mise à jour, les administrateurs peuvent voir des modifications ou des ajouts au Admin Console :
+**Changements dans Admin Console**
 
-1. La carte de produit Adobe Experience Platform dans le Admin Console comprend :
+Les administrateurs peuvent voir les modifications ou les ajouts au Admin Console comme suit :
+
+* La carte de produit Adobe Experience Platform dans le Admin Console comprend :
 
    * Places
    * Assurance
@@ -102,7 +102,7 @@ Avec cette mise à jour, les administrateurs peuvent voir des modifications ou d
 
    Pour les organisations qui utilisent actuellement Experience Platform, _Places_ sera désormais consolidée dans la carte de l’Experience Platform.
 
-1. La collecte de données Adobe Experience Platform (anciennement Launch) et la confidentialité continueront à apparaître en tant que cartes de produits distinctes des autres fonctionnalités de l’Experience Platform.
+* La collecte de données Adobe Experience Platform (anciennement Launch) et la confidentialité continueront à apparaître en tant que cartes de produits distinctes des autres fonctionnalités de l’Experience Platform.
 
 Pour plus d’informations sur les nouvelles fonctionnalités, consultez leurs pages respectives sur Experience League :
 
