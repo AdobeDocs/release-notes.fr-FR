@@ -6,9 +6,9 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: d5e56e4a6877d4930a43407d0d149c3e224a8346
+source-git-commit: bd6e90a7cbb0f07b21c65b6486fb65327fce6003
 workflow-type: tm+mt
-source-wordcount: '5571'
+source-wordcount: '5574'
 ht-degree: 50%
 
 ---
@@ -23,7 +23,7 @@ En tant que créateur d’expériences, votre chemin vers la réussite commence 
 >
 >Pour recevoir une notification mensuelle par e-mail des mises à jour de cette page, abonnez-vous à la [Mise à jour prioritaire des produits Adobe](https://www.adobe.com/subscription/priority-product-update.html). Consultez régulièrement ce site pour rester au courant de ce qui se passe sur Experience League.
 
-Dernière mise à jour : **18 juillet 2022**
+Dernière mise à jour : **19 juillet 2022**
 
 * [[!DNL Experience League] Évènements](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -75,6 +75,8 @@ Les [composants de l’interface utilisateur centrale](https://experienceleague.
 
 ### Mise à jour de l’approvisionnement
 
+Mise à jour : **19 juillet 2022**
+
 >[!IMPORTANT]
 >
 >Veuillez consulter l’avis suivant concernant la mise en service des Experience Cloud.
@@ -115,7 +117,7 @@ Pour plus d’informations sur les nouvelles fonctionnalités, consultez leurs p
 * [Visitor ID (Identifiant visiteur)](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
 * [Confidentialité](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=fr)
 
-Version : **11 juillet 2022**
+Mise à jour des fonctionnalités : **11 juillet 2022**
 
 | Fonctionnalité | Description |
 | ------- | ------- |
