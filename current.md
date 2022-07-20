@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: c14c711dc4e63f045e4de68f5f817e83f194bebd
+source-git-commit: d5e56e4a6877d4930a43407d0d149c3e224a8346
 workflow-type: tm+mt
-source-wordcount: '5254'
-ht-degree: 51%
+source-wordcount: '5571'
+ht-degree: 50%
 
 ---
 
@@ -72,6 +72,48 @@ Pour obtenir les informations les plus récentes, voir les [notes de mise à jou
 ## ![Icône](/assets/ec_appicon_24.png) Experience Cloud - Composants et administration de l’interface centrale {#ecloud}
 
 Les [composants de l’interface utilisateur centrale](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=fr) d’Experience Cloud incluent les fonctionnalités disponibles sur la page d’accueil et l’en-tête du produit persistant. Ces fonctionnalités incluent les paramètres de profil utilisateur, les préférences et la recherche. Vous trouverez également de l’aide sur la gestion des utilisateurs et des produits, les attributs du client et les audiences Experience Cloud.
+
+### Mise à jour de l’approvisionnement
+
+>[!IMPORTANT]
+>
+>Veuillez consulter l’avis suivant concernant la mise en service des Experience Cloud.
+
+Adobe met à jour sa configuration afin de fournir à tous les clients Experience Cloud l’accès aux fonctionnalités fondamentales qui facilitent l’interopérabilité entre certains produits Experience Cloud. Les utilisateurs auront un nouveau droit Adobe Experience Platform ajouté à leurs organisations Experience Cloud, avec [!UICONTROL Collecte de données] en tant que service inclus.
+
+Adobe Experience Platform [!UICONTROL Collecte de données] inclut [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) pour une gestion universelle simplifiée des balises et offre une infrastructure de données en continu fiable, robuste et complète. Les balises simplifient la collecte de données d’expérience client et simplifient la diffusion d’expérience.
+
+Avec cette mise à jour, les administrateurs peuvent voir des modifications ou des ajouts au Admin Console :
+
+1. La carte de produit Adobe Experience Platform dans le Admin Console comprend :
+
+   * Places
+   * Assurance
+   * Espace de noms identité
+   * Sandbox
+   * Modèle de données d’expérience
+   * Schémas
+   * Flux de données
+   * Visitor ID (Identifiant visiteur)
+
+   Pour les organisations qui n’utilisent pas actuellement Experience Platform, le _Adobe Experience Platform_ dans le Admin Console, y compris les fonctionnalités répertoriées ci-dessus.
+
+   Pour les organisations qui utilisent actuellement Experience Platform, _Places_ sera désormais consolidée dans la carte de l’Experience Platform.
+
+1. La collecte de données Adobe Experience Platform (anciennement Launch) et la confidentialité continueront à apparaître en tant que cartes de produits distinctes des autres fonctionnalités de l’Experience Platform.
+
+Pour plus d’informations sur les nouvelles fonctionnalités, consultez leurs pages respectives sur Experience League :
+
+* [Collecte de données](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
+* [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=fr)
+* [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html%3Flang%3Dde)
+* [Espace de noms identité](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=fr)
+* [Environnements Sandbox](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=fr)
+* [Modèle de données d’expérience](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=fr)
+* [Schémas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=fr)
+* [Flux de données](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
+* [Visitor ID (Identifiant visiteur)](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
+* [Confidentialité](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=fr)
 
 Version : **11 juillet 2022**
 
