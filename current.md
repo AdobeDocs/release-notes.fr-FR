@@ -8,8 +8,8 @@ mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
 workflow-type: tm+mt
-source-wordcount: '5842'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -80,15 +80,15 @@ Les [composants de l’interface utilisateur centrale](https://experienceleague.
 >
 >Consultez l’avis suivant concernant l’approvisionnement d’Experience Cloud.
 
-Adobe met à jour son approvisionnement pour permettre à tous les clients Experience Cloud d’accéder à des fonctionnalités élémentaires qui facilitent l’interopérabilité entre certains produits Experience Cloud. Les utilisateurs se verront accorder un nouveau droit, Adobe Experience Platform, à leurs organisations Experience Cloud, ainsi que la [!UICONTROL Collecte de données] comme service inclus.
+Adobe met à jour son approvisionnement afin de fournir à tous les clients d’Experience Cloud l’accès aux fonctionnalités fondamentales qui facilitent l’interopérabilité entre certains produits Experience Cloud. Les utilisateurs verront un nouveau droit Adobe Experience Platform ajouté à leurs organisations Experience Cloud, avec la [!UICONTROL collecte de données] incluse comme service.
 
-La [!UICONTROL Collecte de données] d’Adobe Experience Platform comprend les [balises](https://experienceleague.adobe.com/docs/tags.html?lang=fr) pour une gestion universelle et simplifiée des balises. Elle offre également une infrastructure de données de transmission en continu fiable, robuste et complète. Les balises permettent de simplifier la collecte de données relatives à l’expérience client et la diffusion d’expériences.
+La [!UICONTROL collecte de données] d’Adobe Experience Platform inclut des [balises](https://experienceleague.adobe.com/docs/tags.html?lang=fr) pour une gestion universelle et simplifiée des balises. Elle offre également une infrastructure de données en continu fiable, robuste et complète. Les balises simplifient la collecte de données de l’expérience client et rationalisent la diffusion d’expérience.
 
 **Modifications dans Admin Console**
 
-Les administrateurs peuvent consulter les modifications ou les ajouts apportés à Admin Console comme suit :
+Les administrateurs peuvent voir les modifications ou les ajouts à Admin Console comme suit :
 
-* La fiche produit Adobe Experience Platform dans Admin Console comprendra les éléments suivants :
+* La carte de produit Adobe Experience Platform dans Admin Console comprend :
 
    * Places
    * Assurance
@@ -99,11 +99,11 @@ Les administrateurs peuvent consulter les modifications ou les ajouts apportés 
    * Flux de données
    * Visitor ID (Identifiant visiteur)
 
-   Pour les organisations qui n’utilisent pas actuellement Experience Platform, vous verrez désormais le produit _Adobe Experience Platform_ dans Admin Console, y compris les fonctionnalités énumérées ci-dessus.
+   Pour les organisations qui n’utilisent pas actuellement Experience Platform, le produit _Adobe Experience Platform_ s’affichera désormais dans Admin Console, y compris les fonctionnalités répertoriées ci-dessus.
 
-   Pour les organisations qui utilisent actuellement Experience Platform, le service _Places_ sera désormais consolidé dans la carte Experience Platform.
+   Pour les organisations qui utilisent actuellement Experience Platform, _Places_ sera désormais consolidée dans la carte Experience Platform.
 
-* Les cartes produit Collecte de données d’Adobe Experience Platform (anciennement Launch) et Confidentialité continueront d’apparaître séparément des autres fonctionnalités d’Experience Platform.
+* La collecte de données Adobe Experience Platform (anciennement Launch) et la confidentialité continueront à apparaître en tant que cartes de produits distinctes des autres fonctionnalités d’Experience Platform.
 
 Pour plus d’informations sur les nouvelles fonctionnalités, consultez leurs pages respectives sur Experience League :
 
