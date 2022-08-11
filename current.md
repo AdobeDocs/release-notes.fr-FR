@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 4f563e352d8e35609c0b15b047701ffe53cd6053
+source-git-commit: e405f1009de51d64df108edb01673f09c98f41f7
 workflow-type: tm+mt
-source-wordcount: '6346'
-ht-degree: 86%
+source-wordcount: '5981'
+ht-degree: 84%
 
 ---
 
@@ -53,12 +53,12 @@ Besoin d’aide ? Rendez-vous sur [Experience League](https://experienceleague
 
 Les événements Experience League sont un excellent endroit pour apprendre, interagir et obtenir des réponses d’experts en produits Adobe ! Consultez la page [Événements](https://experienceleague.adobe.com/events/?lang=fr) sur Experience League pour rester à jour en juillet 2022.
 
-Mise à jour le **28 juillet 2022**
+Mise à jour le **11 août 2022**
 
 | Événement | Type | Description |
 | -----------|---------- | ----|
-| [Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) | Session Community Q&amp;A Coffee Break  (Pause-café Questions/réponses de la communauté Adobe Target) | Nous serons rejoints par Rachel Booth, conseillère en affaires Premier Support Adobe, alias `@rbooth115`. Elle sera connectée à la communauté Adobe Target pour discuter directement avec vous sur [ce fil](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) à propos de vos questions concernant ses domaines d’expertise (personnalisation, optimisation, intégration). <br>**Date :** Mercredi 3 août à 8 heures heure d&#39;été (heure d&#39;été) - 9 heures du matin. - [Détails et enregistrement](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&amp;utm_medium=Outbound&amp;utm_campaign=coffee_talk_AT&amp;utm_content=220803) |
-| [Demandez aux experts : flux de données et préparation des données](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=fr) | Experience League LIVE | Durant ces trois dernières sessions portant sur la collecte de données pour Adobe Experience Cloud, nos experts approfondiront les fonctionnalités avancées de collecte de données d’Adobe, notamment les fonctions telles que la préparation de données pour la collecte de données. À la fin de cette session, les participants sauront utiliser les dernières fonctionnalités les plus puissantes de collecte de données issues d’expériences digitales.<br>**Date :** 21 juillet à 9 h (heure du Pacifique) - [Détails](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |
+| [Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html?utm_source=experienceleague) | Webinaire | _Alimenter les succès de demain : Qualité et adoption des données_ - Rejoignez les champions Adobe Analytics Frederik Werner et Sarah Owen lors de ce webinaire en direct pour découvrir comment vous pouvez intégrer la qualité des données dans tous les aspects de l’analyse et créer une culture commune autour de celle-ci.<p>**Date :** 25 août à 11h00 (heure de l’Est) - [Détails et enregistrement](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html?utm_source=experienceleague) |
+| [Live des créateurs d’expérience](https://business.adobe.com/events/experience-makers-live.html?cgen=Q75XPNKK&amp;mv=other) | Webinaire | Un événement gratuit pour les créateurs d’expérience avec des notes de synthèse de Sara Blakely, Peyton Manning et Eli Manning.<p>**Date :** 13-14 septembre - [Détails et enregistrement](https://business.adobe.com/events/experience-makers-live.html?cgen=Q75XPNKK&amp;mv=other) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -78,45 +78,7 @@ Les [composants de l’interface utilisateur centrale](https://experienceleague.
 
 >[!IMPORTANT]
 >
->Consultez l’avis suivant concernant l’approvisionnement d’Experience Cloud.
-
-Adobe met à jour son approvisionnement afin de fournir à tous les clients d’Experience Cloud l’accès aux fonctionnalités fondamentales qui facilitent l’interopérabilité entre certains produits Experience Cloud. Les utilisateurs verront un nouveau droit Adobe Experience Platform ajouté à leurs organisations Experience Cloud, avec la [!UICONTROL collecte de données] incluse comme service.
-
-La [!UICONTROL collecte de données] d’Adobe Experience Platform inclut des [balises](https://experienceleague.adobe.com/docs/tags.html?lang=fr) pour une gestion universelle et simplifiée des balises. Elle offre également une infrastructure de données en continu fiable, robuste et complète. Les balises simplifient la collecte de données de l’expérience client et rationalisent la diffusion d’expérience.
-
-**Modifications dans Admin Console**
-
-Les administrateurs peuvent voir les modifications ou les ajouts à Admin Console comme suit :
-
-* La carte de produit Adobe Experience Platform dans Admin Console comprend :
-
-   * Places
-   * Assurance
-   * Espace de noms d’identité
-   * Sandbox
-   * Modèle de données d’expérience
-   * Schémas
-   * Flux de données
-   * Visitor ID (Identifiant visiteur)
-
-   Pour les organisations qui n’utilisent pas actuellement Experience Platform, le produit _Adobe Experience Platform_ s’affichera désormais dans Admin Console, y compris les fonctionnalités répertoriées ci-dessus.
-
-   Pour les organisations qui utilisent actuellement Experience Platform, _Places_ sera désormais consolidée dans la carte Experience Platform.
-
-* La collecte de données Adobe Experience Platform (anciennement Launch) et la confidentialité continueront à apparaître en tant que cartes de produits distinctes des autres fonctionnalités d’Experience Platform.
-
-Pour plus d’informations sur les nouvelles fonctionnalités, consultez leurs pages respectives sur Experience League :
-
-* [Collecte de données](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html?lang=fr)
-* [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=fr)
-* [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html?lang=fr)
-* [Espace de noms d’identité](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=fr)
-* [Sandbox](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=fr)
-* [Modèle de données d’expérience](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html?lang=fr)
-* [Schémas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html?lang=fr)
-* [Flux de données](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=fr)
-* [Visitor ID (Identifiant visiteur)](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=fr#section_3C9F6DF37C654D939625BB4D485E4354)
-* [Confidentialité](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=fr)
+>Administrateurs, ne manquez pas ceci [avis important](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=en#july---2022) à propos de la configuration des Experience Cloud (publiée en juillet 2022).
 
 ### Mise à jour des fonctionnalités
 
@@ -130,7 +92,7 @@ Fonctionnalité publiée : le **11 juillet 2022**
 
 **Plus de ressources d’aide sur Administration et [!DNL Experience Cloud Central UI Components]**
 
-* [Notes de mise à jour](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=fr) pour les composants de l’interface utilisateur centrale dʼExperience Cloud
+* [Notes de mise à jour](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=en) pour les composants de l’interface utilisateur centrale dʼExperience Cloud
 * [Gestion des utilisateurs et des produits](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) pour Experience Cloud (administration)
 * [Notes de mise à jour](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=fr) du service Places
 * Documentation produit pour les fonctionnalités [Personnes : attributs du client et bibliothèque d’audiences](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=fr)
