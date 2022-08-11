@@ -6,10 +6,10 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: 9186a4065d143b7c02fd87b68b960d3f1a7eb5f2
+source-git-commit: 4f563e352d8e35609c0b15b047701ffe53cd6053
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '6346'
+ht-degree: 86%
 
 ---
 
@@ -23,7 +23,7 @@ En tant que créateur d’expériences, votre chemin vers la réussite commence 
 >
 >Pour recevoir une notification mensuelle par e-mail des mises à jour de cette page, abonnez-vous à la [Mise à jour prioritaire des produits Adobe](https://www.adobe.com/subscription/priority-product-update.html). Consultez régulièrement ce site pour rester au courant de ce qui se passe sur Experience League.
 
-Dernière mise à jour : **27 juillet 2022**
+Dernière mise à jour : **11 août 2022**
 
 * Événements [[!DNL Experience League] ](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -41,7 +41,7 @@ Dernière mise à jour : **27 juillet 2022**
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo) (**Mise à jour le 27 juillet**)
-* [[!DNL Adobe Workfront]](#workfront) (**Mise à jour le 27 juillet**)
+* [[!DNL Adobe Workfront]](#workfront) (**Mise à jour : 11 août**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -468,7 +468,7 @@ Nouveaux tutoriels, vidéos et cours publiés pour Adobe Marketo.
 
 | Publié | Nom | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-| 27 juillet 2022 | [Tutoriels sur Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) | Vidéos | Visitez le [accueil du tutoriel Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) sur Experience League pour tous les tutoriels anciens et nouveaux. |
+| 27 juillet 2022 | [Tutoriels sur Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) | Vidéos | Visitez le [accueil du tutoriel Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) sur Experience League pour tous les tutoriels anciens et nouveaux. |
 | Juillet 2022 | [Expériences B2B avec Marketo Engage et Adobe Experience Cloud](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-experiences.html?lang=fr) | Vidéo | Découvrez les intégrations entre Marketo Engage et l’application Adobe Experience Cloud, ainsi que les problèmes qui seront résolus. | Marketo Engage |
 | Juillet 2022 | [Better together - Adobe Marketo Engage et Real-Time CDP](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=fr) | Vidéo | Découvrez comment orchestrer des campagnes B2B avec Marketo Engage et RT-CDP (édition B2B) et quels en sont les principaux cas d’utilisation et avantages. | Marketo, Real-time Customer Data Platform |
 
@@ -478,9 +478,30 @@ Nouveaux tutoriels, vidéos et cours publiés pour Adobe Marketo.
 
 Adobe [!DNL Workfront] est une application de gestion du travail unifiée qui permet de partager des idées, créer du contenu, gérer des processus complexes et donner le meilleur de soi-même.
 
-**Accueil du tutoriel Workfront**
+### Nouveaux cours et tutoriels Adobe Workfront {#tutorials-workfront}
 
-**27 juillet 2022**: Visitez Workfront en découvrant [accueil du tutoriel sur Experience League](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) pour tous les articles et vidéos de formation et de tutoriel.
+Nouveaux cours et tutoriels Workfront sur Experience League.
+
+| Publié | Nom | Type | Description |
+| -----------| ---------- | ---------- | ---------- |
+| Août 2022 | [Tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) | Tutoriels - accueil | Consultez la nouvelle page d’accueil des tutoriels Workfront sur Experience League. |
+| Août 2022 | [Prise en main de Workfront pour les administrateurs système](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin) | Cours | Découvrez les premières étapes de la configuration des utilisateurs et de l’optimisation de l’expérience de vos utilisateurs avec les paramètres système. |
+| Août 2022 | [Approfondissez vos connaissances sur les paramètres système pour les administrateurs Workfront](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin) | Cours | En savoir plus sur les paramètres système pour améliorer l’expérience de vos utilisateurs, notamment l’organisation utilisateur, les formulaires personnalisés, les processus et jalons d’approbation et les modèles de mise en page. |
+| Août 2022 | [Prise en main de Workfront pour les planificateurs](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners) | Cours | Démarrez votre parcours Workfront en apprenant à créer et à planifier des projets. Workfront vous recommande de garder les choses simples. |
+| Août 2022 | [Gérer et fermer un projet](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners) | Cours | Maintenant que vous avez appris à créer et planifier des projets, nous pouvons apprendre à les gérer et à les fermer. |
+| Août 2022 | [Une meilleure compréhension de la gestion du travail en tant que planificateur ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | Cours | Une fois que vous avez appris les principes de base de la création, de la planification et de la gestion des projets, vous devez savoir plus pour tirer le meilleur parti de Workfront. |
+| Août 2022 | [Prise en main de Workfront pour les travailleurs](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers) | Cours | Ce cours est destiné aux utilisateurs disposant d’une licence de travail dans Adobe Workfront qui reçoivent des travaux ou des demandes et qui collaborent avec des équipes sur des projets et des documents. |
+| Août 2022 | [Adobe Workfront pour les collaborateurs](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators) | Cours | Découvrez comment utiliser une licence de révision ou de demande pour demander, réviser et collaborer facilement sur des tâches, des documents et des bons à tirer dans la nouvelle expérience Workfront. |
+| Août 2022 | [Création et gestion de formulaires personnalisés](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms) | Cours | Capturez les informations uniques de votre entreprise en créant des champs personnalisés dans votre système. Découvrez comment créer, partager et joindre des formulaires personnalisés dans Workfront. |
+| Août 2022 | [Bon à tirer Workfront - Administration et configuration](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof) | Cours | Découvrez comment ajuster les paramètres du BAT, personnaliser les actions et les rapports et configurer des workflows de BAT. |
+| Août 2022 | [Bon à tirer Workfront - bon à tirer du chargement](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof) | Cours | Découvrez comment télécharger des bons à tirer pour révision et approbation. |
+| Août 2022 | [Bon à tirer de Workfront : passer en revue et approuver le travail](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof) | Cours | Découvrez comment utiliser Workfront BAT en tant que réviseur ou approbateur. |
+| Août 2022 | [Éléments de reporting de base](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting) | Cours | Les éléments de création de rapports sont les filtres, les vues et les regroupements trouvés dans tous les rapports de liste dans Workfront. En savoir plus à ce sujet, vous pouvez créer des rapports et des calendriers personnalisés. |
+| Août 2022 | [Création d’un calendrier personnalisé](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting) | Cours | Avec un calendrier personnalisé, vous pouvez afficher les dates et les informations directement à partir des projets, tâches et problèmes dans un format de calendrier. |
+| Août 2022 | [Création de rapports et de tableaux de bord personnalisés](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting) | Cours | Les rapports sont les fenêtres de vos données. Découvrez comment créer trois types différents de rapports dans Workfront et les utiliser dans les tableaux de bord. |
+| Août 2022 | [Créer des filtres intermédiaires](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.reporting) | Cours | Apprenez à mieux comprendre les caractères génériques, les filtres OU et le mode texte. Ouvrez un projet intégré, des tâches et des filtres de problèmes et renseignez les détails de ce qui se passe réellement. |
+
+{style=&quot;table-layout:auto&quot;}
 
 Consultez la page versions de [[!DNL Workfront] ](https://one.workfront.com/s/product-releases) pour obtenir un récapitulatif des dernières informations relatives à lʼensemble des produits.
 
