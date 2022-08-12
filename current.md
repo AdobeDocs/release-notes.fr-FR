@@ -6,7 +6,7 @@ last-update: July 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
-source-git-commit: e405f1009de51d64df108edb01673f09c98f41f7
+source-git-commit: 141c070586c42f697e31f9741076e7e76caa30c2
 workflow-type: tm+mt
 source-wordcount: '5981'
 ht-degree: 84%
@@ -347,7 +347,7 @@ Adobe Campaign offre un moyen intuitif et automatisé d’envoyer des messages 
 
 * [Mise à jour de Campaign v7.3](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=fr)
 * [Mise à jour de juin du Panneau de Contrôle](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=fr)
-* [Tutoriels et cours](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=fr#tutorials-campaign) sur Experience League
+* [Tutorials et cours](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=fr#tutorials-campaign) sur Experience League
 
 ### Nouveaux tutoriels et cours sur [!DNL Campaign] {#tutorials-campaign}
 
