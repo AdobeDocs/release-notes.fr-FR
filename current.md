@@ -6,10 +6,10 @@ last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 12468598e028faf1f4e359a435a76783706d01d9
+source-git-commit: b2912a6f4a778785d021f6ab2bedcdc0d98dd208
 workflow-type: tm+mt
-source-wordcount: '4134'
-ht-degree: 97%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ En tant que créateur d’expériences, votre chemin vers la réussite commence 
 >
 >Pour recevoir une notification mensuelle par e-mail des mises à jour de cette page, abonnez-vous à la [Mise à jour prioritaire des produits Adobe](https://www.adobe.com/subscription/priority-product-update.html). Consultez régulièrement ce site pour rester au courant de ce qui se passe sur Experience League.
 
-Dernière mise à jour : **12 août 2022**
+Dernière mise à jour : **23 août 2022**
 
 * Événements [[!DNL Experience League] ](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -41,7 +41,7 @@ Dernière mise à jour : **12 août 2022**
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
-* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Workfront]](#workfront) (mise à jour **23 août**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -78,7 +78,7 @@ Les [composants de l’interface utilisateur centrale](https://experienceleague.
 
 >[!IMPORTANT]
 >
->Administrateurs, ne manquez pas cet [avis important](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=fr) à propos de l’approvisionnement d’Experience Cloud (publiée en juillet 2022).
+>Administrateurs, ne manquez pas cet [avis important](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=fr#juillet---2022) à propos de l’approvisionnement d’Experience Cloud (publiée en juillet 2022).
 
 ## ![Icône](/assets/experience_platform_appicon_24.png) Adobe [!DNL Experience Platform] {#platform}
 
@@ -167,7 +167,7 @@ Regardez la [vidéo de présentation de la version de juillet 2022](https://vid
 _Nouvelles fonctionnalités_
 
 * La [console de fragments de contenu](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=fr) prend désormais en charge [raccourcis clavier](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console-keyboard-shortcuts.html?lang=fr).
-* Experience Manager as a Cloud Service&#39;s [diffusion d’images optimisée pour le web](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/web-optimized-image-delivery.html?lang=fr) améliore considérablement la vitesse de page en fournissant des formats tels que WebP. Ce nouveau service offre également plus des options de redimensionnement et de transformation d’image plus flexibles. Toutes les versions du [composant d’image principal](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/tableofcontents.html?lang=fr) utilisent ce service ; ce qui vous permet de diffuser des images dans WebP en sélectionnant une option dans la stratégie du composant d’image.
+* Experience Manager as a Cloud Service&#39;s [diffusion d’images optimisée pour le web](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/web-optimized-image-delivery.html?lang=fr) améliore considérablement la vitesse de page en fournissant des formats tels que WebP. Ce nouveau service offre également plus des options de redimensionnement et de transformation d’image plus flexibles. Toutes les versions du [composant d’image principal](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/image.html?lang=fr) utilisent ce service ; ce qui vous permet de diffuser des images dans WebP en sélectionnant une option dans la stratégie du composant d’image.
 * Les activités de personnalisation d’Experience Manager peuvent désormais utiliser des fragments d’expérience au lieu de nos offres héritées. Cette fonctionnalité vous permet d’effectuer les opérations suivantes :
    * Permet d’activer un chemin de migration dans lequel le contenu Experience Manager favorise les offres de fragments d’expérience plutôt que les offres héritées de la bibliothèque afin de fournir un contenu de style approprié qui correspond à la personnalisation à grande échelle à l’avenir.
    * Empêche les auteurs de contenu de diffuser accidentellement du contenu non stylisé sur leur site.
@@ -189,7 +189,7 @@ _Nouvelles fonctionnalités_
 
 _Nouvelles fonctionnalités disponibles dans le canal de version préliminaire de_
 
-* **Appeler - une étape du workflow Experience Manager** - DDX (Document Description XML) est un langage de balisage déclaratif dont les éléments représentent des blocs de construction de documents. Ces blocs de création comprennent des documents PDF et XDP, ainsi que d’autres éléments tels que des commentaires, des signets et du texte stylisé. Les documents DDX sont des modèles pour les autres documents et décrivent les caractéristiques souhaitées des documents sources qui doivent apparaître dans les documents créés. Un DDX unique peut être utilisé avec un éventail de documents sources. Vous pouvez utiliser l’étape Appeler un workflow de Experience Manager pour effectuer diverses opérations, comme assembler des documents, créer et modifier les formulaires Acrobat et XFA, ainsi que d’autres opérations décrites dans la documentation [Référence DDX](https://helpx.adobe.com/content/dam/help/en/experience-manager/forms-cloud-service/ddxRef.pdf).
+* **Appeler - une étape du workflow Experience Manager** - DDX (Document Description XML) est un langage de balisage déclaratif dont les éléments représentent des blocs de construction de documents. Ces blocs de création comprennent des documents PDF et XDP, ainsi que d’autres éléments tels que des commentaires, des signets et du texte stylisé. Les documents DDX sont des modèles pour les autres documents et décrivent les caractéristiques souhaitées des documents sources qui doivent apparaître dans les documents créés. Un DDX unique peut être utilisé avec un éventail de documents sources. Vous pouvez utiliser l’étape Appeler un workflow d’Experience Manager pour effectuer diverses opérations, comme assembler des documents, créer et modifier les formulaires Acrobat et XFA, ainsi que d’autres opérations décrites dans la documentation [Référence DDX](https://helpx.adobe.com/content/dam/help/en/experience-manager/forms-cloud-service/ddxRef.pdf).
 
 * **Convertir en PDF/A - Une étape de workflow de Experience Manager** - PDF/A est un format d’archivage pour la conservation à long terme du contenu du document, toutes les polices sont incorporées et le fichier est décompressé. Désormais, vous pouvez utiliser l’étape Convertir en PDF/A d’un workflow AEM pour convertir vos documents ou fichiers dans n’importe quel format au format PDF/A.
 
@@ -203,7 +203,7 @@ _Nouvelles fonctionnalités_
 
 _Améliorations apportées aux outils du Dispatcher SDK d’Experience Manager as a Cloud Service_
 
-* Vous pouvez démarrer Apache avec le script `update_sdk.sh` qui charge et valide automatiquement toutes les modifications ultérieures apportées à la configuration Apache et Dispatcher, améliorant ainsi la vitesse du développeur. Uniquement pris en charge pour les outils du Dispatcher en mode flexible. Pour plus d’informations sur le chargement et la validation automatiques, consultez la section [Déboguer la configuration d’Apache et du Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/validation-debug.html?lang=fr).
+* Vous pouvez démarrer Apache avec le script `update_sdk.sh` qui charge et valide automatiquement toutes les modifications ultérieures apportées à la configuration Apache et Dispatcher, améliorant ainsi la vitesse du développeur. Uniquement pris en charge pour les outils du Dispatcher en mode flexible. Pour plus d’informations sur le chargement et la validation automatiques, consultez la section [Déboguer la configuration d’Apache et du Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/validation-debug.html?lang=fr#automatic-loading).
 * La configuration locale d’Apache/du Dispatcher permet de mieux suivre les modifications dans les environnements cloud, ce qui augmente la parité entre les deux environnements.
 
 _Nouvelle fonctionnalité dans le canal de version préliminaire_
@@ -221,7 +221,7 @@ _Nouvelles fonctionnalités_
 
 _Nouvelle fonctionnalité_
 
-* Le nouveau produit Adobe Learning Manager dispose de connecteurs vers Adobe Experience Manager Sites, Marketo Engage et Adobe Commerce. Consultez la section [Guide de l’utilisateur d’Adobe Learning Manager](https://helpx.adobe.com/learning-manager/user-guide.html).
+* Le nouveau produit Adobe Learning Manager dispose de connecteurs vers Adobe Experience Manager Sites, Marketo Engage et Adobe Commerce. Consultez la section [Guide de l’utilisateur d’Adobe Learning Manager](https://helpx.adobe.com/fr/learning-manager/user-guide.html).
 
 ### Communauté
 
@@ -235,9 +235,9 @@ Nouveaux tutoriels, vidéos et cours publiés le mois dernier.
 
 | Publié | Nom | Type | Description | Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-| Août 2022 | [Mise à jour de la version 2022.7.0 d’AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-7-0.html) | Vidéo | Soyez aux premières loges pour entendre ce que l’équipe des produits AEM a à vous communiquer et découvrez les fonctionnalités et les innovations présentes dans les dernières versions d’Adobe Experience Manager Assets, Assets Essentials, Sites, le framework d’intégration de Commerce, Forms et Cloud Manager. | AEM as a Cloud Service |
+| Août 2022 | [Mise à jour de la version 2022.7.0 d’AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-7-0.html?lang=fr) | Vidéo | Soyez aux premières loges pour entendre ce que l’équipe des produits AEM a à vous communiquer et découvrez les fonctionnalités et les innovations présentes dans les dernières versions d’Adobe Experience Manager Assets, Assets Essentials, Sites, le framework d’intégration de Commerce, Forms et Cloud Manager. | AEM as a Cloud Service |
 | Août 2022 | [Tutoriels AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=fr) | Articles mis à jour | AEM tutoriels SDK sans affichage ont été mis à jour pour utiliser les requêtes persistantes et WKND 2.0. Utilisez des tutoriels pratiques pour découvrir comment utiliser les différentes options et choisir ce qui vous convient. | AEM as a Cloud Service |
-| Août 2022 | [Intégrations AEM as a Cloud Service avec Adobe Experience Cloud](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations.html) | Vidéo | Découvrez les intégrations prises en charge par AEM as a Cloud Service avec d’autres produits Adobe Experience Cloud. | AEM CS, Experience Cloud |
+| Août 2022 | [Intégrations AEM as a Cloud Service avec Adobe Experience Cloud](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations.html?lang=fr) | Vidéo | Découvrez les intégrations prises en charge par AEM as a Cloud Service avec d’autres produits Adobe Experience Cloud. | AEM CS, Experience Cloud |
 | Août 2022 | [Forms CS et Microsoft® Power Automate](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html) | Vidéo | Appelez vos flux Power Automate sur une soumission de formulaire adaptatif. | AEM Forms |
 
 {style=&quot;table-layout:auto&quot;}
@@ -293,8 +293,8 @@ Voir les liens suivants pour consulter les notes de mise à jour dʼAdobe Comme
 | Publié | Nom | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
 | Août 2022 | [Guide de conception et de contenu d’Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html?lang=fr) | Documentation du produit | Consultez la nouvelle page d’accueil de la documentation produit pour en savoir plus sur le contenu et la conception d’Adobe Commerce. |
-| Août 2022 | [Présentation du guide du service de catalogue](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html) | Documentation du produit | Découvrez en quoi consiste le [!UICONTROL Service de catalogue]. Apprenez-en plus sur l’intégration et l’installation. |
-| Août 2022 | [Quick Checkout for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/quick-checkout/overview.html) | Documentation du produit | Découvrez l’expérience de paiement typique d’Adobe Commerce, les avantages de l’extension Quick Checkout et les bonnes pratiques à suivre tout au long de ce parcours. |
+| Août 2022 | [Présentation du guide du service de catalogue](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html?lang=fr) | Documentation du produit | Découvrez en quoi consiste le [!UICONTROL Service de catalogue]. Apprenez-en plus sur l’intégration et l’installation. |
+| Août 2022 | [Paiement rapide pour Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/quick-checkout/overview.html?lang=fr) | Documentation du produit | Découvrez l’expérience de paiement typique d’Adobe Commerce, les avantages de l’extension Quick Checkout et les bonnes pratiques à suivre tout au long de ce parcours. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -370,7 +370,7 @@ New videos, tutorials, or courses published for Adobe Journey Optimizer.
 ### Ressources supplémentaires pour [!DNL Journey Optimizer]
 
 * [Documentation Journey Optimizer](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=fr) - [Notes de mise à jour](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=fr) - [Vidéos pratiques](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=fr)
-* [Documentation de la gestion des décisions](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html) - [Notes de mise à jour](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Vidéos pratiques](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=fr) - [Dernières mises à jour de la documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=fr)
+* [Documentation de la gestion des décisions](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html?lang=fr) - [Notes de mise à jour](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [Vidéos pratiques](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html?lang=fr) - [Dernières mises à jour de la documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=fr)
 
 ## ![Icône](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
@@ -412,6 +412,8 @@ Adobe [!DNL Workfront] est une application de gestion du travail unifiée qui pe
 
 Nouveaux cours et tutoriels Workfront sur Experience League.
 
+**Mise à jour 23 août :** La traduction de tous les tutoriels Workfront sur Experience League et de la documentation du produit est bientôt disponible.
+
 | Publié | Nom | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
 | Août 2022 | [Tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=fr) | Tutoriels - accueil | Consultez la nouvelle page d’accueil des tutoriels Workfront sur Experience League. |
@@ -419,7 +421,7 @@ Nouveaux cours et tutoriels Workfront sur Experience League.
 | Août 2022 | [Mieux comprendre les paramètres du système pour les administrateurs de Workfront](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin) | Cours | Découvrez comment améliorer l’expérience utilisateur grâce aux paramètres système, notamment l’organisation des utilisateurs, les formulaires personnalisés, les workflows et étapes d’approbation et les modèles de disposition. |
 | Août 2022 | [Prise en main de Workfront pour les planificateurs](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners) | Cours | La première étape de votre apprentissage de Workfront consiste à créer et planifier des projets. Dans Workfront, il est recommandé de garder les choses simples. |
 | Août 2022 | [Gérer et fermer un projet](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners) | Cours | Maintenant que la création et la planification de projets n’ont plus de secrets pour vous, nous allons apprendre à les gérer et à les fermer. |
-| Août 2022 | [Mieux comprendre la gestion du travail en tant que planificateur ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | Cours | Une fois que vous avez appris les principes de base de la création, de la planification et de la gestion des projets, vous êtes presque prêt à tirer le meilleur parti de Workfront. |
+| Août 2022 | [Mieux comprendre la gestion du travail en tant que planificateur](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | Cours | Une fois que vous avez appris les principes de base de la création, de la planification et de la gestion des projets, vous êtes presque prêt à tirer le meilleur parti de Workfront. |
 | Août 2022 | [Prise en main de Workfront pour les professionnels](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers) | Cours | Ce cours s’adresse aux utilisateurs disposant d’une licence professionnelle dans Adobe Workfront qui reçoivent des travaux ou des demandes et collaborent avec des équipes sur des projets et des documents. |
 | Août 2022 | [Adobe Workfront pour les collaborateurs](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators) | Cours | Découvrez comment utiliser une licence de révision ou de demande pour demander, réviser et collaborer en tout facilité sur des tâches, documents et épreuves dans la nouvelle expérience Workfront. |
 | Août 2022 | [Créer et gérer des formulaires personnalisés](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms) | Cours | Saisissez les informations uniques de votre entreprise en créant des champs personnalisés dans votre système. Découvrez comment créer, partager et joindre des formulaires personnalisés dans Workfront. |
@@ -487,7 +489,7 @@ Nouveaux tutoriels et cours publiés pour Adobe Document Cloud.
 
 | Publié | Nom | Type | Description | Application |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Août 2022 | [Workspace repensé](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace.html) | Vidéo | Découvrez un Workspace repensé pour Acrobat, qui vous permet de jongler en toute facilité entre les différents outils et fichiers. | Adobe Acrobat |
+| Août 2022 | [Workspace repensé](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace.html?lang=fr) | Vidéo | Découvrez un Workspace repensé pour Acrobat, qui vous permet de jongler en toute facilité entre les différents outils et fichiers. | Adobe Acrobat |
 | Août 2022 | [Configurer des paiements en ligne](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/set-up-online-payments.html?lang=fr) | Vidéo | Découvrez comment configurer et accepter des paiements en ligne dans vos documents. | Acrobat Sign |
 | Août 2022 | [Signer avec un tampon](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-stamp.html) | Vidéo | Découvrez comment utiliser des tampons dans un workflow de signature pour marquer un document comme approuvé ou terminé. | Acrobat Sign |
 | Août 2022 | [Obtenir une signature en personne](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-in-person.html?lang=fr) | Vidéo | Découvrez comment obtenir la signature de quelqu’un d’autre en personne à l’aide du [Application mobile Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=fr). | Acrobat Sign |
