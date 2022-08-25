@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: b2912a6f4a778785d021f6ab2bedcdc0d98dd208
 workflow-type: tm+mt
 source-wordcount: '4152'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ En tant que créateur d’expériences, votre chemin vers la réussite commence 
 
 Dernière mise à jour : **23 août 2022**
 
-* Événements [[!DNL Experience League] ](#events)
+* [[!DNL Experience League] Événements](#events)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - Composants de l’interface centrale et administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -58,7 +58,7 @@ Mise à jour le **10 août 2022**
 | Événement | Type | Description |
 | -----------|---------- | ----|
 | [Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) | Webinaire | _Alimenter les succès de demain : qualité et adoption des données_ - rejoignez les champions d’Adobe Analytics Frederik Werner et Sarah Owen lors de ce webinaire en direct pour découvrir comment vous pouvez intégrer la qualité des données dans tous les aspects d’Analytics et créer une culture commune autour de celle-ci.<p>**Date :** 25 août à 11 h 00 (heure de l’Est) - [détails et inscription](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) |
-| [Live des créateurs d’expérience](https://business.adobe.com/events/experience-makers-live.html) | Webinaire | Un événement gratuit pour Expérience Makers avec des discours de Sara Blakely, Peyton Manning et Eli Manning.<p>**Date :** 13 et 14 septembre - [détails et inscription](https://business.adobe.com/events/experience-makers-live.html) |
+| [Live des créateurs d’expérience](https://business.adobe.com/events/experience-makers-live.html?lang=fr) | Webinaire | Un événement gratuit pour Expérience Makers avec des discours de Sara Blakely, Peyton Manning et Eli Manning.<p>**Date :** 13 et 14 septembre - [détails et inscription](https://business.adobe.com/events/experience-makers-live.html) |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -66,7 +66,7 @@ Consultez la page [Événements](https://experienceleague.adobe.com/events/?lang
 
 ## ![Icône](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
-[!DNL Adobe System Status] fournit des informations détaillées, des mises à jour de statut et des notifications par e-mail relatives aux produits Adobe. Il prévient également des pannes du service, des perturbations et des activités de maintenance. Consultez le site [status.adobe.com](https://status.adobe.com/fr/).
+[!DNL Adobe System Status] fournit des informations détaillées, des mises à jour de statut et des notifications par e-mail relatives aux produits Adobe. Il prévient également des pannes du service, des perturbations et des activités de maintenance. Consultez le site [status.adobe.com](https://status.adobe.com/fr).
 
 Pour obtenir les informations les plus récentes, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2022/02162022.html?lang=fr#status) du statut du système Adobe.
 
@@ -167,7 +167,7 @@ Regardez la [vidéo de présentation de la version de juillet 2022](https://vid
 _Nouvelles fonctionnalités_
 
 * La [console de fragments de contenu](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=fr) prend désormais en charge [raccourcis clavier](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console-keyboard-shortcuts.html?lang=fr).
-* Experience Manager as a Cloud Service&#39;s [diffusion d’images optimisée pour le web](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/web-optimized-image-delivery.html?lang=fr) améliore considérablement la vitesse de page en fournissant des formats tels que WebP. Ce nouveau service offre également plus des options de redimensionnement et de transformation d’image plus flexibles. Toutes les versions du [composant d’image principal](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/image.html?lang=fr) utilisent ce service ; ce qui vous permet de diffuser des images dans WebP en sélectionnant une option dans la stratégie du composant d’image.
+* La [diffusion d’images optimisée pour le Web](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/web-optimized-image-delivery.html?lang=fr) d’Experience Manager as a Cloud Service améliore considérablement la vitesse de page en fournissant des formats tels que WebP. Ce nouveau service offre également plus des options de redimensionnement et de transformation d’image plus flexibles. Toutes les versions du [composant d’image principal](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/image.html?lang=fr) utilisent ce service ; ce qui vous permet de diffuser des images dans WebP en sélectionnant une option dans la stratégie du composant d’image.
 * Les activités de personnalisation d’Experience Manager peuvent désormais utiliser des fragments d’expérience au lieu de nos offres héritées. Cette fonctionnalité vous permet d’effectuer les opérations suivantes :
    * Permet d’activer un chemin de migration dans lequel le contenu Experience Manager favorise les offres de fragments d’expérience plutôt que les offres héritées de la bibliothèque afin de fournir un contenu de style approprié qui correspond à la personnalisation à grande échelle à l’avenir.
    * Empêche les auteurs de contenu de diffuser accidentellement du contenu non stylisé sur leur site.
@@ -191,7 +191,7 @@ _Nouvelles fonctionnalités disponibles dans le canal de version préliminaire d
 
 * **Appeler - une étape du workflow Experience Manager** - DDX (Document Description XML) est un langage de balisage déclaratif dont les éléments représentent des blocs de construction de documents. Ces blocs de création comprennent des documents PDF et XDP, ainsi que d’autres éléments tels que des commentaires, des signets et du texte stylisé. Les documents DDX sont des modèles pour les autres documents et décrivent les caractéristiques souhaitées des documents sources qui doivent apparaître dans les documents créés. Un DDX unique peut être utilisé avec un éventail de documents sources. Vous pouvez utiliser l’étape Appeler un workflow d’Experience Manager pour effectuer diverses opérations, comme assembler des documents, créer et modifier les formulaires Acrobat et XFA, ainsi que d’autres opérations décrites dans la documentation [Référence DDX](https://helpx.adobe.com/content/dam/help/en/experience-manager/forms-cloud-service/ddxRef.pdf).
 
-* **Convertir en PDF/A - Une étape de workflow de Experience Manager** - PDF/A est un format d’archivage pour la conservation à long terme du contenu du document, toutes les polices sont incorporées et le fichier est décompressé. Désormais, vous pouvez utiliser l’étape Convertir en PDF/A d’un workflow AEM pour convertir vos documents ou fichiers dans n’importe quel format au format PDF/A.
+* **Convertir en PDF/A - Étape de workflow d’Experience Manager** : PDF/A est un format d’archivage pour la conservation à long terme du contenu du document, toutes les polices sont incorporées et le fichier est décompressé. Désormais, vous pouvez utiliser l’étape Convertir en PDF/A d’un workflow AEM pour convertir vos documents ou fichiers dans n’importe quel format au format PDF/A.
 
 ### Experience Manager as a Cloud Service Foundation
 
@@ -226,8 +226,8 @@ _Nouvelle fonctionnalité_
 ### Communauté
 
 * [Mise à jour de la version 2022.7.0](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-as-a-cloud-service-2022-7-0-release-update/ba-p/540062?profile.language=fr#M546) d’Experience Manager as a Cloud Service.
-* Vos souhaits ont été exaucés ! Tout le contenu d’Experience Manager dont vous avez besoin, réuni en un seul endroit sur la [Communauté Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/finally-all-the-aem-content-you-need-all-in-one-place-on-aem/ba-p/460583) !
-* [1ère édition de la Community Lens](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/adobe-experience-manager-community-lens-1st-edition-august-2022/ba-p/538960) d’Adobe Experience Manager, août 2022.
+* Vos souhaits ont été exaucés ! Tout le contenu d’Experience Manager dont vous avez besoin, réuni en un seul endroit sur la [Communauté Experience Manager](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/finally-all-the-aem-content-you-need-all-in-one-place-on-aem/ba-p/460583?profile.language=fr) !
+* [1ère édition de la Community Lens](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/adobe-experience-manager-community-lens-1st-edition-august-2022/ba-p/538960?profile.language=fr) d’Adobe Experience Manager, août 2022.
 
 ### Nouveaux cours et tutoriels sur Experience Manager {#tutorials-aem}
 
@@ -236,9 +236,9 @@ Nouveaux tutoriels, vidéos et cours publiés le mois dernier.
 | Publié | Nom | Type | Description | Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
 | Août 2022 | [Mise à jour de la version 2022.7.0 d’AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-7-0.html?lang=fr) | Vidéo | Soyez aux premières loges pour entendre ce que l’équipe des produits AEM a à vous communiquer et découvrez les fonctionnalités et les innovations présentes dans les dernières versions d’Adobe Experience Manager Assets, Assets Essentials, Sites, le framework d’intégration de Commerce, Forms et Cloud Manager. | AEM as a Cloud Service |
-| Août 2022 | [Tutoriels AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=fr) | Articles mis à jour | AEM tutoriels SDK sans affichage ont été mis à jour pour utiliser les requêtes persistantes et WKND 2.0. Utilisez des tutoriels pratiques pour découvrir comment utiliser les différentes options et choisir ce qui vous convient. | AEM as a Cloud Service |
+| Août 2022 | [Tutoriels AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=fr) | Articles mis à jour | Les tutoriels du SDK AEM Headless ont été mis à jour et utilisent désormais les requêtes persistantes et WKND 2.0. Grâce à ces tutoriels pratiques, découvrez ce qui se cache derrière chaque option et choisissez celles qui vous conviennent. | AEM as a Cloud Service |
 | Août 2022 | [Intégrations AEM as a Cloud Service avec Adobe Experience Cloud](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations.html?lang=fr) | Vidéo | Découvrez les intégrations prises en charge par AEM as a Cloud Service avec d’autres produits Adobe Experience Cloud. | AEM CS, Experience Cloud |
-| Août 2022 | [Forms CS et Microsoft® Power Automate](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html) | Vidéo | Appelez vos flux Power Automate sur une soumission de formulaire adaptatif. | AEM Forms |
+| Août 2022 | [Forms CS et Microsoft® Power Automate](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html?lang=fr) | Vidéo | Appelez vos flux Power Automate sur une soumission de formulaire adaptatif. | AEM Forms |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -417,21 +417,21 @@ Nouveaux cours et tutoriels Workfront sur Experience League.
 | Publié | Nom | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
 | Août 2022 | [Tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=fr) | Tutoriels - accueil | Consultez la nouvelle page d’accueil des tutoriels Workfront sur Experience League. |
-| Août 2022 | [Prise en main de Workfront pour les administrateurs système](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin) | Cours | Suivez les premières étapes de la configuration des utilisateurs et optimisez leur expérience grâce aux paramètres du système. |
-| Août 2022 | [Mieux comprendre les paramètres du système pour les administrateurs de Workfront](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin) | Cours | Découvrez comment améliorer l’expérience utilisateur grâce aux paramètres système, notamment l’organisation des utilisateurs, les formulaires personnalisés, les workflows et étapes d’approbation et les modèles de disposition. |
-| Août 2022 | [Prise en main de Workfront pour les planificateurs](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners) | Cours | La première étape de votre apprentissage de Workfront consiste à créer et planifier des projets. Dans Workfront, il est recommandé de garder les choses simples. |
-| Août 2022 | [Gérer et fermer un projet](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners) | Cours | Maintenant que la création et la planification de projets n’ont plus de secrets pour vous, nous allons apprendre à les gérer et à les fermer. |
-| Août 2022 | [Mieux comprendre la gestion du travail en tant que planificateur](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners) | Cours | Une fois que vous avez appris les principes de base de la création, de la planification et de la gestion des projets, vous êtes presque prêt à tirer le meilleur parti de Workfront. |
-| Août 2022 | [Prise en main de Workfront pour les professionnels](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers) | Cours | Ce cours s’adresse aux utilisateurs disposant d’une licence professionnelle dans Adobe Workfront qui reçoivent des travaux ou des demandes et collaborent avec des équipes sur des projets et des documents. |
-| Août 2022 | [Adobe Workfront pour les collaborateurs](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators) | Cours | Découvrez comment utiliser une licence de révision ou de demande pour demander, réviser et collaborer en tout facilité sur des tâches, documents et épreuves dans la nouvelle expérience Workfront. |
-| Août 2022 | [Créer et gérer des formulaires personnalisés](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms) | Cours | Saisissez les informations uniques de votre entreprise en créant des champs personnalisés dans votre système. Découvrez comment créer, partager et joindre des formulaires personnalisés dans Workfront. |
-| Août 2022 | [Workfront Proof : administration et configuration](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof) | Cours | Découvrez comment ajuster les paramètres des épreuves, personnaliser les actions et les rapports et configurer des workflows d’épreuves. |
-| Août 2022 | [Workfront Proof : télécharger des épreuves](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof) | Cours | Découvrez comment télécharger des épreuves pour examen et approbation. |
-| Août 2022 | [Workfront Proof : examiner et approuver les travaux](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof) | Cours | Découvrez comment utiliser Workfront Proof en tant que réviseur ou approbateur. |
-| Août 2022 | [Composants de base des rapports](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting) | Cours | Tous les rapports de liste de Workfront contiennent des filtres, des vues et des regroupements. Familiarisez-vous avec ces composants pour créer des rapports et des calendriers personnalisés. |
-| Août 2022 | [Créer un calendrier personnalisé](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting) | Cours | Le calendrier personnalisé vous permet d’afficher des dates et des informations directement à partir de projets, tâches et problèmes dans un format de calendrier. |
-| Août 2022 | [Créer des rapports et des tableaux de bord personnalisés](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting) | Cours | Les rapports permettent de comprendre vos données. Découvrez comment créer trois types de rapports différents dans Workfront et à les utiliser dans les tableaux de bord. |
-| Août 2022 | [Créer des filtres intermédiaires](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.reporting) | Cours | Apprenez en plus sur les caractères génériques, les filtres OR et le mode texte. Ouvrez le projet intégré, les tâches et appliquez des filtres pour comprendre vos données jusque dans les moindres détails. |
+| Août 2022 | [Prise en main de Workfront pour les administrateurs système](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin&amp;lang=fr) | Cours | Suivez les premières étapes de la configuration des utilisateurs et optimisez leur expérience grâce aux paramètres du système. |
+| Août 2022 | [Mieux comprendre les paramètres du système pour les administrateurs de Workfront](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin&amp;lang=fr) | Cours | Découvrez comment améliorer l’expérience utilisateur grâce aux paramètres système, notamment l’organisation des utilisateurs, les formulaires personnalisés, les workflows et étapes d’approbation et les modèles de disposition. |
+| Août 2022 | [Prise en main de Workfront pour les planificateurs](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners&amp;lang=fr) | Cours | La première étape de votre apprentissage de Workfront consiste à créer et planifier des projets. Dans Workfront, il est recommandé de garder les choses simples. |
+| Août 2022 | [Gérer et fermer un projet](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners&amp;lang=fr) | Cours | Maintenant que la création et la planification de projets n’ont plus de secrets pour vous, nous allons apprendre à les gérer et à les fermer. |
+| Août 2022 | [Mieux comprendre la gestion du travail en tant que planificateur](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners&amp;lang=fr) | Cours | Une fois que vous avez appris les principes de base de la création, de la planification et de la gestion des projets, vous êtes presque prêt à tirer le meilleur parti de Workfront. |
+| Août 2022 | [Prise en main de Workfront pour les professionnels](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers&amp;lang=fr) | Cours | Ce cours s’adresse aux utilisateurs disposant d’une licence professionnelle dans Adobe Workfront qui reçoivent des travaux ou des demandes et collaborent avec des équipes sur des projets et des documents. |
+| Août 2022 | [Adobe Workfront pour les collaborateurs](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators&amp;lang=fr) | Cours | Découvrez comment utiliser une licence de révision ou de demande pour demander, réviser et collaborer en tout facilité sur des tâches, documents et épreuves dans la nouvelle expérience Workfront. |
+| Août 2022 | [Créer et gérer des formulaires personnalisés](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms&amp;lang=fr) | Cours | Saisissez les informations uniques de votre entreprise en créant des champs personnalisés dans votre système. Découvrez comment créer, partager et joindre des formulaires personnalisés dans Workfront. |
+| Août 2022 | [Workfront Proof : administration et configuration](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof&amp;lang=fr) | Cours | Découvrez comment ajuster les paramètres des épreuves, personnaliser les actions et les rapports et configurer des workflows d’épreuves. |
+| Août 2022 | [Workfront Proof : télécharger des épreuves](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof&amp;lang=fr) | Cours | Découvrez comment télécharger des épreuves pour examen et approbation. |
+| Août 2022 | [Workfront Proof : examiner et approuver les travaux](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof&amp;lang=fr) | Cours | Découvrez comment utiliser Workfront Proof en tant que réviseur ou approbateur. |
+| Août 2022 | [Composants de base des rapports](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting&amp;lang=fr) | Cours | Tous les rapports de liste de Workfront contiennent des filtres, des vues et des regroupements. Familiarisez-vous avec ces composants pour créer des rapports et des calendriers personnalisés. |
+| Août 2022 | [Créer un calendrier personnalisé](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting&amp;lang=fr) | Cours | Le calendrier personnalisé vous permet d’afficher des dates et des informations directement à partir de projets, tâches et problèmes dans un format de calendrier. |
+| Août 2022 | [Créer des rapports et des tableaux de bord personnalisés](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting&amp;lang=fr) | Cours | Les rapports permettent de comprendre vos données. Découvrez comment créer trois types de rapports différents dans Workfront et à les utiliser dans les tableaux de bord. |
+| Août 2022 | [Créer des filtres intermédiaires](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.reporting&amp;lang=fr) | Cours | Apprenez en plus sur les caractères génériques, les filtres OR et le mode texte. Ouvrez le projet intégré, les tâches et appliquez des filtres pour comprendre vos données jusque dans les moindres détails. |
 
 {style=&quot;table-layout:auto&quot;}
 
@@ -491,8 +491,8 @@ Nouveaux tutoriels et cours publiés pour Adobe Document Cloud.
 | -----------| ---------- | ---------- | ---------- |---------- |
 | Août 2022 | [Workspace repensé](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace.html?lang=fr) | Vidéo | Découvrez un Workspace repensé pour Acrobat, qui vous permet de jongler en toute facilité entre les différents outils et fichiers. | Adobe Acrobat |
 | Août 2022 | [Configurer des paiements en ligne](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/set-up-online-payments.html?lang=fr) | Vidéo | Découvrez comment configurer et accepter des paiements en ligne dans vos documents. | Acrobat Sign |
-| Août 2022 | [Signer avec un tampon](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-stamp.html) | Vidéo | Découvrez comment utiliser des tampons dans un workflow de signature pour marquer un document comme approuvé ou terminé. | Acrobat Sign |
-| Août 2022 | [Obtenir une signature en personne](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-in-person.html?lang=fr) | Vidéo | Découvrez comment obtenir la signature de quelqu’un d’autre en personne à l’aide du [Application mobile Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=fr). | Acrobat Sign |
+| Août 2022 | [Signer avec un tampon](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-stamp.html?lang=fr) | Vidéo | Découvrez comment utiliser des tampons dans un workflow de signature pour marquer un document comme approuvé ou terminé. | Acrobat Sign |
+| Août 2022 | [Obtenir une signature en personne](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-in-person.html?lang=fr) | Vidéo | Découvrez comment obtenir la signature d’une tierce personne en personne à l’aide de l’[application mobile Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=fr). | Acrobat Sign |
 
 {style=&quot;table-layout:auto&quot;}
 
