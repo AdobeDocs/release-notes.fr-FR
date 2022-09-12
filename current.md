@@ -6,10 +6,10 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dfa7ca73f9e703e2b9d175a562bd422f57cb23f2
+source-git-commit: 3dade77ca8f59fbe80c96442b26bb9998dd0d381
 workflow-type: tm+mt
-source-wordcount: '6447'
-ht-degree: 42%
+source-wordcount: '6560'
+ht-degree: 41%
 
 ---
 
@@ -455,9 +455,8 @@ Consultez la page [[!DNL Workfront] versions de produits](https://experienceleag
 Notes de mise à jour dʼ[!DNL Adobe Advertising Cloud].
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
+* [Nouvelles fonctionnalités de  [!DNL Advertising Cloud DSP]](#adcloud-dsp)
 * [Nouvelles fonctionnalités de  [!DNL Advertising Cloud Search]](#adcloud-search)
-
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -473,17 +472,15 @@ Last updated: **August 9, 2022**
   
 -->
 
-<!--
+### Nouvelles fonctionnalités de [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+Dernière mise à jour : **12 septembre 2022**
 
-Last updated: **July 27, 2022**
-
-| Feature | Description |
+| Fonctionnalité | Description |
 | ------- | ----------- |
-| [!UICONTROL Inventory] | (July 27 release) [!UICONTROL Auction Insights] is a new troubleshooting tool that allows you to analyze the deal composition of both guaranteed and non-guaranteed private deals. Using data visualizations, this tool shows the trend and relative proportions of values received for key auction attributes within a specific time period. |
+| [!UICONTROL Module et fréquence de placement] | (Version du 12 septembre) Des commandes d’espacement distinctes sont désormais disponibles pour les plages de vols et les plages intrajournalières. Auparavant, une seule stratégie contrôlait les deux. Les paramètres de vos packages et emplacements existants ont été mappés comme suit :<ul><li>Hérité **[!UICONTROL Stratégie de remplissage du mapping]**=*[!UICONTROL Même]* — Maintenant configuré comme **[!UICONTROL Navigation]**=*[!UICONTROL Même]* et **[!UICONTROL Rythme des entrées]**=*[!UICONTROL Même]*</li><li>Hérité **[!UICONTROL Stratégie de remplissage du mapping]**=*[!UICONTROL Légèrement en avant]* — Maintenant configuré comme **[!UICONTROL Navigation]**=*[!UICONTROL Légèrement en avant]* et **[!UICONTROL Rythme des entrées]**=*[!UICONTROL Même]*</li><li>Hérité **[!UICONTROL Stratégie de remplissage du mapping]**=*[!UICONTROL Frontload]* — Maintenant configuré comme **[!UICONTROL Navigation]**=*[!UICONTROL Frontload]* et **[!UICONTROL Rythme des entrées]**=*[!UICONTROL ASAP]*</li><li>Hérité **[!UICONTROL Stratégie de remplissage du mapping]**=*[!UICONTROL Frontload agressive]* — Maintenant configuré comme **[!UICONTROL Navigation]**=*[!UICONTROL Frontload agressive]* et **[!UICONTROL Rythme des entrées]**=*[!UICONTROL ASAP]*</li></ul> |
 
--->
+{style=&quot;table-layout:auto&quot;}
 
 ### Nouvelles fonctionnalités de [!DNL Advertising Cloud Search] {#adcloud-search}
 
