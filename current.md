@@ -6,9 +6,9 @@ last-update: September 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9cabd3285eeaca306d9da14d98cfa6b0311f5d11
+source-git-commit: 296c9809faaf551914e5ffbb086a198a0595196e
 workflow-type: tm+mt
-source-wordcount: '6495'
+source-wordcount: '6483'
 ht-degree: 42%
 
 ---
@@ -488,7 +488,7 @@ Dernière mise à jour : **9 septembre 2022** pour la version du 10 septembre
 |  | ([!DNL Google Ads] ) La vue Campagnes > Publicités comprend désormais une option facultative. [!UICONTROL Force de la publicité] , qui indique dans quelle mesure chaque publicité de recherche réactive (RSA) suit [!DNL Google Ads] bonnes pratiques en matière de performances.<br><br>[!DNL Microsoft® Advertising] n’active pas encore une prise en charge similaire via leur API. |
 |  | ([!DNL Microsoft® Advertising] ) La synchronisation, la lecture seule et la création de rapports (y compris les données d’affichage publicitaire) sont désormais prises en charge pour vos campagnes publicitaires natives existantes sur le [!DNL Microsoft® Audience Network], y compris les [!DNL Microsoft®] publicités d’audience. |
 | [!UICONTROL Campagnes], [!UICONTROL Rapports] | D’autres mesures de partage d’impressions de l’éditeur seront disponibles au cours des semaines suivantes sous forme de colonnes dans les vues et les rapports de gestion de campagne. |
-| [!UICONTROL Règles de valeur de conversion] | ([!DNL Google Ads accounts]; fonctionnalité bêta) Vous pouvez désormais afficher vos règles de valeur de conversion existantes à partir de [!UICONTROL Optimisation] > [!UICONTROL Règles de valeur de conversion]. Annonceurs avec [!DNL Google Ads] le suivi des conversions au niveau du compte individuel ou inférieur peut également créer et gérer des règles.<br><br>L’optimisation automatique des règles de valeur de conversion sera disponible dans une prochaine version. |
+| [!UICONTROL Règles de valeur de conversion] | ([!DNL Google Ads accounts]; fonctionnalité bêta) Vous pouvez désormais afficher vos règles de valeur de conversion existantes à partir de [!UICONTROL Optimisation] > [!UICONTROL Règles de valeur de conversion]. Annonceurs avec [!DNL Google Ads] le suivi des conversions au niveau du compte individuel ou inférieur peut également créer et gérer des règles. |
 | [!UICONTROL Portfolios] | (fonctionnalité bêta d’opt-in ; [!DNL Google Ads] comptes) [!DNL YouTube] campagnes avec la variable [!UICONTROL Maximiser les conversions] la stratégie d’offre des portfolios hybrides est désormais incluse dans les résultats personnalisés de la simulation. Le portfolio hybride ne doit inclure que [!DNL YouTube] campagnes.<br><br>Pour participer au programme bêta, contactez votre équipe de compte. |
 | [!UICONTROL Insights publicitaires] | Le [!UICONTROL Informations publicitaires] La vue a une nouvelle apparence et un nouveau workflow, reposant sur une nouvelle infrastructure qui améliore les performances et la fiabilité. Il vous suffit maintenant de cliquer sur le nom d’une information, de sélectionner ou de saisir les paramètres, puis de cliquer sur [!UICONTROL Générer les statistiques].<br><br>Pour revenir temporairement à la vue héritée, activez [!UICONTROL Basculer vers l’ancienne interface utilisateur] en haut à droite. La vue héritée sera supprimée à la fin du mois de septembre. |
 |  | Le [!UICONTROL Query Cross Matching Beta] analyse est désormais disponible. |
