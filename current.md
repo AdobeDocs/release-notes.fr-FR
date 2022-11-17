@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 531e5fc5b1574e7798458d7c7f19a4c0f22ea7c6
+source-git-commit: ece304539959b8aa223e378f365852277213822f
 workflow-type: tm+mt
-source-wordcount: '5305'
-ht-degree: 99%
+source-wordcount: '4939'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ En tant que créateur d’expériences, votre chemin vers la réussite commence 
 
 Cette page donne accès aux pages de notes de mise à jour des produits Experience Cloud et aux derniers tutoriels, cours et événements sur Experience League.
 
-Dernière mise à jour : **14 novembre 2022**
+Dernière mise à jour : **17 novembre 2022**
 
 * [Évènements [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -449,8 +449,9 @@ Consultez la page [[!DNL Workfront] versions de produits](https://experienceleag
 Notes de mise à jour dʼ[!DNL Adobe Advertising Cloud].
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-* [Nouvelles fonctionnalités de  [!DNL Advertising Cloud DSP]](#adcloud-dsp)
+<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
 * [Nouvelles fonctionnalités de  [!DNL Advertising Cloud Search]](#adcloud-search)
+
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -466,30 +467,26 @@ Last updated: **August 9, 2022**
 
 -->
 
-### Nouvelles fonctionnalités de [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+<!--
+### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Dernière mise à jour : **6 octobre 2022**
+Last updated: **October 6, 2022**
 
-| Fonctionnalité | Description |
+| Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Opérations] | (Version du 6 octobre) De nouvelles colonnes de mesures liées à la fréquence sont disponibles pour les vues de [!UICONTROL campagnes] : **[!UICONTROL OTS d’hier]** (sur les dépenses cibles), **[!UICONTROL Diffusion d’hier]**, **[!UICONTROL Objectif d’hier]**, **[!UICONTROL OTS d’aujourd’hui]** (sur les dépenses cibles), **[!UICONTROL Diffusion d’aujourd’hui]**, et **[!UICONTROL Objectif d’aujourd’hui]**. |
+| [!UICONTROL Campaigns] | (October 6 release) New pacing-related metric columns are available for the [!UICONTROL Campaigns] views: **[!UICONTROL Yesterday's OTS]** (on target spend), **[!UICONTROL Yesterday's delivery]**, **[!UICONTROL Yesterday's goal]**, **[!UICONTROL Today's OTS]** (on target spend), **[!UICONTROL Today's delivery]**, and **[!UICONTROL Today's Goal]**. |
 
-{style=&quot;table-layout:auto&quot;}
+-->
 
 ### Nouvelles fonctionnalités de [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Dernière mise à jour : **14 octobre 2022** pour la version du 15 octobre
+Dernière mise à jour : **17 novembre 2022** pour la version du 15 novembre
 
 | Fonctionnalité | Description |
 | ------- | ----------- |
-| [!UICONTROL Portfolios], [!UICONTROL Opérations] | (Fonctionnalité d’accès à la version Beta) Une nouvelle option concernant les **[!UICONTROL Contraintes de dépenses réseau]** vous permettra de définir des limites sur les allocations budgétaires pour des réseaux publicitaires spécifiques dans des portefeuilles multi-réseaux. Cette option est disponible pour les portefeuilles dotés de stratégies de dépenses quotidiennes, hebdomadaires et mensuelles, et uniquement lorsque l’option **[!UICONTROL Activer le % de cible de dépense maximale de la campagne]** n’est pas activée. Lorsque l’option **[!UICONTROL Ajuster automatiquement les limites du budget de campagne]** est sélectionnée, les contraintes fonctionnent dans les valeurs configurées pour les paramètres de budgets de campagne multiples et minimaux.<br><br>Un nouveau rapport de Contrainte réseau dans les [!UICONTROL rapports de base] affiche tous les budgets de moteur de recherche minimum et maximum spécifiés, ainsi que les dépenses réelles (coûts) pour vos portefeuilles.<br><br>Pour participer au programme Beta, contactez votre équipe de compte. |
-| Campagnes, feuilles d’envoi groupé, rapports | (Fonctionnalité Beta des comptes [!DNL Microsoft® Advertising]) La prise en charge suivante est désormais disponible pour les campagnes sur [!DNL Microsoft® Audience Network] :<ul><li>Vous pouvez maintenant créer, éditer et modifier le statut des campagnes d’audience (type de campagne **[!UICONTROL Audience (image)]** ou **[!UICONTROL Audience (flux)]**), groupes publicitaires (type de groupe publicitaire **[!UICONTROL Audience]**), et les annonces (type créatif **[!UICONTROL Annonce responsive]**) à partir des vues [!UICONTROL Campagnes] et à l’aide des feuilles d’envoi groupé.</li><li>Vous pouvez afficher les audiences de campagne existantes, avec des données de performances au format tableau et graphique de tendances, dans la vue [!UICONTROL Campagnes]. Les données de performances au niveau des annonces sont également disponibles dans les rapports ainsi que dans Adobe Analytics (pour les annonceurs qui disposent d’une intégration [!DNL Analytics]).</li></ul>La prise en charge de l’optimisation sera disponible dans une version ultérieure. |
-|  | (Fonctionnalité Beta pour les comptes [!DNL Microsoft® Advertising]) Vous pouvez désormais créer et gérer des annonces publicitaires multimédia dans des campagnes de recherche à partir des vues [!UICONTROL Campagnes] et à l’aide des feuilles d’envoi groupé. Les annonces publicitaires auront le type créatif **[!UICONTROL Annonce multimédia]**.<br><br>Vous pouvez inclure des campagnes avec des annonces publicitaires multimédia dans des portfolios standard ou hybrides avec n’importe quelle stratégie de dépenses, à l’exception de [!UICONTROL Taux d’impression cible] (qui n’est pas encore pris en charge dans les portfolios hybrides).<br><br>Vous pouvez afficher les campagnes d’audience existantes, avec des données de performances au format tableau et graphique de tendances, dans la vue [!UICONTROL Campagnes]. Les données de performances au niveau des annonces sont également disponibles dans les rapports ainsi que dans [!DNL Analytics] (pour les annonceurs qui disposent d’une intégration [!DNL Analytics]). |
-| [!UICONTROL Campagnes], [!UICONTROL rapports] | (Fonctionnalité Beta pour les comptes [!DNL Google Ads] et [!DNL Microsoft® Advertising]) Les mesures de taux d’impressions de l’éditeur sont désormais disponibles sous forme de colonnes dans les vues et rapports de gestion de campagne suivants :<ul><li>Vues de gestion de campagne : toutes les vues d’entité de campagne, à l’exception des [!UICONTROL annonces]. <b>Remarque :</b> les données au niveau des annonces ne sont pas disponibles sur les réseaux publicitaires.</li><li>Rapports de base : tous les rapports, à l’exception des rapports de [!UICONTROL variantes d’annonces], de [!UICONTROL campagnes horaires] et des rapports de [!UICONTROL contraintes réseau]. <b>Remarque :</b> les données au niveau des annonces ne sont pas disponibles sur les réseaux publicitaires.</li><li>Rapports spécialisés : [!UICONTROL AdWords et Bing Audience Target], [!UICONTROL taux d’impressions des campagnes quotidiennes], et rapports du [!UICONTROL taux d’impressions quotidien de mots-clés].</li></ul><b>Remarque :</b> puisque les rapports [!UICONTROL taux d’impressions de campagnes quotidiennes] et [!UICONTROL Taux d’impressions quotidien de mots-clés] sont désormais redondants, ils seront supprimés dans une version ultérieure. Si vous utilisez ces types de rapports pour des modèles, des flux de feuille de calcul ou des rapports planifiés, passez à l’utilisation des rapports de type [!UICONTROL Campaign] et [!UICONTROL Mot-clé] à la place. En attendant, certaines mesures existantes sont dupliquées dans ces types de rapports. |
-| [!UICONTROL Règles de valeur de conversion] | ([!DNL Google Ads accounts])  La vue des [!UICONTROL règles de valeur de conversion] est désormais en version Beta et est disponible au public. Utilisez-la pour afficher vos règles de valeur de conversion [!DNL Google Ads] existantes. Les annonceurs avec le suivi des conversions [!DNL Google Ads] au niveau du compte individuel ou inférieur peuvent également créer et gérer des règles. |
-| [!UICONTROL Advertising Insights] | Désormais, les analyses [!UICONTROL Perte du taux d’impression] et [!UICONTROL Query Cross Matching], ne sont plus en version Beta et sont généralement disponibles. |
-| [!UICONTROL Recommendations] | (Comptes [!DNL Google Ads] uniquement) Désormais, la fonctionnalité [!UICONTROL Recommendations] n’est plus en version Beta et est disponible au public.<ul><li>Voir d’un coup d’œil toutes les recommandations [!DNL Google Ads] qui n’ont pas été suivies pour un compte.</li><li>Appliquer et ignorer les recommandations pour un compte.</li><li>Afficher les journaux de chaque recommandation appliquée pour un compte.</li></ul> |
-| **[!UICONTROL Importer des campagnes]** | (Fonctionnalité Beta) Vous pouvez importer vos campagnes de performances maximales [!DNL Google Ads], y compris les annonces d’inventaire local, dans les campagnes d’achats intelligentes [!DNL Microsoft® Advertising] à partir de **[!UICONTROL Outils]** > **[!UICONTROL Importer des campagnes]**. Une fois que vous avez importé des campagnes, vous pouvez vérifier le statut de votre tâche d’importation, consulter les journaux d’erreur et modifier, suspendre ou supprimer votre planning d’importation. |
+| Campagnes, feuilles d’envoi groupé, rapports | ([!DNL Microsoft® Advertising] ) Prise en charge des campagnes sur le [!DNL Microsoft® Audience Network] est désormais obsolète.<ul><li>Vous pouvez créer, modifier et modifier l’état des campagnes d’audience (type de campagne &quot;[!UICONTROL Audience (image)]&quot; ou &quot;[!UICONTROL Audience (flux)]&quot;), groupes publicitaires (type de groupe publicitaire &quot;[!UICONTROL Audience]&quot;), et les publicités (type créatif &quot;)[!UICONTROL Publicité réactive]&quot;) de la fonction [!UICONTROL Campagnes] vues et à l’aide de feuilles d’envoi groupées.</li><li>Vous pouvez afficher les audiences de campagne existantes, avec des données de performances au format tableau et graphique de tendances, dans la vue [!UICONTROL Campagnes]. Les données de performances au niveau des annonces sont également disponibles dans les rapports ainsi que dans Adobe Analytics (pour les annonceurs qui disposent d’une intégration [!DNL Analytics]).</li></ul>La prise en charge de l’optimisation sera disponible dans une version ultérieure. |
+|  | ([!DNL Microsoft® Advertising] comptes) La prise en charge des publicités multimédias n’est plus disponible en version bêta. Vous pouvez créer et gérer des publicités multimédia dans des campagnes de recherche à partir de la [!UICONTROL Campagnes] afficher et utiliser des feuilles d’envoi groupées ; Le type de contenu créatif de ces annonces est « [!UICONTROL Annonce multimédias] ».<br><br>Vous pouvez inclure des campagnes avec des annonces multimédias dans les portfolios standard ou hybrides avec n’importe quelle stratégie de dépenses, à l’exception de [!UICONTROL Taux d’impressions cible] (qui n’est pas encore pris en charge dans les portfolios hybrides).<br><br>Vous pouvez afficher les campagnes d’audience existantes, avec des données de performances au format tableau et graphique de tendances, dans la vue [!UICONTROL Campagnes]. Les données de performances au niveau des annonces sont également disponibles dans les rapports ainsi que dans [!DNL Analytics] (pour les annonceurs qui disposent d’une intégration [!DNL Analytics]). |
+| [!UICONTROL Audiences], [!UICONTROL Rapports] | (Fonction bêta pour [!DNL Microsoft® Advertising] (vos comptes) [!DNL Microsoft® Advertising] les audiences de remarketing dynamique sont désormais synchronisées et disponibles dans [!UICONTROL Campagnes] > [!UICONTROL Audiences] avec le [!UICONTROL Type d’audience] &quot;[!UICONTROL Remarketing dynamique] &lt;*VisitorType*>&quot; (par exemple, &quot;Dynamic Remarketing - hier acheteurs&quot;). Vous pouvez également créer, mettre à jour et supprimer des audiences de remarketing dynamique.<br><br>Vous pouvez utiliser les audiences comme cibles et exclusions de publicités au niveau de la campagne et du groupe publicitaire. Les cibles peuvent inclure des modificateurs d’offre. **Remarque :** Les modificateurs d’offre pour les cibles d’audience de remarketing dynamique ne sont pas optimisés dans les portefeuilles avec le paramètre &quot;[!UICONTROL Optimisation automatique des valeurs d’ajustement d’offre]&quot;.<br><br>Les données relatives aux audiences de remarketing dynamique sont disponibles dans la section [!UICONTROL Rapport Cible d’audience]. |
 
 {style=&quot;table-layout:auto&quot;}
 
