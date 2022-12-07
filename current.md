@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 824837e33e52613fd761e4cb71c21ffb18f32da7
+source-git-commit: b0ef07bf757fdb4a71e4fa7eb11e57d3cb9bd043
 workflow-type: tm+mt
-source-wordcount: '4897'
-ht-degree: 94%
+source-wordcount: '4737'
+ht-degree: 92%
 
 ---
 
@@ -237,18 +237,14 @@ Nouveaux tutoriels, vidéos et cours publiés le mois dernier.
 
 | Publié | Nom | Type | Description | Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
+| Décembre 2022 | [Exemple de code de filtrage jQuery et Handlebars](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | Vidéo | Découvrez AEM la possibilité pour les API GraphQL sans affichage de filtrer les données à l’aide d’une application JavaScript qui utilise jQuery et Handlebars. Cette application crée une liste des aventures WKND filtrables par type d’activité. | AEM CS (sans affichage) |
+| Décembre 2022 | [Redirections d’URL](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/administration/url-redirection.html) | Vidéo | Découvrez les différentes options permettant d&#39;effectuer la redirection URL dans AEM. | AEM Découvrez |
 | Novembre 2022 | [Inclure des offres spéciales tierces dans votre projet AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html?lang=fr) | Vidéo | Découvrez comment inclure l’offre spéciale OSGi tierce dans votre projet AEM. | AEM Forms |
 | Novembre 2022 | [Générer un document PDF avec des fragments à l’aide d’un script ECMA](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html?lang=fr) | Vidéo | Découvrez comment utiliser le service de sortie pour générer un fichier pdf à l’aide de fragments XDP. | AEM Forms |
 | Novembre 2022 | [Générer un document PDF à l’aide de fragments](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service.html?lang=fr) | Vidéo | Découvrez comment utiliser le service de sortie pour générer des fichiers PDF à l’aide de fragments SDP. | AEM Forms |
 | Novembre 2022 | [Extraire des données liées et les enregistrer dans une variable de chaîne](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/custom-workflow-steps/save-submitted-data-in-string-variable.html?lang=fr) | Vidéo | Découvrez comment inclure les données soumises dans le corps de votre e-mail. | AEM Forms |
 | Novembre 2022 | [Composants principaux AEM-CIF et intégration d’Experience Platform](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/aep.html?lang=fr) | Vidéo | Découvrez comment envoyer à Experience Platform des données d’événement storefront à partir d’une page produit générée par AEM à l’aide de CIF - le connecteur Experience Platform. | AEM CS |
 | Octobre 2022 | [Propriété de chargement d’élément dans AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/using-item-load-path.html?lang=fr) | Vidéo | Découvrez comment configurer et remplir la liste déroulante à l’aide de la propriété de chemin de chargement d’élément. | AEM Forms CS |
-| Octobre 2022 | [Activer le pipeline frontal pour AEM Project Archetype standard](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/enable-frontend-pipeline-devops/overview.html?lang=fr) | Vidéo | Découvrez comment activer le projet AEM WKND Sites à l’aide d’AEM Project Archetype pour déployer des ressources frontales telles que CSS, JavaScript, polices et icônes, à l’aide d’un pipeline frontal pour accélérer le cycle Développement vers déploiement. | AEM Sites |
-| Octobre 2022 | [Application Next.js](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js.html?lang=fr) | Vidéo | Découvrez comment interroger du contenu à l’aide des API GraphQL d’AEM avec des requêtes persistantes. AEM Headless Client pour JavaScript est utilisé pour exécuter les requêtes persistantes GraphQL qui alimentent l’application. | AEM Sites |
-| Octobre 2022 | [Extraire les pièces jointes de formulaire des données de formulaire envoyées](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-af-attachments-in-email.html?lang=fr) | Vidéo | Découvrez comment extraire des pièces jointes de formulaire et envoyer les pièces jointes dans un e-mail dans le workflow d’automatisation de l’alimentation. | AEM Forms CS |
-| Octobre 2022 | [Envoyer un document d’enregistrement en tant que pièce jointe d’un e-mail](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/send-DoR-email-attachment.html?lang=fr) | Vidéo | Extrayez un document d’enregistrement et envoyez-le en tant que pièce jointe d’e-mail dans le workflow automatisé. | AEM Forms CS |
-| Octobre 2022 | [Console Fragments de contenu](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-console.html?lang=fr) | Vidéo | Découvrez les fonctionnalités de base de la console de création de fragments de contenu d’AEM as a Cloud Service. | AEM CS |
-| Octobre 2022 | [FAQ sur la migration de contenu AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/faq.html?lang=fr) | Vidéo | Obtenez des réponses aux questions fréquentes sur la migration de contenu vers AEM as a Cloud Service. | AEM CS |
 
 {style=&quot;table-layout:auto&quot;}
 
