@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b0ef07bf757fdb4a71e4fa7eb11e57d3cb9bd043
+source-git-commit: a10a35727dbfd636bd64d879b7ec01debe2ce833
 workflow-type: tm+mt
-source-wordcount: '4737'
-ht-degree: 92%
+source-wordcount: '4816'
+ht-degree: 91%
 
 ---
 
@@ -237,7 +237,9 @@ Nouveaux tutoriels, vidéos et cours publiés le mois dernier.
 
 | Publié | Nom | Type | Description | Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-| Décembre 2022 | [Exemple de code de filtrage jQuery et Handlebars](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | Vidéo | Découvrez AEM la possibilité pour les API GraphQL sans affichage de filtrer les données à l’aide d’une application JavaScript qui utilise jQuery et Handlebars. Cette application crée une liste des aventures WKND filtrables par type d’activité. | AEM CS (sans affichage) |
+| Décembre 2022 | [Exemple de code d’application React de filtrage](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-react-app.html) | Vidéo | Application React simple qui affiche des aventures WKND modélisées à l’aide de fragments de contenu. | AEM Portail de développement sans tête |
+| Décembre 2022 | [Application React de base](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/basic-react-app.html) | Vidéo | Découvrez comment interroger du contenu à l’aide des API GraphQL d’AEM avec des requêtes persistantes. Cette application rend un fichier de WKND Adventures, et lorsque vous sélectionnez une aventure, affiche les détails complets de l’aventure. | AEM Portail de développement sans tête |
+| Décembre 2022 | [Exemple de code de filtrage jQuery et Handlebars](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html) | Vidéo | Découvrez AEM la possibilité pour les API GraphQL sans affichage de filtrer les données à l’aide d’une application JavaScript qui utilise jQuery et Handlebars. Cette application crée une liste des aventures WKND filtrables par type d’activité. | AEM Portail de développement sans tête |
 | Décembre 2022 | [Redirections d’URL](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/administration/url-redirection.html) | Vidéo | Découvrez les différentes options permettant d&#39;effectuer la redirection URL dans AEM. | AEM Découvrez |
 | Novembre 2022 | [Inclure des offres spéciales tierces dans votre projet AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/include-third-party-jars.html?lang=fr) | Vidéo | Découvrez comment inclure l’offre spéciale OSGi tierce dans votre projet AEM. | AEM Forms |
 | Novembre 2022 | [Générer un document PDF avec des fragments à l’aide d’un script ECMA](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/using-fragments-in-output-service-watched-folder.html?lang=fr) | Vidéo | Découvrez comment utiliser le service de sortie pour générer un fichier pdf à l’aide de fragments XDP. | AEM Forms |
