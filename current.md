@@ -6,10 +6,10 @@ last-update: November 2022
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b816ec0c285388a2d73d5198e86ee0079013e953
+source-git-commit: 4fc67e3574096d0c2dda849bcb50209b37130fb1
 workflow-type: tm+mt
-source-wordcount: '4916'
-ht-degree: 90%
+source-wordcount: '4990'
+ht-degree: 91%
 
 ---
 
@@ -25,9 +25,9 @@ En tant que créateur d’expériences, votre chemin vers la réussite commence 
 
 Cette page donne accès aux pages de notes de mise à jour des produits Experience Cloud et aux derniers tutoriels, cours et événements sur Experience League.
 
-Dernière mise à jour : **26 décembre 2022**
+Dernière mise à jour : **6 janvier 2022**
 
-* [[!DNL Experience League] events](#events) (Mise à jour) **7 décembre**)
+* [[!DNL Experience League] events](#events) (Mise à jour) **Janvier 6**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - Composants de l’interface centrale et administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -57,8 +57,10 @@ Les événements Experience League sont un excellent endroit pour apprendre, in
 
 Événements à venir :
 
-* [Admin Chat : Marketing et création](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **Janvier 6** - _Cette session interactive a pour but de vous connecter avec d’autres administrateurs, de discuter des bonnes pratiques ainsi que des conseils et astuces pour vous aider à tirer le meilleur parti de Workfront pour vous et vos utilisateurs._
-* [Connexions CS : Partage des meilleures pratiques stratégiques](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **Janvier 9** - _Vous recherchez une opportunité de vous connecter avec d’autres clients et de discuter des fonctionnalités de Workfront ? Rejoignez notre série CS Connections ! Une opportunité mensuelle de se connecter à d’autres clients pour discuter des sujets d’actualité de votre entreprise._
+* [Admin Chat : Marketing et création](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **Janvier 6** - _Cette session interactive a pour but de vous connecter avec d’autres administrateurs, de discuter des bonnes pratiques ainsi que des conseils et astuces pour vous aider à tirer le meilleur parti de [!DNL Workfront] pour vous et vos utilisateurs._
+* [Connexions CS : Partage des meilleures pratiques stratégiques](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **Janvier 9** - _Vous recherchez une opportunité de vous connecter avec d’autres clients et de discuter [!DNL Workfront] fonctionnalités ? Rejoignez notre série CS Connections ! Une opportunité mensuelle de se connecter à d’autres clients pour discuter des sujets d’actualité de votre entreprise._
+* [Nouveautés de [!DNL Adobe Workfront] 23.1](https://webinars.on24.com/adobe_workfront/whatsnewin231?partnerref=EXL) - **10 janvier** - _Rejoindre le [!DNL Adobe Workfront] équipe produit pour en savoir plus sur les fonctionnalités et améliorations à venir de notre dernière version._
+* [AEM Analyseur des bonnes pratiques pour les environnements on-premise et AMS](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **18 janvier** - _Découvrez l’outil Analyseur des bonnes pratiques d’Adobe Experience Manager qui fournit des fonctionnalités d’analyse et de création de rapports concernant AEM instances on-premise et AMS. Notez qu’il ne s’applique pas à AEM as a Cloud Service._
 
 Pour obtenir un planning d’événements complet, voir [Événements sur Experience League](https://experienceleague.adobe.com/events/?lang=fr).
 
@@ -124,7 +126,7 @@ Nouveaux tutoriels vidéo, articles et cours publiés pour Adobe Analytics.
 | Publié | Nom | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
 | Décembre 2022 | [Amélioration de la sécurité](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/enhancing-security.html) | Vidéo mise à jour | Découvrez les paramètres du Gestionnaire de sécurité dans Paramètres de la société pour contrôler l’accès à Adobe Analytics. Cela inclut les mots de passe difficiles à deviner, les fonctionnalités d’expiration et de récupération des mots de passe, ainsi que les restrictions de domaine de courriel. |
-| Décembre 2022 | [Définir un projet Analysis Workspace comme page d’entrée](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.html) | Vidéo mise à jour | Découvrez un moyen efficace d’amener facilement des utilisateurs débutants dans les données de projet d’analyse de l’espace de travail. |
+| Décembre 2022 | [Définition d’un projet Analysis Workspace en tant que page de destination](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.html) | Vidéo mise à jour | Découvrez un moyen efficace d’amener facilement des utilisateurs débutants dans les données de projet d’analyse de l’espace de travail. |
 | Décembre 2022 | [Personnalisation du menu dans Reports &amp; Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.html) | Vidéo mise à jour | Découvrez comment personnaliser le menu Reports &amp; Analytics pour les utilisateurs de votre entreprise. Cela permet aux utilisateurs de trouver les rapports qu’ils utilisent le plus souvent. |
 | Novembre 2022 | [Qu’est-ce qu’Analytics ?](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-is-analytics.html?lang=fr) | Article | Découvrez les principes de base des analyses avant de découvrir Adobe Analytics. |
 | Novembre 2022 | [Créer des vues détaillées personnalisées pour les tableaux de bord](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/create-custom-detail-views.html?lang=fr) | Vidéo | Découvrez comment personnaliser les vues détaillées, y compris le texte des tableaux de bord Adobe Analytics, afin d’affiner l’histoire que vous souhaitez raconter aux parties prenantes à travers les projets de cartes de performance mobiles. |
