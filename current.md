@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0f238ebb4a330646e16379cbb61f959a37cd7c87
+source-git-commit: 5660df7c9bf29a10c46f0fda5b4b6b2a441532aa
 workflow-type: tm+mt
-source-wordcount: '5416'
-ht-degree: 57%
+source-wordcount: '5495'
+ht-degree: 56%
 
 ---
 
@@ -25,7 +25,7 @@ En tant que créateur d’expériences, votre chemin vers la réussite commence 
 
 Cette page donne accès aux pages de notes de mise à jour des produits Experience Cloud et aux derniers tutoriels, cours et événements sur Experience League.
 
-Dernière mise à jour : **11 janvier 2023**
+Dernière mise à jour : **18 janvier 2023**
 
 * [Évènements [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -485,10 +485,11 @@ Dernière mise à jour : **23 novembre 2022**
 
 ### Nouvelles fonctionnalités de [!DNL Advertising Search] {#advertising-search}
 
-Dernière mise à jour : **10 janvier 2022**
+Dernière mise à jour : **18 janvier 2022**
 
 | Fonctionnalité | Description |
 | ------- | ----------- |
+| Campagnes, Feuilles d’envoi groupées, Avancées (ACM) | (version du 5 janvier) ; [!DNL Google Ads] et [!DNL Microsoft Advertising] (campagnes) Si vous avez créé des personnalisateurs de publicités dans les éditeurs du réseau publicitaire, vous pouvez désormais les utiliser comme attributs dans les champs de texte des annonces responsives dans [!DNL Advertising Search]. Dans les titres et les descriptions des publicités, ainsi que dans les premier et deuxième chemins des URL d’affichage, utilisez les formats suivants pour inclure un personnalisateur de publicités :<ul><li>[!DNL Google Ads]: {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: {CUSTOMIZER.Attribute name:default text}</code></li></ul>Exemple de personnalisateur de publicité dans un titre de publicité : &quot;Un énorme stock de bottes de pluie à un `{CUSTOMIZER.Discount:10%}` réduction.&quot; |
 | Campagnes, feuilles d’envoi groupé, rapports | (comptes [!DNL Microsoft® Advertising] ; version du 15 novembre) La prise en charge des campagnes du [!DNL Microsoft® Audience Network] n’est plus en version Bêta.<ul><li>Vous pouvez désormais créer et modifier le statut des campagnes d’audience (« [!UICONTROL Audience (image)] » du type de campagne ou « [!UICONTROL Audience (flux)] »), des groupes publicitaires (« [!UICONTROL Audience] » du type de groupe publicitaire) et des annonces (« [!UICONTROL Annonce responsive] » du type de contenu créatif), à partir des vues [!UICONTROL Campagnes] et en utilisant des feuilles d’envoi groupé.</li><li>Vous pouvez afficher les audiences de campagne existantes, avec des données de performances au format tableau et graphique de tendances, dans la vue [!UICONTROL Campagnes]. Les données de performances au niveau des annonces sont également disponibles dans les rapports ainsi que dans Adobe Analytics (pour les annonceurs qui disposent d’une intégration [!DNL Analytics]).</li></ul>Vous pouvez inclure des campagnes d’audience dans des portefeuilles standard ou hybrides. |
 |  | (comptes [!DNL Microsoft® Advertising] ; version du 15 novembre) La prise en charge des annonces publicitaires multimédias n’est plus en version Bêta. Vous pouvez désormais créer et gérer des annonces publicitaires multimédias dans des campagnes de recherche à partir de la vue [!UICONTROL Campagnes] et à l’aide des feuilles d’envoi groupé. Le type de contenu créatif de ces annonces est « [!UICONTROL Annonce multimédias] ».<br><br>Vous pouvez inclure des campagnes avec des annonces multimédias dans les portfolios standard ou hybrides avec n’importe quelle stratégie de dépenses, à l’exception de [!UICONTROL Taux d’impressions cible] (qui n’est pas encore pris en charge dans les portfolios hybrides).<br><br>Vous pouvez afficher les campagnes d’audience existantes, avec des données de performances au format tableau et graphique de tendances, dans la vue [!UICONTROL Campagnes]. Les données de performances au niveau des annonces sont également disponibles dans les rapports ainsi que dans [!DNL Analytics] (pour les annonceurs qui disposent d’une intégration [!DNL Analytics]). |
 | [!UICONTROL Audiences], [!UICONTROL Rapports] | (comptes [!DNL Microsoft® Advertising] ; version du 29 novembre) La prise en charge des audiences de remarketing dynamique n’est plus en version Bêta :<ul><li>Vos audiences de remarketing dynamique sont synchronisées et disponibles dans [!UICONTROL Campagnes] > [!UICONTROL Audiences] avec le [!UICONTROL Type d’audience] « [!UICONTROL Remarketing dynamique] &lt;*VisitorType*> » (par exemple, « Remarketing dynamique - acheteurs précédents »). Vous pouvez également créer, mettre à jour et supprimer des audiences de remarketing dynamique.</li><li>Vous pouvez utiliser les audiences comme cibles et exclusions de publicités au niveau de la campagne et du groupe publicitaire. Les cibles peuvent inclure des modificateurs d’offre. **Remarque :** les modificateurs d’offres pour les cibles d’audience de remarketing dynamique ne sont pas optimisés dans les portefeuilles avec le paramètre « [!UICONTROL Optimisation automatique des valeurs d’ajustement d’offres] ».</li><li>Les données relatives aux audiences de remarketing dynamique sont disponibles dans le [!UICONTROL Rapport d’Audience Target].</li></ul> |
