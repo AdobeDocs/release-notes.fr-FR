@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5660df7c9bf29a10c46f0fda5b4b6b2a441532aa
-workflow-type: ht
-source-wordcount: '5495'
-ht-degree: 100%
+source-git-commit: ac727f5e20503266d2d64da66ee95b4ae4779fb5
+workflow-type: tm+mt
+source-wordcount: '5497'
+ht-degree: 99%
 
 ---
 
@@ -25,7 +25,7 @@ En tant que créateur d’expériences, votre chemin vers la réussite commence 
 
 Cette page donne accès aux pages de notes de mise à jour des produits Experience Cloud et aux derniers tutoriels, cours et événements sur Experience League.
 
-Dernière mise à jour : **18 janvier 2023**
+Dernière mise à jour : **3 février 2023**
 
 * [Évènements [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -475,11 +475,12 @@ Last updated: **August 9, 2022**
 
 ### Nouvelles fonctionnalités de [!DNL Advertising DSP] {#advertising-dsp}
 
-Dernière mise à jour : **23 novembre 2022**
+Dernière mise à jour : **3 février 2023**
 
 | Fonctionnalité | Description |
 | ------- | ----------- |
-| Offres | L’affichage [!UICONTROL Inventaire] > [!UICONTROL Offres] inclut désormais une colonne « [!UICONTROL État des offres] », qui indique le statut de l’état de chaque offre privée : « [!UICONTROL Succès] », « [!UICONTROL Avertissement] », « [!UICONTROL Critique] », ou « [!UICONTROL Indisponible]. » Vous pouvez cliquer sur le statut pour afficher plus de détails, notamment les raisons pour lesquelles une offre ne fonctionne pas ou n’entraîne pas les dépenses prévues, ainsi que les étapes de résolution des problèmes potentiels. |
+| [!UICONTROL Offres] | (Version du 25 janvier) Une nouvelle colonne &quot;Calcul de l’impression PG&quot; dans les rapports Inventaire > Transactions pour les offres garanties. |
+| [!UICONTROL Campagnes] | (Version du 4 janvier) Un journal des modifications, qui affiche les modifications effectuées au cours de la période sélectionnée, est désormais disponible pour chaque campagne. Les journaux des modifications étaient déjà disponibles pour les modules et les emplacements. |
 
 {style=&quot;table-layout:auto&quot;}
 
