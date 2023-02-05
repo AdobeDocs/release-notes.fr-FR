@@ -6,10 +6,10 @@ last-update: January 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ac727f5e20503266d2d64da66ee95b4ae4779fb5
+source-git-commit: 668e3a94c48a157a4abd3496754fac219c342362
 workflow-type: tm+mt
-source-wordcount: '5497'
-ht-degree: 99%
+source-wordcount: '5407'
+ht-degree: 98%
 
 ---
 
@@ -25,7 +25,9 @@ En tant que créateur d’expériences, votre chemin vers la réussite commence 
 
 Cette page donne accès aux pages de notes de mise à jour des produits Experience Cloud et aux derniers tutoriels, cours et événements sur Experience League.
 
-Dernière mise à jour : **3 février 2023**
+Mois de publication : **Janvier 2023**
+
+Dernière mise à jour : **5 février 2023**
 
 * [Évènements [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -57,10 +59,13 @@ Les événements Experience League sont un excellent endroit pour apprendre, in
 
 Événements à venir :
 
-* [AEM Best Practices Analyzer pour les environnements on-premise et AMS](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **18 janvier** - _Découvrez l’outil Best Practices Analyzer d’Adobe Experience Manager qui fournit des fonctionnalités d’analyse et de création de rapports concernant les instances AEM on-premise et AMS. Ne s’applique pas à AEM as a Cloud Service._
-* [Adobe Experience League Live : points forts de la collecte de données et feuille de route](https://www.youtube.com/watch?v=Gj_FDCMgU8I) - **26 janvier** - _La collecte de données est importante chez Adobe ! Vous devez être en mesure de faire confiance aux données que vous utilisez. L’année dernière, des sorties importantes ont eu lieu et de grandes choses arrivent. Dans cet événement de diffusion en direct, rejoignez les experts de la collecte de données pour obtenir un récapitulatif des mises à jour récentes importantes, ainsi qu’un aperçu des éléments de la feuille de route à venir._ [Détails &amp; enregistrement](https://engage.adobe.com/ExpLeagueLive-230126.html).
+* [!DNL Workfront] - **7 février** - _Découvrez les dix conseils de communication pour que vous et vos utilisateurs soyez sur pied d’égalité_
 
-Pour obtenir un planning d’événements complet, voir [Événements sur Experience League](https://experienceleague.adobe.com/events/?lang=fr).
+* [!DNL Campaign Classic] - **8 février** - _Comment T. Rowe Price détermine l’engagement des clients_
+
+* [!DNL Campaign Standard] - **9 février** - Saut de café de la communauté - _Adobe [!DNL Campaign] Saut de café Q&amp;A de la communauté - APAC_
+
+Pour l’enregistrement d’un événement et une planification complète, voir [Événements sur Experience League](https://experienceleague.adobe.com/events/?lang=fr).
 
 ## ![Icône](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
