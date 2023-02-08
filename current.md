@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f3a7fe1adc438d0fce977ba01b77fd99fc75776e
+source-git-commit: 1b71ade96af12784be613e71e4ff89e57fa4a1c2
 workflow-type: tm+mt
-source-wordcount: '5028'
-ht-degree: 60%
+source-wordcount: '5006'
+ht-degree: 59%
 
 ---
 
@@ -526,23 +526,21 @@ Last updated: **August 9, 2022**
 
 ### Nouvelles fonctionnalités de [!DNL Advertising DSP] {#advertising-dsp}
 
-Dernière mise à jour : **3 février 2023**
+Dernière mise à jour : **8 février 2023**
 
 | Fonctionnalité | Description |
 | ------- | ----------- |
-| [!UICONTROL Offres] | (Version du 25 janvier) Une nouvelle colonne &quot;Calcul de l’impression PG&quot; dans les rapports Inventaire > Transactions pour les offres garanties. |
-| [!UICONTROL Campagnes] | (Version du 4 janvier) Un journal des modifications, qui affiche les modifications effectuées au cours de la période sélectionnée, est désormais disponible pour chaque campagne. Les journaux des modifications étaient déjà disponibles pour les modules et les emplacements. |
+| [!UICONTROL Opérations] | (version du 3 février) ; fonctions bêta) Vous pouvez désormais afficher les journaux des modifications sous forme de graphique et ajouter des notes à n’importe quelle entrée. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nouvelles fonctionnalités de [!DNL Advertising Search] {#advertising-search}
 
-Dernière mise à jour : **18 janvier 2022**
+Dernière mise à jour : **8 février 2023**
 
 | Fonctionnalité | Description |
 | ------- | ----------- |
-| [!UICONTROL Campagnes], [!UICONTROL Feuilles d’envoi groupées], [!UICONTROL Avancé (ACM)] | (Version du 5 janvier : [!DNL Google Ads] et [!DNL Microsoft Advertising] campagnes) - Si vous avez créé des personnalisateurs de publicités dans les éditeurs du réseau publicitaire, vous pouvez désormais les utiliser comme attributs dans les champs de texte des annonces responsives dans [!DNL Advertising Search]. Dans les titres et les descriptions des annonces publicitaires, ainsi que dans les premier et deuxième chemins des URL d’affichage, utilisez les formats suivants pour inclure un personnalisateur d’annonce publicitaire :<ul><li>[!DNL Google Ads] : {CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising] : {CUSTOMIZER.Attribute name:default text}</code></li></ul>Exemple de personnalisateur d’annonce publicitaire dans un titre d’annonce : « Gros stock de bottes de pluie avec une réduction de `{CUSTOMIZER.Discount:10%}` ». |
-| [!UICONTROL Importer des campagnes] | (Version du 5 janvier : [!DNL Google Ads] et [!DNL Microsoft Advertising] campagnes) - Vous pouvez répliquer vos [!DNL Google Ads] personnalisateurs d’annonces pour vos [!DNL Microsoft Advertising] campagnes depuis [!UICONTROL Rechercher] > [!UICONTROL Outils] > [!UICONTROL Importation de campagnes]. Elles sont automatiquement répliquées si vous ne personnalisez pas la tâche d’importation. Si vous personnalisez la tâche d’importation en spécifiant les éléments à importer, veillez à sélectionner [!UICONTROL Flux] > [!UICONTROL Flux de personnalisation des publicités.] |
+| [!UICONTROL Opérations] | (version du 6 février) ; fonctionnalité bêta) La prise en charge de la synchronisation en lecture seule est désormais disponible pour votre [!DNL Google Ads] campagnes de découverte. Les campagnes de détection ont [!UICONTROL Type de campagne] &quot;[!UICONTROL Découverte],&quot; [!UICONTROL Type de groupe publicitaire] &quot;[!UICONTROL Découverte],&quot; et [!UICONTROL Type de création] &quot;[!UICONTROL Publicité de détection]&quot; (pour les annonces d’une seule image) ou &quot;[!UICONTROL Découverte d’une publicité carrousel]&quot; (pour les annonces de carrousel à plusieurs images). Vous pouvez inclure des campagnes de découverte dans des portfolios standard et hybrides.<br><br>Les données au niveau des publicités pour vos campagnes de découverte sont disponibles dans les rapports. Pour les annonceurs disposant d’une intégration Adobe Analytics, des données au niveau de la publicité sont disponibles dans [!DNL Analytics]. De même, [!DNL Analytics] Les données sont disponibles dans [!DNL Search]; les données sont envoyées à l’aide de la mise à niveau `s_kwcid` paramètre de suivi, quel que soit le `s_kwcid` format que vous utilisez normalement pour le compte. Si vous utilisez normalement l’ancienne version de la variable `s_kwcid`, les données sur les clics/coûts et les recettes sont suivies à l’aide de différentes `s_kwcids`, mais les deux ensembles de données sont entièrement classés et agrégés sous la même campagne et le même compte. |
 
 {style=&quot;table-layout:auto&quot;}
 
