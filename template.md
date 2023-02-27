@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: June 2021
 author: mfrei
 source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '716'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 93%
 
 ![Bannière](/assets/experience-cloud-banner-3.png)
 
-Nouvelles fonctionnalités et correctifs d’Adobe Experience Cloud.
+Nouveaux correctifs et fonctionnalités d’Adobe Experience Cloud.
 
 >[!IMPORTANT]
 >
@@ -26,9 +26,9 @@ Nouvelles fonctionnalités et correctifs d’Adobe Experience Cloud.
 >
 >Les informations communiquées après la mise à jour seront estampillées avec la date de publication.
 
-Dernière mise à jour : **Septembre 2021**
+Dernière mise à jour : **september 2021**
 
-* [Événements en direct des Experience League](#events)
+* [Événements Experience League Live](#events)
 * [Composants de lʼinterface centrale dʼExperience Cloud](#ecloud)
 * [Statut du système Adobe](#status)
 * [Experience Platform](#platform)
@@ -50,7 +50,7 @@ Dernière mise à jour : **Septembre 2021**
 
 Fonctionnalités et correctifs.
 
-Voir [État du système Adobe](https://status.adobe.com/fr).
+Voir [Statut du système Adobe](https://status.adobe.com/fr).
 
 ## ![Icône](/assets/ec_appicon_24.png) Composants de lʼinterface utilisateur centrale Experience Cloud {#ecloud}
 
@@ -69,7 +69,7 @@ Fonctionnalités et correctifs.
 Notes de mise à jour d’[!DNL Experience Platform,] y compris d’[!DNL Experience Platform Launch,] de [!UICONTROL Journey Orchestration], des services [!UICONTROL Offres], [!UICONTROL Personnes], [!UICONTROL Places], et [!UICONTROL Mobile Services], et des bulletins de sécurité.
 
 * [Service Experience Cloud ID](#ecid)
-* [Notes de mise à jour d’Experience Platform](https://docs.adobe.com/content/help/fr-FR/experience-platform/release-notes/latest.html)
+* [Notes de mise à jour d’Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=fr)
 * [Experience Platform Launch](#launch)
 * [Journey Orchestration](#journey)
 * [Mobile Services et SDK mobiles](#mobile)
@@ -88,7 +88,7 @@ Grâce à Adobe [!UICONTROL Experience Platform,] orchestrez des parcours clien
 
 #### Ressources supplémentaires pour [!UICONTROL Journey Orchestration]
 
-text
+texte
 
 ### [!UICONTROL Mobile Services] et [!UICONTROL SDK Mobile] {#mobile}
 
@@ -105,7 +105,7 @@ Description des nouvelles fonctionnalités. Utilisez des en-têtes ou un tableau
 
 ## Analytics {#analytics}
 
-Nouvelles fonctionnalités et correctifs d’Adobe Analytics :
+Nouveaux correctifs et fonctionnalités d’Adobe Analytics :
 
 ### Nouvelles fonctionnalités d’Adobe Analytics {#aa-features}
 
@@ -115,7 +115,7 @@ Nouvelles fonctionnalités et correctifs d’Adobe Analytics :
 | Fonctionnalité B | Texte |
 | Fonctionnalité C | Texte |
 
-### [!DNL Media Analytics] SDK pour [!DNL iOS] et [!DNL Android™] (anciennement SDK VHL) {#aa-va}
+### SDK [!DNL Media Analytics] pour [!DNL iOS] et [!DNL Android™] (anciennement SDK VHL) {#aa-va}
 
 | Fonctionnalité | Description |
 | ------- | ------- |
@@ -224,7 +224,7 @@ Texte
 
 ## Campaign {#ac}
 
-Adobe Campaign offre un moyen intuitif et automatisé d’envoyer des messages individualisés sur des canaux marketing en ligne et hors ligne. Vous pouvez maintenant anticiper ce que souhaitent vos clients à l’aide d’expériences déterminées par leurs habitudes et leurs préférences.
+Adobe Campaign offre un moyen intuitif et automatisé d’envoyer des messages individualisés sur des canaux marketing en ligne et hors ligne. Vous pouvez maintenant anticiper ce que souhaitent vos clients et clientes à l’aide d’expériences déterminées par leurs habitudes et leurs préférences.
 
 ### Ressources supplémentaires
 
@@ -257,12 +257,12 @@ Marketo Engage est une solution complète de gestion des leads, destinée aux re
 
 Date de publication : 21 février 2020
 
-* **Microsoft® Dynamics _Changer de propriétaire dans Microsoft®_ Action de flux :** Modifiez un prospect ou un propriétaire de contact directement à partir du Marketo Engage.
+* **Microsoft® Dynamics _Modification de propriétaire dans Microsoft®_ Action de processus :** modifiez un prospect ou un propriétaire de contact directement à partir de Marketo Engage.
 * **Améliorations des appels d’API :**
    * API de gestion des utilisateurs
    * API de schéma d’objet personnalisé
-   * API de règles de redirection de page d’entrée
-* **Mise en cache des descripteurs de formulaire** : améliorations apportées aux pages d’entrée et aux formulaires.
+   * API de règles de redirection de page de destination
+* **Mise en cache des descripteurs de formulaire** : améliorations apportées aux pages de destination et aux formulaires.
 
 ### Fonctionnalités à venir
 
@@ -276,7 +276,7 @@ Les fonctionnalités suivantes seront publiées tout au long du trimestre :
 
 ### Annonces
 
-**Centre de succès Marketo Engage :** lancement en février 2020. Le centre de succès est un centre d’aide intégré qui vous permet à vous et à la communauté de rechercher des documents produit, de lancer des guides pratiques, d’accéder au contenu d’adoption, etc. Remarque : Cette fonctionnalité est lancée en version bêta en ANZ et sera déployée en Amérique du Nord plus tard dans le trimestre.
+**Centre de succès Marketo Engage :** lancement en février 2020. Le centre de succès est un centre d’aide intégré qui vous permet à vous et à la communauté de rechercher des documents produit, de lancer des guides pratiques, d’accéder au contenu d’adoption, etc. Remarque : cette fonctionnalité est lancée en version Beta en Australie et en Nouvelle-Zélande et sera déployée en Amérique du Nord plus tard dans le trimestre.
 
 ### Dépréciations
 
