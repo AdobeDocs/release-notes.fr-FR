@@ -1,15 +1,15 @@
 ---
 description: Informations vous permettant de contacter Adobe et de comprendre les implications juridiques lorsque vous utilisez ce produit et sa documentation.
-keywords: Dynamic Tag Management;notes de mise à jour
-seo-description: Informations vous permettant de contacter Adobe et de comprendre les implications juridiques lorsque vous utilisez ce produit et sa documentation.
-seo-title: Coordonnées et informations juridiques
+keywords: Dynamic Tag Management;notes de mise à jour
+seo-description: Information to help you contact Adobe and understand the legal issues concerning your use of this product and documentation.
+seo-title: Contact and Legal Information
 title: Coordonnées et informations juridiques
 uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
-workflow-type: tm+mt
-source-wordcount: '258'
+workflow-type: ht
+source-wordcount: '235'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ Informations vous permettant de contacter Adobe et de comprendre les implication
 
 ## Aide et assistance technique {#section_354AC2658BA84A2A96E64C5B2C43B73B}
 
-L’équipe d’assistance d’Adobe Marketing Cloud est là pour vous aider et propose les différentes solutions de support suivantes :
+L’équipe d’assistance d’Adobe Experience Cloud est là pour vous aider et propose les différentes solutions de support suivantes :
 
 Voir [Contacter l’assistance Adobe pour les entreprises](https://helpx.adobe.com/fr/contact/enterprise-support.ec.html)
 
@@ -42,7 +42,7 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
  <li> Published by Adobe Systems Incorporated. </li> 
 </ul>
 
-[Conditions d’utilisation](https://www.adobe.com/go/marketingcloud_terms_of_use_fr) | [Centre de traitement des données personnelles](https://www.adobe.com/fr/privacy/policy.html)
+[Conditions d’utilisation](https://www.adobe.com/go/marketingcloud_terms_of_use) | [Centre de traitement des données personnelles](https://www.adobe.com/fr/privacy/policy.html)
 
 Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
 
