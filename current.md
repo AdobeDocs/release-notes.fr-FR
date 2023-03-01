@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5fd02900727340c256c76ba0faca53f25147a02a
+source-git-commit: 857554e2e67ba846740e4a529d9f0d6d2e21fc18
 workflow-type: tm+mt
-source-wordcount: '5082'
-ht-degree: 97%
+source-wordcount: '5139'
+ht-degree: 96%
 
 ---
 
@@ -26,6 +26,12 @@ Cette page vous aide à rester au courant des informations sur la mise à jour d
 **Besoin d’aide ?**
 
 Votre chemin vers la réussite commence avec [Experience League](https://experienceleague.adobe.com/?lang=fr#home). Parcourez notre vaste bibliothèque d’auto-assistance de [documentation de produit](https://experienceleague.adobe.com/docs/?lang=fr) et de [tutoriels vidéo](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr) guidés. Recherchez des [cours](https://experienceleague.adobe.com/?lang=fr#courses) pour tous les niveaux et rôles, posez des questions à notre [communauté](https://experienceleaguecommunities.adobe.com/?profile.language=fr) de pairs et paires en ligne, et obtenez l’[assistance](https://experienceleague.adobe.com/?support-tab=home&amp;lang=fr#support) d’experts et d’expertes quand vous en avez besoin.
+
+## Adobe Summit 2023
+
+Rejoignez-nous à Las Vegas pour développer vos compétences, éveiller l&#39;inspiration et construire des connexions qui vous permettent de rendre l&#39;économie numérique personnelle. Pour ceux qui ne peuvent pas assister à l&#39;événement de classe mondiale à Vegas, rejoignez-nous pratiquement de n&#39;importe où gratuitement.
+
+[!BADGE Inscrivez-vous au sommet]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&amp;mv=other" tooltip="Inscrivez-vous au sommet"}
 
 ## Mises à jour et événements de version de produit - Février 2023
 
