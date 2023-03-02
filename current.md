@@ -6,10 +6,10 @@ last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 6e423665d7e8b0b8559cad3e1824d92dc66709fd
+source-git-commit: 0d56cb0d35c17a40b51b7244a4842215a298b76b
 workflow-type: tm+mt
-source-wordcount: '5139'
-ht-degree: 96%
+source-wordcount: '5241'
+ht-degree: 93%
 
 ---
 
@@ -35,7 +35,7 @@ Rejoignez-nous à Las Vegas pour développer vos compétences, éveiller l&#39;i
 
 ## Mises à jour et événements de version de produit - Février 2023
 
-Dernière mise à jour du contenu : **10 février 2023**
+Dernière mise à jour du contenu : **2 mars 2023**
 
 * [Événements [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -530,23 +530,24 @@ Last updated: **August 9, 2022**
 
 ### Nouveautés de la version [!DNL Advertising DSP] {#advertising-dsp}
 
-Dernière mise à jour : **8 février 2023**
+Dernière mise à jour : **2 mars 2023**
 
 | Fonctionnalité | Description |
 | ------- | ----------- |
-| [!UICONTROL Opérations] | (Version du 3 février ; fonctionnalités beta) Vous pouvez désormais afficher les journaux des modifications sous forme de graphique et ajouter des notes à n’importe quelle entrée. |
+| [!UICONTROL Opérations] | (Version du 15 février) Vous pouvez désormais afficher les journaux des modifications sous forme de graphique et ajouter des notes à n’importe quelle entrée. |
 
 {style=&quot;table-layout:auto&quot;}
 
 ### Nouveautés de la version [!DNL Advertising Search] {#advertising-search}
 
-Dernière mise à jour : **10 février 2023**
+Dernière mise à jour : **2 mars 2023**
 
 | Fonctionnalité | Description |
 | ------- | ----------- |
-| [!UICONTROL Opérations] | (Version du 6 février ; fonctionnalité bêta) La prise en charge de la synchronisation en lecture seule est désormais disponible pour vos campagnes [!DNL Google Ads] Discovery. Les campagnes de détection ont [!UICONTROL Type de campagne] &quot;[!UICONTROL Découverte],&quot; [!UICONTROL Type de groupe publicitaire] &quot;[!UICONTROL Découverte],&quot; et [!UICONTROL Type de création] &quot;[!UICONTROL Publicité de détection]&quot; (pour les annonces d’une seule image) ou &quot;[!UICONTROL Découverte d’une publicité carrousel]&quot; (pour les annonces de carrousel à plusieurs images). Vous pouvez inclure des campagnes Discovery dans des portfolios standard et hybrides.<br><br>Les données au niveau des annonces pour vos campagnes Discovery sont disponibles dans les rapports. Pour les annonceurs et annonceuses disposant d’une intégration Adobe Analytics, des données au niveau des annonces sont disponibles dans [!DNL Analytics]. De même, les données [!DNL Analytics] sont disponibles dans [!DNL Search] ; les données sont envoyées à l’aide du paramètre de tracking `s_kwcid` mis à niveau, quel que soit le format `s_kwcid` que vous utilisez normalement pour le compte. Si vous utilisez normalement l’ancienne version de `s_kwcid`, les données sur les clics/coûts et le chiffre d’affaires sont trackées à l’aide de `s_kwcids` différents, mais les deux ensembles de données sont entièrement classés et agrégés sous la même campagne et le même compte. |
+| [!UICONTROL Opérations] | (Comptes Google Ads ; fonction open beta ; (version du 23 février) Prise en charge de la synchronisation en lecture seule pour [!DNL Google Ads] les campagnes de découverte sont en mode bêta pour tous les annonceurs.  Les campagnes de détection ont [!UICONTROL Type de campagne] &quot;[!UICONTROL Découverte],&quot; [!UICONTROL Type de groupe publicitaire] &quot;[!UICONTROL Découverte],&quot; et [!UICONTROL Type de création] &quot;[!UICONTROL Publicité de détection]&quot; (pour les annonces d’une seule image) ou &quot;[!UICONTROL Découverte d’une publicité carrousel]&quot; (pour les annonces de carrousel à plusieurs images). Vous pouvez inclure des campagnes Discovery dans des portfolios standard et hybrides.<br><br>Les données au niveau des annonces pour vos campagnes Discovery sont disponibles dans les rapports. Pour les annonceurs et annonceuses disposant d’une intégration Adobe Analytics, des données au niveau des annonces sont disponibles dans [!DNL Analytics]. De même, les données [!DNL Analytics] sont disponibles dans [!DNL Search] ; les données sont envoyées à l’aide du paramètre de tracking `s_kwcid` mis à niveau, quel que soit le format `s_kwcid` que vous utilisez normalement pour le compte. Si vous utilisez normalement l’ancienne version de `s_kwcid`, les données sur les clics/coûts et le chiffre d’affaires sont trackées à l’aide de `s_kwcids` différents, mais les deux ensembles de données sont entièrement classés et agrégés sous la même campagne et le même compte. |
 |  | ([!DNL Google Ads] les comptes; (version du 11 février) Prise en charge de &quot;[!UICONTROL Partage d’impression Target]La stratégie d’offre est désormais disponible uniquement pour les campagnes sur le réseau de recherche. Pour cette stratégie d&#39;offre, [!DNL Google Ads] (not) [!DNL Search]) optimise les offres afin d’obtenir un partage d’impression cible et une position publicitaire. Vous pouvez éventuellement saisir une [!UICONTROL Partage d’impression Target] en pourcentage, la variable [!UICONTROL Position de la publicité Target], et a [!UICONTROL CPC max] (coût par clic). Cette option n’est pas encore prise en charge dans les portefeuilles hybrides. |
 | [!UICONTROL Feuilles de support] | ([!DNL Microsoft] campagnes; Version du 11 février) Les feuilles d’envoi groupées incluent désormais &quot;[!UICONTROL Appel à l’action]&quot; et &quot;[!UICONTROL Langue de l’appel à l’action]&quot; pour les publicités multimédias (au format réactif), qui utilisent &quot;[!UICONTROL Creative (sauf RSA)]&quot;. |
+| Comptes Google Manager | (Version du 23 février) Une nouvelle [!UICONTROL Administration] > [!UICONTROL Comptes de gestionnaire] permet de fournir une authentification pour [!DNL Google Ads] gérer les comptes pour lesquels [!DNL Search] charge les conversions entre comptes. Utilisez cette fonctionnalité si vous souhaitez) télécharger [!DNL Adobe]mesures de conversion entre comptes suivis en une [!DNL Google Ads] compte de gestionnaire ou b) transférer des objectifs de portefeuille qui incluent des conversions entre comptes en [!DNL Google Ads] pour l’optimisation hybride.<br><br>Une fois que vous avez ajouté les informations d’identification d’un compte de gestionnaire, le &quot;&quot; facultatif[!UICONTROL Compte du gestionnaire pour les conversions entre comptes]&quot; dans la colonne [!UICONTROL Campagnes] > [!UICONTROL Comptes] La vue indique l’identifiant du compte manager pour chaque compte enfant et la colonne affiche une erreur lorsque le compte manager n’est pas authentifié. |
 
 {style=&quot;table-layout:auto&quot;}
 
