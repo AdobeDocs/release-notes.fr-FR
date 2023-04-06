@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a33a3738aa82ce68eef6b40a9a34b7697eb7cb7b
+source-git-commit: 7feb48c8588b9463ba0a01479cd3c1d64668bbe0
 workflow-type: tm+mt
-source-wordcount: '4471'
-ht-degree: 91%
+source-wordcount: '4580'
+ht-degree: 89%
 
 ---
 
@@ -31,9 +31,10 @@ Votre chemin vers la réussite commence avec [Experience League](https://experi
 
 ## Mises à jour et événements de version de produit
 
-Dernière mise à jour : **29 mars 2023**
+Dernière mise à jour : **6 avril 2023**
 
-* [Événements [!DNL Experience League]](#events)
+* [[!DNL Experience League] events](#events) (**Mise à jour le 6 avril 2023**)
+* [Certification](#certification) (**Nouveau ! 6 avril 2023**)
 * [[!DNL Adobe System Status]](#status)
 * [Interface et administration [!DNL Experience Cloud]](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -59,15 +60,31 @@ Découvrez ce qui se passe sur Experience League. Les événements sont un exce
 
 +++Événements à venir
 
-* **[!DNL Marketo]** | _Adobe Marketo Engage peut être volumineux, découvrez comment une petite équipe optimise son instance_ | **30 mars à 8 h PT** |  [Enregistrer](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-adobe-marketo-engage-may-be-big-learn-how-a-small-team-maximizes-their-instance/)
+* **[!DNL Workfront]** | _Connexion : Conversation stratégique avec les administrateurs_ | **10 avril à 8 h 00 CT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Connexion : Admin Chat pour le marketing et les créatifs_ | **31 mars à 10h00 MT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,zQqh7GuOYEKk9nj6La13sw,21mIvr6FckuR3RV6fXWwoA,rsGLF_yiOEma4deQintntQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Target]** | _Saut au café de la communauté Adobe Target avec Matthew Baillie et Georgia Frailey_ | **12 avril à 8 heures PT** |  [Enregistrer](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Marketo Engage]** | _Marketo et Mochas : Délivrabilité (Partie 2)_ | **5 avril à 13h heure d’été** | [Enregistrer](https://register.gotowebinar.com/register/6818591002040103259)
+* **[!DNL Workfront]** | _En savoir plus : Cumul de la version 23.2 d’Adobe Workfront_ | **12 avril à 12h30 CT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Adobe Summit]** |_Revenez au Sommet toute l&#39;année !_ | **À la demande** | [Détails](https://business.adobe.com/summit/adobe-summit.html)
 
 Consultez les [Événements Experience League](https://experienceleague.adobe.com/events/?lang=fr) pour obtenir un planning complet des événements à venir et des événements passés à la demande.
+
++++
+
+## ![Icône](/assets/certification-badge.png) Certification{#certification}
+
+Attention à tous les candidats à la certification Adobe ! Adobe est heureux d’annoncer le lancement du nouvel Experience Cloud [Certification](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) site sur Experience League.
+
++++Détails
+
+Le site de certification est votre boutique à guichet unique pour tous. [!DNL Experience Cloud] contenu lié à la certification, notamment :
+
+* certifications disponibles
+* Renvois de certification pour les solutions d’Adobe
+* Mises à jour du programme de certification
+
+Et bien plus encore ! Rendez-vous sur [Certification Adobe](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) sur Experience League et lancez dès aujourd&#39;hui votre parcours de certification !
 
 +++
 
