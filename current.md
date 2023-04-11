@@ -6,10 +6,10 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7feb48c8588b9463ba0a01479cd3c1d64668bbe0
+source-git-commit: fe9ee338ec6803e4f9fb2dde4748d751c47e0e47
 workflow-type: tm+mt
-source-wordcount: '4580'
-ht-degree: 89%
+source-wordcount: '4634'
+ht-degree: 88%
 
 ---
 
@@ -614,15 +614,13 @@ Last updated: **August 9, 2022**
 
 Découvrez les dernières fonctionnalités d’Adobe Advertising.
 
-<!--
-Last updated: **March 2, 2023**
+Dernière mise à jour : **10 avril 2023**
 
-| Feature | Description |
+| Fonctionnalité | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (February 15 release) You can now view change logs in chart form, and you can add notes to any entry. |
+| [!UICONTROL Rapports] | (Version de mars) Une nouvelle [!UICONTROL Ménage] Ce rapport présente les impressions, la portée et la fréquence sur différentes dimensions au niveau d’un foyer en fonction de l’adresse IP, plutôt qu’au niveau d’un appareil ou d’un cookie. Le rapport comprend neuf dimensions : [!UICONTROL Campagne], [!UICONTROL Package], [!UICONTROL Emplacement], [!UICONTROL Site/Applications], [!UICONTROL Type de média], [!UICONTROL Appareil], [!UICONTROL Audience], [!UICONTROL Durée de création], et créé par l’utilisateur [!UICONTROL Balises]. |
 
 {style="table-layout:auto"}
--->
 
 ### Nouveautés de la version [!DNL Advertising Search] {#advertising-search}
 
