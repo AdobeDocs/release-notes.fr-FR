@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 678916a1d510e0bfb2d7f4cb54a568aa7a693ede
+source-git-commit: 7080614a0a487b61eaaca2d50404698ad4228941
 workflow-type: tm+mt
-source-wordcount: '5815'
+source-wordcount: '5816'
 ht-degree: 60%
 
 ---
@@ -96,7 +96,7 @@ Découvrez les dernières fonctionnalités et mises à jour sur [!DNL Adobe Syst
 
 [!DNL Adobe System Status] fournit des informations détaillées, des mises à jour de statut et des notifications par e-mail relatives aux produits, aux pannes de service, aux perturbations et aux activités de maintenance d’Adobe. Consultez le site [status.adobe.com/fr](https://status.adobe.com/fr).
 
-Voir [notes de mise à jour](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=fr#status) pour Adobe Status (Statut de l’) afin d’afficher les dernières mises à jour.
+Voir [Notes de mise à jour de mars 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=fr#status) pour Adobe Status (Statut de l’) afin d’afficher les dernières mises à jour.
 
 +++
 
