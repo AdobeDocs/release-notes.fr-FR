@@ -6,9 +6,9 @@ last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4d6f4cc165539812857d090a7938863da6133bb3
+source-git-commit: fa7024debf03de040dc855e5045b0b2303ee7db0
 workflow-type: tm+mt
-source-wordcount: '5717'
+source-wordcount: '5765'
 ht-degree: 62%
 
 ---
@@ -31,7 +31,7 @@ Votre chemin vers la réussite commence avec [Experience League](https://experi
 
 ## Mises à jour et événements de version de produit
 
-Dernière mise à jour : **12 avril 2023**
+Dernière mise à jour : **18 avril 2023**
 
 * [Événements [!DNL Experience League]](#events)
 * [Certification en Adobe](#certification) (**Nouveau !**)
@@ -58,13 +58,23 @@ Dernière mise à jour : **12 avril 2023**
 
 Découvrez ce qui se passe sur Experience League. Les événements sont un excellent endroit pour apprendre, interagir et obtenir des réponses des spécialistes des produits Adobe !
 
+Mise à jour : **19 avril 2023**
+
 +++Événements à venir
 
-* **[!DNL Workfront]** | _Connexion : Conversation stratégique avec les administrateurs_ | **10 avril à 8 h 00 CT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Demandez aux experts : Amélioration Du Nettoyage Des Processus Par Le Biais Du Suivi Du Webinaire D’Automatisation_ | **27 avril à 10h30 MT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Target]** | _Saut au café de la communauté Adobe Target avec Matthew Baillie et Georgia Frailey_ | **12 avril à 8 heures PT** |  [Enregistrer](https://adobe.ly/3ZV8gUG)
+* **[!DNL Experience Manager Sites]** | _Atelier sur le rechargeur AEM Sites_ | **25 avril à 8 heures PT** |  [Enregistrer](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Workfront]** | _En savoir plus : Cumul de la version 23.2 d’Adobe Workfront_ | **12 avril à 12h30 CT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | _Effectuez la collecte de données et le transfert d’événement en quelques clics seulement._ | **25 avril à 9h00 PT** | [Enregistrer](https://engage.adobe.com/ExpLeagueLive-230425.html)
+
+* **[!DNL Marketo Engage]** | _Marketo Champion Deep Dive : Email Nurture_ | **25 avril à 10h00 PT** | [Enregistrer](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+
+* **[!DNL Experience Manager as a Cloud Service]** | _Heures d’ouverture AEM championne - AEM as a Cloud Service_ | **27 avril à 7:30 AM PT** | [Enregistrer](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
+
+* **[!DNL Analytics]** | _Création d’une équipe d’experts Adobe Analytics_ | **27 avril à 8 heures PT** | [Enregistrer](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
+
+* **[!DNL Target]** | _Adobe Target - Diffusez des expériences client personnalisées, à chaque fois !_ | **27 avril à 9 heures BST** | [Enregistrer](https://adobetargetemea2023.experienceleague.adobeevents.com/)
 
 * **[!DNL Adobe Summit]** |_Revenez au Sommet toute l&#39;année !_ | **À la demande** | [Détails](https://business.adobe.com/summit/adobe-summit.html)
 
@@ -680,7 +690,7 @@ Dernière mise à jour : **14 avril 2023**
 
 | Fonctionnalité | Description |
 | ------- | ----------- |
-| [!UICONTROL Opérations] | ([!DNL Microsoft® Advertising] campagnes d’audience ; Version du 15 avril) Les campagnes d’audience peuvent désormais utiliser la stratégie d’offre &quot;CPM manuel&quot;. Vous pouvez définir des offres dans les paramètres des groupes d’annonces enfants.<br>&lt;brOptimization support isn’t available for CPM campaigns. |
+| [!UICONTROL Opérations] | ([!DNL Microsoft® Advertising] campagnes d’audience ; Version du 15 avril) Les campagnes d’audience peuvent désormais utiliser la stratégie d’offre &quot;CPM manuel&quot;. Vous pouvez définir des offres dans les paramètres des groupes d’annonces enfants.<br>&lt;brOptimization support isn&#39;t available for CPM campaigns. |
 | [!UICONTROL Recommendations] | Six nouveaux ([!DNL Google Ads] Les recommandations sont disponibles à partir de [!UICONTROL Statistiques et rapports] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL La recherche réactive améliore la force de la publicité]: Suggestions pour améliorer la force de l’annonce pour une publicité de recherche réactive</li><li>[!UICONTROL Mettre à niveau les performances de l&#39;opération locale]: Mettre à niveau une campagne locale héritée à une campagne maximale de performances</li><li>[!UICONTROL Mettre à niveau la campagne d’achat intelligente vers les performances maximales]: Mettre à niveau une campagne d’achats intelligents héritée vers une campagne de performances maximales</li><li>[!UICONTROL RSDP cible du jeu de prévisions]: Augmentez le budget avant un événement saisonnier prévu pour augmenter le trafic et modifiez la stratégie d’offre à partir de [!DNL Maximize Conversion Value] to [!DNL Target ROAS]</li><li>[!UICONTROL Soulever l&#39;offre de la cible trop faible]: Augmentez le [!DNL Target CPA] d’une valeur recommandée lorsqu’elle est trop faible et qu’il y a peu ou pas de conversions</li><li>[!UICONTROL Inclusion de l’extension d’affichage]: Développer la portée en mettant à jour une campagne pour utiliser l’extension d’affichage</li></ul>Comme l’ajout et la suppression de ressources, la modification des types de campagne et des budgets et des stratégies d’offre peuvent avoir une incidence sur les performances, nous vous recommandons de discuter des avantages et des inconvénients de chaque recommandation avec votre équipe de compte d’Adobe afin que vous puissiez prendre une décision éclairée. |
 
 {style="table-layout:auto"}
