@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 264ad6eeeb05af620941cd57ceaf18c82faf019e
+source-git-commit: 0e1fab47a83180404fa92c44bf420e5b3e81818d
 workflow-type: tm+mt
-source-wordcount: '5723'
-ht-degree: 97%
+source-wordcount: '5725'
+ht-degree: 94%
 
 ---
 
@@ -31,9 +31,9 @@ Votre chemin vers la réussite commence avec [Experience League](https://experi
 
 ## Mises à jour et événements de version de produit
 
-Dernière mise à jour : **10 mai 2023**
+Dernière mise à jour : **22 mai 2023**
 
-* [Événements [!DNL Experience League]](#events)
+* [[!DNL Experience League] événements et mises à jour](#events) (Mise à jour) **22 mai**)
 * [Certification Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [Interface et administration [!DNL Experience Cloud]](#ecloud)
@@ -56,29 +56,34 @@ Dernière mise à jour : **10 mai 2023**
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
-## ![Icône](/assets/experience-league.png) Événements [!DNL Experience League] {#events}
+## ![Icône](/assets/experience-league.png) [!DNL Experience League] événements et mises à jour {#events}
 
 Découvrez ce qui se passe sur Experience League. Les événements sont un excellent endroit pour apprendre, interagir et obtenir des réponses des spécialistes des produits Adobe !
 
-Mise à jour : **9 mai 2023**
+Mise à jour : **22 mai 2023**
+
+**Amélioration de la recherche de contenu sur Experience League :** Vous pouvez personnaliser la manière de filtrer les résultats de recherche de contenu pour les produits que vous possédez. Afficher les résultats en fonction de :
+
+* Tutoriels
+* Cours
+* Documentation
+* Produits
+* Événements
+* Certifications
+
+Accédez à [Experience League](https://experienceleague.adobe.com/?lang=fr#home) et regardez-le !
 
 +++Événements à venir
 
-* **[!DNL Campaign]** | _Adobe Campaign : un marketing par e-mail efficace à tous les coups !_ | **11 mai à 10 h CET** |  [S’inscrire](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
-
-* **[!DNL Workfront]** | _Apprendre : champs personnalisés calculés dans Workfront_ | **11 mai à 18 h 30 CET** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,yCYVwQotCU2TAORLyPoHJA,_4xblJcMAkOcN_Yr0Ufvtw,LHF-Iz1B3kihhT_9ZlkFog?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Commerce]** | _Commerce et café : sept méthodes pour fidéliser et retenir les clients_ | **11 mai à 22 h CET** | [S’inscrire](https://register.gotowebinar.com/#register/4149787110381957724)
-
-* **[!DNL Workfront]** | _Connecter : conversation stratégique avec l’administration_ | **15 mai à 15 h CET** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Manager Sites]** | _Atelier sur le superchargeur Adobe Experience Manager Sites_ | **16 mai à 10 h CET** | [S’inscrire](https://landing.adobe.com/acs/AEM-ValueAcceleratorSeries-EMEA2023.html)
-
-* **[!DNL Experience Manager Sites]** | _Conçu pour le contenu : composants Contenu et Fragments d’expérience_ | **16 mai à 17 h CET** | [S’inscrire](https://engage.adobe.com/adobe-experience-manager-building-blocks-registration-page.html)
-
-* **[!DNL Analytics]** | _Créateurs et créatrices d’expérience : l’échange de compétences dans le cadre d’Adobe Analytics - APAC_ | **17 mai à 7 h 30 CET** | [S’inscrire](https://cvent.me/vWyONx?RefId=Experience+League)
-
 * **[!DNL Experience Manager]**   _Live pour les développeurs et développeuses - expériences composables : conférence virtuelle d’une journée avec sessions en direct et opportunités de réseautage communautaire._ | **23 mai à 16 h CET** | [S’inscrire](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=appu)
+
+* **[!DNL Workfront]** | _En savoir plus : Présentation de Scrum avec Adobe Workfront_ | **23 mai à 14 h CT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Target]** | _Charger votre entreprise pour fournir une personnalisation pilotée par les données_ | **24 mai à 8 h PT** | [Enregistrer](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+
+* **[!DNL Workfront]** | _Demandez aux experts : Suivi du webinaire sur les fondements des modèles de projet_ | **24 mai à 10h00 CT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Manager Assets]** | _Espressos &amp; Experience Manager - Migration AEM Assets_ | **25 mai à 13 h PT** | [Enregistrer](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
 
 Et bien plus encore ! Accédez à [Événements](https://experienceleague.adobe.com/events/?lang=fr) sur Experience League pour afficher les événements passés et voir les événements planifiés.
 
