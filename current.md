@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 0e1fab47a83180404fa92c44bf420e5b3e81818d
-workflow-type: ht
-source-wordcount: '5725'
-ht-degree: 100%
+source-git-commit: be634ab0dcb6a3facb46bb57ee6910b06427a8be
+workflow-type: tm+mt
+source-wordcount: '5698'
+ht-degree: 99%
 
 ---
 
@@ -31,7 +31,7 @@ Votre chemin vers la réussite commence avec [Experience League](https://experi
 
 ## Mises à jour et événements de version de produit
 
-Dernière mise à jour : **22 mai 2023**
+Dernière mise à jour : **30 mai 2023**
 
 * [[!DNL Experience League] Événements et mises à jour](#events) (Mise à jour le **22 mai**)
 * [Certification Adobe](#certification)
@@ -52,7 +52,7 @@ Dernière mise à jour : **22 mai 2023**
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
-* [[!DNL Advertising]](#advertising)
+* [[!DNL Advertising]](#advertising) (mise à jour : **30 mai**)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
@@ -671,11 +671,11 @@ Last updated: **August 9, 2022**
 
 Découvrez les dernières fonctionnalités d’Adobe Advertising.
 
-Dernière mise à jour : **10 avril 2023**
+Dernière mise à jour : **30 mai 2023**
 
 | Fonctionnalité | Description |
 | ------- | ----------- |
-| [!UICONTROL Rapports] | (Version de mars) Un nouveau rapport sur les [!UICONTROL ménages] présente les impressions, la portée et la fréquence à travers différentes dimensions au niveau d’un foyer en fonction de l’adresse IP, plutôt qu’au niveau d’un appareil ou d’un cookie. Le rapport comprend neuf dimensions : [!UICONTROL Campagne], [!UICONTROL Package], [!UICONTROL Emplacement], [!UICONTROL Site/Applications], [!UICONTROL Type de média], [!UICONTROL Appareil], [!UICONTROL Audience], [!UICONTROL Durée de création], et [!UICONTROL Balises] créées par l’utilisateur ou l’utilisatrice. |
+| [!UICONTROL Opérations] | (Version du 24 mai) Vous pouvez désormais suspendre ou activer des campagnes, des modules et des publicités. Vous pouvez déjà suspendre et activer des emplacements. |
 
 {style="table-layout:auto"}
 
