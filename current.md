@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 10e294e2d7e56e168bf2552002beb16923a23e0d
+source-git-commit: d1b6f4a7fdbf4c94e1a122dfbbda78346494bbf7
 workflow-type: tm+mt
-source-wordcount: '5635'
-ht-degree: 97%
+source-wordcount: '5517'
+ht-degree: 96%
 
 ---
 
@@ -677,14 +677,14 @@ Dernière mise à jour : **30 mai 2023**
 
 {style="table-layout:auto"}
 
-### Nouveautés de la version [!DNL Advertising Search] {#advertising-search}
+### Nouveautés de la version [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-Dernière mise à jour : **14 avril 2023**
+Dernière mise à jour : **1er juin 2023**
 
 | Fonctionnalité | Description |
 | ------- | ----------- |
-| [!UICONTROL Opérations] | (Campagnes d’audience [!DNL Microsoft® Advertising] ; version du 15 avril) Les campagnes d’audience peuvent désormais utiliser la stratégie d’enchères « CPM manuel ». Vous pouvez définir des enchères dans les paramètres des groupes d’annonces enfants.<br><br>La prise en charge de l’optimisation n’est pas disponible pour les campagnes CPM. |
-| [!UICONTROL Recommandations] | Six nouvelles recommandations [!DNL Google Ads] sont disponibles à partir de [!UICONTROL Insights et rapports] > [!UICONTROL Recommandations] :<ul><li>[!UICONTROL La recherche responsive améliore l’efficacité des annonces publicitaires] : suggestions afin d’améliorer l’efficacité des annonces publicitaires pour une annonces publicitaire responsive</li><li>[!UICONTROL Mettre à niveau une campagne locale pour que ses performances soient maximales] : mettre à niveau une campagne locale héritée pour qu’elle devienne une campagne au maximum de ses performances</li><li>[!UICONTROL Mettre à niveau la campagne d’achats intelligente pour que ses performances soient maximales] : mettre à niveau une campagne d’achats intelligente héritée pour qu’elle devienne une campagne au maximum de ses performances</li><li>[!UICONTROL Prévision d’un retour sur dépenses publicitaires cible défini] : augmentez le budget avant un événement saisonnier prévu pour augmenter le trafic et modifier la stratégie d’enchères de [!DNL Maximize Conversion Value] à [!DNL Target ROAS].</li><li>[!UICONTROL Augmenter une enchère du CPA cible trop faible] : augmentez le [!DNL Target CPA] d’un montant recommandé lorsqu’il est trop faible et qu’il y a peu ou pas de conversions.</li><li>[!UICONTROL Adoption du développement de l’affichage] : développez la portée en mettant à jour une campagne pour utiliser le développement de l’affichage.</li></ul>Comme l’ajout et la suppression de ressources, ainsi que la modification des types de campagne, des budgets et des stratégies d’enchères peuvent avoir une incidence sur les performances, nous vous recommandons de discuter des avantages et des inconvénients de chaque recommandation avec l’équipe chargée de votre compte Adobe afin que vous puissiez prendre une décision éclairée. |
+| [!UICONTROL Campagnes], [!UICONTROL Rapports], [!UICONTROL Objectifs] | (version bêta ouverte) (version du 30 mai) Conversions suivies par la variable [!DNL Microsoft Advertising] les balises de suivi d’événement universel (UET) sont nouvelles dans les vues et les rapports de gestion de campagne. Vous pouvez également optimiser ces conversions en les incluant dans des objectifs pour les portefeuilles qui contiennent [!DNL Microsoft Advertising] campagnes. |
+| [!UICONTROL Rapports] | (version bêta ouverte) Version du 30 mai) Trois nouveaux rapports spécialisés incluent des données pour [!DNL Microsoft Advertising] extensions de publicité : [!UICONTROL Rapport Détails de l’extension de l’annonce MSA], [!UICONTROL Extension de publicité MSA par rapport aux publicités], et [!UICONTROL Extension de publicité MSA par rapport au mot-clé]. |
 
 {style="table-layout:auto"}
 
