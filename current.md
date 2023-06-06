@@ -6,10 +6,10 @@ last-update: May 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d1b6f4a7fdbf4c94e1a122dfbbda78346494bbf7
+source-git-commit: fef359d7640b8bbe1a35e750e7641e65a071d479
 workflow-type: tm+mt
-source-wordcount: '5517'
-ht-degree: 96%
+source-wordcount: '5647'
+ht-degree: 93%
 
 ---
 
@@ -75,11 +75,15 @@ Accédez à [Experience League](https://experienceleague.adobe.com/?lang=fr#hom
 
 +++Événements à venir
 
-* **[!DNL Experience Manager - Cloud Manager]** | _Heures d’ouverture du champion DAEM - AEM Cloud Manager_ | **31 mai à 7 h 30 PT** | [Enregistrer](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-cloud-manager/)
+* **[!DNL Workfront]** | _Connexion : Admin Chat pour le marketing et les créatifs_ | **6 juin à 15h00 MT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,xDk-NFOQNUSCrwRemwbIYw,hTUwAaMesk-RUHhGMuTCKQ,xpzBbYDs1kKxAlpGmXT1JQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Journey Optimizer]** | _Saut au café de la communauté Adobe Journey Optimizer avec Ivan Mironchuk Peter Fransen, Jason Hickey et Sandra Hausmann_ | **31 mai à 8 h PT** | [Enregistrer](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/adobe-journey-optimizer-community-q-amp-a-coffee-break-may-31st/td-p/593283)
+* **[!DNL Marketo Engage]** | _Marketo et Mochas - Gestion des Parcours client : Modélisation du cycle de vie_ | **8 juin à 13h00 heure d’été** | [Enregistrer](https://register.gotowebinar.com/register/8576570459027384151)
 
-* **[!DNL Audience Manager]** | _Maximiser la valeur avec Adobe Audience Manager : Navigation dans les changements de secteur et transition vers la plateforme RTCDP_ | **1er juin à 10h00 PT** | [Enregistrer](https://adobeint-mid-prod13-m.adobe-campaign.com/nl/jsp/m.jsp?c=%40jfezFOPoEnsrkA40AZ0d3VjOp%2B7K65ZgXxAbnn8Jwu4%3D)
+* **[!DNL Workfront]** | _Demandez aux experts : Tirer parti de l’intégration Adobe Workfront + Creative Cloud gratuite_ | **8 juin à 10h30 MT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ueSOCVtFIkmna7wZj0qUpA,vIUNhWnBmkOH38v4q3nQ8A,VszLUMl3W0268EAiz1tQ_w?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Connexion : Workfront Strategic Admin Chat_ | **12 juin à 8 h 00 CT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,In1kkaMFJ0Kkz4rHJ_FjWA,VULVBg2HWUWGxssI6bizyQ,zDPownyw9EGwqszZO1cshQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Demandez aux experts : Gestion des ressources dans les heures de bureau Workfront_ | **13 juin à 14h00 MT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,f3xda2S9qUiQFiyPwkN8bw,X4tGbEP2nEaLWQC3N4UNng,9hWdr3sEFEe7-p-YB9u-yg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 [Plus…](https://experienceleague.adobe.com/events/?lang=fr)
 
@@ -139,9 +143,9 @@ Retrouvez les dernières informations et la nouvelle documentation pour [!DNL Ex
 
 New videos, tutorials, or courses published for Adobe Experience Platform.-->
 
-### SDK [!DNL Mobile]
+### [!DNL Mobile] SDK
 
-Mise à jour : **11 novembre 2022** - Consultez les [notes de mise à jour et journaux de modifications](https://aep-sdks.gitbook.io/docs/release-notes) pour les [!DNL Mobile SDKs] [!DNL Adobe Experience Platform].
+Voir [Notes de mise à jour](https://developer.adobe.com/client-sdks/documentation/release-notes/) pour le [!DNL Adobe Experience Platform] [!DNL Mobile SDKs].
 
 +++
 
