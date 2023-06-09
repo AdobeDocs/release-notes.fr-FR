@@ -6,10 +6,10 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f5ea5fd49968d95b322127435b048b61ed8b2709
+source-git-commit: 768938cac02fcc31f707cf1763619eb60d35a1dc
 workflow-type: tm+mt
-source-wordcount: '6363'
-ht-degree: 51%
+source-wordcount: '6179'
+ht-degree: 48%
 
 ---
 
@@ -27,7 +27,7 @@ Cette page vous aide à rester au courant des informations sur la mise à jour d
 
 **Besoin d’aide ?**
 
-Se connecter à [Experience League](https://experienceleague.adobe.com/?lang=fr#home) et personnalisez votre expérience de recherche dans la bibliothèque de ressources d’aide autonome d’Adobe. Parcourir [documentation du produit](https://experienceleague.adobe.com/docs/?lang=fr), [tutoriels vidéo](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=fr), [courses](https://experienceleague.adobe.com/?lang=fr#courses), et [events](https://experienceleague.adobe.com/events/?lang=fr) pour tous les niveaux et rôles. Posez vos questions en ligne [communauté](https://experienceleaguecommunities.adobe.com/?profile.language=fr) de pairs et obtenir un expert [support](https://experienceleague.adobe.com/?support-tab=home&amp;lang=fr#support) quand vous en avez le plus besoin.
+Se connecter à [Experience League](https://experienceleague.adobe.com/?lang=fr#home) et personnalisez votre expérience de recherche dans la bibliothèque de ressources d’aide autonome d’Adobe. Parcourir [documentation du produit](https://experienceleague.adobe.com/docs/?lang=fr), [tutoriels vidéo](https://experienceleague.adobe.com/?lang=frdocs/home-tutorials.html), [courses](https://experienceleague.adobe.com/?lang=fr#courses), et [events](https://experienceleague.adobe.com/events?lang=fr/) pour tous les niveaux et rôles. Posez vos questions en ligne [communauté](https://experienceleaguecommunities.adobe.com/?profile.language=fr) de pairs et obtenir un expert [support](https://experienceleague.adobe.com/?support-tab=home&amp;lang=fr#support) quand vous en avez le plus besoin.
 
 ## Mises à jour et événements de version de produit
 
@@ -60,7 +60,7 @@ Dernière mise à jour : **7 juin 2023**
 
 Découvrez des événements passionnants sur Experience League. C&#39;est un excellent endroit pour apprendre, interagir et obtenir les réponses d&#39;experts produit à l&#39;Adobe !
 
-**Mise à jour des événements de juin 2023 :** Sur le [Enregistrements d’événements Experience League](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=en) , vous pouvez utiliser le volet de navigation de gauche pour parcourir les événements passés par le type de série et l’application.
+**Mise à jour des événements de juin 2023 :** Sur le [Enregistrements d’événements Experience League](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) , vous pouvez utiliser le volet de navigation de gauche pour parcourir les événements passés par le type de série et l’application.
 
 +++Événements à venir
 
@@ -74,13 +74,13 @@ Découvrez des événements passionnants sur Experience League. C&#39;est un exc
 
 * **[!DNL Workfront]** | _Demandez aux experts : Gestion des ressources dans les heures de bureau Workfront_ | **13 juin à 14h00 MT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,f3xda2S9qUiQFiyPwkN8bw,X4tGbEP2nEaLWQC3N4UNng,9hWdr3sEFEe7-p-YB9u-yg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-[Plus…](https://experienceleague.adobe.com/events/?lang=fr)
+[Plus…](https://experienceleague.adobe.com/events?lang=fr/)
 
 +++
 
 ## ![Icône](/assets/certification-badge.png) Certification{#certification}
 
-Avis à tous les candidats et les candidates à la certification Adobe ! Connectez-vous sur le nouveau site [Certification](https://experienceleague.adobe.com/docs/certification/program/overview.html?lang=fr) Experience Cloud d’Experience League.
+Avis à tous les candidats et les candidates à la certification Adobe ! Connectez-vous sur le nouveau site [Certification](https://experienceleague.adobe.com/docs/certification/program/overview.html) Experience Cloud d’Experience League.
 
 +++Détails
 
@@ -90,7 +90,7 @@ Le site Certification est votre guichet unique pour tous les contenus liés à l
 * Les renouvellements de certification pour les solutions Adobe
 * Les mises à jour du programme de certification
 
-Et bien plus encore ! Rendez-vous sur [Certification Adobe](https://experienceleague.adobe.com/docs/certification/program/overview.html?lang=fr) sur Experience League et démarrez dès aujourd’hui votre parcours de certification !
+Et bien plus encore ! Rendez-vous sur [Certification Adobe](https://experienceleague.adobe.com/docs/certification/program/overview.html) sur Experience League et démarrez dès aujourd’hui votre parcours de certification !
 
 +++
 
@@ -189,9 +189,9 @@ Nouveaux tutoriels vidéo, articles et cours publiés pour Adobe Analytics.
 
 | Publié | Nom | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-| Juin 2023 | [Reportez-vous à l’analyse des données au niveau suivant avec [!UICONTROL Mesures calculées]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.html?lang=en) | Article | Découvrez comment un expert pair utilise [!UICONTROL Mesures calculées] pour créer des mesures sans modifier leur mise en oeuvre et utiliser les données déjà collectées afin de répondre à des questions complexes. |
-| Juin 2023 | [Utiliser des visualisations et descriptions textuelles dans [!UICONTROL Analysis Workspace]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.html?lang=en) | Article | Découvrez comment un expert pair utilise [!UICONTROL Mesures calculées] pour créer des mesures sans modifier leur implémentation et utiliser les données déjà collectées afin de répondre à des questions complexes. |
-| Juin 2023 | [Utilisez les segments pour découvrir de nouvelles informations dans [!UICONTROL Analysis Workspace]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segmentation-to-discover-new-insights.html?lang=en) | Article | Découvrez comment utiliser des segments dans [!DNL Adobe Analytics] pour découvrir de nouvelles informations à partir de vos [!UICONTROL Analysis Workspace] visualisations et tableaux à structure libre. |
+| Juin 2023 | [Reportez-vous à l’analyse des données au niveau suivant avec [!UICONTROL Mesures calculées]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.html) | Article | Découvrez comment un expert pair utilise [!UICONTROL Mesures calculées] pour créer des mesures sans modifier leur mise en oeuvre et utiliser les données déjà collectées afin de répondre à des questions complexes. |
+| Juin 2023 | [Utiliser des visualisations et descriptions textuelles dans [!UICONTROL Analysis Workspace]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.html) | Article | Découvrez comment un expert pair utilise [!UICONTROL Mesures calculées] pour créer des mesures sans modifier leur implémentation et utiliser les données déjà collectées afin de répondre à des questions complexes. |
+| Juin 2023 | [Utilisez les segments pour découvrir de nouvelles informations dans [!UICONTROL Analysis Workspace]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segmentation-to-discover-new-insights.html) | Article | Découvrez comment utiliser des segments dans [!DNL Adobe Analytics] pour découvrir de nouvelles informations à partir de vos [!UICONTROL Analysis Workspace] visualisations et tableaux à structure libre. |
 | Juin 2023 | [Utilisation [!UICONTROL Analyse des cohortes] pour comprendre le comportement des clients](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.html) | Article | Utilisation [!UICONTROL Analyse des cohortes] pour vous aider à comprendre l’engagement et la rétention, ce qui entraîne des actions telles que l’amélioration de la création de compte et la création de campagnes pour les mois à volume élevé. |
 | Juin 2023 | [Création de segments de Parcours client](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/building-customer-journey-segments.html) | Article | Suivez ce guide détaillé pour créer des segments de parcours client basés sur le comportement dans [!DNL Adobe Analytics] et d’améliorer l’expérience de vos clients avec [!DNL Experience Cloud]. |
 | Juin 2023 | [Au revoir Excel, bonjour Mesures calculées](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.html) | Article | Découvrez les avantages de l’utilisation de [!UICONTROL Mesures calculées] in [!DNL Adobe Analytics] et comment ils peuvent vous fournir une vue continue et dynamique de vos données dans cet article. |
@@ -240,7 +240,7 @@ Nouveaux tutoriels, vidéos ou cours publiés pour [!DNL Customer Journey Analyt
 
 [!DNL Analytics] date de publication : **7 juin 2023**
 
-* [Notes de mise à jour](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html?lang=fr) d’[!DNL Streaming Media Analytics]
+* [Notes de mise à jour](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html) d’[!DNL Streaming Media Analytics]
 * [Documentation et tutoriels du produit](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=fr) [!DNL Streaming Media Analytics]
 
 <!-- ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
@@ -262,7 +262,7 @@ New articles and updates to existing articles for [!DNL Audience Manager].
 
 {style="table-layout:auto"}
 
-For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.
+For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html) on Experience League.
 
 +++ -->
 
@@ -277,7 +277,7 @@ Nouveaux correctifs, fonctionnalités et mises à jour dans Experience Manager.
 Adobe vous conseille de consulter les ressources suivantes pour rester informé des informations de mise à jour :
 
 * [Mises à jour et feuilles de route Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html?lang=fr) - Découvrez la feuille de route des versions d’Experience Manager, les mises à jour précédentes et les mises à jour de la documentation.
-* [Mises à jour de versions d’Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=en) - Regardez la vidéo de présentation des versions actuelles et passées de [!DNL Experience Manager as a Cloud Service].
+* [Mises à jour de versions d’Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html) - Regardez la vidéo de présentation des versions actuelles et passées de [!DNL Experience Manager as a Cloud Service].
 * [Notes de mise à jour actuelles d’Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr) - Lisez les dernières notes de mise à jour de [!DNL Experience Manager as a Cloud Service].
 
 ### Dernière vidéo de présentation de la version
@@ -298,7 +298,7 @@ _Nouvelle fonctionnalité_
 * Prise en charge du nouveau protocole DASH (Dynamic Adaptive Streaming over HTTP) pour le streaming adaptatif dans les diffusions vidéo Dynamic Media (avec CMAF activé) :<!-- OLD. UPDATE FOR JUNE 7 -->
    * La diffusion en continu à débit adaptatif (DASH/HLS) garantit une meilleure expérience de visionnage des vidéos aux utilisateurs et utilisatrices finaux.<!-- OLD. UPDATE FOR JUNE 7 -->
    * Largement adopté dans le secteur, DASH est le protocole standard international pour le streaming à débit adaptatif de vidéos.<!-- OLD. UPDATE FOR JUNE 7 -->
-   * Disponible en Asie-Pacifique et en Amérique du Nord ; [activé au moyen d’un ticket de support](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video.html?lang=fr#enable-dash). Bientôt disponible en Europe, au Moyen-Orient et en Afrique.<!-- OLD. UPDATE FOR JUNE 7 -->
+   * Disponible en Asie-Pacifique et en Amérique du Nord ; [activé au moyen d’un ticket de support](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video.html#enable-dash). Bientôt disponible en Europe, au Moyen-Orient et en Afrique.<!-- OLD. UPDATE FOR JUNE 7 -->
 * Ajout de la prise en charge des images WebP pour extraire automatiquement les métadonnées, générer des miniatures et des rendus personnalisés. Les fonctionnalités de balises intelligentes et de recadrage intelligent sont désormais également prises en charge pour ces fichiers.<!-- OLD. UPDATE FOR JUNE 7 -->
 
 ### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
@@ -306,12 +306,12 @@ _Nouvelle fonctionnalité_
 _Nouvelles fonctionnalités_
 
 * **[Utiliser des composants principaux de capture de données pour créer des formulaires adaptatifs](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/adaptive-forms/introduction.html?lang=fr)** : [utilisez l’éditeur de formulaires adaptatifs](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/creating-adaptive-form-core-components.html?lang=fr) pour créer des formulaires basés sur des composants de capture de données normalisés (composants principaux). Grâce à ces composants, vous bénéficiez de fonctionnalités de personnalisation, d’un temps de développement et de coûts de maintenance réduits pour vos expériences d’inscription numérique.<!-- OLD. UPDATE FOR JUNE 7 -->
-* **[Prise en charge du pipeline Frontend pour le style des formulaires adaptatifs basés sur les composants principaux](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/using-themes-in-core-components.html?lang=fr)** : utilisez des thèmes normalisés basés sur la gestion des balises pour les formulaires adaptatifs basés sur les composants principaux. Vous pouvez les déployer avec le pipeline de déploiement Frontend pour améliorer l’aspect de vos formulaires. Cela peut également vous aider à vous aligner sur les directives de conception approuvées par votre organisation.<!-- OLD. UPDATE FOR JUNE 7 -->
-* **[Générer un document d’enregistrement pour un formulaire adaptatif basé sur les composants principaux](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/generate-document-of-record-core-components.html?lang=fr)** - Créez un document d’enregistrement contenant les données envoyées pour les formulaires adaptatifs créés à l’aide de composants principaux pour l’archivage ou la référence aux utilisateurs finaux et utilisatrices finales, sur papier ou au format de document.<!-- OLD. UPDATE FOR JUNE 7 -->
-* **[Création efficace de formulaires à l’aide de la fonction Enregistrer un formulaire adaptatif en tant que modèle](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-an-adaptive-form-on-forms-cs/template-editor.html?lang=fr#save-an-adaptive-form-as-template-saving-adaptive-form-as-template)** - Accélérez et normalisez le développement de formulaires en enregistrant les formulaires existants approuvés par la marque en tant que modèles de formulaire pour une réutilisation rapide.<!-- OLD. UPDATE FOR JUNE 7 -->
-* **[Connecter AEM Forms à des bases de données prises en charge par JDBC](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=fr#configure-relational-database-configure-relational-database)** - Connectez-vous à des bases de données d’entreprise directement à partir d’AEM Cloud Service à l’aide du protocole JDBC, sans avoir à les exposer via l’API REST.<!-- OLD. UPDATE FOR JUNE 7 -->
-* **[Intégration aux points d’entrée REST à l’aide d’Open API 3.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=fr#configure-restful-services-open-api-specification-version-20-configure-restful-services-swagger-version30)** - Procédez à une intégration en toute transparence dans les systèmes d’enregistrement qui prennent en charge l’API Open 3.0 pour stocker et récupérer des données à l’aide de modèles de données de formulaire.<!-- OLD. UPDATE FOR JUNE 7 -->
-* **[Partager des formulaires adaptatifs pour révision](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-reviews-forms.html?lang=fr)** - Utilisez le mécanisme de révision des formulaires adaptatifs pour permettre à une ou plusieurs personnes de réviser le formulaire.<!-- OLD. UPDATE FOR JUNE 7 -->
+* **[Prise en charge du pipeline Frontend pour le style des formulaires adaptatifs basés sur les composants principaux](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/using-themes-in-core-components.html)** : utilisez des thèmes normalisés basés sur la gestion des balises pour les formulaires adaptatifs basés sur les composants principaux. Vous pouvez les déployer avec le pipeline de déploiement Frontend pour améliorer l’aspect de vos formulaires. Cela peut également vous aider à vous aligner sur les directives de conception approuvées par votre organisation.<!-- OLD. UPDATE FOR JUNE 7 -->
+* **[Générer un document d’enregistrement pour un formulaire adaptatif basé sur les composants principaux](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/generate-document-of-record-core-components.html)** - Créez un document d’enregistrement contenant les données envoyées pour les formulaires adaptatifs créés à l’aide de composants principaux pour l’archivage ou la référence aux utilisateurs finaux et utilisatrices finales, sur papier ou au format de document.<!-- OLD. UPDATE FOR JUNE 7 -->
+* **[Création efficace de formulaires à l’aide de la fonction Enregistrer un formulaire adaptatif en tant que modèle](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-an-adaptive-form-on-forms-cs/template-editor.html#save-an-adaptive-form-as-template-saving-adaptive-form-as-template)** - Accélérez et normalisez le développement de formulaires en enregistrant les formulaires existants approuvés par la marque en tant que modèles de formulaire pour une réutilisation rapide.<!-- OLD. UPDATE FOR JUNE 7 -->
+* **[Connecter AEM Forms à des bases de données prises en charge par JDBC](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html#configure-relational-database-configure-relational-database)** - Connectez-vous à des bases de données d’entreprise directement à partir d’AEM Cloud Service à l’aide du protocole JDBC, sans avoir à les exposer via l’API REST.<!-- OLD. UPDATE FOR JUNE 7 -->
+* **[Intégration aux points d’entrée REST à l’aide d’Open API 3.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html#configure-restful-services-open-api-specification-version-20-configure-restful-services-swagger-version30)** - Procédez à une intégration en toute transparence dans les systèmes d’enregistrement qui prennent en charge l’API Open 3.0 pour stocker et récupérer des données à l’aide de modèles de données de formulaire.<!-- OLD. UPDATE FOR JUNE 7 -->
+* **[Partager des formulaires adaptatifs pour révision](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-reviews-forms.html)** - Utilisez le mécanisme de révision des formulaires adaptatifs pour permettre à une ou plusieurs personnes de réviser le formulaire.<!-- OLD. UPDATE FOR JUNE 7 -->
 
 ### Programme de formulaires adaptatifs découplés destiné aux utilisateurs et utilisatrices précoces
 
@@ -328,9 +328,9 @@ Vous pouvez [envoyer un e-mail à aem-forms-headless@adobe.com](mailto:aem-forms
 
 _Nouvelles fonctionnalités_
 
-* La prise en charge des tests de produit, fonctionnels et de l’interface utilisateur a été étendue à [test de pipeline hors production](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/configuring-non-production-pipelines.html?lang=en). <!-- NEW. LEAVE IN FOR JUNE 7 -->
-* En plus d’activer les tests en amont, [La prise en charge des tests de l’interface utilisateur est désormais étendue aux tests Cypress](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/functional-testing/ui-testing.html?lang=en).<!-- NEW. LEAVE IN FOR JUNE 7 -->
-* [Copie de contenu en libre-service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/content-copy.html?lang=en) est désormais disponible d’un environnement supérieur à un environnement inférieur au moyen de l’interface utilisateur de Cloud Manager.<!-- NEW. LEAVE IN FOR JUNE 7 -->
+* La prise en charge des tests de produit, fonctionnels et de l’interface utilisateur a été étendue à [test de pipeline hors production](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/configuring-non-production-pipelines.html). <!-- NEW. LEAVE IN FOR JUNE 7 -->
+* En plus d’activer les tests en amont, [La prise en charge des tests de l’interface utilisateur est désormais étendue aux tests Cypress](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/functional-testing/ui-testing.html).<!-- NEW. LEAVE IN FOR JUNE 7 -->
+* [Copie de contenu en libre-service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/content-copy.html) est désormais disponible d’un environnement supérieur à un environnement inférieur au moyen de l’interface utilisateur de Cloud Manager.<!-- NEW. LEAVE IN FOR JUNE 7 -->
 * L’étape de validation de l’exécution du pipeline est désormais améliorée afin de valider l’état des files d’attente de réplication plus tôt dans le processus d’exécution. Cette fonctionnalité permet de s’assurer que les étapes de déploiement ne sont pas affectées par les files d’attente bloquées qui sont gérées directement par les utilisateurs administrateurs AEM dans l’environnement de création.<!-- NEW. LEAVE IN FOR JUNE 7 -->
 
 **Correctifs de bugs**
@@ -347,7 +347,7 @@ _Principaux éléments de la mise à jour_
 
 >[!IMPORTANT]
 >
->Adobe vous recommande d’effectuer une [mise à niveau vers la dernière version 1.9.10](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html?lang=fr) du connecteur amélioré Workfront pour Experience Manager. <!-- NEW. LEAVE IN FOR JUNE 7 -->
+>Adobe vous recommande d’effectuer une [mise à niveau vers la dernière version 1.9.10](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html) du connecteur amélioré Workfront pour Experience Manager. <!-- NEW. LEAVE IN FOR JUNE 7 -->
 
 _Problèmes connus_
 
@@ -363,10 +363,10 @@ _Problèmes connus_
 Tous [!DNL Experience Manager] les notes de mise à jour sont conservées aux pages suivantes :
 
 * [Informations de mise à jour d’Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=fr)
-* [Mises à jour de la version d’Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=en)
+* [Mises à jour de la version d’Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)
 * [Notes de mise à jour actuelles d’Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=fr)
 * [Informations de mise à jour d’Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=fr)
-* [Notes de mise à jour de Cloud Manager d’Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=fr)
+* [Notes de mise à jour de Cloud Manager d’Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html)
 * [Notes de mise à jour du service de conversion automatisée de formulaires](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=fr)
 * [Notes de mise à jour du Service Pack 6.5 d’Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=fr)
 * [Notes de mise à jour du pack de correctifs cumulatifs 6.4 d’Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=fr)
@@ -383,12 +383,12 @@ Nouveaux tutoriels, vidéos ou cours publiés pour Experience Manager.
 
 | Publié | Nom | Type | Description | Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-| Juin 2023 | [Premier tutoriel AEM sans affichage](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/headless-first/overview.html?lang=en) | Vidéo | Découvrez le processus de création d’une application web dynamique et interactive en combinant la puissance de React, Adobe [!DNL Experience Manager] API sans affichage et [!DNL GraphQL]. | AEM CS |
+| Juin 2023 | [Premier tutoriel AEM sans affichage](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/headless-first/overview.html) | Vidéo | Découvrez le processus de création d’une application web dynamique et interactive en combinant la puissance de React, Adobe [!DNL Experience Manager] API sans affichage et [!DNL GraphQL]. | AEM CS |
 | Juin 2023 | [Incorporation d’un formulaire adaptatif sans tête](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/introduction.html) | Vidéo | Découvrez comment incorporer un formulaire adaptatif sans tête dans [!UICONTROL Application d’une seule page]. | AEM Forms |
-| Juin 2023 | [Console Fragments de contenu](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/basics/content-fragments-console.html?lang=en) | Plusieurs vidéos | En savoir plus sur les fonctionnalités de base de [!UICONTROL Fragments de contenu] console de création dans  [!DNL AEM as a Cloud Service]. | AEM Sites |
+| Juin 2023 | [Console Fragments de contenu](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/basics/content-fragments-console.html) | Plusieurs vidéos | En savoir plus sur les fonctionnalités de base de [!UICONTROL Fragments de contenu] console de création dans  [!DNL AEM as a Cloud Service]. | AEM Sites |
 | Juin 2023 | [Récupérer et afficher les formulaires au format de carte](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-forms-card-view.html) | Vidéo | Récupération des formulaires sans interface utilisateur `listForms` et afficher les formulaires au format carte. | AEM Forms |
-| Juin 2023 | [Groupes d’utilisateurs Adobe IMS](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=en) | Vidéos | Les groupes d’utilisateurs Adobe IMS établissent des ensembles logiques d’utilisateurs exposés à l’AEM, où ils peuvent être utilisés pour définir des autorisations pour les utilisateurs AEM. | AEM CS |
-| Juin 2023 | [Profils de produit Adobe IMS](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-product-profiles.html?lang=en) | Vidéo | Les profils de produit Adobe IMS permettent aux utilisateurs de se connecter à un service AEM Author et fournissent une ligne de base d’accès, en fonction du profil de produit auquel ils sont membres. | AEM CS |
+| Juin 2023 | [Groupes d’utilisateurs Adobe IMS](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html?lang=fr) | Vidéos | Les groupes d’utilisateurs Adobe IMS établissent des ensembles logiques d’utilisateurs exposés à l’AEM, où ils peuvent être utilisés pour définir des autorisations pour les utilisateurs AEM. | AEM CS |
+| Juin 2023 | [Profils de produit Adobe IMS](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-product-profiles.html?lang=fr) | Vidéo | Les profils de produit Adobe IMS permettent aux utilisateurs de se connecter à un service AEM Author et fournissent une ligne de base d’accès, en fonction du profil de produit auquel ils sont membres. | AEM CS |
 | Juin 2023 | [Série de vidéos GraphQL](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=fr) | Vidéo | Découvrez comment définir et utiliser [!UICONTROL Fragments de contenu] dans Adobe Experience Manager (AEM) pour une utilisation avec GraphQL. | AEM CS |
 | Juin 2023 | [Présentation de la configuration de l’accès à AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/walk-through.html?lang=fr) | Vidéo | Présentation rapide de la configuration des utilisateurs, groupes d’utilisateurs et d’Adobe IMS [!UICONTROL Profils de produit] in [!UICONTROL Admin Console]. Découvrez comment exploiter ces abstractions Adobe IMS dans [!UICONTROL Auteur AEM] pour définir et gérer des autorisations spécifiques basées sur des groupes. | AEM CS |
 
@@ -417,7 +417,7 @@ Nouveaux articles et mises à jour des articles existants pour [!DNL Experience 
 * [Guide de l’utilisateur de Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=fr)
 * [Page dʼaccueil de formation et de support pour Experience Manager 6.5](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=fr)
 * [Page dʼaccueil de formation et de support pour Experience Manager 6.4](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=fr)
-* [Versions plus anciennes de la documentation pour Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=fr#previous-updates)
+* [Versions plus anciennes de la documentation pour Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html#previous-updates)
 * [Page d’accueil de l’aide de Dynamic Media Classic](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=fr)
 * [Documentation Experience Manager : mises à jour récentes](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=fr#aem-as-a-cloud-service)
 
@@ -431,7 +431,7 @@ Learn more about [[!DNL Experience Manager Guides]](https://business.adobe.com/p
 
 ### Additional resources
 
-* [[!DNL Experience Manager Guides]](https://experienceleague.adobe.com/docs/experience-manager-guides-learn/videos/overview.html?lang=en) - tutorials on Experience League
+* [[!DNL Experience Manager Guides]](https://experienceleague.adobe.com/docs/experience-manager-guides-learn/videos/overview.html) - tutorials on Experience League
 * [[!DNL Experience Manager Guides] Learn & Support](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html) - product documentation -->
 
 ## ![Icône](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
@@ -441,11 +441,11 @@ Accédez aux notes de mise à jour, aux nouveaux tutoriels et aux articles de la
 +++Détails
 
 * Voir la documentation [Notes de mise à jour d’Adobe Commerce et de Magento Open Source](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr) afin de rester à jour.
-* Consultez [Disponibilité du produit](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html?lang=fr) pour accéder aux notes de mise à jour de chaque produit et vérifier sa disponibilité.
+* Consultez [Disponibilité du produit](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html) pour accéder aux notes de mise à jour de chaque produit et vérifier sa disponibilité.
 
 >[!NOTE]
 >
->Fin de service d’[!DNL Adobe Search&Promote] le **1er septembre 2022**. Pour la recherche de produits et de commerces, [Live Search](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=fr) est l’application de recherche d’Adobe. Voir l’[annonce de fin de vie](https://experienceleague.adobe.com/docs/discontinued/using/search-promote.html?lang=fr) pour plus d’informations.
+>Fin de service d’[!DNL Adobe Search&Promote] le **1er septembre 2022**. Pour la recherche de produits et de commerces, [Live Search](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html) est l’application de recherche d’Adobe. Voir l’[annonce de fin de vie](https://experienceleague.adobe.com/docs/discontinued/using/search-promote.html) pour plus d’informations.
 
 ### Nouveaux tutoriels pour [!DNL Adobe Commerce] {#tutorials-commerce}
 
@@ -485,8 +485,8 @@ Nouveaux articles et mises à jour des articles existants pour [!DNL Adobe Targe
 | Mai 2023 | [A propos de l&#39;import d&#39;Adobe [!DNL Target] fichiers de flux](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21827.html?lang=fr) | Nouvel article | En savoir plus sur le remplacement ou non des valeurs lors de l’importation d’un Adobe [!DNL Target] fichiers de flux. |
 | Mai 2023 | [À propos du contenu de sauvegarde qui fonctionne avec Adobe Target &quot;Séquence de critères&quot;](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22032.html?lang=fr) | Nouvel article | En savoir plus sur le contenu de sauvegarde qui fonctionne avec [!DNL Criteria Sequence]in [!DNL Adobe Target]. |
 
-* Pour obtenir des informations sur la version préliminaire, voir Version préliminaire d’[[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=fr).
-* Pour obtenir des informations à jour, voir Notes de mise à jour d’[[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=fr).
+* Pour obtenir des informations sur la version préliminaire, voir Version préliminaire d’[[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html).
+* Pour obtenir des informations à jour, voir Notes de mise à jour d’[[!DNL Adobe Target] ](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html).
 
 +++
 
@@ -498,9 +498,9 @@ Obtenez les dernières mises à jour d’[!DNL Adobe Campaign]. Découvrez de no
 
 ### Dernières mises à jour d’Adobe Campaign
 
-* [!DNL Campaign Control Panel] Version de mai, avec délégation de certificats SSL de sous-domaines à Adobe. [En savoir plus…](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=fr)
+* [!DNL Campaign Control Panel] Version de mai, avec délégation de certificats SSL de sous-domaines à Adobe. [En savoir plus…](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html)
 
-Découvrez-en plus sur les dernières fonctionnalités, améliorations et correctifs dans les notes de mise à jour de [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=fr), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=fr) et [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=fr).
+Découvrez-en plus sur les dernières fonctionnalités, améliorations et correctifs dans les notes de mise à jour de [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=fr), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html) et [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=fr).
 
 ### Nouveaux tutoriels et cours sur [!DNL Campaign] {#tutorials-campaign}
 
@@ -509,7 +509,7 @@ Nouveaux tutoriels, vidéos ou cours publiés pour [!DNL Adobe Campaign].
 | Publié | Nom | Type | Description | Application |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | Juin 2023 | [Concevoir du contenu de diffusion e-mail](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html?lang=fr) | Vidéo | Découvrez comment configurer, personnaliser et tester le contenu d’une diffusion e-mail. Découvrez comment utiliser des modèles, télécharger des images, ajouter des émoticônes et incorporer des codes à barres et des codes QR. | Campaign Classic v7 |
-| Juin 2023 | [Résolution des problèmes pour les marketeurs : 5 Erreurs courantes de workflow et de diffusion](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/strategy/troubleshooting-for-marketers.html?lang=en) | Vidéo | Découvrez comment éviter les erreurs courantes et optimiser votre productivité. Ces conseils de dépannage vous aident à résoudre efficacement des erreurs similaires lorsqu’elles se produisent. | Campaign Standard |
+| Juin 2023 | [Résolution des problèmes pour les marketeurs : 5 Erreurs courantes de workflow et de diffusion](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/strategy/troubleshooting-for-marketers.html) | Vidéo | Découvrez comment éviter les erreurs courantes et optimiser votre productivité. Ces conseils de dépannage vous aident à résoudre efficacement des erreurs similaires lorsqu’elles se produisent. | Campaign Standard |
 
 {style="table-layout:auto"}
 
@@ -534,7 +534,7 @@ Nouveaux articles et mises à jour des articles existants pour [!DNL Campaign].
 * [!DNL Campaign] v8 : [Documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=fr) - [Notes de mise à jour](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html?lang=fr) - [Guides d’implémentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html?lang=fr)
 * [!DNL Campaign] Standard : [Documentation de Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=fr) - [Notes de mise à jour](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=fr) - [Tutoriels vidéo](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=fr) - [Calendrier des versions](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=fr) - [Dernières mises à jour de la documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=fr)
 * [!DNL Campaign] Classic : [Documentation de Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=fr) - [Notes de mise à jour](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=fr) - [Tutoriels vidéo](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=fr) - [Dernières mises à jour de la documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=fr)
-* Panneau de contrôle [!DNL Campaign] : [Documentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr) - [Notes de mise à jour](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=fr) - [Tutoriels vidéo](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=fr)
+* Panneau de contrôle [!DNL Campaign] : [Documentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=fr) - [Notes de mise à jour](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html) - [Tutoriels vidéo](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=fr)
 
 +++
 
@@ -548,7 +548,7 @@ Découvrez les informations les plus récentes sur [!DNL Journey Optimizer]. Con
 
 Nouvelles fonctionnalités :
 
-* [!DNL Adobe Journey Optimizer] Version de mai, avec[!UICONTROL  Expérience de contenu] et [!UICONTROL Fragments de courrier électronique]. [En savoir plus…](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=fr )
+* [!DNL Adobe Journey Optimizer] Version de mai, avec[!UICONTROL  Expérience de contenu] et [!UICONTROL Fragments de courrier électronique]. [En savoir plus…](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=fr)
 
 * [!UICONTROL Gestion des décisions] Version de mai, avec [!UICONTROL Optimisation personnalisée AI] modèle de classement. [En savoir plus…](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=fr)
 
@@ -609,8 +609,8 @@ Découvrez les dernières notes de mise à jour et le planning des versions de [
 
 ### Mises à jour de Core Marketo Engage
 
-* Pour obtenir les informations les plus récentes, consultez les [notes de mise à jour de mars 2023](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html?lang=fr).
-* Consultez la page [calendrier des versions](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=fr) de [!DNL Marketo Engage] pour consulter les informations les plus récentes sur le calendrier des versions et les notes de mise à jour.
+* Pour obtenir les informations les plus récentes, consultez les [notes de mise à jour de mars 2023](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html).
+* Consultez la page [calendrier des versions](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html) de [!DNL Marketo Engage] pour consulter les informations les plus récentes sur le calendrier des versions et les notes de mise à jour.
 
 ### Nouveaux tutoriels et cours sur Marketo {#tutorials-marketo}
 
@@ -622,10 +622,10 @@ Nouveaux tutoriels, vidéos et cours publiés pour Adobe Marketo.
 | Juin 2023 | [Programmes de messagerie électronique](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/email-programs.html) | Vidéo | Regardez ce tutoriel détaillé pour savoir comment créer un programme de messagerie avec un test A/B. |
 | Juin 2023 | [Programmes d&#39;engagement](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-programs.html) | Vidéo | Suivez ce tutoriel détaillé pour créer votre premier programme d’engagement. |
 | Juin 2023 | [Programmes d’événements](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/event-programs.html) | Vidéo | Développez une compréhension fondamentale et créez votre premier programme d’événements en regardant cette vidéo. |
-| Juin 2023 | [Création d’un programme d’événement](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en) | Vidéo | Découvrez comment créer un programme d’événement de salon basé sur un programme prédéfini dans [!DNL Marketo]. |
-| Juin 2023 | [Rapports et analyses](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/reporting/reporting-and-analytics.html?lang=en) | Vidéo | Découvrez comment naviguer dans la [!DNL Analytics] et [!UICONTROL Base] pour extraire différents rapports d’usine dans [!DNL Marketo Engage]. |
-| Juin 2023 | [Présentation des programmes et campagnes Marketo](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/programs-and-campaigns.html?lang=en) | Vidéo | Les programmes représentent une initiative marketing unique. Découvrez comment les utiliser avec des campagnes pour atteindre votre audience de différentes manières. |
-| Juin 2023 | [Navigation dans l’interface utilisateur du Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/ui-navigation.html?lang=en) | Vidéo | Découvrez comment naviguer dans l’interface utilisateur et vous familiariser avec votre façon de contourner le [!DNL Marketo Engage] plateforme. |
+| Juin 2023 | [Création d’un programme d’événement](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html) | Vidéo | Découvrez comment créer un programme d’événement de salon basé sur un programme prédéfini dans [!DNL Marketo]. |
+| Juin 2023 | [Rapports et analyses](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/reporting/reporting-and-analytics.html) | Vidéo | Découvrez comment naviguer dans la [!DNL Analytics] et [!UICONTROL Base] pour extraire différents rapports d’usine dans [!DNL Marketo Engage]. |
+| Juin 2023 | [Présentation des programmes et campagnes Marketo](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/programs-and-campaigns.html) | Vidéo | Les programmes représentent une initiative marketing unique. Découvrez comment les utiliser avec des campagnes pour atteindre votre audience de différentes manières. |
+| Juin 2023 | [Navigation dans l’interface utilisateur du Marketo Engage](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/ui-navigation.html) | Vidéo | Découvrez comment naviguer dans l’interface utilisateur et vous familiariser avec votre façon de contourner le [!DNL Marketo Engage] plateforme. |
 
 {style="table-layout:auto"}
 
@@ -645,7 +645,7 @@ Nouveaux cours et tutoriels [!DNL Workfront] sur Experience League.
 
 | Publié | Nom | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-| Juin 2023 | [Mises à jour des tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=fr) | Vidéos et articles | Parcourez les [!DNL Workfront] bibliothèque de tutoriels pour accéder aux derniers tutoriels vidéo et d’article récemment publiés sur Experience League. |
+| Juin 2023 | [Mises à jour des tutoriels Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html) | Vidéos et articles | Parcourez les [!DNL Workfront] bibliothèque de tutoriels pour accéder aux derniers tutoriels vidéo et d’article récemment publiés sur Experience League. |
 
 {style="table-layout:auto"}
 
@@ -725,22 +725,22 @@ Nouveaux tutoriels et cours publiés pour [!DNL Document Cloud], y compris [!DNL
 
 | Publié | Nom | Type | Description | Application |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Juin 2023 | [Redaction : La bonne voie](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/redaction.html?lang=en) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, découvrez la méthode appropriée pour supprimer des informations sensibles d’un PDF. | Acrobat Pro |
-| Juin 2023 | [Partage d’un PDF pour les commentaires](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/share-comment.html?lang=en) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, apprenez à partager un PDF afin de recueillir rapidement les commentaires de plusieurs personnes dans un seul fichier. | Acrobat |
-| Juin 2023 | [Partage et commentaires de fichiers PDF dans les équipes](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/share-comment-teams.html?lang=en) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, apprenez à collaborer en temps réel sur un fichier de PDF dans Microsoft Teams. | Acrobat |
-| Juin 2023 | [Comparaison des différences avec PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/compare.html?lang=en) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, découvrez comment repérer les différences entre deux fichiers de PDF à l’aide de l’outil Comparer des fichiers dans Acrobat. | Acrobat Pro |
-| Juin 2023 | [Réorganisation des commentaires des PDF avec résumé](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/summarize-comments.html?lang=en) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, apprenez à créer un résumé de tous les commentaires et annotations dans votre fichier de PDF. | Acrobat |
+| Juin 2023 | [Redaction : La bonne voie](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/redaction.html) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, découvrez la méthode appropriée pour supprimer des informations sensibles d’un PDF. | Acrobat Pro |
+| Juin 2023 | [Partage d’un PDF pour les commentaires](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/share-comment.html) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, apprenez à partager un PDF afin de recueillir rapidement les commentaires de plusieurs personnes dans un seul fichier. | Acrobat |
+| Juin 2023 | [Partage et commentaires de fichiers PDF dans les équipes](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/share-comment-teams.html) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, apprenez à collaborer en temps réel sur un fichier de PDF dans Microsoft Teams. | Acrobat |
+| Juin 2023 | [Comparaison des différences avec PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/compare.html) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, découvrez comment repérer les différences entre deux fichiers de PDF à l’aide de l’outil Comparer des fichiers dans Acrobat. | Acrobat Pro |
+| Juin 2023 | [Réorganisation des commentaires des PDF avec résumé](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/summarize-comments.html) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, apprenez à créer un résumé de tous les commentaires et annotations dans votre fichier de PDF. | Acrobat |
 | Juin 2023 | [Convertir un PDF en Word](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-word.html) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, découvrez comment convertir un fichier de PDF en document Word Microsoft entièrement modifiable. | Acrobat |
-| Juin 2023 | [Création d’un PDF à partir de Microsoft Word](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/word-to-pdf.html?lang=en) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, apprenez à créer un PDF à partir de Microsoft Word. | Acrobat |
+| Juin 2023 | [Création d’un PDF à partir de Microsoft Word](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/word-to-pdf.html) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, apprenez à créer un PDF à partir de Microsoft Word. | Acrobat |
 | Juin 2023 | [Conformer un PDF à un format standard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/conform.html) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, apprenez à valider le contenu du PDF par rapport aux critères standard du PDF tels que PDF/X, PDF/A ou PDF/E. | Acrobat Pro |
-| Juin 2023 | [Création de fichiers PDF avec Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/create-from-acrobat.html?lang=en) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, découvrez comment créer des PDF à partir de [!DNL Microsoft 365] fichiers directement dans l’appli de bureau Acrobat. | Acrobat |
+| Juin 2023 | [Création de fichiers PDF avec Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/create-from-acrobat.html) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, découvrez comment créer des PDF à partir de [!DNL Microsoft 365] fichiers directement dans l’appli de bureau Acrobat. | Acrobat |
 | Juin 2023 | [Convertir un PDF en Excel](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-excel.html) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, découvrez comment convertir un fichier de PDF en document Excel Microsoft entièrement modifiable. | Acrobat |
 | Juin 2023 | [Convertir un PDF en PowerPoint](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-powerpoint.html) | Vidéo | Dans ce tutoriel vidéo de 60 secondes, découvrez comment convertir un fichier de PDF en document Microsoft PowerPoint entièrement modifiable. | Acrobat |
 | Juin 2023 | [Collaboration en temps réel](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html?lang=fr) | Vidéo | Avec un travail à distance partout, une collaboration transparente est essentielle pour diffuser du contenu à grande vitesse et à grande échelle. Faites avancer vos projets en recueillant des commentaires, en travaillant en collaboration sur des réponses et en effectuant le suivi de vos documents en temps réel, où que vous soyez. | Acrobat Sign |
 | Juin 2023 | [Gestion des données de formulaire](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/manage-form-data.html) | Vidéo | Découvrez comment consolider des données de formulaire à partir de vos documents afin que vous puissiez les afficher et les gérer dans un rapport ou une feuille de calcul Excel. | Acrobat Sign |
-| Juin 2023 | [Méthodes d’authentification dans Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html?lang=en) | Vidéo | Découvrez l’ensemble des méthodes disponibles dans Acrobat Sign pour authentifier l’identité d’une personne qui signe un document. L’authentification des identités permet de réduire les fraudes et ajoute une couche de sécurité supplémentaire aux documents signés. | |
-| Juin 2023 | [Ajout d’utilisateurs](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/add-users-to-your-account.html?lang=en) | Vidéo | Découvrez comment ajouter et gérer des utilisateurs pour Acrobat Sign. La gestion des utilisateurs s’effectue dans le Admin Console. | Acrobat Sign |
-| Juin 2023 | [Options de rapport pour les utilisateurs](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/report-options.html?lang=en) | Vidéo | En tant qu’administrateur Acrobat Sign, découvrez comment configurer des options de rapport pour les utilisateurs. | Acrobat Sign |
+| Juin 2023 | [Méthodes d’authentification dans Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html) | Vidéo | Découvrez l’ensemble des méthodes disponibles dans Acrobat Sign pour authentifier l’identité d’une personne qui signe un document. L’authentification des identités permet de réduire les fraudes et ajoute une couche de sécurité supplémentaire aux documents signés. | |
+| Juin 2023 | [Ajout d’utilisateurs](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/add-users-to-your-account.html) | Vidéo | Découvrez comment ajouter et gérer des utilisateurs pour Acrobat Sign. La gestion des utilisateurs s’effectue dans le Admin Console. | Acrobat Sign |
+| Juin 2023 | [Options de rapport pour les utilisateurs](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/report-options.html) | Vidéo | En tant qu’administrateur Acrobat Sign, découvrez comment configurer des options de rapport pour les utilisateurs. | Acrobat Sign |
 
 {style="table-layout:auto"}
 
@@ -760,25 +760,25 @@ New videos, tutorials, or courses published for [!DNL Creative Cloud] for enterp
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2023|[Professional motion graphics templates](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/motion-graphics-templates.html?lang=en)|PDF tutorial|Using the Essential Graphics workflow in Adobe After Effects and Adobe Premiere Pro, editors can import MOGRTs and set properties. Properties include text, fonts, color, size, speed, or layout editable, while maintaining the sequence's consistent look and design.|
-|January 2023|[Collaboration: The Future of Creativity](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/collaboration-the-future-of-creativity.html?lang=en)|PDF tutorial |Get free access to more than 20,000 professionally designed and curated fonts from Adobe Fonts. Originally known as Typekit, Adobe Fonts are available through a single licensing agreement that gives designers unlimited creative use for personal or commercial projects.|
-|January 2023|[3D design and rendering](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/3doverview/3dtutorials/substance-3d-stager.html?lang=en)|PDF tutorial |Import content, arrange your scene, apply materials and textures, adjust image-based and physical lighting, save cameras with different resolutions, and render photorealistic imagery - all in Adobe Substance 3D Stager.|
-|January 2023|[Adobe Express: Content that stands out](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/adobe-express-content-that-stands-out.html?lang=en)|PDF tutorial |Create beautiful graphics, web pages, and video stories in minutes with Adobe Express (formerly known as Adobe Spark). Working from thousands of professionally designed templates, make social posts and stories, flyers, logos, booklets, posters, and more. Start for free, and make content that always stands out.|
+|January 2023|[Professional motion graphics templates](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/motion-graphics-templates.html)|PDF tutorial|Using the Essential Graphics workflow in Adobe After Effects and Adobe Premiere Pro, editors can import MOGRTs and set properties. Properties include text, fonts, color, size, speed, or layout editable, while maintaining the sequence's consistent look and design.|
+|January 2023|[Collaboration: The Future of Creativity](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/collaboration-the-future-of-creativity.html)|PDF tutorial |Get free access to more than 20,000 professionally designed and curated fonts from Adobe Fonts. Originally known as Typekit, Adobe Fonts are available through a single licensing agreement that gives designers unlimited creative use for personal or commercial projects.|
+|January 2023|[3D design and rendering](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/3doverview/3dtutorials/substance-3d-stager.html)|PDF tutorial |Import content, arrange your scene, apply materials and textures, adjust image-based and physical lighting, save cameras with different resolutions, and render photorealistic imagery - all in Adobe Substance 3D Stager.|
+|January 2023|[Adobe Express: Content that stands out](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/adobe-express-content-that-stands-out.html)|PDF tutorial |Create beautiful graphics, web pages, and video stories in minutes with Adobe Express (formerly known as Adobe Spark). Working from thousands of professionally designed templates, make social posts and stories, flyers, logos, booklets, posters, and more. Start for free, and make content that always stands out.|
 
 {style="table-layout:auto"} 
 
-See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=en) for the latest tutorials.
+See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) for the latest tutorials.
 
 +++
 -->
 
 <!-- ## ![Icon](/assets/experience-league.png) Customer Data Management - Voices {#voices}
 
-[Customer Data Management Voices](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=en) is your destination as a customer data management technical and marketing practice leader and specialist. This collection of tutorials is your one-stop-shop to hear from your peers, get inspired, and learn about developments in MarTech. No registration required, simply click and watch.
+[Customer Data Management Voices](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html) is your destination as a customer data management technical and marketing practice leader and specialist. This collection of tutorials is your one-stop-shop to hear from your peers, get inspired, and learn about developments in MarTech. No registration required, simply click and watch.
 
 ## ![Icon](/assets/experience-league.png) Digital Experience Blueprints {#blueprints}
 
-[Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
+[Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
 
 -->
 
@@ -788,4 +788,4 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 
 | Publié | Nom | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-| Juin 2023 | [Collecte de données de transfert d’événement multi-environnements de test](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-ingestion/multi-sandbox-event-forwarding.html?lang=en) | Tutoriel sur le plan directeur | Découvrez comment les données collectées avec les SDK web et mobiles Experience Platform peuvent être configurées pour collecter un seul événement et les transférer vers plusieurs environnements de test AEP. |
+| Juin 2023 | [Collecte de données de transfert d’événement multi-environnements de test](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-ingestion/multi-sandbox-event-forwarding.html) | Tutoriel sur le plan directeur | Découvrez comment les données collectées avec les SDK web et mobiles Experience Platform peuvent être configurées pour collecter un seul événement et les transférer vers plusieurs environnements de test AEP. |
