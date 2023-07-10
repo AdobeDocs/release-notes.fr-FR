@@ -6,10 +6,10 @@ last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: c08bbc9f5d6e25782426c3cc7ee9ccdc43157a1f
+source-git-commit: 1920ee48d086e95dfcfe608f6c17e0cbd197b99c
 workflow-type: tm+mt
-source-wordcount: '6168'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,9 +31,9 @@ Connectez-vous à [Experience League](https://experienceleague.adobe.com/?lang=f
 
 ## Mises à jour et événements de version de produit
 
-Dernière mise à jour : **21 juin 2023**
+Dernière mise à jour : **10 juillet 2023** (page Événements)
 
-* [Événements et mises à jour [!DNL Experience League]](#events)
+* [[!DNL Experience League] événements et mises à jour](#events) (mise à jour **10 juillet**)
 * [Certification Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [Interface et administration [!DNL Experience Cloud]](#ecloud)
@@ -65,15 +65,19 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 
 +++Événements à venir
 
-* **[!DNL Commerce]** | _Commerce et café : optimisation du succès B2B_ | **22 juin à 19 h 00 (heure de Paris)** | [S’inscrire](https://register.gotowebinar.com/register/2180200047542819420)
+* **[!DNL Workfront]** | _Connexion : Conversation communautaire_ | **13 juillet à 10 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,uwMNG0gwA02-Wu9Xq90mrw,WUjKeYMc_UuHvDNaLK1fNQ,PtEPc-2kMU-u_LlbNihIRA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager]** | _Maîtriser l’art de la certification Experience Manager : à vos marques, prêt(e), certifié(e) !_ | Le **28 juin à 17 h 00 (heure de Paris)** | [S’inscrire](https://adobe.ly/3Ni6XeL)
+* **[!DNL Analytics]** | _Mesure du marketing, de haut en bas et de près_ | **13 juillet à 9h00 BST** | [Enregistrer](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Marketo Engage]** | _Suivi, analyse et optimisation de vos campagnes marketing avec Marketo Engage_ | Le **28 juin à 17 h 00 (heure de Paris)** | [S’inscrire](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
+* **[!DNL Workfront]** | _Connexion : Admin Chat pour le marketing et les créatifs_ | **14 juillet à 10h00 MT** | [Enregistrer](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Workfront]** | _Questions aux experts : suivi du webinaire sur l’établissement d’un centre d’excellence_ | Le **28 juin à 10 h 00 CET** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Analytics]** | _Déverrouiller la valeur de vos canaux marketing_ | **18 juillet à 8 h PT** | [Enregistrer](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-[Plus…](https://experienceleague.adobe.com/events?lang=fr/)
+* **[!DNL AEM as a Cloud Service]** | _Stratégies de sécurité efficaces en Cloud Service_ | **18 juillet à 8 h PT** | [Enregistrer](https://engage.adobe.com/Security-in-the-cloud-webinar-registration.com.html?sdid=3SH1B1RV)
+
+* **[!DNL Workfront]** | _En savoir plus : Cumul de la version Adobe Workfront 23.3_ | **20 juillet à 11h00 CT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Je34nFV8mUmZdJPLSSyi5w,udIB9iEIOE-oBiAHzx2lFQ,t2YddgmhWkq780UhYr3y0Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+Afficher tout [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourir [enregistrements d’événement](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=fr). Vous pouvez désormais utiliser le volet de navigation de gauche pour rechercher des événements enregistrés en fonction du type de série ou de l’application.
 
 +++
 
