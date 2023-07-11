@@ -6,9 +6,9 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4dadca326d9e6a132beab1da488cb6675aa7ffc5
+source-git-commit: fad4343c9edcfbb296767a4cef17b5a363f096ab
 workflow-type: tm+mt
-source-wordcount: '5809'
+source-wordcount: '5838'
 ht-degree: 41%
 
 ---
@@ -72,6 +72,8 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 * **[!DNL Analytics]** | _Déverrouiller la valeur de vos canaux marketing_ | **18 juillet à 8 h PT** | [Enregistrer](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
 * **[!DNL AEM as a Cloud Service]** | _Stratégies de sécurité efficaces en Cloud Service_ | **18 juillet à 8 h PT** | [Enregistrer](https://engage.adobe.com/Security-in-the-cloud-webinar-registration.com.html?sdid=3SH1B1RV)
+
+* **[!DNL Analytics]** | EXL Live : _Audiences exploitables au même endroit, issues de n’importe quelle source, avec des contrôles standard_ | **20 juillet à 9 h PT** ([Lien d’événement](https://www.youtube.com/watch?v=QaJy9Tp-vTE)) | [Enregistrer](https://engage.adobe.com/ExpLeagueLive-230720.html)
 
 * **[!DNL Workfront]** | _En savoir plus : Cumul de la version Adobe Workfront 23.3_ | **20 juillet à 11h00 CT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Je34nFV8mUmZdJPLSSyi5w,udIB9iEIOE-oBiAHzx2lFQ,t2YddgmhWkq780UhYr3y0Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
