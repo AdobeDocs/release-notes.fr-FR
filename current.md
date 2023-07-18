@@ -6,7 +6,7 @@ last-update: July 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 40796032c6e2464215de160b6834bb7cc841b379
+source-git-commit: 86a6d628b123ec77f5b64e0a80dc0b0dc56bb72a
 workflow-type: tm+mt
 source-wordcount: '5836'
 ht-degree: 41%
@@ -31,7 +31,7 @@ Connectez-vous à [Experience League](https://experienceleague.adobe.com/?lang=f
 
 ## Mises à jour et événements de version de produit
 
-Dernière mise à jour : **12 juillet 2023**
+Dernière mise à jour : **18 juillet 2023**
 
 * [Événements et mises à jour [!DNL Experience League]](#events)
 * [Certification Adobe](#certification)
@@ -176,7 +176,7 @@ Recherchez les dernières informations de mise à jour pour [!DNL Adobe Analytic
 
 ### AppMeasurement {#appm}
 
-Version : **2.23.0**
+Version : **2.24.0**
 
 * [Notes de mise à jour d’AppMeasurement pour JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=fr)
 
@@ -360,7 +360,7 @@ Cette fonctionnalité contribue à améliorer votre fonctionnalité globale de g
 
 [Méthodes d’authentification améliorées pour le modèle de données de formulaire](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=fr): Une sécurité renforcée de l’expérience grâce à l’introduction de l’authentification basée sur les informations d’identification du client pour connecter AEM Forms (modèles de données de formulaire) à des sources de données compatibles. Cette amélioration élimine le besoin d’usurpation d’identité ou de connexion utilisateur, renforçant la protection de vos données.
 
-[Création d’un Forms adaptatif avec des sections répétables](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/create-forms-repeatable-sections.html): Vous pouvez désormais créer des composants Accordéon, Assistant, Panneau et Onglets horizontaux dans un formulaire adaptatif basé sur les composants principaux afin de créer des sections répétables.
+[Création d’un Forms adaptatif avec des sections répétables](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/create-forms-repeatable-sections.html?lang=fr): Vous pouvez désormais créer des composants Accordéon, Assistant, Panneau et Onglets horizontaux dans un formulaire adaptatif basé sur les composants principaux afin de créer des sections répétables.
 
 Ces sections répétables vous permettent de fournir un nombre illimité d’entrées sans nombre fixe de champs. Elle est utile lorsque les instances de données requises sont inconnues à l’avance. Les utilisateurs de Forms peuvent facilement ajouter ou supprimer des sections, en adaptant les formulaires à différents scénarios de saisie de données et en simplifiant la collecte de plusieurs occurrences des mêmes données.
 
