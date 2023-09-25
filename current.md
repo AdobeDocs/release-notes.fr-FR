@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 8e68c850554a8d3d464c4ae77bf4f3ede156c5d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '7132'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -68,7 +68,7 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 
 | Publié | Application | Nom | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| Septembre 2023 | Experience Cloud | [Définir une stratégie Audience Activation efficace](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=fr) | Webinaire « Succès client » | Découvrez l’importance d’une stratégie de gestion des données, de la présentation et des fonctionnalités de Adobe Audience Manager, des cas d’utilisation de Adobe Audience Manager et du plan d’action pour configurer une stratégie de gestion des données. |
+| Septembre 2023 | Experience Cloud | [Définir une stratégie Audience Activation efficace](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=fr) | Webinaire « Succès client » | Découvrez les éléments suivants : importance d’une stratégie de gestion des données ; vue d’ensemble et fonctionnalités d’Adobe Audience Manager ; cas d’utilisation d’Adobe Audience Manager et plan d’action pour la configuration d’une stratégie de gestion des données |
 | Été 2023 | Experience Cloud | [Page d’accueil des tutoriels d’intégration pour les applications Experience Cloud](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html?lang=fr) | Vidéos | Découvrez les intégrations d’applications Experience Cloud les plus courantes. Parcourez les tutoriels d’intégration par [solution](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=fr) ou [application](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=fr). Ce contenu est fréquemment mis à jour. Nous vous conseillons de le consulter régulièrement. |
 
 {style="table-layout:auto"}
@@ -91,7 +91,7 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 
 * **[!DNL WORKFRONT]** | Atelier clientèle | _Admin 101 - Inciter vos utilisateurs et utilisatrices à utiliser Workfront_ | **17 octobre à 9:00 MT** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL AEM]** et **[!DNL COMMERCE]** | Développeurs en direct | _Contenu et commerce : une session de plongée approfondie sur [!UICONTROL Services de diffusion Edge], fonctionnalités sans interface, extensibilité, composabilité et outils de productivité_ | **6 novembre à 9h00 MT** | [Enregistrer](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+* **[!DNL AEM]** et **[!DNL COMMERCE]** | Developers Live | _Contenu et Commerce : une session approfondie sur les [!UICONTROL services de diffusion Edge], les fonctionnalités découplées, l’extensibilité, la composabilité et les outils de productivité_ | **6 novembre à 9:00 MT** | [S’inscrire](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
 Affichez tous les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=fr). Vous pouvez désormais utiliser le volet de navigation de gauche pour rechercher des événements enregistrés en fonction du type de série ou de l’application.
 
@@ -600,7 +600,7 @@ Obtenez les dernières mises à jour d’[!DNL Adobe Campaign]. Découvrez de no
 
 * Nouveau ! [Notes de mise à jour](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=fr) de Campaign v8.5.2
 
-* [Notes de mise à jour](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=fr) de Campaign Standard
+* [Notes de mise à jour](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=fr) de Campaign Standard
 
 * [Notes de mise à jour](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=fr) de Campaign Classic v7.3.4
 
@@ -772,13 +772,13 @@ Voir [Nouveautés de [!DNL Advertising Search, Social, & Commerce]](https://expe
 
 ## ![Icône](/assets/pass.png) [!DNL Adobe Pass] {#pass}
 
-[!DNL Adobe Pass] est une plateforme télévisée multi-écran qui aide les diffuseurs, les réseaux câblés et les fournisseurs de services à créer et à rentabiliser des contenus personnalisés et attrayants.
+[!DNL Adobe Pass] est une plateforme de télévision multi-écran qui aide les diffuseurs, les réseaux câblés et les prestataires de services à créer et monétiser des expériences de visionnage personnalisées et attrayantes.
 
 >[!NOTE]
 >
->_[!DNL Adobe Primetime]_est maintenant_[!DNL Adobe Pass]_. Il se peut que les deux noms de marque apparaissent dans la documentation dans un avenir proche, jusqu’à ce que le travail de recomposition soit terminé.
+>_[!DNL Adobe Primetime]_est maintenant_[!DNL Adobe Pass]_. Il se peut que les deux noms de marque apparaissent encore dans la documentation dans un avenir proche, jusqu’à ce que le travail de recomposition soit terminé.
 
-Voir [Notes de mise à jour d’Adobe Pass](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=fr) pour trouver des informations spécifiques à la version, les exigences du système, les limites, les problèmes résolus et les problèmes connus.
+Voir les [Notes de mise à jour d’Adobe Pass](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=fr) afin de consulter les informations spécifiques à la version, les exigences du système, les limites, les problèmes résolus et les problèmes connus.
 
 ## ![Icône](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
