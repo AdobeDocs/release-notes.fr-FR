@@ -1,6 +1,6 @@
 ---
 title: Dernières notes de mise à jour
-description: Rechercher les dernières notes de mise à jour d’Adobe [!DNL Experience Cloud] produits et services. Découvrez les événements à venir et la nouvelle documentation sur Experience League. Découvrez les derniers tutoriels et cours pour les applications [!DNL Experience Cloud] .
+description: Découvrez les dernières notes de mise à jour de produits et services Adobe  [!DNL Experience Cloud] . Découvrez les événements à venir et la nouvelle documentation sur Experience League. Découvrez les derniers tutoriels et cours pour les applications [!DNL Experience Cloud] .
 doc-type: release notes
 last-update: November 2023
 author: mfrei
