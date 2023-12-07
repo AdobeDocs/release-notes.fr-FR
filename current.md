@@ -1,15 +1,15 @@
 ---
 title: Dernières notes de mise à jour
-description: Découvrez les dernières notes de mise à jour de produits et services Adobe  [!DNL Experience Cloud] . Découvrez les événements à venir et la nouvelle documentation sur Experience League. Découvrez les derniers tutoriels et cours pour les applications [!DNL Experience Cloud] .
+description: Rechercher les dernières notes de mise à jour d’Adobe [!DNL Experience Cloud] produits et services. Découvrez les événements à venir et la nouvelle documentation sur Experience League. Découvrez les derniers tutoriels et cours pour les applications [!DNL Experience Cloud] .
 doc-type: release notes
 last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 20653cbc6b9ffc851c61b1dbe1508fece4f720fe
+source-git-commit: 0d2bdc559acd32422ad183b28cdbaef4e8c2df27
 workflow-type: tm+mt
-source-wordcount: '6888'
-ht-degree: 95%
+source-wordcount: '5582'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 ## Novembre 2023
 
-Dernière mise à jour : **16 novembre 2023**
+Dernière mise à jour : **vendredi 16 novembre 2023**
 
 * [[!DNL Experience League] événements et mises à jour](#events) (mise à jour **16 novembre**)
 * [Certification Adobe](#certification)
@@ -37,7 +37,6 @@ Dernière mise à jour : **16 novembre 2023**
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem) (publié) **26 octobre**)
-* [[!DNL Adobe Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -61,12 +60,6 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 ### Événements sur Experience League
 
 +++Événements à venir sur Experience League
-
-* **[!DNL JOURNEY OPTIMIZER]** | Webinaire | _Maîtriser l’optimisation des campagnes multicanaux_ | **28 novembre à 8 h PT** | [Enregistrer](https://adobejourneyoptimizerintegrations2023.experienceleague.adobeevents.com/)
-
-* **[!DNL WORKFRONT]** | Chat Q&amp;R | _Demandez aux experts : Workfront pour le suivi du webinaire de formation et d’activation_ | **29 novembre à 8 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,pbmEfJ_84Uyl4sMSFkTp7Q,MDVrhXnhAkSGge9zSz2BNg,07tf6wlMn0GBGI_LSuvLbQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Événement de la communauté | _Connexion : tchat de la communauté Adobe Workfront_ | **5 décembre à 10 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Q476otp5xUiO9ZMtkUcRgQ,u7FGXWt5EUGiSm43A4zXTg,TpNUAD7m4U6tDosCDYTrcg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Événement de la communauté | _Connexion : tchat d’administration stratégique de Workfront_ | **11 décembre à 6 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,xBAvE_BSWkauyfCwoTsetQ,5St7yxZUykegmOBjGD2aIw,b4zaJWQ6jkWBLGEk_0vZ0A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -415,7 +408,7 @@ Faites partie du programme d’adoption précoce d’Adobe et testez certaines f
    * La disponibilité du programme d’adoption précoce de cette fonction est limitée.
    * Cette fonctionnalité est destinée à la récupération de contenu supprimé accidentellement et n’est pas adaptée à la récupération après sinistre.
 
-* **Tableau de bord d’audit de l’expérience** – [Le tableau de bord d’audit de l’expérience Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html?lang=fr ) inclut une vue de tendance des scores de performances de votre page, ainsi que des informations et des recommandations pour vous aider à les améliorer. L’audit de l’expérience est inclus en tant qu’étape dans le pipeline de production de Cloud Manager.
+* **Tableau de bord d’audit de l’expérience** – [Le tableau de bord d’audit de l’expérience Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html?lang=en) inclut une vue de tendance des scores de performances de votre page, ainsi que des informations et des recommandations pour vous aider à les améliorer. L’audit de l’expérience est inclus en tant qu’étape dans le pipeline de production de Cloud Manager.
 
   Le tableau de bord utilise Google Lighthouse, un outil automatisé Open Source permettant d’améliorer la qualité de vos applications web. Vous pouvez l’exécuter sur n’importe quelle page web publique ou nécessitant une authentification. Il comporte des audits de performances, de l’accessibilité, des applications web progressives, de l’optimisation du moteur de recherche, etc.
 
@@ -444,7 +437,7 @@ La dernière version de Workfront pour le connecteur amélioré Experience Mana
 
 _Problèmes connus_
 
-* Lors de la configuration de dossiers liés à un projet avec AEM 6.4, [!DNL Experience Manager] n’enregistre pas les valeurs pour les champs **Sous-dossiers** et **Créer un dossier lié dans des projets avec portfolio**. La valeur du champ **sous-dossiers** est remplacée par **indéfini** et la valeur du champ **Créer un dossier lié dans des projets avec portfolio** est automatiquement remplacée par **Portfolio par défaut** après l’enregistrement de la configuration.
+* Lors de la configuration de dossiers liés à un projet avec AEM 6.4, [!DNL Experience Manager] n’enregistre pas les valeurs pour les champs **Sous-dossiers** et **Créer un dossier lié dans des projets avec portfolio**. La valeur de la variable **sous-dossiers** mises à jour des champs **undefined**. La valeur de la variable **Création d’un dossier lié dans des projets avec portfolio** mises à jour des champs **Portfolio par défaut** automatiquement après avoir enregistré la configuration.
 * Lorsque vous utilisez l’expérience Workfront classique, l’option **Envoyer à** disponible dans la liste déroulante **Plus** ne vous permet pas de sélectionner la destination cible dans Experience Manager. L’option **Envoyer à** fonctionne correctement avec la liste déroulante **Actions de document**. L’option **Envoyer à** fonctionne correctement pour la liste déroulante **Plus** et la liste déroulante **Actions de document** est disponible dans la nouvelle expérience Workfront.
 
 ### Communauté
