@@ -6,9 +6,9 @@ last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e67997d7c36585caece1d94124d3064588eec6ef
+source-git-commit: b217f3525129a3c61af864334cc209da4193f242
 workflow-type: tm+mt
-source-wordcount: '6123'
+source-wordcount: '6168'
 ht-degree: 88%
 
 ---
@@ -64,7 +64,9 @@ Mis à jour **12 janvier 2024**
 
 +++Événements à venir sur Experience League
 
-* **[!DNL ANALYTICS and CJA]** | EXPERIENCE LEAGUE LIVE | _Intégration des données et analyses Adobe Analytics dans Customer Journey Analytics_ | Découvrez l’utilisation de processus automatisés pour déplacer des données et des analyses d’Adobe Analytics vers Customer Journey Analytics, ainsi que tous les aspects à prendre en compte en cours de route. | **17 janvier à 10 h PT** | [Enregistrer](https://engage.adobe.com/ExpLeagueLive-240117.html)
+* **[!DNL TARGET]** | Webinaire | _Série de maturité de personnalisation Adobe Target_ | Les marques recherchent un plan d’optimisation intelligente afin de stimuler l’impact sur l’entreprise et d’élaborer leurs stratégies de personnalisation. Rejoignez-nous alors que nous explorons l&#39;IA et l&#39;automatisation dans une série de webinaires en trois parties ! | **16 janvier à 8 h PT** | [Enregistrer](https://adobe-target-personalization-maturity-webinar-series-q1-2024.dxfieldmarketing.adobeevents.com/)
+
+* **[!DNL ANALYTICS]et CJA** | EXPERIENCE LEAGUE LIVE | _Intégration des données et analyses Adobe Analytics dans Customer Journey Analytics_ | Découvrez l’utilisation de processus automatisés pour déplacer des données et des analyses d’Adobe Analytics vers Customer Journey Analytics, ainsi que tous les aspects à prendre en compte en cours de route. | **17 janvier à 10 h PT** | [Enregistrer](https://engage.adobe.com/ExpLeagueLive-240117.html)
 
 * **[!DNL WORKFRONT]** | Atelier client | _Admin 101 - Prise en main de Workfront_ | Vous découvrez Workfront ? Cet événement fournit aux nouveaux administrateurs système une introduction aux ressources, un aperçu de la navigation du système et des bonnes pratiques pour la configuration initiale. | **17 janvier à 8 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
