@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: f7dc09a68ae460dccf8b2633a5093b7a47516441
+source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
 workflow-type: tm+mt
-source-wordcount: '6284'
+source-wordcount: '6259'
 ht-degree: 38%
 
 ---
@@ -24,7 +24,7 @@ Cette page vous aide à localiser les ressources d’aide autonome suivantes pou
 * Notes de mise à jour et documentation du produit
 * Prise en charge des articles de la base de connaissances
 * Événements à venir sur Experience League
-* Tutoriels et cours vidéo les plus récents
+* Derniers tutoriels vidéo
 
 Pour une expérience d’auto-assistance optimale, connectez-vous à [Experience League](https://experienceleague.adobe.com/#home) et personnaliser votre expérience de recherche dans la bibliothèque gratuite de d’Adobe de [documentation](https://experienceleague.adobe.com/docs/?lang=fr), [courses](https://experienceleague.adobe.com/?lang=fr#courses), [events](https://experienceleague.adobe.com/events?lang=fr/), [forums communautaires](https://experienceleaguecommunities.adobe.com/?profile.language=fr), et [support](https://experienceleague.adobe.com/?support-tab=home&amp;lang=fr#support).
 
@@ -32,7 +32,7 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 ## Janvier 2024
 
-Dernière mise à jour : **jeudi 17 janvier 2024**
+Dernière mise à jour : **jeudi 24 janvier 2024**
 
 * [Événements et mises à jour [!DNL Experience League]](#events)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Nouveau !**
@@ -68,15 +68,15 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 
 ### Événements sur Experience League
 
+Mis à jour **24 janvier 2024**
+
 +++Événements à venir sur Experience League
 
-* **[!DNL ANALYTICS]et[!DNL Customer Journey Analytics]** | EXPERIENCE LEAGUE LIVE | _Apportez vos [!DNL Adobe Analytics] données et analyses[!DNL Customer Journey Analytics]_ | En savoir plus sur l’utilisation de processus automatisés pour déplacer des données et des analyses d’Adobe Analytics vers [!DNL Customer Journey Analytics], ainsi que toutes les pièges à prendre en compte en cours de route. | **17 janvier à 10 h PT** | [Enregistrer](https://engage.adobe.com/ExpLeagueLive-240117.html)
+* **[!DNL WORKFRONT]** | Webinaire | _Marketo et modèles : principes de base des tableaux de bord d’attribution_ | Vos modèles d’attribution et vos tableaux de bord MPI sont-ils configurés pour tirer parti des mesures de performances critiques au bout de vos doigts ? Rejoignez nos experts en Adobe et apprenez à utiliser ces outils pour stimuler la réussite de votre équipe marketing. | **25 janvier à 13h00 heure d’été** | [Enregistrer](https://adobeevents.adobeconnect.com/exxuez7gobns/event/registration.html?campaign-id=ExL)
 
-* **[!DNL WORKFRONT]** | Atelier client | _Admin 101 - Prise en main de [!DNL Workfront_] | Nouveau pour [!DNL Workfront]? Cet événement fournit aux nouveaux administrateurs système une introduction aux ressources, un aperçu de la navigation du système et des bonnes pratiques pour la configuration initiale. | **17 janvier à 8 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE MANAGER SITES]** | Webinaire | _Déverrouillez des fonctionnalités de création et de gestion de contenu._ | Découvrez comment améliorer la vitesse du contenu avec les fragments d’expérience Adobe Experience Manager Sites. Obtenez des conseils sur la diffusion d’expériences variées et personnalisées à grande échelle sur n’importe quel canal. | **1 février à 9 h GMT** | [Enregistrer](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
 
-* **[!DNL MARKETO ENGAGE]** | Apprenez de vos pairs | _Maîtrise de notation des personnes avec [!DNL Marketo Engage]: nuances localisées dans un cadre global_ | Rejoignez ce webinaire le 18 janvier 2024 en tant que [!DNL Marketo Engage] Champion explique comment autoriser les influences locales dans votre modèle de notation en travaillant globalement sans perdre de la cohérence au sein de votre organisation. | **18 janvier à 8 h PT** | [Enregistrer](https://engage.adobe.com/marketo-engage-person-scoring-localized-webinar-registration.html?sdid=S36FMPSR&amp;mv=email)
-
-* **[!DNL WORKFRONT]** | Atelier client | _Formation : Adobe [!DNL Workfront] Version 24.1 - Cumul_ | Rejoindre un autre [!DNL Workfront] les clients au fur et à mesure que nous discutons des dernières fonctionnalités de mise à jour, des avantages et des idées sur les plans de déploiement et la gestion des changements. | **24 janvier à 8 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Qie4feC5SEqgbRCYwnOV7g,Aw1yfkW4WEOnrD_kuVUspA,_lvF5TmeCES46V-oNW0O5g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL COMMERCE]** | Webinaire | _Commerce et café : personnaliser les expériences eCommerce avec l’IA_ | Il n’a jamais été plus facile de personnaliser les expériences eCommerce pour chaque client. Rejoignez Corey Gelato, un Adobe, pour découvrir comment l’IA vous aide à adapter sans effort vos produits, emails et sites web dans Adobe Commerce. | **1er février à 13h00 heure d’été** | [Enregistrer](https://adobeevents.adobeconnect.com/e1yzux2yrk00/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | Atelier client | _Connexion : chat administrateur pour Marketing et Creative_ | Êtes-vous administrateur système pour une équipe marketing ou créative ? Cette session orientée client vous connecte à d’autres administrateurs pour discuter des bonnes pratiques, des conseils et astuces. | **2 février à 9h00 PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
