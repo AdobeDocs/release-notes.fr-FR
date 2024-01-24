@@ -6,9 +6,9 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 32425affd2225574b859a2cc38d8a0ad775f4cb5
+source-git-commit: b0ed2e287f72205ce6c0564d778d9a936ee53092
 workflow-type: tm+mt
-source-wordcount: '6259'
+source-wordcount: '6300'
 ht-degree: 38%
 
 ---
@@ -34,7 +34,7 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 Dernière mise à jour : **jeudi 24 janvier 2024**
 
-* [Événements et mises à jour [!DNL Experience League]](#events)
+* [[!DNL Experience League] événements et mises à jour](#events) (Mise à jour) **24 janvier**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Nouveau !**
 * [Certification Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -57,7 +57,7 @@ Dernière mise à jour : **jeudi 24 janvier 2024**
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (Mise à jour) **24 janvier**)
 * [Gestion des données client – Voix](#voices)
 * [Plans directeurs de l’expérience digitale](#blueprints)
 * [Vulnérabilités de sécurité des produits Adobe](https://helpx.adobe.com/fr/security.html)
@@ -826,7 +826,13 @@ Pour des tutoriels sur [!DNL Document Cloud], consultez :
 
 Nouveaux tutoriels, vidéos ou cours publiés pour les applications dans [!DNL Adobe Creative Cloud for enterprise].
 
+Mis à jour **24 janvier 2024**
+
 +++Détails
+
+| Publié | Application | Nom | Type | Description |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| Janvier 2024 | [!DNL Adobe Express] | [Tutorials pour Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Vidéos | Commencez à créer un travail extraordinaire qui se démarque avec l&#39;IA génératrice alimentée par [!DNL Adobe Firefly]. Concevoir des tracts, TikToks, Reprises et Reels avec [!DNL Adobe Express]. |
 
 Consultez les [tutoriels Creative Cloud abonnement Entreprise](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=fr) pour obtenir les derniers tutoriels.
 
