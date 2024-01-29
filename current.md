@@ -6,10 +6,10 @@ last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: dff2ca5ce3e8a0dbe3e12e9e81a37da784a4d1f9
+source-git-commit: 72c690de35f883c2ef9904d4fa0cbe2d6432405b
 workflow-type: tm+mt
-source-wordcount: '6299'
-ht-degree: 38%
+source-wordcount: '6481'
+ht-degree: 37%
 
 ---
 
@@ -32,9 +32,9 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 ## Janvier 2024
 
-Dernière mise à jour : **jeudi 24 janvier 2024**
+Dernière mise à jour : **mardi 29 janvier 2024**
 
-* [[!DNL Experience League] événements et mises à jour](#events) (Mise à jour) **24 janvier**)
+* [[!DNL Experience League] événements et mises à jour](#events) (Mise à jour) **29 janvier**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **Nouveau !**
 * [Certification Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -45,7 +45,7 @@ Dernière mise à jour : **jeudi 24 janvier 2024**
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) (Mise à jour) **29 janvier**)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -68,11 +68,9 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 
 ### Événements sur Experience League
 
-Mis à jour **24 janvier 2024**
+Mis à jour **29 janvier 2024**
 
 +++Événements à venir sur Experience League
-
-* **[!DNL WORKFRONT]** | Webinaire | _Marketo et modèles : principes de base des tableaux de bord d’attribution_ | Vos modèles d’attribution et vos tableaux de bord MPI sont-ils configurés pour tirer parti des mesures de performances critiques au bout de vos doigts ? Rejoignez nos experts en Adobe et apprenez à utiliser ces outils pour stimuler la réussite de votre équipe marketing. | **25 janvier à 13h00 heure d’été** | [Enregistrer](https://adobeevents.adobeconnect.com/exxuez7gobns/event/registration.html?campaign-id=ExL)
 
 * **[!DNL EXPERIENCE MANAGER SITES]** | Webinaire | _Déverrouillez des fonctionnalités de création et de gestion de contenu._ | Découvrez comment améliorer la vitesse du contenu avec les fragments d’expérience Adobe Experience Manager Sites. Obtenez des conseils sur la diffusion d’expériences variées et personnalisées à grande échelle sur n’importe quel canal. | **1 février à 9 h GMT** | [Enregistrer](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
 
@@ -82,7 +80,19 @@ Mis à jour **24 janvier 2024**
 
 * **[!DNL WORKFRONT]** | Atelier client | _Connexion : Cercle industriel - Enseignement supérieur_ | Tout nouveau en 2024, ce premier cercle industriel est une table ronde informelle conçue pour rassembler [!DNL Workfront] Les administrateurs de l&#39;enseignement supérieur peuvent mettre en réseau, partager des expériences, apprendre et les bonnes pratiques. | **8 février à 9h00 PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **[!DNL ANALYTICS]** | Webinaire | _Débogueur de données : canaux marketing et modélisation d’attribution_ | Connaissez-vous l’impact de vos interactions client sur les conversions ? Rejoignez nos experts en Adobe pour découvrir comment configurer des canaux marketing et exploiter l’IA dans Adobe Analytics pour créer des modèles d’attribution personnalisés. | **8 février à 13h00 heure d’été** | [Enregistrer](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Événement de communauté | _Collectif Workfront_ | Rejoignez d’autres clients Workfront pour notre session collective mensuelle de résolution de problème et de partage de succès ! | **12 février à 6 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL DATA COLLECTION]** | Webinaire | _Hiérarchisation des flux de données_ | Découvrez comment gérer la hiérarchisation des flux de données pour l’orchestration des campagnes afin de surcharger la capacité de votre entreprise à exécuter la personnalisation pilotée par les données. | **13 février à 9h30 PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL WORKFRONT]** | Atelier client | _Admin 101 : utilisation par vos utilisateurs[!DNL Workfront]_ | Nouveau pour [!DNL Workfront]? Rejoignez notre rencontre mensuelle pour les nouveaux administrateurs ! Ce mois-ci, nous discutons des bonnes pratiques pour l’adoption par les utilisateurs. | **14 février à 8 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL EXPERIENCE PLATFORM]** | Webinaire | _Le leadership stratégique libéré : le pouvoir du parrainage exécutif_ | Acquérir les tactiques nécessaires pour atteindre efficacement les objectifs de l&#39;organisation par le biais d&#39;une influence stratégique. Cette session est conçue pour donner les moyens aux cadres qui cherchent à augmenter leur parrainage par les dirigeants. | **15 février à 10 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL EXPERIENCE PLATFORM]** | Webinaire | _Avantages de l’équipe Lean : déverrouillez les fonctionnalités pour une réussite rationalisée._ | Découvrez comment les intégrations de produits peuvent rationaliser les workflows numériques, améliorer l’efficacité de l’équipe et adapter les processus d’entreprise. Découvrez des techniques pour améliorer la collaboration au sein des équipes allégées pour une productivité maximale. | **20 février à 10 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Q &amp; R | _Demander au service clientèle - Dépannage du modèle de mise en page commun et problèmes d’affichage_ | Rejoignez l’équipe d’assistance clientèle de Workfront pour une session de type &quot;Ask the Expert&quot; (Demandez aux experts) afin de découvrir les bonnes pratiques et les conseils de dépannage axés sur les modèles de mise en page et les vues. | **22 février à 9 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Affichez plus d’[événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=fr) sur Experience League.
 
