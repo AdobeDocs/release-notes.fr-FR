@@ -6,9 +6,9 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4cb8fce5ba7d00f4462cfaa5c29523a15c3ae0c2
-workflow-type: ht
-source-wordcount: '5528'
+source-git-commit: 342d9caad0c8a904c94a2a8c087f19955f796095
+workflow-type: tm+mt
+source-wordcount: '5447'
 ht-degree: 100%
 
 ---
@@ -70,10 +70,6 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 Mise à jour du **14 février 2024**
 
 +++Détails
-
-* **[!DNL EXPERIENCE PLATFORM]** | Webinaire | _Le leadership stratégique libéré ou le pouvoir du parrainage exécutif_ | Acquérir les tactiques nécessaires pour atteindre efficacement les objectifs de l&#39;organisation en s’aidant d&#39;une influence stratégique. Cette session est conçue pour permettre aux cadres d’optimiser leur parrainage exécutif. | **15 février à 10 h 00 PT** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL EXPERIENCE PLATFORM]** | Webinaire | _Les avantages d’une équipe agile : libérez les capacités et optez pour une réussite rationalisée._ | Découvrez comment les intégrations de produits peuvent rationaliser les workflows numériques, améliorer l’efficacité de l’équipe et adapter les processus métier. Découvrez les techniques améliorant la collaboration au sein d’équipes agiles et obtenez une productivité maximale. | **20 février à 10 h 00 PT** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Chat Q &amp; R | _Posez vos questions au service clientèle - Dépannage des problèmes communs liés au modèle de disposition et à l’affichage_ | Rejoignez l’équipe d’assistance clientèle de Workfront pour une session de questions aux expertes et experts, afin de découvrir les bonnes pratiques et les conseils de dépannage des modèles de disposition et des affichages. | **22 février à 9 h 00 PT** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -257,7 +253,7 @@ Recherchez les dernières informations de mise à jour pour [!DNL Customer Journ
 
 +++Détails
 
-Date de publication de [!DNL Customer Journey Analytics] : **16 février 2024**
+Date de publication [!DNL Customer Journey Analytics] : **16 février 2024**
 
 * [Notes de mise à jour](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=fr) d’[!DNL Customer Journey Analytics]
 
