@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 342d9caad0c8a904c94a2a8c087f19955f796095
+source-git-commit: 1dc1f22cdf45150c58eb6a72641c70f988aaf5b5
 workflow-type: tm+mt
-source-wordcount: '5447'
-ht-degree: 100%
+source-wordcount: '5457'
+ht-degree: 99%
 
 ---
 
@@ -32,9 +32,9 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 ## Février 2024
 
-Dernière mise à jour : **14 février 2024**
+Dernière mise à jour : **mardi 26 février 2024**
 
-* Événements et mises à jour [[!DNL Experience League] ](#events)
+* [[!DNL Experience League] événements et mises à jour](#events)  (mise à jour **26 février**)
 * [[!DNL Adobe GenStudio]](#genstudio)
 * [Certification Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -67,11 +67,11 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 
 ### Événements sur Experience League
 
-Mise à jour du **14 février 2024**
+Mise à jour du **mardi 26 février 2024**
 
 +++Détails
 
-* **[!DNL WORKFRONT]** | Chat Q &amp; R | _Posez vos questions au service clientèle - Dépannage des problèmes communs liés au modèle de disposition et à l’affichage_ | Rejoignez l’équipe d’assistance clientèle de Workfront pour une session de questions aux expertes et experts, afin de découvrir les bonnes pratiques et les conseils de dépannage des modèles de disposition et des affichages. | **22 février à 9 h 00 PT** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Chat Q&amp;R | _Demander au panneau client : faire avancer votre carrière avec Workfront_ | Le premier panel de 2024 débute avec trois clients Workfront enthousiasmants qui ont bâti une carrière réussie grâce à leur expertise Workfront. Rejoignez-nous pour une discussion d&#39;une heure afin d&#39;apprendre les compétences nécessaires pour réussir. | **27 février à 8 h PT** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,2fZ2UKkqy0WZ22Alb9JdRQ,qGWMHwKiJ06A_XgUeGVhYg,cta_ZoLBA06u-8UH8SlbCQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Adobe Summit** | La conférence sur l’expérience digitale | _Développez vos compétences, découvrez les dernières tendances et explorez l’avenir d’une croissance fondée sur l’expérience._ | Apprenez des grandes marques, découvrez l’avenir de l’IA générative et préparez-vous à une croissance fondée sur l’expérience. | **25-28 mars à Las Vegas et en ligne** | [S’inscrire](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
