@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1dc1f22cdf45150c58eb6a72641c70f988aaf5b5
+source-git-commit: 4a1ad43ae7911334cbe58d633c4929d5645580f9
 workflow-type: tm+mt
-source-wordcount: '5457'
-ht-degree: 99%
+source-wordcount: '5779'
+ht-degree: 93%
 
 ---
 
@@ -32,9 +32,9 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 ## Février 2024
 
-Dernière mise à jour : **mardi 26 février 2024**
+Dernière mise à jour : **jeudi 28 février 2024**
 
-* [[!DNL Experience League] événements et mises à jour](#events)  (mise à jour **26 février**)
+* [[!DNL Experience League] événements et mises à jour](#events)  (mise à jour **28 février**)
 * [[!DNL Adobe GenStudio]](#genstudio)
 * [Certification Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -67,11 +67,27 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 
 ### Événements sur Experience League
 
-Mise à jour du **mardi 26 février 2024**
+Mise à jour du **jeudi 28 février 2024**
 
 +++Détails
 
-* **WORKFRONT** | Chat Q&amp;R | _Demander au panneau client : faire avancer votre carrière avec Workfront_ | Le premier panel de 2024 débute avec trois clients Workfront enthousiasmants qui ont bâti une carrière réussie grâce à leur expertise Workfront. Rejoignez-nous pour une discussion d&#39;une heure afin d&#39;apprendre les compétences nécessaires pour réussir. | **27 février à 8 h PT** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,2fZ2UKkqy0WZ22Alb9JdRQ,qGWMHwKiJ06A_XgUeGVhYg,cta_ZoLBA06u-8UH8SlbCQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **EXPERIENCE MANAGER** | Webinaire | _Événement de la communauté EMEA AEM_ | Nous aurons une grande session interactive sur la chaîne d’approvisionnement en contenu pour discuter de vos objectifs, de vos réalisations jusqu’à présent, des défis que vous rencontrez et comment y répondre. | **29 février à 15h00 GMT** | [Enregistrer](https://registration.adobe.com/AdobeAEM24/)
+
+* **ADMIN ET CAMPAIGN** | EXPERIENCE LEAGUE LIVE | _Amélioration de l’interface utilisateur web d’Adobe Campaign_ | Rejoignez-nous le 29 février pour découvrir comment planifier, lancer et mesurer des stratégies cross-canal à l’aide de la nouvelle interface utilisateur web d’Adobe Campaign et obtenir un aperçu des nouvelles fonctionnalités de l’IA générique. | **29 février à 8 h PT** | [S’inscrire](https://engage.adobe.com/ExpLeagueLive-240229.html)
+
+* **EXPERIENCE MANAGER** | Livestream | _App Builder version 10.0_ | Rejoignez l’équipe d’ingénieurs d’App Builder pour découvrir les nouveautés de leur dernière version de l’interface en ligne de commande, ainsi que ce qui se profile à l’horizon, y compris quelques nouvelles approches pour faciliter et faciliter le débogage. | **29 février à 9 h 00 PT** | [S’inscrire](https://streamyard.com/watch/i7TEbhnR73h9)
+
+* **WORKFRONT** | Atelier client | _En savoir plus : Workfront pour les questions juridiques et de conformité_ | Rejoignez-nous pour un atelier sur la manière dont la collaboration avec vos équipes juridiques et de conformité peut rationaliser vos processus, étendre votre plateforme Workfront à une audience plus large de votre organisation et développer votre adoption. | **29 février à 9 h 30 PT** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Événement de communauté | _Connexion : chat administrateur pour Marketing et Creative_ | Êtes-vous administrateur système pour une équipe marketing ou créative ? Cette session orientée client vous connectera à d’autres administrateurs pour discuter des bonnes pratiques ainsi que des conseils et astuces. | **1er mars à 9h00 PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Webinaire | _Réveillez-vous avec Workfront : gestion des ressources_ | Explorez l’un des cas d’utilisation Workfront les plus percutants, la gestion des ressources, à mesure que Workfront Business Advisor s’efforce d’utiliser des plans directeurs pour créer facilement des systèmes de gestion du travail qui évoluent en fonction de vos besoins. | **7 mars à 13h heure d’été** | [Enregistrer](https://adobeevents.adobeconnect.com/exdj5n4atw60/event/registration.html?campaign-id=ExL)
+
+* **WORKFRONT** | Événement de communauté | _Connexion : Collectif Workfront_ | Rejoignez d’autres clients Workfront pour une session collective de résolution de problème et de partage de succès ! | **11 mars à 6 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Événement de communauté | _Connexion : Collectif Workfront_ | Rejoignez d’autres clients Workfront pour une session collective de résolution de problème et de partage de succès ! | **11 mars à 6 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **EXPERIENCE MANAGER** | Webinaire | _Espressos &amp; Experience Manager : Pourquoi AEM est plus puissant dans le cloud_ | Rejoignez les experts de l’Adobe lorsqu’ils discutent de la manière d’assurer une transition fluide vers le cloud par le biais de l’évaluation du contenu et de la planification de la migration à l’aide d’outils tels que Best Practice Analyzer et Cloud Acceleration Manager. | **14 mars à 13h00 heure de l’Est du Canada** | [Enregistrer](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
 
 * **Adobe Summit** | La conférence sur l’expérience digitale | _Développez vos compétences, découvrez les dernières tendances et explorez l’avenir d’une croissance fondée sur l’expérience._ | Apprenez des grandes marques, découvrez l’avenir de l’IA générative et préparez-vous à une croissance fondée sur l’expérience. | **25-28 mars à Las Vegas et en ligne** | [S’inscrire](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
 
