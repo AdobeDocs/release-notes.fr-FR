@@ -6,10 +6,10 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e18508b13d1c859f0aa3c3bd50cdad0db30a685f
+source-git-commit: 3c9e639fd907074cf74c63ddbc061d07801b5900
 workflow-type: tm+mt
-source-wordcount: '5771'
-ht-degree: 98%
+source-wordcount: '5582'
+ht-degree: 99%
 
 ---
 
@@ -71,17 +71,9 @@ Mise à jour du **28 février 2024**
 
 +++Détails
 
-* **EXPERIENCE MANAGER** | Webinaire | _Événement de la communauté EMEA AEM_ | Nous organiserons une grande session interactive sur la chaîne d’approvisionnement de contenu pour discuter de vos objectifs, de vos réalisations jusqu’à présent, des défis que vous rencontrez et comment les relever. | **29 février à 15 h 00 GMT** | [S’inscrire](https://registration.adobe.com/AdobeAEM24/)
+* **CAMPAIGN (V7, V8)** | Coffee Break | _Saut de café de la communauté Adobe Campaign_ | Rejoignez-nous pour une session de conversation d’une heure sur la nouvelle interface utilisateur web d’Adobe Campaign avec notre équipe produit Adobe Campaign. | **7 mars à 8 h 00 PT** | [Enregistrer](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
-* **ADMIN ET CAMPAIGN** | EXPERIENCE LEAGUE LIVE | _Amélioration de l’interface utilisateur web d’Adobe Campaign_ | Rejoignez-nous le 29 février pour découvrir comment planifier, lancer et mesurer des stratégies cross-canal à l’aide de la nouvelle interface utilisateur web d’Adobe Campaign et obtenir un aperçu des nouvelles fonctionnalités de l’IA générique. | **29 février à 8 h PT** | [S’inscrire](https://engage.adobe.com/ExpLeagueLive-240229.html)
-
-* **EXPERIENCE MANAGER** | Livestream | _App Builder version 10.0_ | Rejoignez l’équipe d’ingénieurs d’App Builder pour découvrir les nouveautés de leur dernière version de l’interface en ligne de commande et ce qui se profile, y compris quelques nouvelles approches pour faciliter et faciliter le débogage. | **29 février à 9 h 00 PT** | [S’inscrire](https://streamyard.com/watch/i7TEbhnR73h9)
-
-* **WORKFRONT** | Atelier clientèle | _En savoir plus : Workfront pour les questions juridiques et de conformité_ | Rejoignez-nous pour un atelier sur la manière dont la collaboration avec vos équipes juridiques et de conformité peut optimiser vos processus, élargir l’audience de votre plateforme Workfront dans votre organisation et développer l’adoption. | **29 février à 9 h 30 PT** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Événement de la communauté | _Connect : conversation avec l’administration pour les personnes spécialisées dans le marketing et la création de contenu_ | Êtes-vous administrateur ou administratrice système pour une équipe marketing ou créative ? Cette session orientée client vous connecte à d’autres administrateurs pour discuter des bonnes pratiques, des conseils et astuces. | **1er mars à 9 h 00 PT** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Webinaire | _Réveillez-vous avec Workfront : gestion des ressources_ | Explorez l’un des cas d’utilisation Workfront les plus percutants, la gestion des ressources. La personne spécialisée dans Workfront Business explique comment utiliser des plans directeurs pour créer facilement des systèmes de gestion du travail qui s’adaptent à vos besoins. | **7 mars à 13 h 00 ET** | [S’inscrire](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5653751992/event_landing.html?sco-id=5639062191&amp;campaign-id=ExL&amp;_charset_=utf-8)
+* **WORKFRONT** | Webinaire | _Réveillez-vous avec Workfront : gestion des ressources_ | Explorez l’un des cas d’utilisation Workfront les plus percutants, la gestion des ressources. La personne spécialisée dans Workfront Business explique comment utiliser des plans directeurs pour créer facilement des systèmes de gestion du travail qui s’adaptent à vos besoins. | **7 mars à 13 h 00 ET** | [S’inscrire](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
 
 * **WORKFRONT** | Événement de la communauté | _Connect : collectif Workfront_ | Rejoignez d’autres clientes et clients Workfront à l’occasion de notre session mensuelle de résolution collective des problèmes et de partage des réussites. | **11 mars à 6 h 00 PT** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
