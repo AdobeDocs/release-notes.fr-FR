@@ -6,9 +6,9 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e82e5513e7dcc435eaa1182db8c6ff3f246d47f3
+source-git-commit: ea0c4b9aaed870ca77014eed1db8a3915a937d2f
 workflow-type: tm+mt
-source-wordcount: '5974'
+source-wordcount: '6002'
 ht-degree: 99%
 
 ---
@@ -714,6 +714,12 @@ Découvrez les dernières notes de mise à jour d’[!DNL Adobe Workfront]. Déc
 
 +++Détails
 
+### [!DNL Adobe Workfront] mises à jour
+
+* Voir [Versions de produit Adobe Workfront](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) pour consulter les informations sur le calendrier de mise à jour de Workfront et les notes de mise à jour.
+
+* Voir [Présentation de l’activité de publication Adobe Workfront Fusion](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity) pour obtenir les informations les plus récentes sur Fusion.
+
 ### Nouveaux cours et tutoriels d’Adobe [!DNL Workfront] {#tutorials-workfront}
 
 Nouveaux tutoriels [!DNL Workfront] sur Experience League.
@@ -741,7 +747,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 {style="table-layout:auto"}
 -->
 
-Consultez la page [[!DNL Workfront] versions de produits](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html?lang=fr) pour obtenir un récapitulatif des dernières informations relatives à lʼensemble des produits.
+Pour consulter la documentation la plus récente du produit, voir la section [Adobe [!DNL Workfront] page d’accueil de la documentation](https://experienceleague.adobe.com/en/docs/workfront/using/home).
 
 +++
 
