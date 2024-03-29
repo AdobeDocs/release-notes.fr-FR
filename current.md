@@ -6,10 +6,10 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ea0c4b9aaed870ca77014eed1db8a3915a937d2f
+source-git-commit: 76b633e2b12a93934e043c2e71636de51453dfe5
 workflow-type: tm+mt
-source-wordcount: '6002'
-ht-degree: 99%
+source-wordcount: '6053'
+ht-degree: 94%
 
 ---
 
@@ -32,9 +32,9 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 ## Mars 2024
 
-Dernière mise à jour : **samedi 22 mars 2024**
+Dernière mise à jour : **samedi 29 mars 2024**
 
-* [Événements et mises à jour [!DNL Experience League]](#events)
+* [[!DNL Experience League] événements et mises à jour](#events) (Mise à jour) **29 mars**)
 * [Certification Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] – Interface centrale et administration](#ecloud)
@@ -67,23 +67,25 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 
 ### Événements sur Experience League
 
-Mise à jour : **samedi 15 mars 2024**
+Mise à jour : **samedi 29 mars 2024**
 
 +++Détails
 
-* **Adobe Summit** | La conférence sur l’expérience digitale | _Développez vos compétences, découvrez les dernières tendances et explorez l’avenir d’une croissance fondée sur l’expérience._ | Apprenez des grandes marques, découvrez l’avenir de l’IA générative et préparez-vous à une croissance fondée sur l’expérience. | **25-28 mars à Las Vegas et en ligne** | [S’inscrire](https://summit.adobe.com/na/?promoid=QGMZPBSP&amp;mv=other)
-
-* **ANALYTICS** | Créateurs et créatrices d’expériences : échange de compétences | _Échange de compétences lors de l’Adobe Summit pour Adobe Analytics_ | Le 28 mars 2024, nous accueillerons l’échange de compétences Adobe Analytics lors du sommet de Las Vegas. Inscrivez-vous dès maintenant pour obtenir des conseils, des astuces et des bonnes pratiques auprès des clientes et clients et des championnes et champions d’Analytics. | **28 mars à 9 h 00 PT** | [S’inscrire](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=952%20953)
-
-* **EXPERIENCE MANAGER** | Créateurs et créatrices d’expériences : échange de compétences | _Échange de compétences lors de l’Adobe Summit pour AEM_ | Le 28 mars 2024, nous accueillerons l’échange de compétences AEM lors du sommet à Las Vegas. Inscrivez-vous dès maintenant pour obtenir des conseils, des astuces et des bonnes pratiques auprès des clientes et clients et des championnes et champions d’AEM. | **28 mars à 9 h 00 PT** | [S’inscrire](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=950%20951)
-
-* **EXPERIENCE MANAGER** | Créateurs et créatrices d’expériences : échange de compétences | _Échange de compétences lors de l’Adobe Summit pour Marketo Engage_ | Le 28 mars 2024, nous organiserons un échange de compétences Marketo Engage lors du sommet de Las Vegas. Inscrivez-vous dès maintenant pour obtenir des conseils, des astuces et des bonnes pratiques auprès des clientes et clients et des championnes et champions Marketo Engage. | **28 mars à 9 h 00 PT** | [S’inscrire](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=954%20955)
-
-* **WORKFRONT** | Créateurs et créatrices d’expériences : échange de compétences | _Échange de compétences lors de l’Adobe Summit pour Workfront_ | Le 28 mars 2024, nous accueillerons un échange de compétences Adobe Workfront lors du Sommet de Las Vegas. Inscrivez-vous dès maintenant pour obtenir des conseils, astuces et bonnes pratiques auprès des clientes et clients Workfront. | **28 mars à 9 h 00 PT** | [S’inscrire](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&amp;search=956%20957)
-
 * **WORKFRONT** | Événement de la communauté | _Connect : conversation avec l’administration pour les personnes spécialisées dans le marketing et la création de contenu_ | Êtes-vous administrateur ou administratrice système pour une équipe marketing ou créative ? Cette session orientée clientèle vous connecte à d’autres administrateurs et administratrices pour discuter des bonnes pratiques et des conseils et astuces. | **5 avril à 9 h 00 PT** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **WORKFRONT** | Atelier client | _Admin 101 : Prise en main de Workfront_ | Vous découvrez Workfront ? Rejoignez nos réunions mensuelles 101 pour poser des questions, obtenir des ressources, découvrir les bonnes pratiques et rencontrer d’autres nouveaux administrateurs. Cette session se concentre sur la configuration et la configuration initiales. | **10 avril à 8 heures PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,8EcZ9ObE6E6vfXJJKbUE-Q,c4BGCPZ3kEetwRnBo4FL-A,AfPWNe36XUiXIb3Ne0B3mQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Atelier client | _En savoir plus : Cumul de la version Adobe Workfront du 2e trimestre 2024_ | Rejoignez d’autres administrateurs de systèmes Workfront au fur et à mesure que nous passerons en revue les dernières améliorations incluses dans la version du 2e trimestre 2024. Nous discuterons des avantages, des plans de déploiement et de la gestion du changement. | **16 avril à 8 heures PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **MARKETO ENGAGE** | Apprenez de vos pairs | _Déverrouillage d’une automatisation de processus performante : applications pratiques de l’API REST Marketo Engage_ | Rejoignez-nous en direct et inspirez-vous des cas d’utilisation réels de l’API REST afin de rationaliser les workflows, tels que la fusion des prospects en bloc, la création de programmes de suivi UTM et l’utilisation de ChatGPT pour optimiser les temps d’envoi. | **17 avril à 8 heures PT** | [Enregistrer](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
+
+* **WORKFRONT** | Atelier client | _En savoir plus : 10 conseils sur le mode Texte dans Adobe Workfront_ | Souhaitez-vous développer vos connaissances en matière de création de rapports avec le mode texte ? Ne regarde pas plus loin ! Cet atelier présentera brièvement les principes de base du mode texte et l’explorateur d’API, suivis de 10 conseils sur le mode texte dans Adobe Workfront. | **18 avril à 9 h 00 PT** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 Affichez plus d’[événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=fr) sur Experience League.
+
+* **WORKFRONT** | Événement de communauté | _Connexion : Collectif Workfront_ | Rejoignez vos collègues administrateurs système Workfront pour cette session mensuelle de brainstorming et de partage, au cours de laquelle nous discutons des dernières mises à jour et des bonnes pratiques. | **22 avril à 6 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Chat Q&amp;R | _Demander : migration vers Adobe Business Platform_ | Rejoignez-nous pour une séance de questions-réponses avec nos ingénieurs du support technique afin d’apprendre à quoi vous attendre et comment vous préparer le mieux à la migration vers Adobe Business Platform. | **23 avril à 8 heures PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 +++
 
