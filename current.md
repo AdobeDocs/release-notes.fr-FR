@@ -6,7 +6,7 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 76b633e2b12a93934e043c2e71636de51453dfe5
+source-git-commit: f768519d6c60ae2865ac881126a30d819b3c8846
 workflow-type: tm+mt
 source-wordcount: '6053'
 ht-degree: 94%
@@ -32,7 +32,7 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 ## Mars 2024
 
-Dernière mise à jour : **samedi 29 mars 2024**
+Dernière mise à jour : **lundi 31 mars 2024**
 
 * [[!DNL Experience League] événements et mises à jour](#events) (Mise à jour) **29 mars**)
 * [Certification Adobe](#certification)
@@ -67,7 +67,7 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 
 ### Événements sur Experience League
 
-Mise à jour : **samedi 29 mars 2024**
+Mise à jour : **lundi 31 mars 2024**
 
 +++Détails
 
@@ -81,11 +81,11 @@ Mise à jour : **samedi 29 mars 2024**
 
 * **WORKFRONT** | Atelier client | _En savoir plus : 10 conseils sur le mode Texte dans Adobe Workfront_ | Souhaitez-vous développer vos connaissances en matière de création de rapports avec le mode texte ? Ne regarde pas plus loin ! Cet atelier présentera brièvement les principes de base du mode texte et l’explorateur d’API, suivis de 10 conseils sur le mode texte dans Adobe Workfront. | **18 avril à 9 h 00 PT** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-Affichez plus d’[événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=fr) sur Experience League.
-
 * **WORKFRONT** | Événement de communauté | _Connexion : Collectif Workfront_ | Rejoignez vos collègues administrateurs système Workfront pour cette session mensuelle de brainstorming et de partage, au cours de laquelle nous discutons des dernières mises à jour et des bonnes pratiques. | **22 avril à 6 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Chat Q&amp;R | _Demander : migration vers Adobe Business Platform_ | Rejoignez-nous pour une séance de questions-réponses avec nos ingénieurs du support technique afin d’apprendre à quoi vous attendre et comment vous préparer le mieux à la migration vers Adobe Business Platform. | **23 avril à 8 heures PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+Affichez plus d’[événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=fr) sur Experience League.
 
 +++
 
