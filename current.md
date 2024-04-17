@@ -6,10 +6,10 @@ last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: e581a323e92bda30c755d7030c024edb06c6f6a1
+source-git-commit: 71091a1c41425c3fc5109753a96028aea1765388
 workflow-type: tm+mt
-source-wordcount: '5962'
-ht-degree: 94%
+source-wordcount: '5857'
+ht-degree: 96%
 
 ---
 
@@ -70,10 +70,6 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 Mise à jour : **lundi 31 mars 2024**
 
 +++Détails
-
-* **WORKFRONT** | Atelier client | _En savoir plus : Cumul de la version Adobe Workfront du 2e trimestre 2024_ | Rejoignez d’autres administrateurs de systèmes Workfront au fur et à mesure que nous passerons en revue les dernières améliorations incluses dans la version du 2e trimestre 2024. Nous discuterons des avantages, des plans de déploiement et de la gestion du changement. | **16 avril à 8 heures PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **MARKETO ENGAGE** | Apprenez de vos pairs | _Déverrouillage d’une automatisation de processus performante : applications pratiques de l’API REST Marketo Engage_ | Rejoignez-nous en direct et inspirez-vous des cas d’utilisation réels de l’API REST afin de rationaliser les workflows, tels que la fusion des prospects en bloc, la création de programmes de suivi UTM et l’utilisation de ChatGPT pour optimiser les temps d’envoi. | **17 avril à 8 heures PT** | [Enregistrer](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&amp;mv=other)
 
 * **WORKFRONT** | Atelier client | _En savoir plus : 10 conseils sur le mode Texte dans Adobe Workfront_ | Souhaitez-vous développer vos connaissances en matière de création de rapports avec le mode texte ? Ne regarde pas plus loin ! Cet atelier présentera brièvement les principes de base du mode texte et l’explorateur d’API, suivis de 10 conseils sur le mode texte dans Adobe Workfront. | **18 avril à 9 h 00 PT** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
