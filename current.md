@@ -6,10 +6,10 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 7832bcbd5c8454d0553578b76b7fec79fd1bd453
+source-git-commit: af76851090b09db9cc561e43f12ff735b0e992e8
 workflow-type: tm+mt
-source-wordcount: '6293'
-ht-degree: 52%
+source-wordcount: '6240'
+ht-degree: 54%
 
 ---
 
@@ -67,11 +67,9 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 
 ### Événements sur Experience League
 
-Mise à jour le **samedi 12 avril 2024**
+Mise à jour le **samedi 19 avril 2024**
 
 +++Détails
-
-* **WORKFRONT** | Atelier client | _En savoir plus : 10 conseils sur le mode Texte dans Adobe Workfront_ | Souhaitez-vous développer vos connaissances en matière de création de rapports avec le mode texte ? Ne regarde pas plus loin ! Cet atelier présentera brièvement les principes de base du mode texte et l’explorateur d’API, suivis de 10 conseils sur le mode texte dans Adobe Workfront. | **18 avril à 9 h 00 PT** | [S’inscrire](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Événement de communauté | _Connexion : Collectif Workfront_ | Rejoignez vos collègues administrateurs système Workfront pour cette session mensuelle de brainstorming et de partage, au cours de laquelle nous discutons des dernières mises à jour et des bonnes pratiques. | **22 avril à 6 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -291,7 +289,7 @@ Adobe vous conseille de consulter les ressources suivantes pour rester au couran
 
 * [Mises à jour et feuilles de route d’Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/home) - Découvrez la feuille de route des versions d’Experience Manager, les mises à jour précédentes et les mises à jour de la documentation.
 * [Mises à jour de versions d’Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview) - Regardez la vidéo de présentation des versions actuelles et passées d’[!DNL Experience Manager as a Cloud Service].
-* [Notes de mise à jour actuelles d’Adobe Experience Manager (AEM) as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) - Lisez les dernières notes de mise à jour d’[!DNL Experience Manager as a Cloud Service].
+* [Notes de mise à jour actuelles d’Adobe Experience Manager (AEM) as a Cloud Service](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) - Lisez les dernières notes de mise à jour d’[!DNL Experience Manager as a Cloud Service].
 
 <!-- ### Latest Release Overview video
 
@@ -416,7 +414,7 @@ Toutes les notes de mise à jour d’[!DNL Experience Manager] sont présentées
 
 * [Informations de mise à jour d’Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/home)
 * [Mises à jour de la version d’Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
-* [Notes de mise à jour actuelles d’Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
+* [Notes de mise à jour actuelles d’Experience Manager as a Cloud Service](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [Informations de mise à jour d’Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/home)
 * [Notes de mise à jour de Cloud Manager d’Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [Notes de mise à jour du service de conversion automatisée de formulaires](https://experienceleague.adobe.com/en/docs/aem-forms-automated-conversion-service/using/release-notes)
@@ -444,12 +442,12 @@ Nouveaux tutoriels, vidéos ou cours publiés pour Experience Manager.
 | Avril 2024 | AEM Assets | [Exportation de ressources](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/export) | Vidéo | Découvrez comment exporter des ressources vers votre ordinateur local à l’aide d’un script Node.js personnalisable. |
 | Avril 2024 | AEM Headless | [Protection du contenu dans AEM sans affichage](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/protected-content) | Vidéo | Il est essentiel d’assurer l’intégrité et la sécurité de vos données lors de la diffusion de contenu AEM Headless à partir de l’instance de publication AEM lors de la diffusion de contenu sensible. Ce tutoriel décrit comment sécuriser le contenu fourni par AEM point de terminaison de l’API GraphQL sans affichage. |
 | Avril 2024 | AEM CS | [AEM champion des bonnes pratiques et des conseils - post-migration](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/experience-manager/cloud-service/cloud-manager-best-practices/post-migration) | Vidéo | Découvrez des informations inestimables de l&#39;AEM expert Wilson Faure. Dans cette vidéo, il se plonge dans des stratégies post-migration essentielles et des conseils pour optimiser votre transition. Découvrez sur quoi vous concentrer dans les jours et semaines qui suivent votre migration. |
-| Avril 2024 | AEM Assets | [Cloud 5 - Intégration de la création de documents AEM Assets](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-integrate-assets) | Vidéo | Découvrez comment intégrer AEM Assets à la création de documents pour offrir des expériences exceptionnelles aux Edge Delivery Services. |
-| Avril 2024 | AEM Sites | [Générer des variations dans les Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations) | Vidéo | Présentation de la génération de variations dans les Edge Delivery Services et compréhension de la manière dont elle peut s’avérer utile aux marketeurs. |
-| Avril 2024 | AEM Sites | [Configuration de Sidekick pour générer des variations dans les Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations-sidekick-config) | Vidéo | Découvrez comment configurer le sidekick pour générer des variations dans la création de documents Edge Delivery Services. |
-| Avril 2024 | AEM Sites | [Modèles d’invite d’IA générique dans les Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/prompt-templates-for-content-variations) | Vidéo | Découvrez comment utiliser les modèles d’invite d’intelligence artificielle générative dans la création de documents Edge Delivery Services pour générer des variantes de contenu. |
-| Avril 2024 | AEM Sites | [Modèles d’invite personnalisée d’IA générique dans les Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/custom-prompt-templates) | Vidéo | Découvrez comment créer des modèles d’invite personnalisés d’IA générative dans la création de documents Edge Delivery Services pour générer des variations de contenu. |
-| Avril 2024 | AEM Sites | [Les modèles d’invite personnalisés d’enregistrement d’IA générique dans les Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/save-custom-prompt-template) | Vidéo | Découvrez comment enregistrer les modèles d’invite personnalisée d’IA générative dans la création de documents Edge Delivery Services pour générer des variantes de contenu. |
+| Avril 2024 | AEM Assets | [Cloud 5 - Intégration de la création de documents AEM Assets](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-integrate-assets) | Vidéo | Découvrez comment intégrer AEM Assets à la création de documents pour offrir des expériences exceptionnelles avec Edge Delivery Services. |
+| Avril 2024 | AEM Sites | [Générer des variations dans les Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations) | Vidéo | Présentation de la génération de variations dans Edge Delivery Services et comprendre la manière dont elle peut s’avérer utile aux personnes spécialisées dans le marketing. |
+| Avril 2024 | AEM Sites | [Configuration de Sidekick pour générer des variations dans les Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations-sidekick-config) | Vidéo | Découvrez comment configurer le sidekick pour générer des variations dans la création de documents Edge Delivery Services. |
+| Avril 2024 | AEM Sites | [Modèles d’invite d’IA générique dans les Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/prompt-templates-for-content-variations) | Vidéo | Découvrez comment utiliser les modèles d’invite d’IA générative dans la création de documents Edge Delivery Services pour générer des variations de contenu. |
+| Avril 2024 | AEM Sites | [Modèles d’invite personnalisée d’IA générique dans les Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/custom-prompt-templates) | Vidéo | Découvrez comment créer des modèles d’invite personnalisés d’IA générative dans la création de documents Edge Delivery Services pour générer des variations de contenu. |
+| Avril 2024 | AEM Sites | [Les modèles d’invite personnalisés d’enregistrement d’IA générique dans les Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/save-custom-prompt-template) | Vidéo | Découvrez comment enregistrer les modèles d’invite personnalisés d’IA générative dans la création de documents Edge Delivery Services pour générer des variations de contenu. |
 | Mars 2024 | AEM Forms | [AEM Forms Designer](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/forms-designer/design-view) | Vidéos | Découvrez les nouvelles vidéos courtes pour [!DNL Experience Manager Forms]. |
 | Mars 2024 | AEM CS | [Meilleures pratiques et conseils pour les champions AEM - Répondre aux défis courants lors de la migration vers AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/experience-manager/cloud-service/cloud-manager-best-practices/migration-challenges) | Vidéo | Découvrez des informations précieuses et les bonnes pratiques partagées par Wilson Faure, votre collègue expert en AEM. Dans cette vidéo, il se plonge dans les défis courants rencontrés lors de la migration vers AEM as a Cloud Service, et propose des recommandations et des conseils d&#39;experts pour faciliter une transition fluide et réussie. |
 | Mars 2024 | AEM Sites | [Cloud 5 - Publier, annuler la publication des événements dans [!DNL Edge Delivery Services]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-publish-events) | Vidéo | Explorez les événements déclenchés lors de la publication et de l’annulation de la publication dans [!DNL Edge Delivery Services] ainsi que des cas pratiques et des exemples d’utilisation de ces événements. |
@@ -492,13 +490,13 @@ Nouveaux articles et mises à jour des articles existants pour [!DNL Experience 
 
 ### Autres ressources dʼaide pour [!DNL Experience Manager]
 
-* [Page d’accueil de l’aide de Dynamic Media Classic](https://experienceleague.adobe.com/en/docs/dynamic-media-classic/using/home)
+* [Page d’accueil de l’aide de Dynamic Media Classic](https://experienceleague.adobe.com/fr/docs/dynamic-media-classic/using/home)
 * [Guides relatifs à Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/overview/introduction)
 * [Guide de l’utilisateur de Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/introduction)
 * [Page dʼaccueil de formation et de support pour Experience Manager 6.5](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/deploying/introduction/platform)
-* [Page dʼaccueil de formation et de support pour Experience Manager 6.4](https://experienceleague.adobe.com/en/docs/experience-manager-64)
+* [Page dʼaccueil de formation et de support pour Experience Manager 6.4](https://experienceleague.adobe.com/fr/docs/experience-manager-64)
 * [Documentation Experience Manager : mises à jour récentes](https://experienceleague.adobe.com/fr/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates)
-* [Versions plus anciennes de la documentation pour Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
+* [Versions plus anciennes de la documentation pour Experience Manager](https://experienceleague.adobe.com/fr/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)
 
 +++
 
