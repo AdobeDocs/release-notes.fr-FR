@@ -6,7 +6,7 @@ last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 5604d5e7d8efd1845844f352cc1186eb191ba2f3
+source-git-commit: ce21e4ccca04ec63195b8e522d1c9195723261ef
 workflow-type: tm+mt
 source-wordcount: '6236'
 ht-degree: 98%
@@ -67,7 +67,7 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 
 ### Événements sur Experience League
 
-Mise à jour le **mardi 29 avril 2024**
+Mise à jour le **mercredi 30 avril 2024**
 
 +++Détails
 
