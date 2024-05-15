@@ -6,10 +6,10 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 270b9743ab0d3da4ccf830e512c881d536787b8e
+source-git-commit: 57bfa1093269549f16f34757ee9e083472098800
 workflow-type: tm+mt
-source-wordcount: '6443'
-ht-degree: 54%
+source-wordcount: '6445'
+ht-degree: 53%
 
 ---
 
@@ -77,7 +77,7 @@ Mise à jour : **jeudi 15 mai 2024**
 
 * **WORKFRONT** | Coffee Break | _Saut de café de la communauté Adobe Workfront : migration Adobe Business Platform_ | Rejoignez les experts de Workfront dans la communauté et posez vos questions sur Adobe Business Platform, la migration de votre organisation vers Adobe Admin Console, etc. | **29 mai à 8 h 00 PT** | [S’inscrire](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
-Découvrez les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
+En savoir plus [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourir [enregistrements d’événement précédents](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
 
 +++
 
