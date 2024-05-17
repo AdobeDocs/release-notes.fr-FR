@@ -6,9 +6,9 @@ last-update: May 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3bfd6c90c7d3113f95e46b8f355cb581835b3242
+source-git-commit: 45296141bb022d720f3d50d1dfe282224bde72d1
 workflow-type: tm+mt
-source-wordcount: '6457'
+source-wordcount: '6546'
 ht-degree: 53%
 
 ---
@@ -67,7 +67,7 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 
 ### Événements sur Experience League
 
-Mise à jour : **jeudi 15 mai 2024**
+Mise à jour : **samedi 17 mai 2024**
 
 +++Détails
 
@@ -76,6 +76,10 @@ Mise à jour : **jeudi 15 mai 2024**
 * **WORKFRONT** | Événement de communauté | _Cercle industriel Adobe Workfront : vente au détail_ | Si vous êtes client Workfront au détail et que vous souhaitez partager les connaissances et résoudre des problèmes avec d’autres administrateurs, rejoignez-nous pour une discussion ouverte d’une heure, menée par des administrateurs de DSW et Nordstrom. | **23 mai à 11 h PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Coffee Break | _Saut de café de la communauté Adobe Workfront : migration Adobe Business Platform_ | Rejoignez les experts de Workfront dans la communauté et posez vos questions sur Adobe Business Platform, la migration de votre organisation vers Adobe Admin Console, etc. | **29 mai à 8 h 00 PT** | [S’inscrire](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
+
+* **WORKFRONT** | Webinaire | _Réveil avec Workfront : Optimisation et maintenance de votre environnement_ | Rejoignez les conseillers commerciaux d’Adobe au fur et à mesure qu’ils partagent des insights pour optimiser votre environnement de gestion du travail dans Adobe Workfront au moyen de stratégies de nettoyage et de formation, de plans de mise en oeuvre et de pratiques d’amélioration continue. | **6 juin à 13h00 heure d’été** | [Enregistrer](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
+
+* **WORKFRONT** | Événement de la communauté | _Connect : conversation avec l’administration pour les personnes spécialisées dans le marketing et la création de contenu_ | Êtes-vous administrateur ou administratrice système pour une équipe marketing ou créative ? Cette session orientée clientèle vous connecte à d’autres administrateurs et administratrices pour discuter des bonnes pratiques et des conseils et astuces. | **7 juin à 9h00 PT** | [Enregistrer](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&amp;tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 En savoir plus [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourir [enregistrements d’événement précédents](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
 
