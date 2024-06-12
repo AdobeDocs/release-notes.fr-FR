@@ -6,7 +6,7 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: fbb4dc8b9e98de3010799a797da4714952a1700d
+source-git-commit: 1cafd2d5ef95cefa906742e028796600dca3bcbd
 workflow-type: tm+mt
 source-wordcount: '4006'
 ht-degree: 43%
@@ -652,7 +652,7 @@ Nouveaux tutoriels publiés pour les applications dans [!DNL Adobe Creative Clou
 | Publié | Application | Nom | Type | Description |
 | -----------| -----------|---------- | ---------- | ---------- |
 | Mai 2024 | [!DNL Firefly] | [Créer des scènes réutilisables pour les marchandises](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes) | Vidéo | En savoir plus sur la manière de créer des scènes réutilisables pour des marchandises telles que des sacs à main et des accessoires. La création de scènes réutilisables accélère le merchandising numérique en vous permettant d’actualiser les marchandises de votre site web selon les saisons ou à chaque fois que vous le souhaitez. |
-| Mai 2024 | [!DNL Firefly] | [Accélérer la génération d’idées créatives](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | Vidéo | En savoir plus sur la manière de visualiser rapidement des idées et d’explorer des concepts pour des campagnes commerciales. Accélérer la génération d’idées créatives permet aux entreprises de produire rapidement du contenu de haute qualité. |
+| Mai 2024 | [!DNL Firefly] | [Accélérer la génération d’idées créatives](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas) | Vidéo | Découvrez comment visualiser des idées et explorer des concepts pour les campagnes commerciales. Accélérer la génération d’idées créatives permet aux entreprises de produire rapidement du contenu de haute qualité. |
 
 Consultez les [tutoriels Creative Cloud abonnement Entreprise](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) pour obtenir les derniers tutoriels.
 
