@@ -6,10 +6,10 @@ last-update: June 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 73136bb756a8be56a3c265b30a36005911c141d4
+source-git-commit: 38946bebc2e663fc6ac9e03e200d179f0916b433
 workflow-type: tm+mt
-source-wordcount: '3853'
-ht-degree: 98%
+source-wordcount: '4011'
+ht-degree: 95%
 
 ---
 
@@ -71,9 +71,15 @@ Mise à jour le **mercredi 25 juin 2024**
 
 +++Détails
 
-* **WORKFRONT** | Atelier client | _Admin 101 - Prise en main de Workfront_ | Vous découvrez Workfront ? Rejoignez nos réunions mensuelles &quot;New Admin&quot; pour poser des questions, obtenir des ressources et des recommandations, rencontrer d’autres nouveaux administrateurs et, pour cette session, découvrir les bonnes pratiques pour configurer votre environnement Workfront. | **9 juillet à 9 h 00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Événement de la communauté | _Connect : conversation avec l’administration pour les personnes spécialisées dans le marketing et la création de contenu_ | Êtes-vous administrateur ou administratrice système pour une équipe marketing ou créative ? Cette session orientée clientèle vous connecte à d’autres administrateurs et administratrices pour discuter des bonnes pratiques et des conseils et astuces. | **12 juillet à 10 h MT** | [Enregistrer](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-Affichez tous les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements passés](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
+* **WORKFRONT** | Saut de café | _Tirage de la pause café : conseils sur la création et bonnes pratiques_ | Rejoignez-nous pour notre deuxième Tirage au café sur les bonnes pratiques Creative Brief ! Découvrez de nouvelles stratégies et partagez vos connaissances. Envoyez une question, un commentaire ou un conseil pour avoir la possibilité de gagner un swag Workfront. Ne manquez pas ! | **16 juillet à 11 h MT** | [Enregistrer](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
+
+* **WORKFRONT** | Atelier client | _En savoir plus : Adobe Workfront 3e trimestre 2024 - Cumul de la version + promotion de l’environnement_ | Rejoignez-nous pour notre session trimestrielle de révision des versions, au cours de laquelle nous discutons des dernières fonctionnalités de mise à jour et de leurs avantages. Au cours de cette session, nous aborderons également la très attendue fonctionnalité de promotion de l’environnement. | **18 juillet à 9 heures MT** | [Enregistrer](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **EXPERIENCE MANAGER, EXPERIENCE MANAGER ASSETS ET EXPERIENCE MANAGER SITES** | Webinaire | _Espressos &amp; Experience Manager : Agilité numérique avec AEM_ | Découvrez les dernières innovations d’AEM Sites et d’Assets qui AEM votre solution aux problèmes les plus courants de l’espace CMS. Nous allons explorer Universal Editor, Headless &amp; Document-based Authoring et l’interface utilisateur d’Assets. | **18 juillet à 11 h MT** | [Enregistrer](https://adobeevents.adobeconnect.com/ev3w9wtf5th2/event/registration.html?campaign-id=ExL)
+
+Et bien plus encore ! Affichez tous les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements passés](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
 +++
 
 ## ![Icône](/assets/experience-league.png) Chaîne d’approvisionnement de contenu Adobe {#content-supply-chain}
