@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a0ce8369c59cecbb8eed2f22947c98807098b27d
+source-git-commit: 7f6fded5411ad9eb451cec9529ec3400a9b15e1b
 workflow-type: tm+mt
-source-wordcount: '3449'
-ht-degree: 45%
+source-wordcount: '3536'
+ht-degree: 44%
 
 ---
 
@@ -76,6 +76,10 @@ Mise à jour le **jeudi 17 juillet 2024**
 * **[!DNL MARKETO AND MARKETO ENGAGE]** | Webinaire | _Marketo &amp; Mochas : Laying Foundation - Maturity Partie 1_ | Rejoignez les conseillers professionnels d’Adobe et apprenez à développer au mieux l’utilisation de Marketo par votre organisation. Nous allons tout passer en revue, de la gouvernance d’instance à la bibliothèque de programmes, qui héberge plusieurs programmes pour lancer la création de votre programme. | **25 juillet à 11h00 MT** | [Enregistrer](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5706378570/event_landing.html?sco-id=5706388344&amp;campaign-id=ExL&amp;_charset_=utf-8)
 
 * **[!DNL WORKFRONT]** | Webinaire | _Demander à l’assistance clientèle [!DNL Workfront] - Dépannage des expressions calculées_ | Rejoignez l’équipe d’assistance clientèle de [!DNL Workfront] pour une heure sur les expressions calculées. Entre des exemples courants, des conseils de dépannage, des leçons clés et une démonstration en direct, cette session ne doit pas être manquée ! | **31 juillet à 9 h 00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL COMMERCE]** | Webinaire | _Commerce and Coffee : stratégies pour le succès du commerce électronique B2B_ | Rejoignez Corey Gelato, conseiller en stratégie Commerce, car il met en évidence certaines des tendances et des stratégies de révision du commerce électronique B2B les plus percutantes que les clients peuvent exploiter dans Adobe Commerce. | **1er août à 11h00 MT** | [Enregistrer](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Événement de communauté | _Connectez-vous : chat administrateur pour Marketing et Creative_ | Êtes-vous administrateur système pour une équipe marketing ou créative ? Cette session orientée clientèle vous connecte à d’autres administrateurs et administratrices pour discuter des bonnes pratiques et des conseils et astuces. | **2 août à 10h00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Et bien plus encore ! Affichez tous les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements passés](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
 
