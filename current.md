@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ef4b1f6c217c9aedcbe2aed16526190bb26fc81e
+source-git-commit: a0ce8369c59cecbb8eed2f22947c98807098b27d
 workflow-type: tm+mt
-source-wordcount: '3577'
-ht-degree: 43%
+source-wordcount: '3449'
+ht-degree: 45%
 
 ---
 
@@ -32,7 +32,7 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 ## Juillet 2024
 
-Dernière mise à jour : **jeudi 17 juillet 2024**
+Dernière mise à jour : **mercredi 23 juillet 2024**
 
 * [Événements et mises à jour [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -70,12 +70,6 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 Mise à jour le **jeudi 17 juillet 2024**
 
 +++Détails
-
-* **[!DNL WORKFRONT]** | Atelier client | _En savoir plus : Adobe [!DNL Workfront] 3e trimestre 2024 - Tour d’horizon de la version + promotion de l’environnement_ | Rejoignez-nous pour notre session trimestrielle de révision des versions, au cours de laquelle nous discutons des dernières fonctionnalités de mise à jour et de leurs avantages. Au cours de cette session, nous aborderons également la très attendue fonctionnalité de promotion de l’environnement. | **18 juillet à 9 h 00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL EXPERIENCE MANAGER], [!DNL EXPERIENCE MANAGER ASSETS] ET[!DNL EXPERIENCE MANAGER SITES]** | Webinaire | _Espressos &amp; [!DNL Experience Manager:] : agilité numérique avec AEM_ | Découvrez les dernières innovations d’AEM Sites et d’Assets qui AEM votre solution aux problèmes les plus courants de l’espace CMS. Nous allons explorer Universal Editor, Headless &amp; Document-based Authoring et l’interface utilisateur d’Assets. | **18 juillet à 11 h MT** | [Enregistrer](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&amp;campaign-id=ExL&amp;_charset_=utf-8)
-
-* **[!DNL WORKFRONT]** | Événement de communauté | _Se connecter : [!DNL Workfront] Collectif_ | Rejoignez nos réunions collectives mensuelles du lundi [!DNL Workfront], conçues pour communiquer avec d’autres clients, discuter des fonctionnalités [!DNL Workfront], partager des idées et échanger des idées ensemble pour résoudre des problèmes courants. | **22 juillet à 7 h 00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Atelier client | _Découvrez avec les clients : utilisation de [!DNL Workfront] pour les rapports_ | Rejoignez-nous pour une présentation d’une heure par les clients et les anciens clients, car ils partagent leur expérience et des recommandations sur l’utilisation de [!DNL Workfront] pour aider aux changements structurels et de processus des rapports de l’organisation. | **23 juillet à 9 h 00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
