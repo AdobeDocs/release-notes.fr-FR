@@ -6,10 +6,10 @@ last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: ce3509b0e50a2febbd002d677bf31282c42684dd
+source-git-commit: 261f4a4a4ee24f61415febb87e95d9ffb4359ab7
 workflow-type: tm+mt
-source-wordcount: '3621'
-ht-degree: 93%
+source-wordcount: '3491'
+ht-degree: 94%
 
 ---
 
@@ -32,7 +32,7 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 ## Juillet 2024
 
-Dernière mise à jour : **mercredi 23 juillet 2024**
+Dernière mise à jour : **samedi 2 août 2024**
 
 * [Événements et mises à jour [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -67,15 +67,9 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 
 ### Événements sur Experience League
 
-Mise à jour le **samedi 26 juillet 2024**
+Mise à jour le **samedi 2 août 2024**
 
 +++Détails
-
-* **[!DNL WORKFRONT]** | Webinaire | _Demander à l’assistance clientèle [!DNL Workfront] - Dépannage des expressions calculées_ | Rejoignez l’équipe d’assistance clientèle de [!DNL Workfront] pour une heure sur les expressions calculées. Avec ses exemples courants, ses conseils de dépannage, ses leçons clés et une démonstration en direct, cette session est faite pour vous. | **31 juillet à 09 h 00 MT** | [S’inscrire](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | Webinaire | _Commerce and Coffee : stratégies pour le succès du commerce électronique B2B_ | Rejoignez Corey Gelato, conseiller en stratégie Commerce, car il met en évidence certaines des tendances et des stratégies de révision du commerce électronique B2B les plus percutantes que les clients peuvent exploiter dans Adobe Commerce. | **1er août à 11h00 MT** | [Enregistrer](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | Événement de communauté | _Connectez-vous : chat administrateur pour Marketing et Creative_ | Êtes-vous administrateur système pour une équipe marketing ou créative ? Cette session orientée clientèle vous connecte à d’autres administrateurs et administratrices pour discuter des bonnes pratiques et des conseils et astuces. | **2 août à 10h00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Atelier client | _Admin 101 : Accès des utilisateurs à Workfront_ | Vous découvrez Workfront ? Rejoignez nos réunions mensuelles 101 pour poser des questions, obtenir des ressources, découvrir les bonnes pratiques et rencontrer d’autres nouveaux administrateurs. Ce mois-ci, nous parlerons de l’adoption des utilisateurs. | **6 août à 9 h 00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/25756c69-c2ae-41d5-a5b8-b257193b1313@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
