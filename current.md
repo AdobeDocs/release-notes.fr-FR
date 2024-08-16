@@ -6,9 +6,9 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 79f6a9ae7032ed3a640c4925b14e334ceb1354e4
+source-git-commit: 59f082ddef93b5ca415ccc3da5a1220b6aeae88b
 workflow-type: tm+mt
-source-wordcount: '3097'
+source-wordcount: '3099'
 ht-degree: 51%
 
 ---
@@ -32,7 +32,7 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 ## Août 2024
 
-Dernière mise à jour : **jeudi 14 août 2024**
+Dernière mise à jour : **samedi 16 août 2024**
 
 * [[!DNL Experience League]  événements et mises à jour](#events) (Mise à jour : **16 août**)
 * [[!DNL Adobe System Status]](#status)
@@ -72,7 +72,7 @@ Mise à jour : **16 août 2024**
 
 Les [listes de lecture](https://experienceleague.adobe.com/en/playlists) de la vidéo sont nouvelles sur Experience League. Une liste de lecture est un ensemble organisé de vidéos conçues pour vous aider à acquérir rapidement les compétences et les connaissances que vous recherchez.
 
-Pour parcourir les listes de lecture, accédez à **[!UICONTROL Découvrez]** > **[!UICONTROL Listes de lecture]**.
+Pour parcourir les listes de lecture, accédez à **[!UICONTROL En savoir plus]** > **[!UICONTROL Parcourir toutes les listes de lecture]**.
 
 >[!NOTE]
 >
