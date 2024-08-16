@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4a405ffdd266ebadf9d43e4e4696b40d670ee3ff
+source-git-commit: 79f6a9ae7032ed3a640c4925b14e334ceb1354e4
 workflow-type: tm+mt
-source-wordcount: '3052'
-ht-degree: 52%
+source-wordcount: '3097'
+ht-degree: 51%
 
 ---
 
@@ -34,7 +34,7 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 Dernière mise à jour : **jeudi 14 août 2024**
 
-* [Événements et mises à jour [!DNL Experience League]](#events)
+* [[!DNL Experience League]  événements et mises à jour](#events) (Mise à jour : **16 août**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - Interface centrale et administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -66,13 +66,23 @@ Dernière mise à jour : **jeudi 14 août 2024**
 
 Découvrez des événements passionnants sur Experience League. Il s’agit d’un excellent endroit pour apprendre, interagir et obtenir des réponses des spécialistes des produits Adobe !
 
+### Listes de lecture sur Experience League (nouveauté)
+
+Mise à jour : **16 août 2024**
+
+Les [listes de lecture](https://experienceleague.adobe.com/en/playlists) de la vidéo sont nouvelles sur Experience League. Une liste de lecture est un ensemble organisé de vidéos conçues pour vous aider à acquérir rapidement les compétences et les connaissances que vous recherchez.
+
+Pour parcourir les listes de lecture, accédez à **[!UICONTROL Découvrez]** > **[!UICONTROL Listes de lecture]**.
+
+>[!NOTE]
+>
+>**Les cours** sont retirés de l’Experience League. Si vous disposez d’un signet pour un cours, vous êtes redirigé vers une liste de lecture correspondante.
+
+Si vous souhaitez envoyer des commentaires à l’Experience League à propos des listes de lecture ou de tout problème d’aide, utilisez la fenêtre contextuelle Commentaires au bas de chaque page.
+
 ### Événements sur Experience League
 
-Mise à jour le **jeudi 14 août 2024**
-
 +++Détails
-
-* **[!DNL EXPERIENCE MANAGER]** | Experience Makers | _L&#39;Exchange de compétences pour Adobe Experience Manager_ | Rejoignez-nous le 14 août pour cet événement gratuit d’apprentissage client numérique. Vous entendrez les experts et les pairs sur la meilleure manière d’utiliser AEM. Il y a le temps de répondre à vos questions. | **14 août à 10 h MT** | [Enregistrer](https://adobe.ly/4c7TAqZ%60)
 
 * **[!DNL WORKFRONT]** | Experience Makers | _Exchange de compétences pour Adobe Workfront_ | Rejoignez-nous le 15 août pour un événement d’apprentissage numérique gratuit avec du contenu axé sur Workfront. Vous entendrez parler par des experts et des pairs de l’utilisation de Workfront dans leurs activités quotidiennes. | **15 août à 10 h MT** | [Enregistrer](https://adobe.ly/4c7TAqZ)
 
