@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4955798262f3d97c1a7944dbadab05d70cb66c40
+source-git-commit: 4f85a610d82980e431f5e3692e1fecb28677478b
 workflow-type: tm+mt
-source-wordcount: '3185'
-ht-degree: 90%
+source-wordcount: '3155'
+ht-degree: 92%
 
 ---
 
@@ -32,9 +32,9 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 ## Août 2024
 
-Dernière mise à jour : **mercredi 20 août 2024**
+Dernière mise à jour : **vendredi 22 août 2024**
 
-* [[!DNL Experience League]  événements et mises à jour](#events) (Mise à jour : **20 août**)
+* [[!DNL Experience League]  événements et mises à jour](#events) (Mise à jour : **2 août**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - Interface centrale et administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -68,17 +68,22 @@ Découvrez des événements passionnants sur Experience League. Il s’agit d’
 
 ### Listes de lecture sur Experience League (nouveauté)
 
-Mise à jour : **16 août 2024**
+Mise à jour : **22 août 2024**
 
-Les [listes de lecture](https://experienceleague.adobe.com/en/playlists) de la vidéo sont nouvelles sur Experience League. Une liste de lecture est un ensemble organisé de vidéos conçues pour vous aider à acquérir rapidement les compétences et les connaissances que vous recherchez.
+De nouvelles [listes de lecture](https://experienceleague.adobe.com/fr/playlists) vidéo sont disponibles sur Experience League. Une liste de lecture est un ensemble organisé de vidéos conçues pour vous aider à acquérir rapidement les compétences et les connaissances que vous recherchez.
+
+Les fonctionnalités de liste de lecture sont les suivantes :
+
+* Lecture automatique des vidéos
+* Sélection et vitesse de lecture des chapitres
+* Reprendre là où vous vous êtes arrêté
+* Transcriptions de vidéos
 
 Pour parcourir les listes de lecture, accédez à **[!UICONTROL En savoir plus]** > **[!UICONTROL Parcourir toutes les listes de lecture]**.
 
 >[!NOTE]
 >
->**Les cours** sont retirés de l’Experience League. Si vous disposez d’un signet pour un cours, vous êtes redirigé vers une liste de lecture correspondante.
-
-Si vous souhaitez envoyer des commentaires à l’Experience League à propos des listes de lecture ou de tout problème d’aide, utilisez la fenêtre contextuelle Commentaires au bas de chaque page.
+>**Les cours** sont retirés de l’Experience League. Si vous avez marqué un cours sur un signet, vous êtes redirigé vers une liste de lecture correspondante, le cas échéant. Dans certains cas, vous devrez peut-être accéder à une nouvelle liste de lecture qui couvre les rubriques que vous recherchez.
 
 ### Événements sur Experience League
 
@@ -86,13 +91,11 @@ Si vous souhaitez envoyer des commentaires à l’Experience League à propos de
 
 * **[!DNL EXPERIENCE CLOUD]** | Événement de communauté | _Prix Experience Maker 2025 Adobe_ | Les envois sont désormais ouverts pour les prix Adobe Experience Maker 2025. Extraordinaire n&#39;est que le début. Visionnaires audacieux. Expériences client exceptionnelles. | **S/O** | [Appliquer maintenant](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
 
-* **[!DNL WORKFRONT]** | Atelier client | _En savoir plus : utilisation des files d’attente de demande Workfront pour les processus d’ingestion_ | Contactez-nous pour une discussion sur les avantages et les bonnes pratiques des files d’attente de demandes Workfront pour suivre, organiser et générer des rapports sur le travail de votre organisation. | **21 août à 9h30 MT** | [Enregistrer](https://events.teams.microsoft.com/event/ba631a2b-d656-42ca-99e9-3a78d0229c7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | Événement de communauté | _Débogueur de données : notions de base d’Adobe Analytics et au-delà_ | Rejoignez les experts d’Adobe Analytics en nous guidant à travers les bonnes pratiques relatives à l’organisation de votre espace de travail, à la navigation dans les parcours d’apprentissage d’Adobe Analytics pour les débutants et à la connexion avec des outils de visualisation de données tiers. | **22 août à 11 h MT** | [Enregistrer](https://adobeevents.adobeconnect.com/et45xd86xdq9/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** | Atelier client | _En savoir plus : plaider en faveur de Workfront Fusion_ | Rejoignez l’équipe du succès client pour un atelier interactif d’une heure avec Deloitte et Adobe Workfront Integrations Consulting afin d’apprendre à quantifier les gain de temps et d’élaborer une analyse de performances efficace pour Workfront Fusion. | **Le 27 août à 10 h 00 MT** | [S’inscrire](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL JOURNEY OPTIMIZER]** | Coffee Break | _Saut de café de la communauté Adobe Journey Optimizer_ | Il s’agit d’une session de chat d’une heure avec des experts de Journey Optimizer autour des 3 fonctionnalités à essayer de l’expérimentation Journey Optimizer-parcours, la limitation de fréquence et la messagerie multilingue. | **4 septembre à 9 h 00 MT** | [Enregistrer](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL WORKFRONT]** | Événement de communauté | _Connectez-vous : chat administrateur pour Marketing et Creative_ | Êtes-vous administrateur système pour une équipe marketing ou créative ? Cette session orientée clientèle vous connecte à d’autres administrateurs et administratrices pour discuter des bonnes pratiques et des conseils et astuces. | **6 septembre à 10h00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Et bien plus encore. Affichez tous les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements passés](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
 
