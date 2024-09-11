@@ -5,10 +5,10 @@ user-guide-title: Notes de mise à jour d’Adobe Experience Cloud
 breadcrumb-title: Notes de mise à jour
 user-guide-description: Découvrez les nouvelles fonctionnalités, les correctifs et les avis importants dans Adobe Experience Cloud et Experience Platform.
 user-guide-url: https://www.adobe.com
-source-git-commit: a2851c9233c452083e7c876b700ec1f473667dc9
-workflow-type: ht
-source-wordcount: '99'
-ht-degree: 100%
+source-git-commit: 8e97368ffaa98f281eb4495e3c9cd779331cea55
+workflow-type: tm+mt
+source-wordcount: '101'
+ht-degree: 98%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 100%
 + [Notes de mise à jour de la version actuelle](current.md)
 + Notes de mise à jour précédentes {#previous}
    + 2024 {#2024}
+      + [Août 2024](c-legacy-releases/2024/09142023.md)
       + [Juillet 2024](c-legacy-releases/2024/07172024.md)
       + [Juin 2024](c-legacy-releases/2024/06122024.md)
       + [Mai 2024](c-legacy-releases/2024/05152024.md)
