@@ -6,10 +6,10 @@ last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 94b28700a1b4281fa99e9b47f2421960b085c519
+source-git-commit: de974e36ac2eb38f78a065a000913e6dc13e6420
 workflow-type: tm+mt
-source-wordcount: '3186'
-ht-degree: 89%
+source-wordcount: '3442'
+ht-degree: 82%
 
 ---
 
@@ -38,11 +38,11 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 ## Août 2024
 
-Dernière mise à jour : **mercredi 3 septembre 2024**
+Dernière mise à jour : **mercredi 10 septembre 2024**
 
-* Événements et mises à jour [[!DNL Experience League] ](#events)
+* Événements [[!DNL Experience League]  et mises à jour](#events) (mise à jour le **10 septembre**)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud]  - Interface centrale et administration](#ecloud) (Mise à jour : **3 septembre**)
+* [[!DNL Adobe Experience Cloud]  - Interface centrale et administration](#ecloud) (Mise à jour : **10 septembre**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (Date de publication : **14 août**)
@@ -95,13 +95,21 @@ Pour parcourir les listes de lecture, accédez à **[!UICONTROL En savoir plus]*
 
 +++Détails
 
-* **[!DNL EXPERIENCE CLOUD]** | Événement de communauté | _Prix Experience Maker 2025 Adobe_ | Les envois sont désormais ouverts pour les prix Adobe Experience Maker 2025. Extraordinaire n&#39;est que le début. Visionnaires audacieux. Expériences client exceptionnelles. | **S/O** | [Appliquer maintenant](https://www.adobeexperienceawards.com/?cgen=98SH4H11&amp;mv=other)
+* **[!DNL MARKETO ENGAGE]** | Événement de communauté | _Marketo &amp; Mochas : Optimisation de votre utilisation Marketo (Maturity Pt 2)_ | Découvrez comment optimiser votre utilisation de Marketo à la Partie 2 de notre série de Marketo Maturity. Cette session se concentre sur les bonnes pratiques en matière de gestion des données, d’intégration et d’optimisation des programmes pour une personnalisation améliorée. | **12 septembre à 11 h MT** | [Enregistrer](https://adobeevents.adobeconnect.com/eaawduywkndj/event/registration.html?campaign-id=ExL)
 
-* **[!DNL JOURNEY OPTIMIZER]** | Coffee Break | _Saut de café de la communauté Adobe Journey Optimizer_ | Il s’agit d’une session de chat d’une heure avec des experts de Journey Optimizer autour des 3 fonctionnalités à essayer de l’expérimentation Journey Optimizer-parcours, la limitation de fréquence et la messagerie multilingue. | **4 septembre à 9 h 00 MT** | [Enregistrer](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+* **[!DNL WORKFRONT]** | Atelier client | _En savoir plus : Retour aux panoramas Workfront avec produit Adobe_ | Vous recherchez des moyens nouveaux et créatifs d’utiliser les panoramas Workfront ? Rejoignez nos chefs de produit pour en savoir plus sur les bonnes pratiques des panoramas et sur l’utilisation de la fonctionnalité pour améliorer l’adoption. | **12 septembre à 12 h MT** | [Enregistrer](https://events.teams.microsoft.com/event/e1e4a956-0115-4a60-b7f8-f519e6f26013@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _Nouveautés dans les environnements de développement rapide pour AEM ?_ | Rejoignez-nous pour savoir comment utiliser les RDE pour réduire les temps de roulement du développement et obtenir des commentaires immédiats sur les modifications de code. Nous présenterons les dernières fonctionnalités telles que l’amélioration de la journalisation, la prise en charge frontale, etc. | **4 septembre à 9 h 00 MT** | [Enregistrer](https://adobe.ly/4cwc5W4)
+* **[!DNL WORKFRONT]** | Événement de communauté | _Se connecter : Collectif Workfront_ | Rejoignez notre événement collectif mensuel du lundi Workfront pour échanger avec d’autres clients, discuter des fonctionnalités de Workfront et échanger des idées afin de résoudre des problèmes courants. | **16 septembre à 7 h 00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/ecc08357-a15e-4058-a062-8efe038c81cc@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Événement de communauté | _Connectez-vous : chat administrateur pour Marketing et Creative_ | Êtes-vous administrateur système pour une équipe marketing ou créative ? Cette session orientée clientèle vous connecte à d’autres administrateurs et administratrices pour discuter des bonnes pratiques et des conseils et astuces. | **6 septembre à 10h00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Atelier client | _Admin 101 : Posez vos questions Workfront_ | Vous découvrez Workfront ? Avez-vous manqué l’une des sessions précédentes d’ administrateur 101 ? Rejoignez notre session de résumé pour poser des questions, obtenir des ressources et des recommandations, et rencontrer d’autres nouveaux administrateurs. | **17 septembre à 9h00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/ea6802af-b1dc-441a-aedb-79ed8607e02d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MARKETO ENGAGE]** | Webinaire | _Principal de parcours clients complexes avec des programmes d’engagement en continu_ | Rejoignez le champion Adobe Marketo Engage Max Garrett pour découvrir comment interagir de manière systématique et entretenir les relations client avec des programmes d’engagement multipoints et multi-flux à chaque étape de leur parcours. | **17 septembre à 9h00 MT** | [Enregistrer](https://engage.adobe.com/Master-Muti-Stream-Engagement-Program-Marketo-Engage.html?trackingid=CJ1327K1&amp;mv=email)
+
+* **[!DNL WORKFRONT]** | Atelier client | _En savoir plus : réalisation de valeur - tirer le meilleur parti de Workfront_ | Vous recherchez des conseils sur la manière de tirer le meilleur parti de vos efforts Workfront ? Rejoignez Kait Winchell, responsable principal du succès client, car elle partage les bonnes pratiques du secteur pour tirer le meilleur parti de Workfront. | **19 septembre à 9h00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/6fae993e-73b5-49e6-97a1-1aa0a64b83c8@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL COMMERCE]** | Webinaire | _Commerce &amp; Coffee : Prép de saison du pic_ | Rejoignez Corey Gelato pour une présentation de la préparation de votre site pour une saison de pointe à tout moment de l’année. Découvrez comment optimiser les performances du site web, gérer l’inventaire, exécuter les commandes et accélérer l’assistance. | **19 septembre à 11 h MT** | [Enregistrer](https://adobeevents.adobeconnect.com/e47se7d9nn63/event/registration.html?campaign-id=ExL)
+
+* **[!DNL DYNAMIC MEDIA CLASSIC],[!DNL EXPERIENCE MANAGER ASSETS]** | Webinaire | _Expérience Dynamic Media : dévoilement des dernières innovations_ | De nouvelles innovations dans AEM Dynamic Media sont désormais disponibles pour améliorer votre expérience client. Rejoignez-nous pour un aperçu axé sur les valeurs et une présentation d’une expérience utilisateur attrayante créée avec les dernières technologies. | **25 septembre à 10 h MT** | [Enregistrer](https://events.teams.microsoft.com/event/043c6637-cfaf-486b-8924-2e562d28c833@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Et bien plus encore. Affichez tous les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements passés](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
 
@@ -115,7 +123,18 @@ Découvrez les dernières fonctionnalités et mises à jour sur [!DNL Adobe Syst
 
 [!DNL Adobe System Status] fournit des informations détaillées, des mises à jour de statut et des notifications par e-mail sur les produits et services Adobe. Recevez des notifications à propos des pannes, des perturbations et des événements de maintenance. Consultez le site [status.adobe.com/fr](https://status.adobe.com/fr).
 
-Pour les notes de mise à jour récentes, consultez :
+Date de publication : **19 août 2024**
+
+**Nouveautés**
+
+* Notifications, correctifs et améliorations de la maintenance basée sur les produits
+
+| Fonctionnalité | Description |
+| ------- | ------- |
+| Maintenance basée sur les produits | <ul><li>Amélioration de l’interface utilisateur et des notifications par produit plutôt que par maintenance.</li><li>Les attributs d’impact de chaque mise à jour fournissent des détails spécifiques à chaque produit de l’impact.</li></ul> |
+| Correctifs et améliorations | <ul><li>_Comment s’abonner_ à la localisation de la page d’aide.</li><li>Ajout des coordonnées de l’assistance sur la page d’instructions de configuration du Slack.</li><li>Correction du bogue relatif aux incidents non filtrés correctement par état d’événement à l’aide des API d’état.</li></ul> |
+
+Pour les notes de mise à jour récentes, consultez ce qui suit :
 
 * [15 mai 2024](https://experienceleague.adobe.com/fr/docs/release-notes/experience-cloud/previous/2024/05152024#status)
 * [30 janvier 2024](https://experienceleague.adobe.com/fr/docs/release-notes/experience-cloud/previous/2024/02142024#status)
@@ -132,11 +151,11 @@ Découvrez les composants et l’administraction de l’interface centrale d’[
 
 +++Détails
 
-Version : **2 septembre 2024**
+Version : **10 septembre 2024**
 
 | Fonctionnalité | Description |
 | -----------| ---------- |
-| Notifications Slack | Vous pouvez configurer vos préférences de compte pour envoyer des notifications Experience Cloud à Slack. Pour plus d’informations, voir _Notifications de Slack_ dans l’aide [ Préférences de compte et notifications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) . |
+| Notifications Slack | Vous pouvez configurer vos préférences de compte pour envoyer des notifications Experience Cloud à Slack. Pour plus d’informations, voir [S’abonner aux notifications de Slack](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) . |
 
 Pour obtenir de l’aide sur les composants de l’interface centrale d’Experience Cloud, consultez le [Guide de l’interface et de l’administration d’Experience Cloud](https://experienceleague.adobe.com/fr/docs/core-services/interface/experience-cloud) (avec des articles consacrés aux [!UICONTROL attributs du client ou de la cliente] [!DNL Experience Cloud Assets] et aux [!UICONTROL audiences]).
 
