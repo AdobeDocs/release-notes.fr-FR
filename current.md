@@ -6,10 +6,10 @@ last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
-workflow-type: ht
+source-git-commit: f80213edd3db47dd0519beeaaaeb1cbfc9e04883
+workflow-type: tm+mt
 source-wordcount: '3847'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -38,9 +38,9 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 ## Septembre - Octobre 2024
 
-Dernière mise à jour : **3 octobre 2024**
+Dernière mise à jour : **vendredi 10 octobre 2024**
 
-* Événements et mises à jour [[!DNL Experience League] ](#events) (mise à jour le **10 septembre**)
+* [[!DNL Experience League]  événements et mises à jour](#events) (Mise à jour : **10 octobre**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - Interface centrale et administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -93,9 +93,9 @@ Pour parcourir les listes de lecture, accédez à **[!UICONTROL En savoir plus]*
 
 +++Détails
 
-* **[!DNL WORKFRONT]** | Événement de la communauté | _Connect : conversation avec l’administration pour les personnes spécialisées dans le marketing et la création de contenu_ | Vous êtes administrateur ou administratrice système pour une équipe marketing ou créative ? Cette session orientée clientèle vous connecte à d’autres administrateurs et administratrices Workfront pour discuter des bonnes pratiques et obtenir des conseils et astuces. | **Le 4 octobre à 10 h 00 MT** | [S’inscrire](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Événement de communauté | _Se connecter : Collectif Workfront_ | Rejoignez l’équipe du succès client pour une discussion ouverte lundi matin, conçue pour vous connecter avec d’autres administrateurs de Workfront, découvrir les dernières fonctionnalités, partager des idées et proposer des solutions de brainstorming pour les défis courants. | **14 octobre à 7 h 00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Événement de la communauté | _Admin 101 : prise en main de Workfront_ | Vous débutez avec Workfront ? Rejoignez-nous pour la première session de la série en 3 parties Admin 101. Vous y découvrirez les bonnes pratiques et recommandations concernant la configuration du système et la navigation, ainsi que les ressources indispensables. | **Le 8 octobre à 09 h 00 MT** | [S’inscrire](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Atelier client | _Découvrez : Amélioration de l’efficacité - Comment Cognizant utilise Adobe Workfront pour l’excellence du projet_ | Rejoignez Sujatha T S, responsable principale des opérations Creative, et Global Brand and Creative, administrateur système, car elle raconte comment Cognizant a optimisé leur système et leurs processus pour améliorer l’efficacité de l’excellence du projet. | **Le 17 octobre à 09 h 00 MT** | [S’inscrire](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Et bien plus encore. Affichez tous les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements passés](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
 
