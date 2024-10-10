@@ -7,13 +7,13 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: 1e26c1a450f5ddc45f49d3b6d5aaa85f9cbf008c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3847'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# Notes de mise à jour des Experience Cloud - Septembre/Octobre 2024
+# Notes de mise à jour d’Experience Cloud - Septembre/octobre 2023
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -36,17 +36,17 @@ Recherchez la fenêtre pop-up **_Ce contenu a-t-il été utile ?_** en bas de c
 
 Pour recevoir une notification mensuelle par e-mail des mises à jour de cette page, abonnez-vous à la [Mise à jour prioritaire des produits Adobe](https://www.adobe.com/subscription/priority-product-update.html).
 
-## Septembre à octobre 2024
+## Septembre - Octobre 2024
 
-Dernière mise à jour : **vendredi 3 octobre 2024**
+Dernière mise à jour : **3 octobre 2024**
 
 * Événements et mises à jour [[!DNL Experience League] ](#events) (mise à jour le **10 septembre**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - Interface centrale et administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Version : **2 octobre**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Version : **2 octobre**)
+* [[!DNL Adobe Analytics]](#analytics) (Version : **2 octobre**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Version : **2 octobre**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -93,9 +93,9 @@ Pour parcourir les listes de lecture, accédez à **[!UICONTROL En savoir plus]*
 
 +++Détails
 
-* **[!DNL WORKFRONT]** | Événement de communauté | _Connectez-vous : chat administrateur pour Marketing et Creative_ | Êtes-vous administrateur système pour une équipe marketing ou créative ? Cette session orientée client vous connectera à d’autres administrateurs Workfront pour discuter des bonnes pratiques ainsi que des conseils et astuces. | **4 octobre à 10 h MT** | [Enregistrer](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Événement de la communauté | _Connect : conversation avec l’administration pour les personnes spécialisées dans le marketing et la création de contenu_ | Vous êtes administrateur ou administratrice système pour une équipe marketing ou créative ? Cette session orientée clientèle vous connecte à d’autres administrateurs et administratrices Workfront pour discuter des bonnes pratiques et obtenir des conseils et astuces. | **Le 4 octobre à 10 h 00 MT** | [S’inscrire](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Événement de communauté | _Admin 101 : Prise en main de Workfront_ | Vous découvrez Workfront ? Rejoignez-nous pour la première session de la série en 3 parties Admin 101. Vous pouvez vous attendre à découvrir les bonnes pratiques et recommandations concernant la configuration et la navigation du système, ainsi que les ressources indispensables. | **8 octobre à 9 h 00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Événement de la communauté | _Admin 101 : prise en main de Workfront_ | Vous débutez avec Workfront ? Rejoignez-nous pour la première session de la série en 3 parties Admin 101. Vous y découvrirez les bonnes pratiques et recommandations concernant la configuration du système et la navigation, ainsi que les ressources indispensables. | **Le 8 octobre à 09 h 00 MT** | [S’inscrire](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Et bien plus encore. Affichez tous les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements passés](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
 
@@ -196,7 +196,7 @@ Recherchez les dernières informations de mise à jour pour [!DNL Adobe Analytic
 
 +++Détails
 
-Date de publication d’[!DNL Analytics] : **jeudi 2 octobre 2024**
+Date de publication d’[!DNL Analytics] : **2 octobre 2024**
 
 * [Notes de mise à jour [!DNL Analytics]](https://experienceleague.adobe.com/fr/docs/analytics/release-notes/latest) <!-- * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)  -->
 
@@ -235,7 +235,7 @@ Recherchez les dernières informations de mise à jour pour [!DNL Customer Journ
 
 +++Détails
 
-Date de publication d’[!DNL Customer Journey Analytics] : **jeudi 2 octobre 2024**
+Date de publication d’[!DNL Customer Journey Analytics] : **2 octobre 2024**
 
 * [Notes de mise à jour [!DNL Customer Journey Analytics]](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/releases/latest#releases) <!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
