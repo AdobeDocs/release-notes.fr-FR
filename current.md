@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 4dc15dc72d06718975ab5179065513265f061dc8
-workflow-type: ht
-source-wordcount: '4668'
+source-git-commit: 1f52efdc0836864a20ea66d286f9cee4d1587b6d
+workflow-type: tm+mt
+source-wordcount: '4532'
 ht-degree: 100%
 
 ---
@@ -38,7 +38,7 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 ## Novembre 2024
 
-Dernière mise à jour : **23 octobre**
+Dernière mise à jour : **30 octobre**
 
 * [Événements et mises à jour [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -92,12 +92,6 @@ Pour parcourir les listes de lecture, accédez à **[!UICONTROL En savoir plus]*
 ### Événements sur Experience League
 
 +++Détails
-
-* **[!DNL Workfront]** | Conversation sur les questions fréquentes | _En savoir plus : parcours de Qualcomm pour l’adoption d’Adobe Workfront_ | Découvrez l’approche stratégique que Becky Barus, responsable technique certifiée d’Adobe Workfront chez Qualcomm, a utilisée pour stimuler considérablement l’adoption d’Adobe Workfront par les utilisateurs et utilisatrices. | **Le 23 octobre à 10 h 00 MT** | [S’inscrire](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Platform, Journey Optimizer, and Real-Time Customer Data Platform Collaboration]** | Experience League LIVE | _Adobe Experience League Live : harmonisation des audiences dans les écosystèmes Experience - Composition d’audiences fédérées dans Experience Platform_ | Découvrez comment la composition d’audiences fédérées offre une approche complète du traitement et de l’activation des audiences avec Real-Time CDP et Journey Optimizer. | **Le 24 octobre à 9 h 30 MT** | [S’inscrire](https://engage.adobe.com/ExpLeagueLive-241024.html)
-
-* **[!DNL Workfront]** | Conversation sur les questions fréquentes | _Panel de clientes et clients : enseignements d’administrateurs et d’administratrices Workfront expérimentés_ | Participez à une discussion interactive d’une heure avec quatre clientes et clients Adobe Workfront expérimentés afin de savoir ce qu’il faut faire (ou ne pas faire) lors de l’implémentation, de l’héritage, de la gestion et du développement d’une instance de Workfront. | **Le 29 octobre à 09 h 00 MT** | [S’inscrire](https://events.teams.microsoft.com/event/bfdd4c24-1a60-447d-a91b-ad52806626a5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Cloud](multiproduit)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Participez à la conférence Adobe Developers Live en personne au siège d’Adobe à San José. Rencontrez des développeurs et développeuses Commerce et AEM, découvrez les dernières innovations et les bonnes pratiques. Le 12 novembre, en personne ou en ligne. Inscrivez-vous maintenant. | **Le 12 novembre à 09 h 00 MT** | [S’inscrire](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
@@ -188,7 +182,7 @@ Recherchez les dernières informations de mise à jour pour [!DNL Adobe Analytic
 
 +++Détails
 
-Date de publication d’[!DNL Analytics] : **2 octobre 2024**
+Date de publication d’[!DNL Analytics] : **jeudi 23 octobre 2024**
 
 * [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/analytics/release-notes/latest)[!DNL Analytics]<!-- (https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
 
@@ -226,7 +220,7 @@ Recherchez les dernières informations de mise à jour pour [!DNL Customer Journ
 
 +++Détails
 
-Date de publication d’[!DNL Customer Journey Analytics] : **2 octobre 2024**
+Date de publication d’[!DNL Customer Journey Analytics] : **jeudi 23 octobre 2024**
 
 * [Notes de mise à jour [!DNL Customer Journey Analytics]](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/releases/latest#releases) <!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
