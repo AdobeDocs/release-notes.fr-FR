@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 1f52efdc0836864a20ea66d286f9cee4d1587b6d
+source-git-commit: 7b1fc9eb2230cb7779b9253211080933c73cb796
 workflow-type: tm+mt
-source-wordcount: '4532'
-ht-degree: 100%
+source-wordcount: '4608'
+ht-degree: 98%
 
 ---
 
@@ -38,7 +38,7 @@ Pour recevoir une notification mensuelle par e-mail des mises à jour de cette p
 
 ## Novembre 2024
 
-Dernière mise à jour : **30 octobre**
+Dernière mise à jour : **4** novembre
 
 * [Événements et mises à jour [!DNL Experience League]](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -93,7 +93,11 @@ Pour parcourir les listes de lecture, accédez à **[!UICONTROL En savoir plus]*
 
 +++Détails
 
-* **[!DNL Experience Cloud] (multiproduit)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Participez à la conférence Adobe Developers Live en personne au siège d’Adobe à San José. Rencontrez des développeurs et développeuses Commerce et AEM, découvrez les dernières innovations et les bonnes pratiques. Le 12 novembre, en personne ou en ligne. Inscrivez-vous maintenant. | **Le 12 novembre à 09 h 00 MT** | [S’inscrire](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
+* **[!DNL Workfront]** | Atelier client | _En savoir plus : application de la gestion des modifications à votre Parcours Workfront_ | Rejoignez Keri Amundson, responsable principal du succès client, car elle partage les bonnes pratiques en matière de gestion des changements pour favoriser les changements sur votre parcours Workfront. | **Le 7 novembre à 09 h 00 MT** | [S’inscrire](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Atelier client | _En savoir plus : application de la gestion des modifications à votre Parcours Workfront_ | Rejoignez Keri Amundson, responsable principal du succès client, car elle partage les bonnes pratiques en matière de gestion des changements pour favoriser les changements sur votre parcours Workfront. | **Le 7 novembre à 09 h 00 MT** | [S’inscrire](https://events.teams.microsoft.com/event/c890ca39-6dc6-43b2-9883-bfba1c51a494@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Cloud](multiproduit)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Participez à la conférence Adobe Developers Live en personne au siège d’Adobe à San José. Rencontrez des développeurs et développeuses Commerce et AEM, découvrez les dernières innovations et les bonnes pratiques. Le 12 novembre, en personne ou en ligne. Inscrivez-vous maintenant. | **Le 12 novembre à 09 h 00 MT** | [S’inscrire](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&amp;utm_medium=website&amp;utm_campaign=adl2024)
 
 * **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | Participez à la conférence Adobe Developers Live en personne au siège d’Adobe à San José. Rencontrez des développeurs et développeuses Commerce et AEM, découvrez les dernières innovations et les bonnes pratiques. Le 12 novembre, en personne ou en ligne. Inscrivez-vous maintenant. | **Le 12 novembre à 09 h 00 MT** | [S’inscrire](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -295,7 +299,7 @@ Nouveaux articles et mises à jour des articles existants pour [!DNL Experience 
 | Septembre 2024 | [[!DNL Dynamic Media Image]  présente une grille étrange au-dessus de celle-ci](https://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-25087). | Nouvel article | Découvrez comment identifier et résoudre un problème de superposition de grille étrange dans les images traitées avec [!DNL Dynamic Media Scene7]. |
 | Septembre 2024 | [Générer des  [!DNL URLs]  pour la [!UICONTROL lecture vidéo progressive] dans  [!DNL Dynamic Media Classic]](https://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-25003) | Nouvel article | Découvrez comment créer une [!DNL URL] pour une vidéo pouvant être lue progressivement à partir d’une [!UICONTROL visionneuse de vidéos adaptative (AVS)] dans [!DNL Dynamic Media Classic]. |
 | Septembre 2024 | La requête [[!DNL SAML SSO]  du flux `saml_login POST` renvoie une erreur 204](https://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-25006). | Nouvel article | Découvrez comment résoudre le problème lorsque la requête `saml_login POST` du flux sur site [!DNL Adobe Experience Manager (AEM)] ou [!DNL AMS AEM SAML SSO] renvoie une erreur 204. |
-| Octobre 2024 | [Impossible d’accéder à  [!DNL AEM Assets Brand Portal]  avec  [!DNL Federated ID]] (lhttps://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-25114) | Nouvel article | Découvrez comment résoudre le problème où un utilisateur ou une utilisatrice ayant accès à [!DNL AEM Assets Brand Portal] à l’aide d’un [!DNL Federated ID] peut ne pas être en mesure d’accéder à la solution dans certaines circonstances. |
+| Octobre 2024 | [Impossible d’accéder à  [!DNL AEM Assets Brand Portal]  avec  [!DNL Federated ID]](lhttps://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-25114) | Nouvel article | Découvrez comment résoudre le problème où un utilisateur ou une utilisatrice ayant accès à [!DNL AEM Assets Brand Portal] à l’aide d’un [!DNL Federated ID] peut ne pas être en mesure d’accéder à la solution dans certaines circonstances. |
 | Octobre 2024 | Échec de chargement du [[!DNL PDF] ](https://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-25116) | Nouvel article | Découvrez comment résoudre le problème d’échec de chargement d’un [!DNL PDF] vers [!DNL Dynamic Media Classic] ou de synchronisation d’[!DNL AEM] vers [!DNL DMS7]. |
 | Octobre 2024 | [Ajouter d’autres variables d’environnement après avoir atteint la limite de 200 variables d’environnement](https://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-25104) | Nouvel article | Découvrez les autres options de stockage pour ajouter d’autres variables d’environnement après avoir atteint la limite de 200 variables dans [!DNL Adobe Experience Manager as a Cloud Service (AEMaaCS)]. |
 
