@@ -6,9 +6,9 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 8f8c2c1c77f9ca98e7543ff7a52071c6fa49fea5
+source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
 workflow-type: tm+mt
-source-wordcount: '4635'
+source-wordcount: '4639'
 ht-degree: 94%
 
 ---
@@ -34,7 +34,7 @@ Pour une expérience d’auto-assistance optimale, connectez-vous à [Experience
 
 **Novembre 2024**
 
-Dernière mise à jour : **samedi 22 novembre 2024**
+Dernière mise à jour : **lundi 24 novembre 2024**
 
 * [[!DNL Experience League]  événements et mises à jour](#events) (**24 novembre**)
 * [[!DNL Adobe System Status]](#status)
@@ -64,17 +64,17 @@ Dernière mise à jour : **samedi 22 novembre 2024**
 * [Certification Adobe](https://experienceleague.adobe.com/fr/certification-home)
 * [Vulnérabilités de sécurité des produits Adobe](https://helpx.adobe.com/fr/security.html)
 
-## Événements et mises à jour [!DNL Experience League] {#events}
+## [!DNL Experience League] mises à jour et événements {#events}
 
 Découvrez des événements passionnants sur Experience League. Il s’agit d’un excellent endroit pour apprendre, interagir et obtenir des réponses des spécialistes des produits Adobe !
 
-+++Détails
+### Mises à jour d’Experience League
 
-### Améliorations de la table des matières
++++Détails
 
 Mise à jour : **22 novembre 2024**
 
-Les mises à jour suivantes ont été apportées à chaque table des matières en Experience League :
+**Mises à jour de la table des matières :** Les mises à jour suivantes ont été apportées à chaque table des matières en Experience League :
 
 * **[!UICONTROL Développer toutes les sections]** : affiche la table des matières complète dans n’importe quel guide Experience League. (Ce bouton se désactive après le chargement d’une page. Ce problème sera corrigé dans une prochaine mise à jour.) Les options **[!UICONTROL Afficher plus]** et **[!UICONTROL Afficher moins]** ont été supprimées.
 * **Défilement** : permet de faire défiler une longue table des matières.
