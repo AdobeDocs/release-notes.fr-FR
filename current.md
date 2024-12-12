@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 974b5546b9fc18503dfc2007d2e3a4d92d95e315
+source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
 workflow-type: tm+mt
-source-wordcount: '4639'
-ht-degree: 94%
+source-wordcount: '4720'
+ht-degree: 93%
 
 ---
 
@@ -34,15 +34,15 @@ Pour une expérience d’auto-assistance optimale, connectez-vous à [Experience
 
 **Novembre 2024**
 
-Dernière mise à jour : **lundi 24 novembre 2024**
+Dernière mise à jour : **jeudi 11 décembre 2024**
 
-* [[!DNL Experience League]  événements et mises à jour](#events) (**24 novembre**)
+* [[!DNL Experience League]  événements et mises à jour](#events) (**11 décembre**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - Interface centrale et administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Publié : **23 octobre**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Publié : **23 octobre**)
+* [[!DNL Adobe Analytics]](#analytics) (Dernière version : **23 octobre**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Dernière version : **23 octobre**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -103,6 +103,10 @@ Pour parcourir les listes de lecture, accédez à **[!UICONTROL En savoir plus]*
 ### Événements sur Experience League
 
 +++Détails
+
+* **[!DNL Workfront]** | Événement de communauté | _Se connecter : Collectif Workfront_ | Rejoignez nos événements collectifs du lundi Workfront conçus pour communiquer avec d’autres clients, discuter des fonctionnalités de Workfront, partager des idées et échanger des idées afin de résoudre des problèmes courants. | **16 décembre à 7 h 00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Chat Q&amp;R | _Admin 101 : Posez vos questions Workfront_ | Vous découvrez Workfront ? Avez-vous manqué l’une des sessions précédentes d’Admin 101 ? Rejoignez notre session de résumé pour poser des questions, obtenir des ressources et des recommandations, et rencontrer d’autres nouveaux administrateurs et administratrices. | **17 décembre à 9 h 00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Affichez tous les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements passés](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
 
