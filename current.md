@@ -6,10 +6,10 @@ last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: b30261737a9476a3279ac1181314ea41170b0dbc
+source-git-commit: acb2e70c307774752fca6b7e0fb903c8d6c12601
 workflow-type: tm+mt
-source-wordcount: '4720'
-ht-degree: 93%
+source-wordcount: '4775'
+ht-degree: 92%
 
 ---
 
@@ -28,21 +28,21 @@ Cette page vous aide à localiser les ressources d’aide autonome suivantes pou
 
 Pour une expérience d’auto-assistance optimale, connectez-vous à [Experience League](https://experienceleague.adobe.com/#home) et personnalisez votre expérience de recherche dans la bibliothèque gratuite Adobe de [documentation](https://experienceleague.adobe.com/fr/docs), de [cours](https://experienceleague.adobe.com/?lang=fr#courses), d’[événements](https://experienceleague.adobe.com/events?lang=fr/), de [forums communautaires](https://experienceleaguecommunities.adobe.com/?profile.language=fr), et d’[assistance](https://experienceleague.adobe.com/?support-tab=home&amp;lang=fr#support).
 
-**Laisser un commentaire :** Recherchez le **_Ce contenu a-t-il été utile ?_** en bas de chaque page. Vos commentaires sont traités et diffusés aux auteurs et autrices de contenu.
+**Laisser un commentaire :** rechercher le **_Ce contenu a-t-il été utile ?_** en bas de chaque page. Vos commentaires sont traités et diffusés aux auteurs et autrices de contenu.
 
-**Soyez averti :** Pour recevoir une notification par courrier électronique mensuelle des mises à jour de cette page, abonnez-vous à la [ mise à jour prioritaire des produits par Adobe ](https://www.adobe.com/subscription/priority-product-update.html).
+**Recevoir une notification :** pour recevoir une notification mensuelle par e-mail des mises à jour de cette page, abonnez-vous à la [Mise à jour prioritaire des produits Adobe ](https://www.adobe.com/subscription/priority-product-update.html).
 
-**Novembre 2024**
+**Novembre/Décembre 2024**
 
-Dernière mise à jour : **jeudi 11 décembre 2024**
+Dernière mise à jour : **mardi 16 décembre 2024**
 
-* [[!DNL Experience League]  événements et mises à jour](#events) (**11 décembre**)
+* [[!DNL Experience League] événements et mises à jour](#events) (**16 décembre**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - Interface centrale et administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Dernière version : **23 octobre**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Dernière version : **23 octobre**)
+* [[!DNL Adobe Analytics]](#analytics) (dernière version : **23 octobre**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (dernière version : **23 octobre**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -64,21 +64,21 @@ Dernière mise à jour : **jeudi 11 décembre 2024**
 * [Certification Adobe](https://experienceleague.adobe.com/fr/certification-home)
 * [Vulnérabilités de sécurité des produits Adobe](https://helpx.adobe.com/fr/security.html)
 
-## [!DNL Experience League] mises à jour et événements {#events}
+## Mises à jour et événements [!DNL Experience League] {#events}
 
 Découvrez des événements passionnants sur Experience League. Il s’agit d’un excellent endroit pour apprendre, interagir et obtenir des réponses des spécialistes des produits Adobe !
 
-### Mises à jour d’Experience League
+### Mises à jour de l’Experience League
 
 +++Détails
 
-Mise à jour : **22 novembre 2024**
+Mise À Jour : **22 Novembre 2024**
 
-**Mises à jour de la table des matières :** Les mises à jour suivantes ont été apportées à chaque table des matières en Experience League :
+**Mises à jour de la table des matières :** les mises à jour suivantes ont été apportées à chaque table des matières dans l’Experience League :
 
-* **[!UICONTROL Développer toutes les sections]** : affiche la table des matières complète dans n’importe quel guide Experience League. (Ce bouton se désactive après le chargement d’une page. Ce problème sera corrigé dans une prochaine mise à jour.) Les options **[!UICONTROL Afficher plus]** et **[!UICONTROL Afficher moins]** ont été supprimées.
+* **[!UICONTROL Développer toutes les sections]** : permet d’afficher l’intégralité de la table des matières sur n’importe quel guide Experience League. (Ce bouton se désactive après le chargement d’une page.) Ce problème sera corrigé dans une prochaine mise à jour.) Les options **[!UICONTROL Afficher plus]** et **[!UICONTROL Afficher moins]** ont été supprimées.
 * **Défilement** : permet de faire défiler une longue table des matières.
-* **[!UICONTROL Filtrer par mot-clé]** : permet de filtrer les entrées de la table des matières en saisissant des mots-clés. Une liste déroulante affiche les résultats pertinents et vous pouvez effacer le filtre en cliquant sur **[!UICONTROL Effacer]**.
+* **[!UICONTROL Filtrer par mot-clé]** : permet de filtrer les entrées de la table des matières en saisissant des mots-clés. Une liste déroulante affiche les résultats pertinents, et vous pouvez effacer le filtre en cliquant sur **[!UICONTROL Effacer]**.
 * **Visibilité de la page active** : la page active est toujours mise en surbrillance dans la table des matières.
 
 ### Listes de lecture sur Experience League
@@ -104,9 +104,11 @@ Pour parcourir les listes de lecture, accédez à **[!UICONTROL En savoir plus]*
 
 +++Détails
 
-* **[!DNL Workfront]** | Événement de communauté | _Se connecter : Collectif Workfront_ | Rejoignez nos événements collectifs du lundi Workfront conçus pour communiquer avec d’autres clients, discuter des fonctionnalités de Workfront, partager des idées et échanger des idées afin de résoudre des problèmes courants. | **16 décembre à 7 h 00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | Conversation Q&amp;R | _Admin 101 : posez vos questions sur Workfront_ | Vous découvrez Workfront ? Avez-vous manqué l’une des sessions précédentes d’Admin 101 ? Rejoignez notre session de résumé pour poser des questions, obtenir des ressources et des recommandations, et rencontrer d’autres nouveaux administrateurs et administratrices. | **17 décembre à 17 h CET** | [S’inscrire](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | Chat Q&amp;R | _Admin 101 : Posez vos questions Workfront_ | Vous découvrez Workfront ? Avez-vous manqué l’une des sessions précédentes d’Admin 101 ? Rejoignez notre session de résumé pour poser des questions, obtenir des ressources et des recommandations, et rencontrer d’autres nouveaux administrateurs et administratrices. | **17 décembre à 9 h 00 MT** | [Enregistrer](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | Workfront | _Webinaire Sur La Version Du Premier Trimestre D’Adobe Workfront_ | Organisé en partenariat avec Jeremy Flores, chef principal de produit, ce webinaire présentera les dernières améliorations apportées aux fonctionnalités d’Adobe Workfront, qui devraient être publiées la semaine prochaine dans la version du premier trimestre 2025. | **9 janvier à 10 h 30 CET** | [S’inscrire](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workfront | _Connect : conversation d’administration pour le marketing et la création_ | Êtes-vous administrateur système pour une équipe marketing ou créative ? Cette session axée sur les clients, organisée en partenariat avec Catholic Relief Services, fournira les bonnes pratiques ainsi que du temps libre pour les questions. | **10 janvier à 10 h CET** | [S’inscrire](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Affichez tous les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements passés](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
 
@@ -138,7 +140,7 @@ Découvrez les composants et l’administraction de l’interface centrale d’[
 
 +++Détails
 
-Pour faciliter le contrôle des préférences des données d’utilisation des produits Experience Cloud, nous avons rationalisé notre page de préférences des Experience Cloud afin de supprimer les options en double. Pour plus de simplicité, nous avons préservé les préférences utilisateur actuelles et vous pouvez mettre à jour vos préférences à tout moment sur https://experience.adobe.com/preferences.
+Pour faciliter le contrôle des préférences des données d’utilisation des produits Experience Cloud, nous avons rationalisé notre page des préférences des Experience Cloud afin de supprimer les options en double. Pour plus de simplicité, nous avons conservé les préférences actuelles des utilisateurs et vous pouvez mettre à jour vos préférences à tout moment à l’adresse https://experience.adobe.com/preferences.
 
 | Date de publication | Fonctionnalité | Description |
 | -----------| -----------| ---------- |
@@ -330,9 +332,9 @@ Nouveaux tutoriels pour [!DNL Adobe Commerce] sur Experience League.
 
 | Publié | Nom | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-| Novembre 2024 | [Valeurs de configuration](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values) | Vidéo | Découvrez comment localiser, valider et gérer les valeurs de configuration dans Adobe Commerce à l’aide de `core_config_data`, de fichiers XML et de paramètres d’administration. |
-| Novembre 2024 | [Résoudre les erreurs courantes](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values) | Vidéo | Résolvez deux erreurs courantes du projet Adobe Cloud qui empêchent le chargement du site. |
-| Novembre 2024 | [Certificat SSL expiré](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/invalid-ssl) | Vidéo | Découvrez comment identifier un certificat ssl expiré, puis comment en générer à nouveau pour l’intégration Adobe Commerce Cloud ou d’autres environnements de développement. |
+| Novembre 2024 | [Valeurs de configuration ](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values) | Vidéo | Découvrez comment localiser, valider et gérer les valeurs de configuration dans Adobe Commerce à l’aide de `core_config_data`, de fichiers XML et de paramètres d’administration. |
+| Novembre 2024 | [Résoudre les erreurs courantes](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values) | Vidéo | Résolvez deux erreurs courantes de projet Adobe Cloud qui empêchent le chargement du site. |
+| Novembre 2024 | [ Certificat SSL expiré ](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/invalid-ssl) | Vidéo | Découvrez comment identifier un certificat SSL expiré, puis comment en générer à nouveau un pour l’intégration de Adobe Commerce Cloud ou d’autres environnements de développement. |
 | Octobre 2024 | [Adobe Commerce](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/qa/code-freeze) | Plusieurs vidéos | Visionnez de nouvelles vidéos sur l’achitecture marketing de Commerce, le modèle de diffusion global, les rôles des administrateurs et administratrices, les options de storefront, etc. |
 | Octobre 2024 | [Migration vers Adobe Commerce](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/overview) | Vidéo | Vue d’ensemble de la préparation, du code personnalisé, de l’assurance qualité, des performances et de la sécurité lors de la migration vers Adobe Commerce. |
 | Octobre 2024 | [Réinitialiser l’URI d’administration à l’aide de l’interface de ligne de commande](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/admin/reset-admin-uri) | Vidéo | Découvrez comment réinitialiser l’URI d’administration à l’aide de la commande de l’interface de ligne de commande Adobe Commerce Cloud. Cela s’avère utile si l’URL d’administration a été modifiée à partir de l’administration, mais qu’une erreur a été commise et que vous ne pouvez plus accéder à l’administration. |
