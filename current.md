@@ -6,10 +6,10 @@ last-update: January 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: a92a0f05c31eda25feb5f7555b87f711ac089a40
+source-git-commit: 4111e60fce38d2d4921bc817a587b735989fccc2
 workflow-type: tm+mt
-source-wordcount: '4224'
-ht-degree: 96%
+source-wordcount: '4141'
+ht-degree: 97%
 
 ---
 
@@ -94,10 +94,6 @@ Fonctionnalités clés :
 +++Détails
 
 * **[!DNL Adobe Summit]** | _Conférence sur l’expérience digitale_ | Rejoignez vos pairs et écoutez les dirigeants de Coca-Cola Company, de JPMorganChase, de ServiceNow, etc. | **18 et 19 mars à Las Vegas et en ligne** | [S’inscrire](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Marketo and Marketo Engage]** | _Heures de bureau du champion Adobe Marketo Engage - Février 2025_ | Rejoignez-nous pour des heures de bureau des champions d&#39;Amérique du Nord et de LATAM dirigées par les champions Marketo Engage 2024/25. | **13 février à 17 h CET** | [S’inscrire](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&amp;mv=other)
-
-* **[!DNL Commerce]** | _Commerce et café : l’émergence du libre-service dans le B2B_ | Commencez l’année en force avec nos spécialistes [!DNL Commerce], Corey Gelato et Agbi Bajrushi, qui explorent les dernières tendances B2B et une approche pour tirer parti des nouvelles fonctionnalités d’Adobe [!DNL Commerce] afin de rester en tête de la concurrence toute l’année. | **13 février à 11 h 00 MT** | [S’inscrire](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
 Affichez tous les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements passés](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
 
