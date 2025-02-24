@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 137dc623cf4b283e8a18e609d6847b72a5f20aa7
+source-git-commit: 566009aeac5ff30a0368d90226e1fd31583cba5d
 workflow-type: tm+mt
-source-wordcount: '3628'
-ht-degree: 51%
+source-wordcount: '3671'
+ht-degree: 50%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 51%
 
 ## Février 2025
 
-Dernière mise à jour : **jeudi 19 février 2025**
+Dernière mise à jour : **mardi 24 février 2025**
 
 Utilisez ces liens pour trouver les notes de mise à jour de l’application, les événements, les nouveaux tutoriels et les derniers articles d’assistance de la base de connaissances :
 
@@ -87,11 +87,13 @@ Fonctionnalités clés :
 
 +++Détails
 
-* **[!DNL Adobe Summit]** | _Conférence sur l’expérience digitale_ | Rejoignez vos pairs et écoutez les dirigeants de Coca-Cola Company, de JPMorganChase, de ServiceNow, etc. | **18 et 19 mars à Las Vegas et en ligne** | [S’inscrire](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Experience Cloud]** | Adobe Summit | _Conférence sur l’expérience digitale_ | Rejoignez vos pairs et écoutez les dirigeants de Coca-Cola Company, de JPMorganChase, de ServiceNow, etc. | **18 et 19 mars à Las Vegas et en ligne** | [S’inscrire](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Experience Cloud]** | _Adobe Digital Insights : présentation des résultats des vacances 2024 et des tendances du début de l’année 2025_ | Récapitulatif complet des tendances des achats de vacances en 2024 et perspectives pour le premier semestre 2025. Utilisez ces informations pour vous aider à prévoir et à dépasser les attentes des clients au cours de l’année à venir. | **20 février à 10 h CET** | [S’inscrire](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
+* **[!DNL Workfront]** | Apprendre de vos pairs | _Comment mesurer et partager la valeur de Workfront_ | Rejoignez-nous le 26 février 2025, alors que vos pairs de Synchrony et d’EMMsphere vous expliqueront comment ils ont créé leur « Workfront Why » ultime et comment ils communiquent des résultats mesurables tels que des économies de temps et de coûts.| **26 février à 8 h PT** | [S’inscrire](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
-* **[!DNL Workfront]** | _Connect : Workfront Collective_ | Rejoignez notre événement mensuel du lundi Workfront Collective conçu pour entrer en contact avec d’autres clients, discuter des fonctionnalités de Workfront, partager des idées et réfléchir ensemble à des solutions aux défis courants. | **24 février à 17 h CET** | [S’inscrire](https://events.teams.microsoft.com/event/d3b3a3c3-9563-4499-a147-8b966d13a30d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | Webinaire | _Obtention du parrainage exécutif pour Adobe Workfront_ | Découvrez comment AI Assistant peut déverrouiller de précieuses informations opérationnelles, stimuler la productivité et redéfinir le travail dans Adobe Experience Platform et ses applications basées sur des plateformes.| **27 février à 17 h CET** | [S’inscrire](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Déverrouillage des informations opérationnelles avec l’assistant AI dans Adobe Experience Platform_ | Découvrez comment AI Assistant peut déverrouiller de précieuses informations opérationnelles, stimuler la productivité et redéfinir le travail dans Adobe Experience Platform et ses applications basées sur des plateformes.| **27 février à 17 h 30 (heure du Pacifique)** | [S’inscrire](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
 Et bien plus encore. Affichez tous les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements passés](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
 
