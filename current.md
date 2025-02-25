@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3a542c8eddc0015672a975dd2b9fcd024a808084
+source-git-commit: f3fadcb8c041692973a902fd3433483592aebf4c
 workflow-type: tm+mt
 source-wordcount: '3671'
-ht-degree: 96%
+ht-degree: 95%
 
 ---
 
@@ -87,13 +87,13 @@ Principales fonctionnalités :
 
 +++Détails
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _Conférence sur l’expérience digitale_ | Rejoignez vos pairs et écoutez les dirigeants de Coca-Cola Company, de JPMorganChase, de ServiceNow, etc. | **18-19 mars à Las Vegas et en ligne** | [S’inscrire](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Workfront]** | Apprendre de vos pairs | _Comment mesurer et partager la valeur de Workfront_ | **26 février à 17 h CET** | Rejoignez-nous le 26 février 2025, alors que vos pairs de Synchrony et d’EMMsphere vous expliqueront comment ils ont créé leur « Workfront Why » ultime et comment ils communiquent des résultats mesurables tels que des économies de temps et de coûts. | [S’inscrire](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
-* **[!DNL Workfront]** | Apprendre de vos pairs | _Comment mesurer et partager la valeur de Workfront_ | Rejoignez-nous le 26 février 2025, alors que vos pairs de Synchrony et d’EMMsphere vous expliqueront comment ils ont créé leur « Workfront Why » ultime et comment ils communiquent des résultats mesurables tels que des économies de temps et de coûts.| **26 février à 8 h PT** | [S’inscrire](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
+* **[!DNL Workfront]** | Webinaire | _Obtention du parrainage exécutif pour Adobe Workfront_ | **27 février à 17 h CET** | Découvrez comment AI Assistant peut déverrouiller de précieuses informations opérationnelles, stimuler la productivité et redéfinir le travail dans Adobe Experience Platform et ses applications basées sur des plateformes. | [S’inscrire](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | Webinaire | _Obtention du parrainage exécutif pour Adobe Workfront_ | Découvrez comment AI Assistant peut déverrouiller de précieuses informations opérationnelles, stimuler la productivité et redéfinir le travail dans Adobe Experience Platform et ses applications basées sur des plateformes.| **27 février à 17 h CET** | [S’inscrire](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Déverrouillage des informations opérationnelles avec l’assistant AI dans Adobe Experience Platform_ | **27 février à 17 h 30 (heure du Pacifique)** | Découvrez comment AI Assistant peut déverrouiller de précieuses informations opérationnelles, stimuler la productivité et redéfinir le travail dans Adobe Experience Platform et ses applications basées sur des plateformes. | [S’inscrire](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
-* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Déverrouillage des informations opérationnelles avec l’assistant AI dans Adobe Experience Platform_ | Découvrez comment AI Assistant peut déverrouiller de précieuses informations opérationnelles, stimuler la productivité et redéfinir le travail dans Adobe Experience Platform et ses applications basées sur des plateformes.| **27 février à 17 h 30 (heure du Pacifique)** | [S’inscrire](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Cloud]** | Adobe Summit | _Conférence sur l’expérience digitale_ | **18 et 19 mars à Las Vegas et en ligne**| Rejoignez vos pairs et écoutez les dirigeants de Coca-Cola Company, de JPMorganChase, de ServiceNow, etc. |  [S’inscrire](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 Et bien plus encore. Affichez tous les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements passés](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
 
