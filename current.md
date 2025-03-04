@@ -9,7 +9,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: ec5ef84d81c827c1bb16146f9694c31069023f2e
 workflow-type: tm+mt
 source-wordcount: '3590'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -87,9 +87,9 @@ Principales fonctionnalités :
 
 +++Détails
 
-* **[!DNL Experience Platform]** | EXPERIENCE LEAGUE LIVE | _Déverrouillage des informations opérationnelles avec l’assistant AI dans Adobe Experience Platform_ | **27 février à 17 h 30 (heure du Pacifique)** | Découvrez comment AI Assistant peut déverrouiller de précieuses informations opérationnelles, stimuler la productivité et redéfinir le travail dans Adobe Experience Platform et ses applications basées sur des plateformes. | [S’inscrire](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Platform]** | Experience League LIVE | _Obtention des informations opérationnelles avec l’Assistant IA dans Adobe Experience Platform_ | **27 février à 8 h 30 PST** | Découvrez comment l’Assistant IA peut révéler de précieuses informations opérationnelles, stimuler la productivité et redéfinir le travail dans Adobe Experience Platform et ses applications basées sur la plateforme. | [S’inscrire](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _Conférence sur l’expérience digitale_ | **18 et 19 mars à Las Vegas et en ligne**| Rejoignez vos pairs et écoutez les dirigeants de Coca-Cola Company, de JPMorganChase, de ServiceNow, etc. |  [S’inscrire](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Experience Cloud]** | Adobe Summit | _Conférence sur l’expérience digitale_ | **18 et 19 mars à Las Vegas et en ligne**| Rejoignez vos pairs et écoutez la direction de Coca-Cola Company, de JPMorganChase, de ServiceNow, etc. |  [S’inscrire](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
 Et bien plus encore. Affichez tous les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements passés](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
 
