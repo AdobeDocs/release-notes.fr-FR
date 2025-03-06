@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 9906503870a1994ab141ab535a075aaabb4ce463
+source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
 workflow-type: tm+mt
-source-wordcount: '3666'
-ht-degree: 96%
+source-wordcount: '3696'
+ht-degree: 95%
 
 ---
 
@@ -125,8 +125,9 @@ Découvrez les composants et l’administraction de l’interface centrale d’[
 
 +++Détails
 
-| Date | Fonctionnalité | Description |
+| Date | Mise à jour  | Description |
 | -----------| -----------| ---------- |
+| vendredi 6 mars 2025 | Correctif de l’option de menu contextuel | Les onglets de navigation dans l’en-tête d’Experience Cloud autorisent désormais les fonctions de menu déroulant de navigateur avec clic droit. Ce correctif corrige un problème introduit dans la version de février du système de conception Spectrum 2. |
 | 13 février | Spectrum 2 | Le cadre d’application [!DNL Experience Cloud], y compris la barre d’en-tête et les composants accessibles à partir de la barre d’en-tête (et le rail de navigation de gauche pour certaines applications) sera mis à jour vers Spectrum 2. Spectrum est la norme de conception d’Adobe. Cette nouvelle conception comprend une iconographie mise à jour, mais les mêmes fonctionnalités. Cependant, plusieurs éléments de l’en-tête sont repositionnés pour s’aligner sur d’autres sites et applications d’Adobe. |
 
 Pour obtenir de l’aide sur les composants de l’interface centrale [!DNL Experience Cloud], consultez le [Guide de l’interface et de l’administration d’Experience Cloud](https://experienceleague.adobe.com/fr/docs/core-services/interface/experience-cloud) (avec des articles consacrés aux [!UICONTROL attributs du client ou de la cliente], à [!DNL Experience Cloud Assets] et aux [!UICONTROL audiences]).
