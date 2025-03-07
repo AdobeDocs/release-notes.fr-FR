@@ -6,10 +6,10 @@ last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 749e5ed0a19e73ad9eca189c25b7a71304e2060c
+source-git-commit: 09edfe74b52391d042548e0eb9dfbe33381d3d85
 workflow-type: tm+mt
-source-wordcount: '3696'
-ht-degree: 95%
+source-wordcount: '3688'
+ht-degree: 96%
 
 ---
 
@@ -87,13 +87,13 @@ Principales fonctionnalités :
 
 +++Détails
 
-* **[!DNL Experience Manager Forms]** | _Expressos et Experience Manager : AEM Forms_ | **6 mars** | Rejoignez l’équipe produit d’Adobe AEM qui met en avant les dernières innovations d’AEM Forms, notamment : le nouvel assistant d’IA dédiée à la génération, la composition unifiée avec AEM Sites et de nouvelles façons de déployer les formulaires par le biais de conversations. | [S’inscrire](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+* **[!DNL Adobe Summit]** | _Conférence sur l’expérience digitale_ | **18 et 19 mars à Las Vegas et en ligne**| Rejoignez vos pairs et écoutez les dirigeants de Coca-Cola Company, de JPMorganChase, de ServiceNow, etc. |  [S’inscrire](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
 
-* **[!DNL Workfront]** | _Connect : conversation avec l’administrateur pour Marketing et Creative_ | **7 mars** | Que vous soyez un administrateur système Workfront pour une équipe marketing, créative ou autre, cette discussion interactive se concentrera sur les bonnes pratiques et le remue-méninges collectif. | [S’inscrire](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+* **[!DNL Workfront]** | _En savoir plus : tracer la voie de la réussite avec Adobe Workfront Planning_ | **13 mars** | Rejoignez nos chefs de produit Adobe pour une session d’introduction approfondie sur la planification de Workfront, au cours de laquelle ils expliqueront comment cette fonctionnalité peut fournir une visibilité complète sur les détails opérationnels de votre organisation. | [S’inscrire](https://events.teams.microsoft.com/event/2b79ba76-86bb-4100-9db7-c3d399e5d457@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Admin 101 : Obtention des données Workfront_ | **11 mars** | Vous découvrez Workfront ? Rejoignez-nous pour la troisième session de la série Admin 101 afin d’apprendre tout ce qui concerne le reporting. Vous pouvez vous attendre à une discussion interactive sur les plans directeurs, les tableaux de bord, le Forms personnalisé, etc. | [S’inscrire](https://events.teams.microsoft.com/event/eda5b596-f91d-4834-80a0-e77205101a92@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Admin 101 : posez vos questions sur Workfront_ | **25 mars** | Vous découvrez Workfront ? Avez-vous manqué l’une des sessions précédentes d’Admin 101 ? Rejoignez notre session de résumé pour poser des questions, obtenir des ressources et des recommandations, et rencontrer d’autres nouveaux administrateurs et administratrices. | [S’inscrire](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Cloud]** | _Adobe Summit - Conférence sur l’expérience digitale_ | **18 et 19 mars à Las Vegas et en ligne**| Rejoignez vos pairs et écoutez les dirigeants de Coca-Cola Company, de JPMorganChase, de ServiceNow, etc. |  [S’inscrire](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
+* **[!DNL Target]** | _Personalization à l&#39;échelle Insights, Intelligence et Impact_ | **1er avril** | Les innovations d’Adobe Target, y compris l’IA dédiée à la génération, et les bonnes pratiques de personnalisation et d’expérimentation à grande échelle optimisées par l’IA. | [S’inscrire](https://event.adobe.com/adobetargetmaturitywebinars03)
 
 Et bien plus encore. Affichez tous les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements passés](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
 
