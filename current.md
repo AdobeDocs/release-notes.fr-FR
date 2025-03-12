@@ -6,9 +6,9 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 3d9970385a93930673e0b95e6de4cedbe235b5fd
+source-git-commit: 9bae2ace4b03080dcb5568d029a7cec530948547
 workflow-type: tm+mt
-source-wordcount: '4054'
+source-wordcount: '4056'
 ht-degree: 44%
 
 ---
@@ -203,7 +203,7 @@ Recherchez les dernières informations de mise à jour pour [!DNL Adobe Analytic
 
 Date de publication de [!DNL Analytics] : **jeudi 12 mars 2025**
 
-* [!DNL Analytics][release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)<!-- * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
+* [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/analytics/release-notes/latest)[!DNL Analytics]<!-- * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
 
 * [Documentation et tutoriels du produit](https://experienceleague.adobe.com/fr/docs/analytics) [!DNL Analytics]
 
