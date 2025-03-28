@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 2ee49223680d875489b16b64b541a9e43341f459
+source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
 workflow-type: tm+mt
-source-wordcount: '3951'
-ht-degree: 96%
+source-wordcount: '3867'
+ht-degree: 95%
 
 ---
 
@@ -69,10 +69,6 @@ Recherchez [événements](https://experienceleague.adobe.com/events?lang=fr/) et
 +++Événements
 
 * **[!DNL Adobe Summit]** | _Conférence sur l’expérience numérique_ | **18 et 19 mars à Las Vegas et en ligne**| Rejoignez des personnes comme vous et écoutez la direction de Coca-Cola Company, de JPMorganChase, de ServiceNow, etc. | [S’inscrire](https://summit.adobe.com/na/?promoid=G4FRYKWG&amp;mv=other)
-
-* **[!DNL Workfront]** | _Admin 101 : posez vos questions sur Workfront_ | **25 mars** | Vous découvrez Workfront ? Avez-vous manqué l’une des sessions précédentes d’Admin 101 ? Rejoignez notre session de résumé pour poser des questions, obtenir des ressources et des recommandations, et rencontrer d’autres nouveaux administrateurs et administratrices. | [S’inscrire](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _En savoir plus : 10 conseils sur le mode texte dans Adobe Workfront_ | **27 mars** | Vous souhaitez développer vos connaissances en matière de création de rapports avec le mode texte ? Ne cherchez plus. Cet atelier présentera les principes de base du mode texte et l’explorateur d’API, suivis de 10 conseils de base dans Adobe Workfront. | [S’inscrire](https://events.teams.microsoft.com/event/72b8860b-e330-4fcf-ad71-bb3c94265961@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _Connect : collectif Workfront_ | **31 mars** | Rejoignez nos réunions collectives mensuelles Workfront du lundi, conçues pour communiquer avec d’autres clientes et clients, discuter des fonctionnalités Workfront, partager des idées et échanger pour résoudre des problèmes courants. | [S’inscrire](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
