@@ -7,9 +7,9 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 source-git-commit: beb77755fc91c4bede762130f3ca886926d2cf39
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3867'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -19,19 +19,19 @@ ht-degree: 95%
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/#home) est votre bibliothèque de ressources qui peut vous aider à en savoir plus sur les applications d’entreprise Experience Cloud et Adobe. Connectez-vous et :
+[Experience League](https://experienceleague.adobe.com/?lang=fr#home) est une bibliothèque de ressources qui vous permet de découvrir les applications Experience Cloud et Adobe pour les entreprises. Connectez-vous et :
 
-* [Personnaliser votre apprentissage](https://experienceleague.adobe.com/en/home/profile-settings) : aidez-nous à personnaliser votre expérience d’apprentissage. Sélectionnez votre rôle, votre secteur d’activité et les produits qui vous intéressent.
-* [Parcourez et découvrez](https://experienceleague.adobe.com/en/browse) : trouvez du contenu populaire, de nouveaux tutoriels, de la documentation, les événements à venir, etc.
-* [Découvrez de nouvelles perspectives](https://experienceleague.adobe.com/en/perspectives) : nous avons rassemblé un large éventail de cas d’utilisation réels et de bonnes pratiques, écrits par vos pairs et des experts en produits Adobe.
-* [Obtention d’une certification ](https://experienceleague.adobe.com/fr/certification-home) : le nouveau portail de certification Adobe simplifie le perfectionnement de vos compétences et la certification.
-* [Interagissez avec une communauté de pairs](https://experienceleaguecommunities.adobe.com/?profile.language=fr) : rejoignez des groupes, rencontrez nos conseillers communautaires Experience League et apprenez même à en devenir un.
+* [Personnalisez votre apprentissage](https://experienceleague.adobe.com/fr/home/profile-settings) : aidez-nous à personnaliser votre expérience d’apprentissage. Sélectionnez votre rôle, votre secteur d’activité et les produits qui vous intéressent.
+* [Parcourez et découvrez](https://experienceleague.adobe.com/fr/browse) : trouvez des contenus populaires, de nouveaux tutoriels, de la documentation, des événements à venir, et plus encore.
+* [Découvrez de nouvelles perspectives](https://experienceleague.adobe.com/fr/perspectives) : nous avons rassemblé une série de cas d’utilisation réels et de bonnes pratiques, rédigés par vos pairs et des spécialistes des produits Adobe.
+* [Obtenez une certification](https://experienceleague.adobe.com/fr/certification-home) : le nouveau portail de certification Adobe simplifie le perfectionnement de vos compétences et l’obtention d’une certification.
+* [Interagissez avec une communauté de pairs](https://experienceleaguecommunities.adobe.com/?profile.language=fr) : rejoignez des groupes, rencontrez notre service de conseil de la communauté Experience League et découvrez même comment l’intégrer.
 
 Pour recevoir une notification trimestrielle par e-mail des mises à jour de cette page, abonnez-vous à la [Mise à jour prioritaire des produits Adobe](https://www.adobe.com/subscription/priority-product-update.html?lang=fr).
 
 ## Mars 2025
 
-Dernière mise à jour : **vendredi 13 mars 2025**
+Dernière mise à jour : **13 mars 2025**
 
 Utilisez ces liens pour consulter les notes de mise à jour de l’application, les événements, les nouveaux tutoriels et les derniers articles d’assistance de la base de connaissances :
 
@@ -64,7 +64,7 @@ Utilisez ces liens pour consulter les notes de mise à jour de l’application, 
 
 ## Événements sur [!DNL Experience League] {#events}
 
-Recherchez [événements](https://experienceleague.adobe.com/events?lang=fr/) et inscrivez-vous à ceux qui vous intéressent.
+Recherchez des [événements](https://experienceleague.adobe.com/events?lang=fr/) et inscrivez-vous à ceux qui vous intéressent.
 
 +++Événements
 
@@ -86,7 +86,7 @@ Et bien plus encore. Affichez tous les [événements à venir](https://experienc
 
 Découvrez les dernières fonctionnalités et mises à jour sur [!DNL Adobe System Status].
 
-Aucune mise à jour de mars.
+Pas de mise à jour en mars.
 
 +++Notes de mise à jour
 
