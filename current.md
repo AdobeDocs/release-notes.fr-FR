@@ -6,10 +6,10 @@ last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: d895210dc6c24a5e5230f60987c125a2d8ba0bfb
+source-git-commit: 3c74dd10ff1a557693da52dfaf58d051bfbca521
 workflow-type: tm+mt
-source-wordcount: '3746'
-ht-degree: 99%
+source-wordcount: '3864'
+ht-degree: 96%
 
 ---
 
@@ -33,7 +33,7 @@ Pour recevoir une notification trimestrielle par e-mail des mises à jour de cet
 
 Utilisez ces liens pour consulter les notes de mise à jour de l’application, les événements, les nouveaux tutoriels et les derniers articles d’assistance de la base de connaissances :
 
-* [[!DNL Experience League] événements et mises à jour](#events) (mise à jour **8 avril**)
+* [[!DNL Experience League] événements et mises à jour](#events) (mise à jour **9 avril**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - Interface centrale et administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -67,6 +67,10 @@ Recherchez des [événements](https://experienceleague.adobe.com/events?lang=fr/
 +++Événements
 
 * **[!DNL Analytics]** | _Les données au compte-gouttes : avantages de la migration d’un ancien système vers le SDK web_ | **10 avril** | Rejoignez-nous pendant qu’Arindam Agarwal, conseiller technique chez Adobe, nous guide à travers les avantages de l’implémentation du SDK web Adobe. Arindam effectuera une présentation détaillée et répondra aux questions en direct pendant la session de questions-réponses. Inscrivez-vous dès aujourd’hui. | [S’inscrire](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Real-Time Customer Data Platform]** | _N’attendez pas... collaborez ! Présentation de Real-Time CDP Collaboration_ | **10 avril** | Désormais disponible pour les clients américains, Real-Time CDP Collaboration offre une collaboration de données personnalisée, conviviale et axée sur la confidentialité pour les marques et les éditeurs. Il vous permet de découvrir, d’activer et de mesurer les audiences afin de maximiser les recettes publicitaires et de soutenir les efforts de médias achetés au rythme du marketing payant. La meilleure partie est que si vous êtes un client de Real-Time CDP, vous AVEZ DÉJÀ ACCÈS à cette nouvelle fonctionnalité étonnante ! | [S’inscrire](https://engage.adobe.com/ExpLeagueLive-250410.html)
+
+* **[!DNL Workfront]** | _Connect : conversation avec l’administrateur pour Marketing et Creative_ | **11 avril** | Cette discussion interactive a pour but de vous connecter avec d’autres administrateurs et administratrices, de partager les bonnes pratiques ainsi que des conseils et astuces pour vous aider à tirer le meilleur parti de Workfront pour vous, vos utilisateurs et vos utilisatrices. | [S’inscrire](https://events.teams.microsoft.com/event/f0e497b7-4f44-457f-bfa0-6d9b8c5f4e7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 Affichez tous les [événements à venir](https://experienceleague.adobe.com/events?lang=fr/) ou parcourez les [enregistrements des événements passés](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview) sur Experience League.
 
