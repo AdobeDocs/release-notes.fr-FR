@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
+source-git-commit: 9705d647e844bc4d5f2ded18db9e8eb3ad716086
 workflow-type: tm+mt
-source-wordcount: '4069'
+source-wordcount: '4071'
 ht-degree: 37%
 
 ---
@@ -96,8 +96,8 @@ Date de publication : **20 mars 2025**
 
 | Fonctionnalité | Description |
 | ------- | ------- |
-| **Virtual Assistant Beta** | <ul><li>L’assistance virtuelle est une fonctionnalité qui permet aux clients [!DNL Adobe Status] sur le web et les appareils mobiles d’obtenir des réponses à leurs questions et d’effectuer des actions rapides sans quitter la page d’accueil. Il peut servir d’emplacement unique où ils peuvent résoudre toutes leurs requêtes. Si vous souhaitez participer à la version bêta client, envoyez un e-mail à [statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com). </li></ul> |
-| **Nouvelle page d’aide du glossaire des événements** | <ul><li>Une page d’aide dédiée pour guider les utilisateurs [!DNL Adobe Status] sur tous les types d’événements, l’iconographie et leurs statuts en détail, afin qu’il soit plus facile de naviguer sur le site web.</li><li>Page d’aperçu du statut d’Adobe > Menu Aide comporte un nouvel élément de menu (Glossaire des événements) qui pointe vers cette nouvelle page.</li><li>Toutes les surfaces Adobe qui font référence à [!DNL Adobe Status] peuvent ajouter des liens vers la nouvelle page d’aide.</li></ul> |
+| **Virtual Assistant Beta** | <ul><li>L’assistant virtuel est une fonctionnalité qui permet aux clients Status sur le web et les appareils mobiles d’obtenir des réponses à leurs questions et d’effectuer des actions rapides sans quitter la page d’accueil. Il peut servir d’emplacement unique pour résoudre toutes les requêtes. Si vous souhaitez participer à la version bêta client, envoyez un e-mail à [statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com). </li></ul> |
+| **Nouveau glossaire des événements** | <ul><li>Une page d’aide dédiée pour guider les utilisateurs [!DNL Adobe Status] sur tous les types d’événements, l’iconographie et leurs statuts en détail, afin qu’il soit plus facile de naviguer sur le site web.</li><li>Page d’aperçu du statut d’Adobe > Menu Aide comporte un nouvel élément de menu (Glossaire des événements) qui pointe vers cette nouvelle page.</li><li>Toutes les surfaces Adobe qui font référence à [!DNL Adobe Status] peuvent ajouter des liens vers la nouvelle page d’aide.</li></ul> |
 | **Correctifs et améliorations** | <ul><li>Notifications Slack - Le message de rappel s’affiche comme Prévu</li><li>Les événements de produits retirés ne doivent pas s’afficher sur la page Aperçu</li><li>_Fermé_ > _CSO ignoré_ le message de mise à jour et les notifications ne sont pas envoyés</li><li>Le chargement de l’en-tête et du pied de page web du statut est long lors de l’actualisation</li><li>Le menu de localisation du statut dans le pied de page est endommagé</li></ul> |
 
 Notes de mise à jour précédentes pour [!DNL Adobe System Status] :
@@ -364,13 +364,13 @@ Obtenez les dernières mises à jour d’[!DNL Adobe Campaign]. Découvrez de no
 
 ### Dernières mises à jour d’Adobe Campaign
 
-* [!DNL Campaign] v8.7.4 : [notes de mise à jour](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Documentation du produit](https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8.7.4 : 10 avril 2025 - [notes de mise à jour](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Documentation du produit](https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Web User Interface] : [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/release-notes/release-notes) | [Documentation du produit](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface] : 18 février 2025 - [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/release-notes/release-notes) | [Documentation du produit](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign Standard] : [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/campaign-standard/using/release-notes/release-notes) | [Documentation du produit](https://experienceleague.adobe.com/fr/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard] : 25.1 - [notes de mise à jour](https://experienceleague.adobe.com/fr/docs/campaign-standard/using/release-notes/release-notes) | [Documentation du produit](https://experienceleague.adobe.com/fr/docs/campaign-standard/using/campaign-standard-home)
 
-* [!DNL Campaign Classic] 7.4.2 : [ Notes de mise à jour ](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Documentation du produit](https://experienceleague.adobe.com/fr/docs/campaign-classic/using/campaign-classic-home)
+* [!DNL Campaign Classic] 7.4.2 : 2 avril 2025 - [notes de mise à jour](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Documentation du produit](https://experienceleague.adobe.com/fr/docs/campaign-classic/using/campaign-classic-home)
 
 <!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
