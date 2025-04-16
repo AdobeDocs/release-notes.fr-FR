@@ -6,9 +6,9 @@ last-update: April 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 461a76bce5aeb1da20b613af4dccbc0ebf1383e0
+source-git-commit: 65080572140d4349dd797cdee32041a5ec0abddc
 workflow-type: tm+mt
-source-wordcount: '4065'
+source-wordcount: '4069'
 ht-degree: 37%
 
 ---
@@ -30,6 +30,8 @@ Cette page vous aide à trouver des notes de mise à jour spécifiques à l’ap
 Pour recevoir une notification mensuelle par e-mail des mises à jour de cette page, abonnez-vous à la [Mise à jour prioritaire des produits Adobe](https://www.adobe.com/subscription/priority-product-update.html?lang=fr).
 
 Mise à jour : **jeudi 16 avril 2025**
+
++++Voir tous les produits
 
 * [[!DNL Experience League] événements et mises à jour](#events) (mise à jour **15 avril**)
 * [[!DNL Adobe System Status]](#status)
@@ -58,11 +60,13 @@ Mise à jour : **jeudi 16 avril 2025**
 * [Certification Adobe](https://experienceleague.adobe.com/fr/certification-home)
 * [Vulnérabilités de sécurité des produits Adobe](https://helpx.adobe.com/fr/security.html)
 
++++
+
 ## Événements sur [!DNL Experience League] {#events}
 
 Recherchez des [événements](https://experienceleague.adobe.com/en/events) et inscrivez-vous à ceux qui vous intéressent.
 
-+++Événements
++++Événements à venir
 
 * **[!DNL Marketo]** | _Marketo et mochas : audit d’une instance héritée ou actuelle_ | **17 avril** | Avez-vous récemment hérité d’une instance Marketo ? Ou peut-être envisagez-vous d’effectuer des audits réguliers sur votre instance actuelle afin d’en maximiser le potentiel ? Rejoignez-nous pour ce webinaire Marketo &amp; Mochas avec Cynthia Chang et Carly Gaver, nos conseillers d’entreprise Adobe, qui se concentrent sur la manière d’effectuer un audit approfondi pour comprendre l’état actuel de votre instance. | [S’inscrire](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
