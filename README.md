@@ -12,7 +12,7 @@ Nous acceptons les contributions de notre communauté ainsi que des employés d�
 ## Code de conduite Adobe Open Source
 
 
-Ce projet a adopté le [code de conduite Adobe Open Source](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) ou le [code de conduite de la Fondation .NET](https://dotnetfoundation.org/code-of-conduct). Pour plus d’informations, reportez-vous à l’article [Contribution](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/contributing.html).
+Ce projet a adopté le [code de conduite Adobe Open Source](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/code-of-conduct.html?lang=fr) ou le [code de conduite de la Fondation .NET](https://dotnetfoundation.org/code-of-conduct). Pour plus d’informations, reportez-vous à l’article [Contribution](https://experienceleague.adobe.com/docs/contributor/contributor-guide/conduct-contributions/contributing.html?lang=fr).
 
 ## À propos de vos contributions au contenu Adobe
 
