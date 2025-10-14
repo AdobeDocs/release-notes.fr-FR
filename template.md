@@ -4,9 +4,9 @@ description: Notes de mise à jour d’Experience Cloud
 doc-type: release notes
 last-update: June 2021
 author: mfrei
-source-git-commit: e415b562703712157d907d3e3995ff5adad4db1e
-workflow-type: ht
-source-wordcount: '716'
+source-git-commit: 6ee325d5194c99b4d828f8d335dfd8583077d1e9
+workflow-type: tm+mt
+source-wordcount: '713'
 ht-degree: 100%
 
 ---
@@ -52,9 +52,9 @@ Fonctionnalités et correctifs.
 
 Voir [Statut du système Adobe](https://status.adobe.com/fr).
 
-## ![Icône](/assets/ec_appicon_24.png) Composants de lʼinterface utilisateur centrale Experience Cloud {#ecloud}
+## Composants de l’interface utilisateur centrale dʼExperience Cloud {#ecloud}
 
-Les composants de lʼinterface centrale Experience Cloud bénéficient de mises à jour des fonctionnalités accessibles sur la page dʼaccueil unifiée des produits, telles que lʼautoassistance, la recherche et les préférences de compte utilisateur. Retrouvez ici des mises à jour pour les services Personnes, Places (Emplacement) et pour la gestion des produits.
+Les composants de lʼinterface centrale Experience Cloud bénéficient de mises à jour des fonctionnalités accessibles sur la page dʼaccueil unifiée des produits, telles que lʼautoassistance, la recherche et les préférences de compte d’utilisateur. Retrouvez ici des mises à jour pour les services Personnes, Places (Emplacement) et pour la gestion des produits.
 
 ### [!UICONTROL Services principaux] {#core-services}
 
@@ -64,7 +64,7 @@ Fonctionnalités et correctifs.
 
 Fonctionnalités et correctifs.
 
-## ![Icône](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+## Experience Platform {#platform}
 
 Notes de mise à jour d’[!DNL Experience Platform,] y compris d’[!DNL Experience Platform Launch,] de [!UICONTROL Journey Orchestration], des services [!UICONTROL Offres], [!UICONTROL Personnes], [!UICONTROL Places], et [!UICONTROL Mobile Services], et des bulletins de sécurité.
 
@@ -251,13 +251,13 @@ Pour les notes de mise à jour de Magento, veuillez consulter :
 
 ## Marketo {#marketo}
 
-Marketo Engage est une solution complète de gestion des leads, destinée aux responsables marketing B2B qui veulent transformer les expériences des clients en interagissant avec eux à chaque étape de parcours dʼachat complexes.
+Marketo Engage est une solution complète de gestion des leads, destinée aux spécialistes marketing B2B qui veulent transformer les expériences des clients en interagissant avec eux à chaque étape de parcours dʼachat complexes.
 
 ### Mises à jour de Core Marketo Engage
 
 Date de publication : 21 février 2020
 
-* **Microsoft® Dynamics _Modification de propriétaire dans Microsoft®_ Action de processus :** modifiez un prospect ou un propriétaire de contact directement à partir de Marketo Engage.
+* **Microsoft® Dynamics _Modification de propriétaire dans Microsoft®_ Action de processus** : modifiez un prospect ou un propriétaire de contact directement à partir de Marketo Engage.
 * **Améliorations des appels d’API :**
    * API de gestion des utilisateurs
    * API de schéma d’objet personnalisé
@@ -280,7 +280,7 @@ Les fonctionnalités suivantes seront publiées tout au long du trimestre :
 
 ### Dépréciations
 
-* **Paramètre de l’API de ressource &quot;_method&quot; :** après septembre 2020, les points de fin d’API d’actif n’accepteront plus &quot;_method&quot; pour transmettre les paramètres de requête dans un corps POST afin de contourner les limitations de longueur d’URI.
+* **Paramètre de l’API de ressource &quot;_method&quot; :** après septembre 2020, les points d’entrée d’API d’actif n’accepteront plus &quot;_method&quot; pour transmettre les paramètres de requête dans un corps POST afin de contourner les limitations de longueur d’URI.
 * **Dépréciation de la prise en charge d’Internet Explorer :** a compter de la version du 31 juillet 2020, l’interface utilisateur de Marketo Engage ne sera plus prise en charge dans Internet Explorer.
 
 ### Nouveaux cours et tutoriels pour le nom de la solution
