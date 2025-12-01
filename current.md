@@ -311,7 +311,7 @@ Nouveaux articles et mises à jour des articles existants pour [!DNL Experience 
 | Octobre 2025 | [Questions/réponses relatives aux performances avec Dynamic Media avec les API ouvertes](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27825) | Nouvel article | Découvrez les solutions au problème en raison duquel les images DMwOA étaient diffusées avec un délai plus long que prévu. |
 | Octobre 2025 | [Problème sur DM avec OpenAPI - API Conteneur du lecteur vidéo](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27804) | Nouvel article | Découvrez les solutions au problème survenant lors de l’utilisation de la fonction Dynamic Media avec des API ouvertes et utilisez le code renvoyé pour afficher sans modification la visionneuse à partir d’un site web externe. Le code génère des URL incorrectes pour récupérer les détails vidéo et ne fonctionnera pas comme prévu. |
 | Octobre 2025 | Erreur [401 lors de l’utilisation du jeton de développement local dans AEM Forms as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27706) | Nouvel article | Découvrez les solutions au problème lors de l’utilisation d’un jeton de développement local à partir de Adobe Developer Console (ADC) dans AEM Forms as a Cloud Service, une erreur 401 se produit. |
-| Octobre 2025 | Le workflow [**[!UICONTROL  Demande de suppression ]**ne fonctionne pas dans AEM Sites](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27558) | Nouvel article | Découvrez les solutions au problème dans AEM Sites lorsque vous supprimez des pages de contenu sans l’autorisation **[!UICONTROL Répliquer]**, le système déclenche le workflow **[!UICONTROL Demande de suppression]**. |
+| Octobre 2025 | Le workflow [**[!UICONTROL &#x200B; Demande de suppression &#x200B;]**&#x200B;ne fonctionne pas dans AEM Sites](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27558) | Nouvel article | Découvrez les solutions au problème dans AEM Sites lorsque vous supprimez des pages de contenu sans l’autorisation **[!UICONTROL Répliquer]**, le système déclenche le workflow **[!UICONTROL Demande de suppression]**. |
 | Octobre 2025 | [AEMaaCS : les appareils mobiles affichent deux boutons de lecture dans les vidéos Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27477) | Nouvel article | Découvrez les solutions au problème lorsque les vidéos Dynamic Media dans Adobe Experience Manager (AEM) as a Cloud Service affichent deux boutons de lecture qui se chevauchent lorsqu’elles sont affichées sur des appareils mobiles. |
 | Octobre 2025 | [Le tableau de bord New Relic affiche uniquement les machines virtuelles AMS au lieu des machines virtuelles AEMaaCS dans AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27864) | Nouvel article | Découvrez les solutions au problème dans AEMaaCS lorsque le tableau de bord New Relic affiche uniquement les machines virtuelles AMS au lieu des machines virtuelles AEMaaCS. |
 | Octobre 2025 | [L’API QueryBuilder contourne les filtres du Dispatcher et expose les informations sensibles](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27832) | Nouvel article | Découvrez les solutions au problème de contrôle d’accès dans Adobe Experience Manager as a Cloud Service (AEMaaCS) où l’API QueryBuilder peut contourner les filtres du Dispatcher, exposant potentiellement des informations sensibles. |
@@ -388,8 +388,8 @@ Publication : **jeudi 22 octobre 2025**
 |July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
-* Pour obtenir des informations sur la version préliminaire, voir Version préliminaire d’[[!DNL Adobe Target] ](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/target-release-notes).
-* Pour obtenir des informations à jour, voir Notes de mise à jour d’[[!DNL Adobe Target] ](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/release-notes).
+* Pour obtenir des informations sur la version préliminaire, voir Version préliminaire d’[[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/target-release-notes).
+* Pour obtenir des informations à jour, voir Notes de mise à jour d’[[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/release-notes).
 
 +++
 
@@ -465,7 +465,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 
 ### Ressources supplémentaires pour [!DNL Journey Optimizer]
 
-* Documentation [[!DNL Journey Optimizer] ](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/ajo-home) - [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes) - [Tutoriels vidéos](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/overview)
+* Documentation [[!DNL Journey Optimizer] &#x200B;](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/ajo-home) - [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes) - [Tutoriels vidéos](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/overview)
 * [Documentation de la gestion des décisions](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes) - [Vidéos pratiques](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management) - [Dernières mises à jour de la documentation](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/documentation-updates)
 
 +++
@@ -546,7 +546,7 @@ Découvrez les dernières notes de mise à jour d’[!DNL Adobe Workfront]. Déc
 
 Pour des informations sur toutes les versions :
 
-* Consultez la page [Versions de produit Adobe  [!DNL Workfront] ](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/product-releases) pour afficher les informations sur le planning des versions et les notes de mise à jour de [!DNL Workfront].
+* Consultez la page [Versions de produit Adobe  [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/product-releases) pour afficher les informations sur le planning des versions et les notes de mise à jour de [!DNL Workfront].
 
 * Consultez la [Vue d’ensemble de l’activité des versions d’Adobe  [!DNL Workfront]  Fusion](https://experienceleague.adobe.com/fr/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity) pour obtenir les informations les plus récentes sur Fusion.
 
