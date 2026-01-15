@@ -328,7 +328,7 @@ Nouveaux tutoriels vidéo et écrits (articles) publiés pour [!DNL Experience M
 | ----------| ---------- | ---------- | ---------- |---------- |
 | Janvier 2026 | [!DNL AEM Assets] | [Bonnes pratiques relatives à la syntaxe d’URL et aux paramètres d’image prédéfinis Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/images/dynamic-media-urls-and-image-presets) | Vidéo | Explorez la syntaxe de l’URL Dynamic Media d’AEM Assets et apprenez à optimiser votre valeur à l’aide des paramètres d’image prédéfinis. Améliorez les fonctionnalités de gestion des ressources et l’efficacité des workflows. |
 | Janvier 2026 | [!DNL AEM Assets] | [Téléchargement de ressources dans AEM Assets Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/download-assets) | Vidéo | Découvrez comment parcourir, rechercher et télécharger des ressources dans Adobe Experience Manager Assets Content Hub. |
-| Janvier 2026 | [!DNL AEM CS] | [ Agents dans AEM ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/agents-in-aem) | Vidéo | Découvrez comment les agents AEM rationalisent les workflows en automatisant les tâches dans Adobe Experience Manager. |
+| Janvier 2026 | [!DNL AEM CS] | [&#x200B; Agents dans AEM &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/agents-in-aem) | Vidéo | Découvrez comment les agents AEM rationalisent les workflows en automatisant les tâches dans Adobe Experience Manager. |
 
 ### Nouvelle base de connaissances d’assistance [!DNL Experience Manager]{#kb-aem}
 
@@ -393,7 +393,7 @@ Recherchez les derniers tutoriels et vidéos pour [!DNL Brand Concierge].
 | -----------| ---------- | ---------- | ---------- |
 | Janvier 2026 | [Réserver une réunion](https://experienceleague.adobe.com/en/docs/brand-concierge/content/getting-started/meeting-booking) | Vidéo | Découvrez comment réserver une réunion. Voir l’expérience en tant que client, configurer les représentants pour utiliser leur calendrier et afficher les rapports |
 
-Pour plus d’informations, consultez la page d’accueil du tutoriel Adobe Brand Concierge[ ](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home).
+Pour plus d’informations, consultez la page d’accueil du tutoriel Adobe Brand Concierge[&#x200B; &#x200B;](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home).
 
 +++
 
@@ -457,8 +457,8 @@ Publié : **14 novembre 2025**
 |July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
-* Pour obtenir des informations sur la version préliminaire, voir Version préliminaire d’[[!DNL Adobe Target] ](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/target-release-notes).
-* Pour obtenir des informations à jour, voir Notes de mise à jour d’[[!DNL Adobe Target] ](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/release-notes).
+* Pour obtenir des informations sur la version préliminaire, voir Version préliminaire d’[[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/target-release-notes).
+* Pour obtenir des informations à jour, voir Notes de mise à jour d’[[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/release-notes).
 
 +++
 
@@ -532,7 +532,7 @@ Nouveaux articles et mises à jour des articles existants pour [!DNL Journey Opt
 
 ### Ressources supplémentaires pour [!DNL Journey Optimizer]
 
-* Documentation [[!DNL Journey Optimizer] ](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/ajo-home) - [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes) - [Tutoriels vidéos](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/overview)
+* Documentation [[!DNL Journey Optimizer] &#x200B;](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/ajo-home) - [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes) - [Tutoriels vidéos](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/overview)
 * [Documentation de la gestion des décisions](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes) - [Vidéos pratiques](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management) - [Dernières mises à jour de la documentation](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/documentation-updates)
 
 +++
@@ -613,7 +613,7 @@ Découvrez les dernières notes de mise à jour d’[!DNL Adobe Workfront]. Déc
 
 Pour des informations sur toutes les versions :
 
-* Consultez la page [Versions de produit Adobe  [!DNL Workfront] ](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/product-releases) pour afficher les informations sur le planning des versions et les notes de mise à jour de [!DNL Workfront].
+* Consultez la page [Versions de produit Adobe  [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/product-releases) pour afficher les informations sur le planning des versions et les notes de mise à jour de [!DNL Workfront].
 
 * Consultez la [Vue d’ensemble de l’activité des versions d’Adobe  [!DNL Workfront]  Fusion](https://experienceleague.adobe.com/fr/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity) pour obtenir les informations les plus récentes sur Fusion.
 
