@@ -447,8 +447,8 @@ Publié : **26.1.1 - 18 janvier 2026**
 |July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
-* Pour obtenir des informations sur la version préliminaire, voir Version préliminaire d’[[!DNL Adobe Target] ](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/target-release-notes).
-* Pour obtenir des informations à jour, voir Notes de mise à jour d’[[!DNL Adobe Target] ](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/release-notes).
+* Pour obtenir des informations sur la version préliminaire, voir Version préliminaire d’[[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/target-release-notes).
+* Pour obtenir des informations à jour, voir Notes de mise à jour d’[[!DNL Adobe Target] &#x200B;](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/release-notes).
 
 +++
 
@@ -522,7 +522,7 @@ Nouveaux articles et mises à jour des articles existants pour [!DNL Journey Opt
 
 ### Ressources supplémentaires pour [!DNL Journey Optimizer]
 
-* Documentation [[!DNL Journey Optimizer] ](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/ajo-home) - [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes) - [Tutoriels vidéos](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/overview)
+* Documentation [[!DNL Journey Optimizer] &#x200B;](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/ajo-home) - [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes) - [Tutoriels vidéos](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/overview)
 * [Documentation de la gestion des décisions](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes) - [Vidéos pratiques](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management) - [Dernières mises à jour de la documentation](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/documentation-updates)
 
 +++
@@ -603,7 +603,7 @@ Découvrez les dernières notes de mise à jour d’[!DNL Adobe Workfront]. Déc
 
 Pour des informations sur toutes les versions :
 
-* Consultez la page [Versions de produit Adobe  [!DNL Workfront] ](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/product-releases) pour afficher les informations sur le planning des versions et les notes de mise à jour de [!DNL Workfront].
+* Consultez la page [Versions de produit Adobe  [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/product-releases) pour afficher les informations sur le planning des versions et les notes de mise à jour de [!DNL Workfront].
 
 * Consultez la [Vue d’ensemble de l’activité des versions d’Adobe  [!DNL Workfront] Fusion](https://experienceleague.adobe.com/fr/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity) pour obtenir les informations les plus récentes sur Fusion.
 
