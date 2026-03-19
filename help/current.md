@@ -6,10 +6,10 @@ last-update: March 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-source-git-commit: 760308da350bfa9769914ccabb1aab5dd7884c45
+source-git-commit: d5fdcb1d2d561318122a5941bbd04050b537559c
 workflow-type: tm+mt
-source-wordcount: '6709'
-ht-degree: 31%
+source-wordcount: '6872'
+ht-degree: 30%
 
 ---
 
@@ -24,11 +24,11 @@ Cette page vous permet de :
 * Consulter les nouveaux tutoriels vidéo par application
 * Consulter les derniers articles d’aide
 
-Dernière mise à jour : **13 mars 2026**
+Dernière mise à jour : **19 mars 2026**
 
 Sur cette page :
 
-* [Planning des événements](#events)
+* [Webinaires et événements d’apprentissage](#events)
 * [[!DNL Adobe System Status]](#status)
 * [administration [!DNL Adobe Experience Cloud]](#ecloud)
 * [IA dans Experience Cloud](#ai)
@@ -58,10 +58,15 @@ Sur cette page :
 * [Certification Adobe](https://experienceleague.adobe.com/fr/certification-home){target="_blank"}
 * [Vulnérabilités de sécurité des produits Adobe](https://helpx.adobe.com/fr/security.html){target="_blank"}
 
-## Planning des événements {#events}
+## Webinaires et événements d’apprentissage {#events}
 
-* Planning des événements [à venir](https://experienceleague.adobe.com/fr/events){target="_blank"}
-* Planning des événements [à la demande](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview){target="_blank"}
+* **[!DNL Experience Cloud]** | _Heures de bureau du champion Adobe Experience Platform_ | Parlons des défis, des bloqueurs et des listes de souhaits. De quoi avez-vous besoin pour faire ronronner votre système ? | **24 mars 2026** | [S’inscrire](https://aep-augs.adobe.com/events/details/adobe-campaign-adobe-experience-platform-champion-office-hours-presents-lets-talk-challenges-blockers-and-wish-lists-what-do-you-need-to-make-your-system-hum/)
+
+* **[!DNL Workfront]** | _Admin 101 : posez vos questions sur Workfront_ | Rejoignez-nous pour un atelier de suivi d’une heure, au cours duquel nous partagerons rapidement un résumé de chaque session, puis nous passerons aux questions. | **24 mars 2026** | [S’inscrire](https://events.teams.microsoft.com/event/5da27d2b-63c1-4ac4-9d55-9f3148222628@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Fusion décodée : Partie 2 - Commençons à construire_ | Dans la deuxième partie de notre série Fusion, nous allons explorer des modèles prêts à l’emploi et vous montrer comment les utiliser pour lancer votre parcours d’automatisation. | **25 mars 2026** | [S’inscrire](https://events.teams.microsoft.com/event/364bd344-09a1-4630-8cfc-0bd694fa74a2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+Affichez le planning complet des événements [à venir](https://experienceleague.adobe.com/fr/events){target="_blank"} et [à la demande](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview){target="_blank"}.
 
 ## [!DNL Adobe System Status] {#status}
 
