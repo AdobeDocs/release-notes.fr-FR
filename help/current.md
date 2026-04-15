@@ -8,10 +8,10 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 8bcfd73109a76f83b9bdb8afed13693561eb0e5e
+source-git-commit: 47738804b28c044373041282fa74527bf2f29128
 workflow-type: tm+mt
-source-wordcount: 6788
-ht-degree: 83%
+source-wordcount: 6824
+ht-degree: 81%
 
 ---
 
@@ -26,14 +26,14 @@ Cette page vous permet de :
 * Consulter les nouveaux tutoriels vidéo par application
 * Consulter les derniers articles d’aide
 
-Dernière mise à jour : **6 avril 2026**
+Dernière mise à jour : **15 avril 2026**
 
 Sur cette page :
 
 * [Webinaires et événements d’apprentissage](#events)
+* [IA dans Experience Cloud](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [administration [!DNL Adobe Experience Cloud]](#ecloud)
-* [IA dans Experience Cloud](#ai)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -100,6 +100,7 @@ Recherchez les nouvelles ressources d’apprentissage récemment publiées pour 
 
 | Produit | Ressource | Description | Mis à jour |
 | ------- | ------- | ------- | ------- |
+| [!DNL Experience Cloud] | [Hub IA](https://experienceleague.adobe.com/fr/ai-training){target="_blank"} | Le hub d’IA d’Experience League aide les marketeurs à acquérir des compétences pratiques en IA pour leur travail marketing quotidien. Apprenez des pairs qui parcourent les mêmes défis et découvrez ce qui fonctionne réellement. | **15 avril 2026** |
 | [!DNL Experience Cloud] | [&#128279;](https://experienceleague.adobe.com/fr/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Découvrez comment Adobe Marketing Agent for Microsoft 365 Copilot connecte directement Experience Platform à Microsoft 365 Copilot. | 6 Avril 2026 |
 | [!DNL AEM CS] | [Serveur Cloud Manager MCP](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Découvrez comment le serveur MCP Cloud Manager permet aux outils d’IA d’interagir avec AEM as a Cloud Service pour gérer les programmes, les environnements, les référentiels et les pipelines. | 6 Avril 2026 |
 | [!DNL Acrobat Services] | [Acrobat Analyzer](https://experienceleague.adobe.com/fr/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Explorez les webinaires Adobe Acrobat Analyzer pour découvrir comment Generative AI extrait des informations structurées et vérifiables des documents afin d’automatiser les workflows, de réduire les risques et d’accélérer la prise de décision d’entreprise à grande échelle. | 10 mars 2026 |
@@ -109,11 +110,11 @@ Recherchez les nouvelles ressources d’apprentissage récemment publiées pour 
 
 ## [!DNL Adobe Brand Concierge] {#brand-concierge}
 
-* Aide d’[Adobe Brand Concierge](https://experienceleague.adobe.com/fr/docs/brand-concierge/content/home){target="_blank"}
+* Aide de [&#128279;](https://experienceleague.adobe.com/fr/docs/brand-concierge/content/home){target="_blank"}
 
 ## [!DNL Adobe LLM Optimizer] {#llm-optimizer}
 
-* Aide de [LLM Optimizer](https://experienceleague.adobe.com/fr/docs/llm-optimizer/using/home){target="_blank"}
+* Aide de [&#128279;](https://experienceleague.adobe.com/fr/docs/llm-optimizer/using/home){target="_blank"}
 
 ## [!DNL Adobe Experience Platform] {#platform}
 
@@ -510,7 +511,7 @@ Pour des informations sur toutes les versions :
 
 * [Versions  [!DNL Workfront]  produits Adobe](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
 
-* [Présentation de l’activité de publication d’Adobe [!DNL Workfront] Fusion](https://experienceleague.adobe.com/fr/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}
+* [Présentation de l’activité de publication d’ [!DNL Workfront] Fusion](https://experienceleague.adobe.com/fr/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}
 
 ### Nouveaux tutoriels sur Adobe [!DNL Workfront] {#tutorials-workfront}
 
@@ -562,7 +563,7 @@ Tutoriels vidéo pour GenStudio for Performance Marketing.
 
 [!DNL Adobe Pass] est une plateforme de télévision multi-écran qui aide les diffuseurs, les réseaux câblés et les prestataires de services à créer et monétiser des expériences de visionnage personnalisées et attrayantes.
 
-* [Documentation Adobe Pass](https://experienceleague.adobe.com/fr/docs/pass){target="_blank"} pour rechercher des informations spécifiques à la version, la configuration requise, les limitations, les problèmes résolus et les problèmes connus.
+* [Documentation &#x200B;](https://experienceleague.adobe.com/fr/docs/pass){target="_blank"} pour rechercher des informations spécifiques à la version, la configuration requise, les limitations, les problèmes résolus et les problèmes connus.
 
 ## [!DNL Adobe Document Cloud] {#doc-cloud}
 
