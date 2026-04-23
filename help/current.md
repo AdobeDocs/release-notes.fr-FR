@@ -8,7 +8,7 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-source-git-commit: 691631533bbce1eee3f829d039a3251aec347d4b
+source-git-commit: 3b12ac9312a38290356a4c80d01e3deaf3fcccf2
 workflow-type: tm+mt
 source-wordcount: 6867
 ht-degree: 98%
@@ -26,12 +26,12 @@ Cette page vous permet de :
 * Consulter les nouveaux tutoriels vidéo par application
 * Consulter les derniers articles d’aide
 
-Dernière mise à jour : **15 avril 2026**
+Latest update: **April 15, 2026**
 
 Sur cette page :
 
 * [Webinaires et événements d’apprentissage](#events)
-* [Administration et interface utilisateur d’[!DNL Adobe Experience Cloud] central](#ecloud)
+* [[!DNL Adobe Experience Cloud] central UI &amp; administration](#ecloud)
 * [IA dans Experience Cloud](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
@@ -64,13 +64,13 @@ Sur cette page :
 
 Affichez le planning complet des événements [à venir](https://experienceleague.adobe.com/fr/events){target="_blank"} et [à la demande](https://experienceleague.adobe.com/fr/docs/events/experience-league-recorded-events/overview){target="_blank"}.
 
-## Administration et interface utilisateur d’[!DNL Adobe Experience Cloud] central {#ecloud}
+## [!DNL Adobe Experience Cloud] central UI &amp; administration {#ecloud}
 
 | Fonctionnalité | Date de publication | Description |
 | ------- | ------- | ------- |
 | Page d’accueil actualisée | 20 Avril 2026 | Actualisation de l’aspect de la page d’accueil de `https://experience.adobe.com/home`. Avec cette version, toutes les fonctionnalités restent les mêmes, avec une interface utilisateur actualisée, la prise en charge complète du _mode sombre_ et une accessibilité améliorée. |
 
-Voir l’interface et l’administration [Experience Cloud](https://experienceleague.adobe.com/fr/docs/core-services/interface/experience-cloud){target="_blank"} pour consulter la documentation.
+See [Experience Cloud interface and administration](https://experienceleague.adobe.com/fr/docs/core-services/interface/experience-cloud){target="_blank"} for documentation.
 
 ## IA dans Experience Cloud {#ai}
 
@@ -238,7 +238,7 @@ Mise à jour : **octobre 2025**
 
 * [Documentation Adobe Advertising](https://experienceleague.adobe.com/fr/docs/advertising){target="_blank"}
 
-### Nouveautés de la version [!DNL Advertising DSP] {#advertising-dsp}
+### Nouvelles fonctionnalités dans [!DNL Advertising DSP] {#advertising-dsp}
 
 25 mars 2026
 
