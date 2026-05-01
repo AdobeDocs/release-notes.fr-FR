@@ -2,39 +2,41 @@
 cloud: Experience Cloud
 type: Documentation
 solution: Experience Cloud
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 feature-set: Experience Cloud
 feature: Release Notes
 product: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.fr-FR
 index: true
-source-git-commit: 8f759d75cb9aa77491a96a8158296e9a541fe48d
+source-git-commit: d6696605b4b4e357fac81509884625dad2c83fd9
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 0%
+source-wordcount: 175
+ht-degree: 72%
 
 ---
 
 
 # Métadonnées à usage interne
 
-Le fichier metadata.md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier du contenu metadata.md pour n’importe quel guide de l’utilisateur, effectuez vos modifications dans n’importe quel fichier TOC.md.
+Le fichier metadata.md inclut des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide utilisateur dans le référentiel. Si vous souhaitez modifier le contenu de metadata.md pour un guide utilisateur, faites-le dans n’importe quel fichier TOC.md.
 
-| métadonnées | ce qu&#39;il fait |
+| métadonnées | son fonctionnement |
 |--- |--- |
 | solution-title | Utilisé dans l’en-tête de l’article comme lien. Soyez bref. |
 | solution-hub-url | Ouvre la page hub d’aide |
 | solution-icon | Affiche l’icône de la solution en regard du titre de la solution. Pas encore implémenté |
 | getting-started-title | Rarement utilisé lorsque les tutoriels ne sont pas appropriés |
-| getting-started-url | Lien vers la page de prise en main |
+| getting-started-url | Lien vers la page de prise en main de l’aide |
 | tutorials-title | Rarement utilisé lorsque les tutoriels ne sont pas appropriés |
-| tutorials-url | Lien vers des tutoriels vidéo : tutoriels d’aide ou tutoriels d’AC. |
-| niveaux de mini-table des matières | Détermine le nombre de niveaux de titre qui apparaissent dans le rail de droite. la valeur par défaut est 2 |
+| tutorials-url | Lien vers des tutoriels vidéo : tutoriels d’assistance ou tutoriels KT |
+| mini-toc-levels | Détermine le nombre de niveaux de titre qui apparaissent dans le rail de droite. la valeur par défaut est 2 |
 | git-repo | Indique l’emplacement du référentiel de collaboration. Utiliser le miroir github.com pour les documents destinés au public |
 
 Dans le fichier TOC.md
 
-| métadonnées | ce qu&#39;il fait |
+| métadonnées | son fonctionnement |
 |--- |--- |
 | user-guide-title | Utilisé dans l’en-tête de l’article comme lien |
-| user-guide-url | Ouvre la page hub d’aide |
+| user-guide-url | Ouvre la page du hub HelpX |
