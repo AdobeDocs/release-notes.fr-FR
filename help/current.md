@@ -6,7 +6,8 @@ last-update: April 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
 source-git-commit: 9c9be826f969072c37a2721d0a671e3bae033d16
 workflow-type: tm+mt
 source-wordcount: 5645
@@ -296,21 +297,21 @@ Nouveaux articles et mises à jour des articles existants pour [!DNL Experience 
 | Avril 2026 | [Résolution des longues files d’attente et des erreurs pour les tâches **[!UICONTROL Créer une Live Copy pour Assets]**](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30207) | Nouvel article | Découvrez les solutions au problème lorsque les opérations **[!UICONTROL Créer une Live Copy pour Assets]** sur les fragments de contenu dans Adobe Experience Manager as a Cloud Service restent plus longtemps en file d’attente que prévu ou échouent avec des erreurs indiquant que le fragment de destination existe déjà. |
 | Avril 2026 | [Différences dans les autorisations de publication dans les éditeurs de fragment de contenu AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30216) | Nouvel article | Découvrez les solutions au problème qui se produit lorsque la suppression de l’autorisation `crx:replicate` supprime la publication rapide des pages, mais affiche toujours l’action Publier pour les fragments de contenu dans le nouvel éditeur de fragment de contenu. |
 | Avril 2026 | [La vidéo provenant de la gestion des ressources numériques n’est pas lue sur les appareils iOS en raison d’un profil de codage non pris en charge](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30313) | Nouvel article | Découvrez les solutions au problème d’échec du chargement ou de la lecture des vidéos stockées dans la gestion des ressources numériques sur les appareils iOS, car la vidéo est codée à l’aide d’un niveau de profil [!DNL H.264] qu’iOS ne prend pas en charge. |
-| Avril 2026 | [**[!UICONTROL Siteadmin de l’interface utilisateur classique ]**est lent lorsque la file d’attente de réplication augmente sur AEM Author](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30262) | Nouvel article | Découvrez les solutions au problème lorsque **[!UICONTROL Classic UI Siteadmin]** devient lent lorsqu’une instance de publication est inatteignable et que sa file d’attente de réplication s’étend sur l’instance de création. |
+| Avril 2026 | [**[!UICONTROL Siteadmin de l’interface utilisateur classique &#x200B;]**&#x200B;est lent lorsque la file d’attente de réplication augmente sur AEM Author](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30262) | Nouvel article | Découvrez les solutions au problème lorsque **[!UICONTROL Classic UI Siteadmin]** devient lent lorsqu’une instance de publication est inatteignable et que sa file d’attente de réplication s’étend sur l’instance de création. |
 | Avril 2026 | [Adobe Experience Manager : Configuration Manager s’arrête dans AEM Forms 6.5 LTS si la banque d’informations d’identification n’est pas configurée](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30419) | Nouvel article | Découvrez les solutions au problème lors de l’installation d’AEM Forms 6.5 LTS Configuration Manager s’arrête sur l’écran **[!UICONTROL Déployer des fichiers AEM Forms EAR]** et affiche l’erreur *[!DNL JBOSS]n’est pas en ligne.* |
 | Avril 2026 | [Le téléchargement de packages CRX volumineux expire dans Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30325) | Nouvel article | Découvrez les solutions au problème lorsque vous téléchargez des packages CRX volumineux à l’aide du **[!UICONTROL Gestionnaire de packages]** s’exécute dans des délais HTTP imposés par la plateforme et le réseau CDN qui ne peuvent pas être augmentés. |
 | Avril 2026 | Erreur [*501 non implémentée* avec `projectedFields` dans Dynamic Media [!DNL OpenAPI] search](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30304) | Nouvel article | Découvrez les solutions au problème lors de l’utilisation de l’API de recherche de niveau diffusion de Dynamic Media [!DNL OpenAPI] avec `projectedFields` ou `facets` dans le corps de la requête qui renvoie une erreur *501 Non implémenté*, car la prise en charge côté serveur de ces fonctionnalités n’est pas disponible. |
 | Avril 2026 | [La validation du pipeline échoue en raison de l’expiration de la version AEM dans Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30301) | Nouvel article | Découvrez les solutions au problème d’échec de validation du pipeline dans Adobe Experience Manager as a Cloud Service, car le pipeline est configuré avec une version d’AEM expirée. |
 | Avril 2026 | [Paramètres de requête marketing manquants dans les requêtes principales d’AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30333) | Nouvel article | Découvrez les solutions au problème lorsque les paramètres de requête marketing tels que `utm_*`, `cid` et `bid` ne sont pas disponibles pour les servlets ou services principaux, car le réseau CDN supprime ces paramètres avant que les requêtes n’atteignent le Dispatcher ou AEM. |
 | Avril 2026 | [Application  [!DNL Subresource Integrity]  restriction de l’accès direct aux scripts RUM d’Adobe](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30336) | Nouvel article | Découvrez les solutions au problème lorsque le script Adobe [!DNL Real User Monitoring] (RUM) dans Adobe Experience Manager as a Cloud Service expose les détails de l’environnement interne et reste directement accessible à partir du domaine de l’éditeur, même après l’activation d’une configuration de domaine externe. |
-| Avril 2026 | [**[!UICONTROL Afficher comme publié&#x200B;]**renvoie la valeur 404 pour les pages dépubliées dans AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30269) | Nouvel article | Découvrez les solutions au problème lorsque vous utilisez la fonction **[!UICONTROL Afficher comme publié(e)]** pour les pages qui ne sont pas actuellement publiées, qui affiche une erreur 404 lorsqu’une `offTime` de la page a été définie dans le passé. |
+| Avril 2026 | [**[!UICONTROL Afficher comme publié&#x200B;]**&#x200B;renvoie la valeur 404 pour les pages dépubliées dans AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30269) | Nouvel article | Découvrez les solutions au problème lorsque vous utilisez la fonction **[!UICONTROL Afficher comme publié(e)]** pour les pages qui ne sont pas actuellement publiées, qui affiche une erreur 404 lorsqu’une `offTime` de la page a été définie dans le passé. |
 
 ## [!DNL Adobe Commerce] {#commerce}
 
 Accédez aux notes de mise à jour, aux nouveaux tutoriels et aux articles d’aide de la base de connaissances consacrés à [!DNL Adobe Commerce].
 
 * [Notes de mise à jour pour  [!DNL Adobe Commerce]  et  [!DNL Magento Open Source]](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/notes/overview){target="_blank"}
-* [Guides des services Adobe  [!DNL Commerce] ](https://experienceleague.adobe.com/fr/docs/commerce/user-guides/home){target="_blank"}
+* [Guides des services Adobe  [!DNL Commerce] &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce/user-guides/home){target="_blank"}
 * [Disponibilité des produits](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/product-availability){target="_blank"}
 
 ### Nouveaux tutoriels pour [!DNL Adobe Commerce] {#tutorials-commerce}
@@ -408,7 +409,7 @@ Nouveaux tutoriels publiés pour Adobe [!DNL Journey Optimizer] sur Experience�
 | ---------- | ---------- | ---------- | ---------- | ---------- |
 | Mars 2026 | [!DNL Journey Optimizer] | [Informations sur les modèles d’IA](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/ai-model-insights){target="_blank"} | Vidéo | Découvrez comment analyser le statut d’entraînement, l’affectation du trafic et les performances des modèles d’IA pour optimiser la prise de décision personnalisée dans Journey Optimizer. Découvrez comment identifier les problèmes, résoudre les problèmes liés aux modèles et améliorer les taux de conversion à l’aide des fonctionnalités d’IA. |
 | Mars 2026 | [!DNL Journey Optimizer] | [Activités iOS Live](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/live-activities/ios-live-activities){target="_blank"} | Vidéo | Découvrez comment configurer les activités iOS Live avec Adobe Journey Optimizer pour diffuser des mises à jour enrichies en temps réel sur l’écran de verrouillage d’iPhone et l’île dynamique. |
-| Mars 2026 | [!DNL Journey Optimizer] | [Activité de décision de contenu dans la zone de travail de parcours ](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity){target="_blank"} | Vidéo | Découvrez comment l’activité de décision de contenu dans la zone de travail de Parcours permet aux utilisateurs d’exploiter Adobe Journey Optimizer Decisioning pour les offres de contenu personnalisées. |
+| Mars 2026 | [!DNL Journey Optimizer] | [Activité de décision de contenu dans la zone de travail de parcours &#x200B;](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity){target="_blank"} | Vidéo | Découvrez comment l’activité de décision de contenu dans la zone de travail de Parcours permet aux utilisateurs d’exploiter Adobe Journey Optimizer Decisioning pour les offres de contenu personnalisées. |
 
 <!-- 
 ### New [!DNL Journey Optimizer] support knowledge base{#kb-ajo}
@@ -422,7 +423,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 
 ### Ressources supplémentaires pour [!DNL Journey Optimizer]
 
-* Documentation [[!DNL Journey Optimizer] ](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/ajo-home){target="_blank"} - [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [Tutoriels vidéos](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/overview){target="_blank"}
+* Documentation [[!DNL Journey Optimizer] &#x200B;](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/ajo-home){target="_blank"} - [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [Tutoriels vidéos](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/overview){target="_blank"}
 * [Documentation de la gestion des décisions](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning){target="_blank"} - [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [Vidéos pratiques](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management){target="_blank"} - [Dernières mises à jour de la documentation](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/documentation-updates){target="_blank"}
 
 ## [!DNL Adobe Journey Optimizer B2B Edition] {#ajo-b2b}
@@ -490,7 +491,7 @@ Découvrez les dernières notes de mise à jour d’[!DNL Adobe Workfront]. Déc
 
 Pour des informations sur toutes les versions :
 
-* [Versions de produit Adobe  [!DNL Workfront] ](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
+* [Versions de produit Adobe  [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
 
 * [Vue d’ensemble de l’activité des versions d’Adobe  [!DNL Workfront]  Fusion](https://experienceleague.adobe.com/fr/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}
 
@@ -532,7 +533,7 @@ Tutoriels vidéo pour GenStudio for Performance Marketing.
 
 | Publié | Nom | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
-| Mars 2026 | [ Plug-in Figma pour GenStudio for Performance Marketing ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/integrations/figma-plugin){target="_blank"} | Vidéo | Découvrez comment configurer et utiliser le plug-in Figma pour GenStudio for Performance Marketing. |
+| Mars 2026 | [&#x200B; Plug-in Figma pour GenStudio for Performance Marketing &#x200B;](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/integrations/figma-plugin){target="_blank"} | Vidéo | Découvrez comment configurer et utiliser le plug-in Figma pour GenStudio for Performance Marketing. |
 
 **Ressources GenStudio for Performance Marketing**
 
