@@ -1,6 +1,6 @@
 ---
-description: Informations vous permettant de contacter Adobe et de comprendre les implications juridiques lorsque vous utilisez ce produit et sa documentation.
-keywords: Dynamic Tag Management;notes de mise à jour
+description: Informations destinées à vous aider à contacter Adobe et à comprendre les problèmes juridiques liés à votre utilisation de ce produit et de cette documentation.
+keywords: dynamic tag management;notes de mise à jour
 seo-description: Information to help you contact Adobe and understand the legal issues concerning your use of this product and documentation.
 seo-title: Contact and Legal Information
 title: Coordonnées et informations juridiques
@@ -8,27 +8,27 @@ uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
 translate: y
 source-git-commit: 759707638404f746de2e71ac27bd16926a8d1151
-workflow-type: ht
-source-wordcount: '219'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '235'
+ht-degree: 34%
 
 ---
 
 
 # Coordonnées et informations juridiques
 
-Informations vous permettant de contacter Adobe et de comprendre les implications juridiques lorsque vous utilisez ce produit et sa documentation.
+Informations destinées à vous aider à contacter Adobe et à comprendre les problèmes juridiques liés à votre utilisation de ce produit et de cette documentation.
 
 
-## Aide et assistance technique {#section_354AC2658BA84A2A96E64C5B2C43B73B}
+## Aide et support technique {#section_354AC2658BA84A2A96E64C5B2C43B73B}
 
-L’équipe d’assistance d’Adobe Experience Cloud est là pour vous aider et propose les différentes solutions de support suivantes :
+L’équipe d’assistance clientèle de Adobe Marketing Cloud est là pour vous aider et propose les différentes solutions de support suivantes :
 
-Voir [Contacter l’assistance Adobe pour les entreprises](https://helpx.adobe.com/fr/contact/enterprise-support.ec.html)
+Voir [Contacter l’assistance aux entreprises d’Adobe](https://helpx.adobe.com/fr/contact/enterprise-support.ec.html)
 
-## Service, performance et facturation {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
+## Service, fonctionnalité et facturation {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
-En fonction de la configuration de votre solution, il est possible que vous n’ayez pas accès à certaines des options décrites dans cette documentation. Chaque compte étant unique, consultez votre contrat pour toute question concernant les tarifs, les échéances et les conditions. Si vous souhaitez augmenter ou modifier votre niveau de service, ou pour toute question concernant votre service actuel, veuillez contacter votre gestionnaire de compte.
+En fonction de la configuration de votre solution, il est possible que vous n’ayez pas accès à certaines des options décrites dans cette documentation. Comme chaque compte est unique, consultez votre contrat pour connaître les tarifs, les dates d’échéance, les modalités et les conditions. Si vous souhaitez ajouter ou modifier votre niveau de service, ou si vous avez des questions concernant votre service actuel, contactez votre gestionnaire de compte.
 
 <!--
 ## Feedback {#section_8154D6D712054220A90D85FA8E92933E}
@@ -44,6 +44,6 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
 
 [Conditions d’utilisation](https://www.adobe.com/go/marketingcloud_terms_of_use) | [Centre de traitement des données personnelles](https://www.adobe.com/fr/privacy/policy.html)
 
-Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
+Adobe and the Adobe logo are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. Un symbole de marque (®, ™, etc.) indique une marque Adobe.
 
-All third-party trademarks are the property of their respective owners. Updated Information/Additional Third-Party Code Information available at [https://www.adobe.com/go/thirdparty_fr](https://www.adobe.com/fr/products/eula/third_party/).
+All third-party trademarks are the property of their respective owners. Informations mises à jour/informations de code tiers supplémentaires disponibles à l’adresse [&#128279;](https://www.adobe.com/fr/products/eula/third_party.html).
