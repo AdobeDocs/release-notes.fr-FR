@@ -24,7 +24,7 @@ Informations destinées à vous aider à contacter Adobe et à comprendre les pr
 
 L’équipe d’assistance clientèle de Adobe Marketing Cloud est là pour vous aider et propose les différentes solutions de support suivantes :
 
-Voir [Contacter l’assistance aux entreprises d’Adobe](https://helpx.adobe.com/contact/enterprise-support.ec.html)
+Voir [Contacter l’assistance aux entreprises d’Adobe](https://helpx.adobe.com/fr/contact/enterprise-support.ec.html)
 
 ## Service, fonctionnalité et facturation {#section_FA4F5274FDFE4DF7BB079E575877DFC2}
 
