@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: dca17391c8c6ef661fb92f3c43291a35f810ebd0
+source-git-commit: 90a809f7a186f9bf441acd2bb8de22062685532c
 workflow-type: tm+mt
-source-wordcount: '2222'
+source-wordcount: '2227'
 ht-degree: 27%
 
 ---
@@ -21,7 +21,7 @@ Cette page vous permet de :
 * recevoir des informations sur les nouveaux événements ;
 * Consulter les derniers articles d’aide
 
-Dernière mise à jour : **16 mai 2026**
+Dernière mise à jour : **28 mai 2026**
 
 ## Notes de mise à jour de l’application {#application-release-notes}
 
@@ -32,29 +32,29 @@ Les liens suivants ouvrent les notes de mise à jour de chaque application (ou l
 | [!DNL CX Enterprise] | Avril 2026 | [Administration et interface utilisateur d’Enterprise Central](https://experienceleague.adobe.com/fr/docs/core-services/interface/more-resources/release-notes){target="_blank"} |
 | [!DNL Adobe System Status] | 15 Mai 2026 | [Statut du système Adobe (dans ce guide)](https://experienceleague.adobe.com/fr/docs/release-notes/experience-cloud/current#status){target="_blank"} |
 | [!DNL Adobe LLM Optimizer] | 8 Mai 2026 | [Notes de mise à jour de &#x200B;](https://llmo.now/articles/release-notes){target="_blank"} |
-| [!DNL Adobe Experience Platform] | 28 Avril 2026 | [[!DNL Experience Platform] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/experience-platform/release-notes/latest){target="_blank"} |
-| [!DNL Experience Platform] Mobile SDK | 21 Avril 2026 | [[!DNL Experience Platform] Notes de mise à jour du SDK Mobile](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"} |
+| [!DNL Adobe Experience Platform] | 19 Mai 2026 | [[!DNL Experience Platform] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/experience-platform/release-notes/latest){target="_blank"} |
 | [!DNL Adobe Real-Time CDP] | 28 Avril 2026 | [[!DNL Experience Platform] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/experience-platform/release-notes/latest){target="_blank"} |
-| [!DNL Adobe Analytics] | En cours | [[!DNL Analytics] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/analytics/release-notes/latest){target="_blank"} |
-| [!DNL Adobe Customer Journey Analytics] | Février 2026 | [Notes de mise à jour de &#x200B;](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/releases/latest?lang=fr#releases){target="_blank"} |
-| [!DNL Adobe Streaming Media Analytics] | Octobre 2025 | [Notes de mise à jour de Streaming Media Analytics](https://experienceleague.adobe.com/fr/docs/media-analytics/using/release-notes/release-notes){target="_blank"} |
-| [!DNL Adobe Mix Modeler] | Mars 2026 | [Notes de mise à jour de Mix Modeler](https://experienceleague.adobe.com/fr/docs/mix-modeler/using/releases/latest){target="_blank"} |
-| [!DNL Adobe Advertising DSP] | 11 Mai 2026 | [Nouveautés d’Advertising DSP](https://experienceleague.adobe.com/fr/docs/advertising/dsp/home){target="_blank"} |
+| [!DNL Experience Platform] Mobile SDK | 21 Avril 2026 | [[!DNL Experience Platform] Notes de mise à jour du SDK Mobile](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"} |
+| [!DNL Adobe Analytics] | 5 Mai 2026 | [[!DNL Analytics] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/analytics/release-notes/latest){target="_blank"} |
+| [!DNL Adobe Customer Journey Analytics] | 1er mai 2026 | [Notes de mise à jour de &#x200B;](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/releases/latest?lang=fr#releases){target="_blank"} |
+| [!DNL Adobe Streaming Media Analytics] | 7 Octobre 2025 | [Notes de mise à jour de Streaming Media Analytics](https://experienceleague.adobe.com/fr/docs/media-analytics/using/release-notes/release-notes){target="_blank"} |
+| [!DNL Adobe Mix Modeler] | 30 mars 2026 | [Notes de mise à jour de Mix Modeler](https://experienceleague.adobe.com/fr/docs/mix-modeler/using/releases/latest){target="_blank"} |
+| [!DNL Adobe Advertising DSP] | 20 Mai 2026 | [Nouveautés d’Advertising DSP](https://experienceleague.adobe.com/fr/docs/advertising/dsp/home){target="_blank"} |
 | [!DNL Adobe Advertising Search, Social, & Commerce] | 25 février 2026 | [Nouveautés d’Advertising Search, Social et Commerce](https://experienceleague.adobe.com/fr/docs/advertising/search-social-commerce/home){target="_blank"} |
 | [!DNL Adobe Experience Manager] as a Cloud Service | 30 Avril 2026 | [Accueil des notes de mise à jour pour AEM as a Cloud Service](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/home){target="_blank"} |
-| [!DNL Adobe Experience Manager] 6.5 | 26 Novembre 2025 | [[!DNL Experience Manager] Notes de mise à jour du pack de services 6.5](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes){target="_blank"} |
+| [!DNL Adobe Experience Manager] 6.5 | 21 Mai 2025 | [[!DNL Experience Manager] Notes de mise à jour du pack de services 6.5](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/release-notes/release-notes){target="_blank"} |
 | [!DNL Adobe Experience Manager] [!DNL Cloud Manager] | 7 Mai 2026 | [Notes de mise à jour de Cloud Manager d’Experience Manager](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-manager/content/release-notes/current){target="_blank"} |
 | [!DNL Experience Manager] [!DNL Assets Essentials] | 25 juillet 2024 | [Notes de mise à jour d’Experience Manager Assets Dynamic Media](https://experienceleague.adobe.com/fr/docs/experience-manager-assets-essentials/help/release-notes){target="_blank"} |
 | [!DNL Experience Manager] [!DNL Brand Portal] | 1Er Janvier 2026 | [Notes de mise à jour d’Experience Manager Brand Portal](https://experienceleague.adobe.com/fr/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes){target="_blank"} |
 | [!DNL Experience Manager] [!DNL Dispatcher] | 20 Novembre 2025 | [Notes de mise à jour d’Experience Manager Dispatcher](https://experienceleague.adobe.com/fr/docs/experience-manager-dispatcher/using/getting-started/release-notes){target="_blank"} |
 | [!DNL Adobe Commerce] | En cours | [Notes de mise à jour d’Adobe Commerce et de Magento Open Source](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/notes/overview){target="_blank"} |
-| [!DNL Adobe Target] | 12 Mai 2026 | [[!DNL Adobe Target] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/release-notes){target="_blank"} |
+| [!DNL Adobe Target] | 21 Mai 2026 | [[!DNL Adobe Target] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/release-notes){target="_blank"} |
 | Interface utilisateur web [!DNL Adobe Campaign] | 29 Avril 2026 | [Notes de mise à jour de l’interface utilisateur web de Campaign](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} |
 | [!DNL Adobe Campaign] v8 | 3 Mai 2026 | Notes de mise à jour de [[!DNL Campaign] v8 &#x200B;](https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/releases/release-notes){target="_blank"} |
 | [!DNL Adobe Campaign Standard] | Février 2026 (26.2) | [[!DNL Campaign Standard] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} |
 | [!DNL Adobe Campaign Classic] v7 | 31 mars 2026 | [[!DNL Campaign Classic] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} |
 | [!DNL Adobe Journey Optimizer] | Mai 2026 | [[!DNL Journey Optimizer] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} |
-| [!DNL Adobe Journey Optimizer B2B Edition] | 27 mars 2026 | [Notes de mise à jour de Journey Optimizer B2B edition](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} |
+| [!DNL Adobe Journey Optimizer B2B Edition] | 22 Mai 2026 | [Notes de mise à jour de Journey Optimizer B2B edition](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} |
 | [!DNL Adobe Marketo Engage] | Mai 2026 | [Notes de mise à jour actuelles de &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo/using/release-notes/current){target="_blank"} |
 | [!DNL Marketo Engage] [!DNL Dynamic Chat] | Mars 2026 | [Notes de mise à jour de &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} |
 | [!DNL Adobe Workfront] | T1 2026 | [versions du produit &#x200B;](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"} |
