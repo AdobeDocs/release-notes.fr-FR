@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 8f10855ecf307977cb13bee410a823c0102138cc
+source-git-commit: 0cda8de324d183a470a80ce198d797d46410fb63
 workflow-type: tm+mt
-source-wordcount: '7264'
-ht-degree: 30%
+source-wordcount: '7107'
+ht-degree: 28%
 
 ---
 
@@ -28,14 +28,27 @@ Cette page vous permet de :
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-Dernière mise à jour : **11 juin 2026**
+Dernière mise à jour : **16 juin 2026**
 
 ## Nouveautés
 
-* [Nouvelles notes de mise à jour - Toutes les applications](#application-release-notes)
 * [Nouvelles fonctionnalités d’IA dans CX Enterprise](#ai)
+* [Nouvelles notes de mise à jour - Toutes les applications](#application-release-notes)
 * [Webinaires et événements à venir](#events)
 * [Nouveaux tutoriels et articles d’assistance](#articles)
+
+## Nouvelles fonctionnalités d’IA dans CX Enterprise {#ai}
+
+Découvrez les dernières ressources d’apprentissage publiées pour l’IA générative et agentique dans CX Enterprise.
+
+| Application | Mise à jour | Description | Mis à jour |
+| ------- | ------- | ------- | ------- |
+| Entreprise CX | **[!DNL Coworker]** | CX Enterprise Coworker est une application d’IA agentique qui automatise les workflows de bout en bout de l’expérience client. Il détecte les signaux, crée des audiences et lance des campagnes avec une gouvernance intégrée en quelques heures. | 11 Juin 2026 |
+| Entreprise CX | **Catalogue des fonctionnalités d’IA dédiée aux agences** | Découvrez les tâches d’IA dédiée aux agents disponibles dans vos applications CX Enterprise sous licence. Recherchez le lien sur [les tâches de l’agent Adobe Experience Platform et la consommation des crédits AI](https://experienceleague.adobe.com/fr/docs/core-services/interface/features/ai-credit-consumption). | 11 Juin 2026 |
+| [!DNL CX Enterprise] | **[!UICONTROL Surveillance]** | CX Enterprise fournit désormais des tableaux de bord de surveillance [AI](https://experienceleague.adobe.com/fr/docs/core-services/interface/features/monitoring){target="_blank"} pour surveiller l’utilisation de l’IA agentique dans les applications existantes. Suivez l’adoption, passez en revue les conversations et les commentaires, et gérez la consommation de crédit AI pour les agents Experience Platform accessibles via l’assistant AI et d’autres surfaces de conversation. Les vues Présentation, Utilisateurs, Commentaires et Crédits d’IA aident les parties prenantes de la gouvernance à orienter l’adoption avec les données. | 2 Juin 2026 |
+| [!DNL CX Enterprise] - EXPERIENCE LEAGUE | **Formation IA** | Experience League [AI Hub](https://experienceleague.adobe.com/fr/ai-training){target="_blank"} aide les marketeurs à acquérir des compétences pratiques en IA pour leur travail marketing au quotidien. Inspirez-vous des pairs qui font face aux mêmes défis et découvrez ce qui fonctionne réellement. | 15 Avril 2026 |
+| [!DNL CX Enterprise] | **Agent marketing pour Microsoft 365 Copilote** | Découvrez comment [&#128279;](https://experienceleague.adobe.com/fr/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} connecte directement Experience Platform à Microsoft 365 Copilot. | 6 avril 2026 |
+| [!DNL AEM CS] | **Serveur MCP Cloud Manager** | Découvrez comment le [serveur Cloud Manager MCP](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} permet aux outils d’IA d’interagir avec AEM as a Cloud Service pour gérer les programmes, les environnements, les référentiels et les pipelines. | 6 avril 2026 |
 
 ## Nouvelles notes de mise à jour - Toutes les applications {#application-release-notes}
 
@@ -71,7 +84,7 @@ Utilisez ce tableau pour en savoir plus sur les mises à jour mises en évidence
 | [!DNL Adobe Campaign] v8 | 11 mars 2026 | Notes de mise à jour de [[!DNL Campaign] v8 &#x200B;](https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/releases/release-notes){target="_blank"} | <ul><li>Mises à niveau de Debian 13 et PostgreSQL 17</li><li>Correctifs de sécurité et de stabilité</li></ul> |
 | [!DNL Adobe Campaign Standard] | Février 2026 (26.2) | [[!DNL Campaign Standard] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | <ul><li>Correctifs de sécurité</li><li>Autres correctifs</li></ul> |
 | [!DNL Adobe Campaign Classic] v7 | Juin 2026 | [[!DNL Campaign Classic] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>Mises à jour de sécurité (version de juin v7.4.3)</li><li>Mises à niveau de Debian 13 et PostgreSQL 17</li></ul> |
-| [!DNL Adobe Journey Optimizer] | Juin 2026 | [[!DNL Journey Optimizer] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Assistant AI pour les expressions de Parcours (Beta publique)</li><li>Remplissage automatique pour les parcours Lecture d’audience non récurrents</li><li>Authentification personnalisée basée sur des certificats dans les actions personnalisées</li><li>Simulation De parcours (Disponibilité Limitée)</li><li>Fragments De parcours (Disponibilité Limitée)</li></ul> |
+| [!DNL Adobe Journey Optimizer] | Juin 2026 | [[!DNL Journey Optimizer] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Assistant IA pour les expressions de parcours (version Beta publique)</li><li>Remplissage automatique pour les parcours Lecture d’audience non récurrents</li><li>Authentification personnalisée basée sur des certificats dans les actions personnalisées</li><li>Simulation De parcours (Disponibilité Limitée)</li><li>Fragments de parcours (disponibilité Limitée)</li></ul> |
 | [!DNL Adobe Journey Optimizer B2B Edition] | 22 Mai 2026 | [Notes de mise à jour de Journey Optimizer B2B edition](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} | <ul><li>Landing pages</li><li>Formulaires</li><li>Filtre de liste des membres de compte</li><li>Filtrage de l’historique des événements d’expérience</li><li>Nœuds de parcours du meilleur chemin suivant</li></ul> |
 | [!DNL Adobe Marketo Engage] | Mai 2026 | [Notes de mise à jour actuelles de &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>MARKETO AI</li><li>Serveur MCP Marketo Engage</li><li>Contenu conditionnel de Designer d’e-mail pour les fragments d’e-mail</li><li>Gestion des listes de sélection</li></ul> |
 | [!DNL Marketo Engage] [!DNL Dynamic Chat] | Mars 2026 | [Notes de mise à jour de &#x200B;](https://experienceleague.adobe.com/fr/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} | <ul><li>Limite de temps d’attente du visiteur</li><li>Télécharger le relevé de notes</li><li>Réorganisation de la logique de routage</li></ul> |
@@ -79,22 +92,6 @@ Utilisez ce tableau pour en savoir plus sur les mises à jour mises en évidence
 | [!DNL Adobe Workfront Fusion] | Juin 2026 | [Activité de version d’Adobe Workfront Fusion](https://experienceleague.adobe.com/fr/docs/workfront-fusion/using/fusion-release-activity/fusion-releases-2026/fusion-2026-6-1){target="_blank"} | <ul><li>Redéclenchement d’exécutions de scénario spécifique</li><li>Mises à jour de la fonctionnalité Exécuter une fois</li></ul> |
 | [!DNL Adobe GenStudio for Performance Marketing] | Mars 2026 | [Notes de mise à jour de &#x200B;](https://experienceleague.adobe.com/fr/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>Modèles Express pour Meta, LinkedIn et Display on Horizon Canvas</li><li>Création, approbation et activation d’annonces publicitaires vidéo intégrées à TikTok</li></ul> |
 | [!DNL Adobe Pass] | Mai 2026 (3.7.0.2) | [Notes de mise à jour d’Adobe Pass 3.7.0](https://experienceleague.adobe.com/en/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"} | <ul><li>Prise en charge de PKCE pour l’authentification MVPD basée sur OAuth2</li><li>TVE Dashboard 1.5.1</li><li>Correctif de la non-correspondance de la configuration de l’authentification unique Apple</li><li>Correctif de refus d’autorisation HTTP 500</li></ul> |
-
-## Nouvelles fonctionnalités d’IA dans CX Enterprise {#ai}
-
-Découvrez les nouvelles ressources d’apprentissage récemment publiées pour l’IA générative et agentique dans CX Enterprise.
-
-| Produit | Ressource | Description | Mis à jour |
-| ------- | ------- | ------- | ------- |
-| Collègue d’entreprise CX (disponibilité générale) | Bientôt disponible | CX Enterprise Coworker est une application d’IA agentique qui automatise les workflows de bout en bout de l’expérience client. Il détecte les signaux, crée des audiences et lance des campagnes avec une gouvernance intégrée en quelques heures. | **1 juin 2026** |
-| Entreprise CX | Catalogue des fonctionnalités IA dédiée aux entreprises CX | Découvrez les tâches d’IA dédiée aux agents disponibles dans vos applications CX Enterprise sous licence. Recherchez le lien sur [les tâches de l’agent Adobe Experience Platform et la consommation des crédits AI](https://experienceleague.adobe.com/fr/docs/core-services/interface/features/ai-credit-consumption). | **1 juin 2026** |
-| [!DNL CX Enterprise] | [Tableaux de bord de surveillance AI](https://experienceleague.adobe.com/fr/docs/core-services/interface/features/monitoring){target="_blank"} | CX Enterprise fournit désormais des tableaux de bord pour surveiller l’utilisation de l’IA agentique dans les applications existantes. Suivez l’adoption, passez en revue les conversations et les commentaires, et gérez la consommation de crédit AI pour les agents Experience Platform accessibles via l’assistant AI et d’autres surfaces de conversation. Les vues Présentation, Utilisateurs, Commentaires et Crédits d’IA aident les parties prenantes de la gouvernance à orienter l’adoption avec les données. | **2 juin 2026** |
-| [!DNL CX Enterprise] - EXPERIENCE LEAGUE | [Hub IA](https://experienceleague.adobe.com/fr/ai-training){target="_blank"} | Le hub IA d’Experience League permet aux responsables marketing à acquérir des compétences pratiques en IA pour leur travail marketing quotidien. Inspirez-vous des pairs qui font face aux mêmes défis et découvrez ce qui fonctionne réellement. | 15 Avril 2026 |
-| [!DNL CX Enterprise] | [Adobe Marketing Agent pour Microsoft 365 Copilot](https://experienceleague.adobe.com/fr/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Découvrez comment Adobe Marketing Agent pour Microsoft 365 Copilot connecte directement Experience Platform à Microsoft 365 Copilot. | 6 avril 2026 |
-| [!DNL AEM CS] | [Serveur MCP Cloud Manager](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Découvrez comment le serveur MCP Cloud Manager permet aux outils d’IA d’interagir avec AEM as a Cloud Service pour gérer les programmes, les environnements, les référentiels et les pipelines. | 6 avril 2026 |
-| [!DNL Acrobat Services] | [Acrobat Analyzer](https://experienceleague.adobe.com/fr/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Explorez les webinaires Adobe Acrobat Analyzer pour découvrir comment Generative AI extrait des informations structurées et vérifiables des documents afin d’automatiser les workflows, de réduire les risques et d’accélérer la prise de décision d’entreprise à grande échelle. | 10 mars 2026 |
-| [!DNL CX Enterprise] | [Agents Adobe Experience Platform pour une efficacité marketing améliorée et de meilleurs résultats commerciaux](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | Cette session exclusive comprend une session de questions-réponses intéressante avec Anjul Bhambhri, vice-président principal d’Adobe CX Enterprise. Découvrez le parcours et la vision audacieuse d’Adobe pour fournir des fonctionnalités innovantes d’IA dédiée aux agences qui permettent aux professionnels du marketing et de la création d’automatiser des étapes complexes, d’accélérer la prise de décision et d’étendre les capacités de leurs équipes sans compromettre le contrôle ou la surveillance. | 3 mars 2026 |
-| [!DNL CX Enterprise] | [Tâches d’agent et consommation des crédits AI](https://experienceleague.adobe.com/fr/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Découvrez les tâches des agents et les taux de consommation de crédit de l’IA dans les applications CX Enterprise. | 3 mars 2026 |
 
 ## Webinaires et événements à venir {#events}
 
