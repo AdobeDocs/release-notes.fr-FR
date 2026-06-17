@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 0cda8de324d183a470a80ce198d797d46410fb63
+source-git-commit: cb1d954668ee47f2414313cb624c7662b3aef1e4
 workflow-type: tm+mt
-source-wordcount: '7107'
+source-wordcount: '7116'
 ht-degree: 28%
 
 ---
@@ -43,7 +43,7 @@ Découvrez les dernières ressources d’apprentissage publiées pour l’IA gé
 
 | Application | Mise à jour | Description | Mis à jour |
 | ------- | ------- | ------- | ------- |
-| Entreprise CX | **[!DNL Coworker]** | CX Enterprise Coworker est une application d’IA agentique qui automatise les workflows de bout en bout de l’expérience client. Il détecte les signaux, crée des audiences et lance des campagnes avec une gouvernance intégrée en quelques heures. | 11 Juin 2026 |
+| Entreprise CX | **[!DNL Coworker]** | [CX Enterprise Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-coworker/content/home) est une application d’IA agentique qui automatise les workflows de bout en bout de l’expérience client. Il détecte les signaux, crée des audiences et lance des campagnes avec une gouvernance intégrée en quelques heures. | 11 Juin 2026 |
 | Entreprise CX | **Catalogue des fonctionnalités d’IA dédiée aux agences** | Découvrez les tâches d’IA dédiée aux agents disponibles dans vos applications CX Enterprise sous licence. Recherchez le lien sur [les tâches de l’agent Adobe Experience Platform et la consommation des crédits AI](https://experienceleague.adobe.com/fr/docs/core-services/interface/features/ai-credit-consumption). | 11 Juin 2026 |
 | [!DNL CX Enterprise] | **[!UICONTROL Surveillance]** | CX Enterprise fournit désormais des tableaux de bord de surveillance [AI](https://experienceleague.adobe.com/fr/docs/core-services/interface/features/monitoring){target="_blank"} pour surveiller l’utilisation de l’IA agentique dans les applications existantes. Suivez l’adoption, passez en revue les conversations et les commentaires, et gérez la consommation de crédit AI pour les agents Experience Platform accessibles via l’assistant AI et d’autres surfaces de conversation. Les vues Présentation, Utilisateurs, Commentaires et Crédits d’IA aident les parties prenantes de la gouvernance à orienter l’adoption avec les données. | 2 Juin 2026 |
 | [!DNL CX Enterprise] - EXPERIENCE LEAGUE | **Formation IA** | Experience League [AI Hub](https://experienceleague.adobe.com/fr/ai-training){target="_blank"} aide les marketeurs à acquérir des compétences pratiques en IA pour leur travail marketing au quotidien. Inspirez-vous des pairs qui font face aux mêmes défis et découvrez ce qui fonctionne réellement. | 15 Avril 2026 |
