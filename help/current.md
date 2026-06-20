@@ -5,10 +5,10 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: cb1d954668ee47f2414313cb624c7662b3aef1e4
+source-git-commit: fee1ea6a1eee833f040e73e5fa19ef25be81043c
 workflow-type: tm+mt
-source-wordcount: '7116'
-ht-degree: 28%
+source-wordcount: '7175'
+ht-degree: 27%
 
 ---
 
@@ -28,14 +28,22 @@ Cette page vous permet de :
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-Dernière mise à jour : **16 juin 2026**
+Dernière mise à jour : **19 juin 2026**
 
 ## Nouveautés
 
+* [Nouveaux événements et webinaires](#events)
 * [Nouvelles fonctionnalités d’IA dans CX Enterprise](#ai)
 * [Nouvelles notes de mise à jour - Toutes les applications](#application-release-notes)
-* [Webinaires et événements à venir](#events)
 * [Nouveaux tutoriels et articles d’assistance](#articles)
+
+## Nouveaux événements et webinaires {#events}
+
+| Date | Événement | Description |
+| ------- | ------- | ------- |
+| 17 Juin 2026 | [Experience League LIVE - Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26#how-to-efficiently-test-simulate-and-validate-journeys-before-going-live) | Testez et validez vos parcours avant le lancement et apprenez à en faire plus avec la toute nouvelle Simulation de Parcours. |
+
+Pour afficher tous les événements, rendez-vous sur [Experience League Events](https://experienceleague.adobe.com/fr/events).
 
 ## Nouvelles fonctionnalités d’IA dans CX Enterprise {#ai}
 
@@ -92,10 +100,6 @@ Utilisez ce tableau pour en savoir plus sur les mises à jour mises en évidence
 | [!DNL Adobe Workfront Fusion] | Juin 2026 | [Activité de version d’Adobe Workfront Fusion](https://experienceleague.adobe.com/fr/docs/workfront-fusion/using/fusion-release-activity/fusion-releases-2026/fusion-2026-6-1){target="_blank"} | <ul><li>Redéclenchement d’exécutions de scénario spécifique</li><li>Mises à jour de la fonctionnalité Exécuter une fois</li></ul> |
 | [!DNL Adobe GenStudio for Performance Marketing] | Mars 2026 | [Notes de mise à jour de &#x200B;](https://experienceleague.adobe.com/fr/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>Modèles Express pour Meta, LinkedIn et Display on Horizon Canvas</li><li>Création, approbation et activation d’annonces publicitaires vidéo intégrées à TikTok</li></ul> |
 | [!DNL Adobe Pass] | Mai 2026 (3.7.0.2) | [Notes de mise à jour d’Adobe Pass 3.7.0](https://experienceleague.adobe.com/en/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"} | <ul><li>Prise en charge de PKCE pour l’authentification MVPD basée sur OAuth2</li><li>TVE Dashboard 1.5.1</li><li>Correctif de la non-correspondance de la configuration de l’authentification unique Apple</li><li>Correctif de refus d’autorisation HTTP 500</li></ul> |
-
-## Webinaires et événements à venir {#events}
-
-Pour afficher tous les événements, rendez-vous sur [Experience League Events](https://experienceleague.adobe.com/fr/events).
 
 ## Nouveaux tutoriels et articles d’assistance {#articles}
 
@@ -367,7 +371,7 @@ Nouveaux tutoriels publiés pour Adobe [!DNL Journey Optimizer] sur Experience�
 | Juin 2026 | [!DNL Journey Optimizer] | [Enregistrer des nœuds de parcours en tant que fragments](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/journeys/journey-fragments){target="_blank"} | Vidéo | Découvrez comment enregistrer des nœuds de parcours en tant que fragments réutilisables dans Adobe Journey Optimizer. Rationalisez les workflows et assurez la cohérence en réutilisant des modèles complexes sur plusieurs parcours. |
 | Mai 2026 | [!DNL Journey Optimizer] | [Conférence 2 - Comprendre les méthodes de classement](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/ai-powered-decisioning-for-web-experiences/lecture-2-understand-ranking-methods){target="_blank"} | Vidéo | Découvrez les différentes méthodes de classement disponibles dans Adobe Journey Optimizer Decisioning. Explorez les modèles d’optimisation de l’IA et les formules de classement basées sur des règles pour améliorer les offres personnalisées. |
 | Mai 2026 | [!DNL Journey Optimizer] | [Exercice 2 - Sous le capot : offres, collections et règles de décision](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/ai-powered-decisioning-for-web-experiences/exercise-2-under-the-hood){target="_blank"} | Vidéo | Découvrez comment les offres, les collections et les règles d’éligibilité sont configurées dans Adobe Journey Optimizer Decisioning. Découvrez comment ces éléments contrôlent quels clients remplissent les critères pour quelles offres de produits. |
-| Juin 2026 | [!DNL Journey Optimizer] | [Créer une campagne web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=fr){target="_blank"} | Vidéo | Découvrez ce qu’est une campagne web et comment configurer ses propriétés dans Adobe Journey Optimizer. Découvrez comment examiner et publier une campagne web pour offrir des expériences web personnalisées. |
+| Juin 2026 | [!DNL Journey Optimizer] | [Créer une campagne web](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en){target="_blank"} | Vidéo | Découvrez ce qu’est une campagne web et comment configurer ses propriétés dans Adobe Journey Optimizer. Découvrez comment examiner et publier une campagne web pour offrir des expériences web personnalisées. |
 | Mai 2026 | [!DNL Journey Optimizer] | [Créer une campagne in-app](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app){target="_blank"} | Vidéo | Découvrez ce qu’est un message in-app et en quoi il diffère des autres types de messages dans Adobe Journey Optimizer. Découvrez comment créer, configurer et publier des messages in-app dans des campagnes. |
 | Mai 2026 | [!DNL Journey Optimizer] | [Configurer et envoyer une campagne de notifications push](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/push-channel/create-a-push-campaign.html?lang=fr){target="_blank"} | Vidéo | Découvrez comment configurer et envoyer une campagne de notification push dans Adobe Journey Optimizer. Touchez votre audience mobile avec des messages push ciblés et opportuns. |
 
