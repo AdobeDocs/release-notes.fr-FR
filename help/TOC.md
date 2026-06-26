@@ -6,7 +6,7 @@ breadcrumb-title: Notes de mise à jour centrales
 user-guide-description: Découvrez les nouvelles fonctionnalités, les correctifs et les avis importants dans Adobe Experience Cloud et Experience Platform.
 user-guide-url: https://www.adobe.com
 source-git-commit: 09c8fbb10bfc61b515ce8d30dde9c64d72208d26
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
 ht-degree: 100%
 
