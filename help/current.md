@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: July 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: dedb338724c4970578fa8cff358485eb1196c3ae
+source-git-commit: 2dcd5bb15f6b27756d4f1f0b5993976b008d0c07
 workflow-type: tm+mt
-source-wordcount: '14824'
+source-wordcount: '14809'
 ht-degree: 26%
 
 ---
@@ -51,8 +51,8 @@ Découvrez les dernières ressources d’apprentissage publiées pour l’IA gé
 
 | Application | Mise à jour | Description | Mis à jour |
 | ------- | ------- | ------- | ------- |
-| CX Enterprise | **[!DNL Coworker]** | [CX Enterprise Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-coworker/content/home) est une application d’IA agentique qui automatise les workflows de bout en bout de l’expérience client. Elle détecte les signaux, crée des audiences et lance des campagnes avec une gouvernance intégrée en quelques heures. | 11 Juin 2026 |
-| CX Enterprise | **Catalogue des fonctionnalités d’IA dédiée aux agences** | Découvrez les tâches d’IA agentique disponibles dans vos applications CX Enterprise sous licence. Retrouvez le lien vers les [traitements d’agents Adobe Experience Platform ainsi que la consommation des crédits d’IA](https://experienceleague.adobe.com/fr/docs/core-services/interface/features/ai-credit-consumption). | 11 Juin 2026 |
+| CX Enterprise | **[!DNL Coworker]** | [CX Enterprise Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-coworker/content/home) est une application d’IA agentique qui automatise les workflows de bout en bout de l’expérience client. Elle détecte les signaux, crée des audiences et lance des campagnes avec une gouvernance intégrée en quelques heures. | 11 juin 2026 |
+| CX Enterprise | **Catalogue des fonctionnalités d’IA dédiée aux agences** | Découvrez les tâches d’IA agentique disponibles dans vos applications CX Enterprise sous licence. Retrouvez le lien vers les [traitements d’agents Adobe Experience Platform ainsi que la consommation des crédits d’IA](https://experienceleague.adobe.com/fr/docs/core-services/interface/features/ai-credit-consumption). | 11 juin 2026 |
 | [!DNL CX Enterprise] | **[!UICONTROL Surveillance]** | CX Enterprise fournit désormais des tableaux de bord de surveillance [AI](https://experienceleague.adobe.com/fr/docs/core-services/interface/features/monitoring){target="_blank"} pour surveiller l’utilisation de l’IA agentique dans les applications existantes. Suivez l’adoption, passez en revue les conversations et les commentaires, et gérez la consommation des crédits d’IA pour les agents Experience Platform accessibles via l’assistant IA et d’autres interfaces conversationnelles. Les vues Vue d’ensemble, Utilisateurs et utilisatrices, Commentaires et Crédits d’IA aident les parties prenantes de la gouvernance à piloter l’adoption grâce à des données. | 2 Juin 2026 |
 | [!DNL CX Enterprise] - Experience League | **Formation IA** | Experience League [AI Hub](https://experienceleague.adobe.com/fr/ai-training){target="_blank"} aide les marketeurs à acquérir des compétences pratiques en IA pour leur travail marketing au quotidien. Inspirez-vous des pairs qui font face aux mêmes défis et découvrez ce qui fonctionne réellement. | 15 avril 2026 |
 | [!DNL CX Enterprise] | **Agent marketing pour Microsoft 365 Copilote** | Découvrez comment [&#128279;](https://experienceleague.adobe.com/fr/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} connecte directement Experience Platform à Microsoft 365 Copilot. | 6 avril 2026 |
@@ -467,11 +467,7 @@ Nouveaux articles et mises à jour des articles existants pour [!DNL Campaign].
 
 ### [!DNL Adobe Journey Optimizer] {#journey-opt}
 
-Consultez les derniers tutoriels et articles d’aide de la base de connaissances sur Experience League.
-
-#### Mises à jour de version de produit pour [!DNL Journey Optimizer]
-
-Recherchez les derniers tutoriels et articles d’aide pour Journey Optimizer.
+Consultez les derniers tutoriels et articles d’assistance sur Experience League.
 
 #### Nouveaux tutoriels sur [!DNL Journey Optimizer] {#tutorials-ajo}
 
