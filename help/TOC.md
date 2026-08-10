@@ -6,10 +6,10 @@ breadcrumb-title: Notes de mise à jour centrales
 user-guide-description: Découvrez les nouvelles fonctionnalités, les correctifs et les avis importants dans Adobe Experience Cloud et Experience Platform.
 user-guide-url: https://www.adobe.com
 color: red
-source-git-commit: f05bceec6337cd0f438d4cc0416ca55687f0dd16
+source-git-commit: 7372c0b11727b57dd12b7eb5f5228ab9e6a4a0c6
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 100%
+source-wordcount: '119'
+ht-degree: 98%
 
 ---
 
@@ -18,45 +18,46 @@ ht-degree: 100%
 
 + [Notes de mise à jour de la version actuelle](current.md)
 + Notes de mise à jour précédentes {#previous}
-   + 2026 {#2026}
-      + [Juin 2026](c-legacy-releases/2026/06112026.md)
-      + [Avril 2026](c-legacy-releases/2026/04152026.md)
-      + [Mars 2026](c-legacy-releases/2026/03112026.md)
-      + [Février 2026](c-legacy-releases/2026/02112026.md)
-      + [Janvier 2026](c-legacy-releases/2026/01142026.md)
-   + 2025 {#2025}
-      + [Octobre 2025](c-legacy-releases/2025/10152025.md)
-      + [Septembre 2025](c-legacy-releases/2025/09112025.md)
-      + [Août 2025](c-legacy-releases/2025/08132025.md)
-      + [Juillet 2025](c-legacy-releases/2025/07162025.md)
-      + [Juin 2025](c-legacy-releases/2025/06182025.md)
-      + [Mai 2025](c-legacy-releases/2025/05142025.md)
-      + [Avril 2025](c-legacy-releases/2025/04162025.md)
-      + [Mars 2025](c-legacy-releases/2025/03122025.md)
-      + [Février 2025](c-legacy-releases/2025/02122025.md)
-      + [Janvier 2025](c-legacy-releases/2025/01222025.md)
-   + 2024 {#2024}
-      + [Novembre 2024](c-legacy-releases/2024/10232024.md)
-      + [Septembre 2024](c-legacy-releases/2024/09122024.md)
-      + [Août 2024](c-legacy-releases/2024/08142024.md)
-      + [Juillet 2024](c-legacy-releases/2024/07172024.md)
-      + [Juin 2024](c-legacy-releases/2024/06122024.md)
-      + [Mai 2024](c-legacy-releases/2024/05152024.md)
-      + [Avril 2024](c-legacy-releases/2024/04172024.md)
-      + [Mars 2024](c-legacy-releases/2024/03132024.md)
-      + [Février 2024](c-legacy-releases/2024/02142024.md)
-      + [Janvier 2024](c-legacy-releases/2024/01112024.md)
-   + 2023 {#2023}
-      + [Novembre 2023](c-legacy-releases/2023/10252023.md)
-      + [Octobre 2023](c-legacy-releases/2023/10042023.md)
-      + [Septembre 2023](c-legacy-releases/2023/09132023.md)
-      + [Août 2023](c-legacy-releases/2023/08092023.md)
-      + [Juillet 2023](c-legacy-releases/2023/07122023.md)
-      + [Juin 2023](c-legacy-releases/2023/06072023.md)
-      + [Mai 2023](c-legacy-releases/2023/05102023.md)
-      + [Avril 2023](c-legacy-releases/2023/04122023.md)
-      + [Mars 2023](c-legacy-releases/2023/03082023.md)
-      + [Février 2023](c-legacy-releases/2023/02082023.md)
-      + [Janvier 2023](c-legacy-releases/2023/01112023.md)
-   + 2022 et versions antérieures {#legacy-rns}
-      + [2022 et versions antérieures](c-legacy-releases/2022-earlier.md)
+  + 2026 {#2026}
+    + [Juillet 2026](c-legacy-releases/2026/07152026.md)
+    + [Juin 2026](c-legacy-releases/2026/06112026.md)
+    + [Avril 2026](c-legacy-releases/2026/04152026.md)
+    + [Mars 2026](c-legacy-releases/2026/03112026.md)
+    + [Février 2026](c-legacy-releases/2026/02112026.md)
+    + [Janvier 2026](c-legacy-releases/2026/01142026.md)
+  + 2025 {#2025}
+    + [Octobre 2025](c-legacy-releases/2025/10152025.md)
+    + [Septembre 2025](c-legacy-releases/2025/09112025.md)
+    + [Août 2025](c-legacy-releases/2025/08132025.md)
+    + [Juillet 2025](c-legacy-releases/2025/07162025.md)
+    + [Juin 2025](c-legacy-releases/2025/06182025.md)
+    + [Mai 2025](c-legacy-releases/2025/05142025.md)
+    + [Avril 2025](c-legacy-releases/2025/04162025.md)
+    + [Mars 2025](c-legacy-releases/2025/03122025.md)
+    + [Février 2025](c-legacy-releases/2025/02122025.md)
+    + [Janvier 2025](c-legacy-releases/2025/01222025.md)
+  + 2024 {#2024}
+    + [Novembre 2024](c-legacy-releases/2024/10232024.md)
+    + [Septembre 2024](c-legacy-releases/2024/09122024.md)
+    + [Août 2024](c-legacy-releases/2024/08142024.md)
+    + [Juillet 2024](c-legacy-releases/2024/07172024.md)
+    + [Juin 2024](c-legacy-releases/2024/06122024.md)
+    + [Mai 2024](c-legacy-releases/2024/05152024.md)
+    + [Avril 2024](c-legacy-releases/2024/04172024.md)
+    + [Mars 2024](c-legacy-releases/2024/03132024.md)
+    + [Février 2024](c-legacy-releases/2024/02142024.md)
+    + [Janvier 2024](c-legacy-releases/2024/01112024.md)
+  + 2023 {#2023}
+    + [Novembre 2023](c-legacy-releases/2023/10252023.md)
+    + [Octobre 2023](c-legacy-releases/2023/10042023.md)
+    + [Septembre 2023](c-legacy-releases/2023/09132023.md)
+    + [Août 2023](c-legacy-releases/2023/08092023.md)
+    + [Juillet 2023](c-legacy-releases/2023/07122023.md)
+    + [Juin 2023](c-legacy-releases/2023/06072023.md)
+    + [Mai 2023](c-legacy-releases/2023/05102023.md)
+    + [Avril 2023](c-legacy-releases/2023/04122023.md)
+    + [Mars 2023](c-legacy-releases/2023/03082023.md)
+    + [Février 2023](c-legacy-releases/2023/02082023.md)
+    + [Janvier 2023](c-legacy-releases/2023/01112023.md)
+  + 2022 et versions antérieures {#legacy-rns}
+    + [2022 et versions antérieures](c-legacy-releases/2022-earlier.md)
