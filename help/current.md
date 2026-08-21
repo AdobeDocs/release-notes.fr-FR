@@ -5,9 +5,9 @@ doc-type: release notes
 last-update: August 2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 655ebfa1efb1b1365c247f9f0105467351a4e702
+source-git-commit: b0fa4b80693428f871214415f7eeb05bc3982667
 workflow-type: tm+mt
-source-wordcount: '20806'
+source-wordcount: '20832'
 ht-degree: 11%
 
 ---
@@ -21,16 +21,9 @@ Cette page vous aide à trouver :
 * Nouveau produit [notes de mise à jour](#application-release-notes) pour toutes les applications CX Enterprise
 * Nouveaux [tutoriels et articles d’assistance](#articles) disponibles sur Experience League
 
-<!--
 >[!TIP]
 >
->To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
--->
-<!--
->[!TIP]
->
->To receive an email notification about updates to this page, enable the [[!UICONTROL Priority Product Update]](https://account.adobe.com/magazines) on the [!UICONTROL Newsletters] page.  
--->
+>Pour recevoir un e-mail mensuel sur les nouvelles fonctionnalités de CX Enterprise et les mises à jour de cette page, activez **[!UICONTROL Mise à jour prioritaire des produits]** sur la page [[!UICONTROL Newsletters]](https://account.adobe.com/magazines).
 
 Dernière mise à jour : **14 août 2026**
 
