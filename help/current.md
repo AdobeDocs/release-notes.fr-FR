@@ -9,9 +9,7 @@ source-git-commit: 07dffcce63ab1a94468a970d41337657f8fc532e
 workflow-type: tm+mt
 source-wordcount: '21404'
 ht-degree: 14%
-
 ---
-
 # Notes de mise à jour de CX Enterprise Central - Septembre 2026
 
 Cette page vous aide à trouver les dernières :
