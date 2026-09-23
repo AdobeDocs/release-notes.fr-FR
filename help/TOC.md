@@ -15,7 +15,7 @@ ht-degree: 92%
 # Nouveautés d’Adobe Experience Cloud {#experience-cloud}
 
 + [Notes de mise à jour de la version actuelle](current.md)
-+ {hide-from-toc}[Notes de mise à jour du statut du système ](system-status-release-notes.md)
++ {hide-from-toc}[Notes de mise à jour du statut du système &#x200B;](system-status-release-notes.md)
 + Notes de mise à jour précédentes {#previous}
   + 2026 {#2026}
     + [août 2026](c-legacy-releases/2026/08142026.md)
