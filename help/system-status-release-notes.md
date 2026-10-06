@@ -4,10 +4,10 @@ description: Historique des versions du statut du système Adobe (status.adobe.c
 doc-type: release notes
 last-update: October 2026
 author: mfrei
-source-git-commit: 079ad317870716d5ca3d5c5cdd42267a86ab62e6
+source-git-commit: 5c94477bd7f3397d2a48228961f95737cec2232e
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 27%
+source-wordcount: '271'
+ht-degree: 30%
 ---
 
 # Notes de mise à jour d’[!DNL Adobe System Status] {#status-release-notes}
@@ -18,7 +18,6 @@ Cette page effectue le suivi des mises à jour de [!DNL Adobe System Status] au 
 
 | Date | Mises à jour |
 | ------- | ------- |
-| 1er octobre 2026 | <ul><li>Correction d’une section cloud vide lorsque vous ne disposez d’aucun abonnement ou droit et que **Mes événements** est activé</li><li>Disponibilité améliorée avec le basculement Akamai origin</li><li>Récupération du profil mise à jour pour utiliser la portée d’identité requise</li></ul> |
 | Mars 2026 | <ul><li>Assistant virtuel IA (version bêta)</li><li>Correctifs et améliorations</li></ul> |
 | 8 Décembre 2025 | <ul><li>Améliorations des commentaires de l’assistant virtuel (workflows guidés rationalisés, icônes intuitives)</li><li>Correctifs et améliorations</li></ul> |
 | 16 Juillet 2025 | <ul><li>Disponibilité générale de l’assistant virtuel</li><li>Recherche d’ID d’événement sur les pages Produit et Cloud, et dans l’assistant virtuel</li><li>Mise à jour de la configuration des notifications Slack</li><li>Correctifs et améliorations</li></ul> |
