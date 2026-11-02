@@ -2,12 +2,12 @@
 title: Notes de mise à jour du statut du système Adobe
 description: Historique des versions du statut du système Adobe (status.adobe.com).
 doc-type: release notes
-last-update: October 2026
+last-update: November 2026
 author: mfrei
-source-git-commit: 5c94477bd7f3397d2a48228961f95737cec2232e
+source-git-commit: 7c1a3d1b65801e3ae5f6b17cfc32e6e3de249fc3
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 30%
+source-wordcount: '401'
+ht-degree: 21%
 ---
 
 # Notes de mise à jour d’[!DNL Adobe System Status] {#status-release-notes}
@@ -16,8 +16,14 @@ ht-degree: 30%
 
 Cette page effectue le suivi des mises à jour de [!DNL Adobe System Status] au fil du temps. Il est mis à jour uniquement lorsqu’il y a une nouvelle version à signaler.
 
+<!-- 
+[internal](https://wiki.corp.adobe.com/pages/viewpage.action?pageId=2821708019&spaceKey=AdobeStatus&title=Product%2Bpriority%2Bupdate%2B-%2Brelease%2Bnotes) 
+-->
+
 | Date | Mises à jour |
 | ------- | ------- |
+| 16 septembre 2026 | <ul><li>Contexte dans l’assistant virtuel IA : prend en charge le contexte entre les invites consécutives pour des conversations plus efficaces</li><li>Pages d’accueil, de cloud et de produit par défaut : les événements sont désormais définis par défaut en fonction de vos droits et de vos abonnements ; basculez entre **Tous** et **Mes événements** pour afficher d’autres événements</li><li>MCP de statut (version bêta) : connectez les API de statut directement aux agents d’IA et aux LLM via le protocole MCP (Model Context Protocol). Pour rejoindre la version bêta du client, envoyez un e-mail à l’adresse statuscom-adobe-support@adobe.com.</li></ul> |
+| 4 juin 2026 | <ul><li>Disponibilité générale de l&#39;assistant virtuel AI : accès plus rapide et conversationnel aux informations d&#39;événement et d&#39;abonnement sur le web et les appareils mobiles</li><li>Notifications Microsoft Teams : publiez les événements en cours pour un abonnement à un canal Équipes lorsque vous créez ou modifiez l’abonnement</li><li>Ajouter au calendrier à partir des e-mails d’abonnement (Outlook et autres calendriers) pour la maintenance et les événements à venir</li><li>Correctifs et autres améliorations de l’accessibilité</li></ul> |
 | Mars 2026 | <ul><li>Assistant virtuel IA (version bêta)</li><li>Correctifs et améliorations</li></ul> |
 | 8 Décembre 2025 | <ul><li>Améliorations des commentaires de l’assistant virtuel (workflows guidés rationalisés, icônes intuitives)</li><li>Correctifs et améliorations</li></ul> |
 | 16 Juillet 2025 | <ul><li>Disponibilité générale de l’assistant virtuel</li><li>Recherche d’ID d’événement sur les pages Produit et Cloud, et dans l’assistant virtuel</li><li>Mise à jour de la configuration des notifications Slack</li><li>Correctifs et améliorations</li></ul> |
