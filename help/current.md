@@ -3,11 +3,12 @@ title: Notes de mise à jour centrales
 description: Recherchez des liens vers les notes de mise à jour des applications Experience Cloud. Affichez de nouveaux tutoriels vidéo, lisez des articles d’assistance et recherchez des ressources d’aide autonome sur Experience League.
 doc-type: release notes
 last-update: November 2026
+last-substantial-update: 2026-13-2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: b95f19828d055f5ad7eb1a6a5ff92e3c0b5affa1
+source-git-commit: 1d8a31b77f449087cd7c194b3dd2309e28d50634
 workflow-type: tm+mt
-source-wordcount: '34844'
+source-wordcount: '34884'
 ht-degree: 11%
 ---
 # [!DNL CX Enterprise] notes de mise à jour centrales — Novembre 2026 {#top}
@@ -15,9 +16,9 @@ ht-degree: 11%
 Cette page vous aide à trouver les dernières :
 
 * [Résumé des notes de mise à jour](#application-release-notes) pour toutes les applications [!DNL CX Enterprise] (mise à jour le **13 novembre**)
-* [Nouvelles vidéos et articles d’assistance](#articles) par application
+* [Dernières vidéos et articles d’assistance](#articles) par application
 
-Pour rechercher des événements et vous y inscrire, rendez-vous sur [Experience League Events](https://experienceleague.adobe.com/fr/events)
+Pour rechercher des événements et vous y inscrire, rendez-vous sur [Experience League Events](https://experienceleague.adobe.com/fr/events).
 
 >[!TIP]
 >
@@ -31,7 +32,7 @@ Découvrez les nouvelles mises à jour (et les mises à jour prévues) de toutes
 
 Dernière mise à jour : **13 novembre 2026**
 
-| Application | Date de publication | URL des notes de mise à jour | Mises à jour |
+| Application | Date d’ajout | URL des notes de mise à jour | Nouveautés |
 | ------------- | ------------- | ------------- | ------------- |
 | **[!DNL Adobe Journey Optimizer]** | 13 Novembre 2026 | [[!DNL Journey Optimizer] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Migrer les campagnes par e-mail transactionnelles : l’espace de travail de migration prend désormais en charge les campagnes , afin que vous puissiez convertir les e-mails transactionnels de votre plateforme marketing existante en campagnes déclenchées par API (disponibilité limitée) (13 novembre)</li><li>Substitution dynamique des jetons pour les fragments Experience Manager : utilisez les chemins d’accès des attributs de profil directement dans les fragments de contenu, aucun mappage de jeton n’est nécessaire (disponibilité limitée) (5 novembre)</li><li>Fonctionnalités de profil et de contexte pour les modèles d’optimisation personnalisés afin d’améliorer la pertinence de l’offre (disponibilité limitée) (3 novembre)</li><li>Compétences en campagnes orchestrées dans [!DNL CX Enterprise Coworker] : lister et filtrer les campagnes, récupérer les détails et l&#39;historique, et générer des graphiques de workflow (3 novembre)</li><li>Métadonnées personnalisées pour les campagnes et les parcours : jusqu’à 10 champs métier personnalisés par type d’entité (disponibilité limitée) (29 octobre)</li></ul>[Tutoriels et articles d’assistance](#tutorials-ajo) |
 | **[!DNL Adobe Target]** | 12 Novembre 2026 | [[!DNL Adobe Target] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>26.11.1 : [!DNL Coworker] points d’entrée dans la liste Activités : un bouton Vérifier mes tests en direct et un menu Demander [!DNL Coworker] sur chaque activité</li><li>26.10.2 : paramètres d’objectifs fixes incorrectement affichés dans la Présentation des activités, recommandations de sauvegarde créées après les modifications des promotions et paramètres prédéfinis de rapports supprimés après environ deux semaines ; ajout de la prise en charge de Safari (non pris en charge dans le compositeur d’expérience visuelle ou le compositeur d’expérience amélioré)</li><li>26.10.1 : correction d’une erreur de création de rapports A4T en raison de l’affichage de nouvelles suites de rapports et d’HTML brutes au lieu du nom de l’offre pour les fragments d’expérience dans le compositeur d’expérience visuelle</li><li>26.9.8 : Calculateur de taille d’échantillon (version bêta) pour planifier les expériences en estimant le trafic, la durée et l’effet détectable minimal</li></ul>[Tutoriels et articles d’assistance](#tutorials-target) |
@@ -73,7 +74,7 @@ Dernière mise à jour : **13 novembre 2026**
 
 [Haut](#top)
 
-## Nouvelles vidéos et articles d’assistance {#articles}
+## Dernières vidéos et articles d’assistance {#articles}
 
 Liens vers les derniers tutoriels vidéo et les articles de [support](https://experienceleague.adobe.com/support/v2/en/?lang=fr) par application. (Pour consulter la documentation du produit relative aux fonctionnalités et aux correctifs, accédez aux [notes de mise à jour par application](#application-release-notes) ou utilisez le lien des notes de mise à jour dans chaque section.)
 
@@ -112,6 +113,7 @@ Recherchez les dernières ressources d’apprentissage publiées pour [!DNL Cowo
 | [!DNL Coworker] | **Parcours** | [Accélérez l’orchestration des parcours client avec vos collègues](https://experienceleague.adobe.com/fr/docs/coworker/content/chat/use-cases/journeys/accelerate-personalized-customer-engagement){target="_blank"} — Découvrez comment [!DNL Coworker] transforme un objectif marketing en parcours d’engagement personnalisé en identifiant les audiences des visiteurs, en créant un parcours dans [!DNL Journey Optimizer] et en préparant des messages promotionnels. | 5 novembre 2026 |
 | [!DNL Coworker] | **Audiences** | [Pourquoi ma taille d&#39;audience a-t-elle augmenté ou diminué ?](https://experienceleague.adobe.com/fr/docs/coworker/content/chat/use-cases/audiences/why-your-audience-size-changed){target="_blank"} — découvrez comment utiliser des invites en langage clair dans [!DNL Coworker] pour étudier un changement inattendu de la taille de l&#39;audience, en utilisant l&#39;analyse causale pour le connecter aux données opérationnelles et exclure les modifications de configuration. | 5 novembre 2026 |
 | [!DNL Coworker] | **Parcours** | [Comparer des versions de parcours à l&#39;aide de Coworker](https://experienceleague.adobe.com/fr/docs/coworker/content/chat/use-cases/journeys/journey-version-comparison){target="_blank"} — Découvrez comment comparer des versions d&#39;un parcours [!DNL Journey Optimizer] avec des comparaisons visuelles et des résumés détaillés des modifications apportées aux activités, aux branches et aux propriétés du parcours. | 4 novembre 2026 |
+| [!DNL Coworker] | **Plateformes d’IA** | [[!DNL Adobe CX Enterprise Coworker] pour les plateformes d’IA](https://experienceleague.adobe.com/fr/docs/coworker/content/ai-platforms){target="_blank"} — Découvrez comment utiliser [!DNL Coworker] dans Microsoft 365 Copilot, ChatGPT, Claude et d’autres plateformes d’IA, y compris les conditions préalables, les étapes de configuration, les exemples d’invites et les limites connues. | 4 novembre 2026 |
 | [!DNL Coworker] | **Parcours** | [Simuler un parcours à l’aide d’un collègue](https://experienceleague.adobe.com/fr/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker){target="_blank"} — Découvrez comment simuler [!DNL Journey Optimizer] parcours pour tester des chemins, recevoir des messages de BAT et vérifier la couverture des chemins avant la publication. | 3 Novembre 2026 |
 | [!DNL Coworker] | **Workflows** | [Workflows de conversation avec des collègues](https://experienceleague.adobe.com/fr/docs/coworker/content/chat/use-cases/workflows){target="_blank"} — répertorie désormais les compétences pour inspecter [!DNL Experience Manager] workflows et explorer les informations Dispatcher, ainsi que de nouvelles compétences d’audience pour la distribution des stocks, l’intégrité des stocks, la parenté et la détection des doublons. | 2 Novembre 2026 |
 | [!DNL Coworker] | **Commencer** | [Prise en main de la conversation avec vos collègues](https://experienceleague.adobe.com/fr/docs/coworker/content/chat/ui-guide){target="_blank"} — Réécrit pour correspondre à l’interface actuelle, y compris le menu du compte, le rail de navigation, **les artefacts**, **le contexte d’expérience**, et comment choisir une organisation et un sandbox. | 26 Octobre 2026 |
