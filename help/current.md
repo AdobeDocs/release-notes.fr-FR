@@ -6,23 +6,29 @@ last-update: November 2026
 last-substantial-update: 2026-13-2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 1d8a31b77f449087cd7c194b3dd2309e28d50634
+source-git-commit: 8f06996ad7b33f0561546d175ac9477b6ad850f1
 workflow-type: tm+mt
-source-wordcount: '34884'
+source-wordcount: '34970'
 ht-degree: 11%
 ---
 # [!DNL CX Enterprise] notes de mise à jour centrales — Novembre 2026 {#top}
 
 Cette page vous aide à trouver les dernières :
 
-* [Résumé des notes de mise à jour](#application-release-notes) pour toutes les applications [!DNL CX Enterprise] (mise à jour le **13 novembre**)
+* [Résumé des notes de mise à jour](#application-release-notes) pour toutes les applications [!DNL CX Enterprise] (mise à jour le **17 novembre**)
 * [Dernières vidéos et articles d’assistance](#articles) par application
-
-Pour rechercher des événements et vous y inscrire, rendez-vous sur [Experience League Events](https://experienceleague.adobe.com/fr/events).
 
 >[!TIP]
 >
 >Pour recevoir un e-mail mensuel sur les nouvelles fonctionnalités [!DNL CX Enterprise] et les mises à jour de cette page, activez **[!UICONTROL Mise à jour prioritaire des produits]** sur la page [[!UICONTROL Newsletters]](https://account.adobe.com/magazines).
+
+## Événements {#events}
+
+| Applications | Événement | Description | Date | Inscription |
+| ---------- | ---------- | ---------- | ---------- | ---------- |
+| [!DNL Adobe Experience Platform], [!DNL Real-Time CDP], [!DNL Adobe Journey Optimizer] | _Experience League LIVE_ | Évoluez plus rapidement et de manière flexible : bénéficiez des crédits de croissance Adobe Experience Platform. | 2 décembre à 17 h 30 (heure de Paris) | [S&#39;Inscrire](https://engage.adobe.com/ExpLeagueLive-261202.html){target="_blank"} |
+
+Pour rechercher des événements et vous y inscrire, rendez-vous sur [Experience League Events](https://experienceleague.adobe.com/fr/events).
 
 ## Notes de mise à jour d’[!DNL CX Enterprise] {#application-release-notes}
 
@@ -30,11 +36,11 @@ Découvrez les nouvelles mises à jour (et les mises à jour prévues) de toutes
 
 **Important :** Certaines applications sont publiées chaque semaine. Pour rester à jour, consultez fréquemment ces pages.
 
-Dernière mise à jour : **13 novembre 2026**
+Dernière mise à jour : **16 novembre 2026**
 
 | Application | Date d’ajout | URL des notes de mise à jour | Nouveautés |
 | ------------- | ------------- | ------------- | ------------- |
-| **[!DNL Adobe Journey Optimizer]** | 13 Novembre 2026 | [[!DNL Journey Optimizer] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Migrer les campagnes par e-mail transactionnelles : l’espace de travail de migration prend désormais en charge les campagnes , afin que vous puissiez convertir les e-mails transactionnels de votre plateforme marketing existante en campagnes déclenchées par API (disponibilité limitée) (13 novembre)</li><li>Substitution dynamique des jetons pour les fragments Experience Manager : utilisez les chemins d’accès des attributs de profil directement dans les fragments de contenu, aucun mappage de jeton n’est nécessaire (disponibilité limitée) (5 novembre)</li><li>Fonctionnalités de profil et de contexte pour les modèles d’optimisation personnalisés afin d’améliorer la pertinence de l’offre (disponibilité limitée) (3 novembre)</li><li>Compétences en campagnes orchestrées dans [!DNL CX Enterprise Coworker] : lister et filtrer les campagnes, récupérer les détails et l&#39;historique, et générer des graphiques de workflow (3 novembre)</li><li>Métadonnées personnalisées pour les campagnes et les parcours : jusqu’à 10 champs métier personnalisés par type d’entité (disponibilité limitée) (29 octobre)</li></ul>[Tutoriels et articles d’assistance](#tutorials-ajo) |
+| **[!DNL Adobe Journey Optimizer]** | 16 Novembre 2026 | [[!DNL Journey Optimizer] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Migrer les campagnes par e-mail transactionnelles : l’espace de travail de migration prend désormais en charge les campagnes , afin que vous puissiez convertir les e-mails transactionnels de votre plateforme marketing existante en campagnes déclenchées par API (disponibilité limitée) (13 novembre)</li><li>Substitution dynamique des jetons pour les fragments Experience Manager : utilisez les chemins d’accès des attributs de profil directement dans les fragments de contenu, aucun mappage de jeton n’est nécessaire (disponibilité limitée) (5 novembre)</li><li>Fonctionnalités de profil et de contexte pour les modèles d’optimisation personnalisés afin d’améliorer la pertinence de l’offre (disponibilité limitée) (3 novembre)</li><li>Compétences en campagnes orchestrées dans [!DNL CX Enterprise Coworker] : lister et filtrer les campagnes, récupérer les détails et l&#39;historique, et générer des graphiques de workflow (3 novembre)</li><li>Métadonnées personnalisées pour les campagnes et les parcours : jusqu’à 10 champs métier personnalisés par type d’entité (disponibilité limitée) (29 octobre)</li></ul>[Tutoriels et articles d’assistance](#tutorials-ajo) |
 | **[!DNL Adobe Target]** | 12 Novembre 2026 | [[!DNL Adobe Target] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>26.11.1 : [!DNL Coworker] points d’entrée dans la liste Activités : un bouton Vérifier mes tests en direct et un menu Demander [!DNL Coworker] sur chaque activité</li><li>26.10.2 : paramètres d’objectifs fixes incorrectement affichés dans la Présentation des activités, recommandations de sauvegarde créées après les modifications des promotions et paramètres prédéfinis de rapports supprimés après environ deux semaines ; ajout de la prise en charge de Safari (non pris en charge dans le compositeur d’expérience visuelle ou le compositeur d’expérience amélioré)</li><li>26.10.1 : correction d’une erreur de création de rapports A4T en raison de l’affichage de nouvelles suites de rapports et d’HTML brutes au lieu du nom de l’offre pour les fragments d’expérience dans le compositeur d’expérience visuelle</li><li>26.9.8 : Calculateur de taille d’échantillon (version bêta) pour planifier les expériences en estimant le trafic, la durée et l’effet détectable minimal</li></ul>[Tutoriels et articles d’assistance](#tutorials-target) |
 | **[!DNL Adobe Commerce]as a Cloud Service** | 10 Novembre 2026 | [Notes de mise à jour d’Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/fr/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>Révisions de produit (désactivées par défaut) lisibles et créables via GraphQL ; filtrage des avoirs par attributs personnalisés ; point d’entrée pour ajouter ou mettre à jour les attributs personnalisés de commande ; attributs personnalisés sur les retours (RMA) (18 novembre ; Sandbox)</li><li>Attributs personnalisés sur les articles du panier via la mutation `addProductsToCart` ; webhook de filtre d’article d’expédition pour exclure les articles remplis par un tiers (10 novembre ; Sandbox maintenant)</li><li>Nouveau webhook `observer.rma_save_before` pour lire et modifier les données de retour avant leur enregistrement (10 novembre)</li><li>Les commandes non virtuelles créées via l’API REST nécessitent désormais une adresse de livraison (10 novembre)</li><li>Point d’entrée `GET /V1/customers/:customerId/balance` pour les soldes de crédit de magasin ; champ `row_total` sur `InvoiceItemInterface` (10 novembre)</li></ul>[Tutoriels et articles d’assistance](#tutorials-commerce) |
 | **[!DNL Adobe Marketo Engage]** | 6 novembre 2026 | [Notes de mise à jour actuelles de Marketo Engage](https://experienceleague.adobe.com/fr/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>Compétences en [!DNL CX Enterprise Coworker] Planifier des campagnes : transformer un résumé de campagne en document de configuration de programme [!DNL Marketo Engage]</li><li>Agents appelables : agents d’IA qui s’exécutent en tant qu’étape de flux de campagne intelligente et écrivent les résultats dans les champs de prospect (bientôt disponible)</li><li>Option Cloner vers ce programme/dossier pour le clonage des destinations (bientôt disponible)</li><li>Alerte instantanée sur les modifications du statut de synchronisation CRM pour les administrateurs abonnés</li><li>[!DNL Marketo Engage] nouvelle interface utilisateur : menus, icônes et disposition actualisés</li></ul>[Tutoriels et articles d’assistance](#tutorials-marketo) |
@@ -147,6 +153,7 @@ Affichez les derniers tutoriels vidéo pour [!DNL Experience Platform].
 
 | Publié | Applications | Nom | Type | Description |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
+| Décembre 2026 | [!DNL Experience Platform], [!DNL Real-Time CDP], [!DNL Journey Optimizer] | [[!DNL Experience League LIVE] : évoluez plus rapidement et de manière flexible grâce aux crédits de croissance Adobe Experience Platform](https://engage.adobe.com/ExpLeagueLive-261202.html){target="_blank"} | Événement | Découvrez les crédits de croissance [!DNL Experience Platform], un moyen flexible d’ajouter de la capacité à votre investissement [!DNL Real-Time CDP] ou [!DNL Journey Optimizer] à mesure que vos besoins évoluent. En direct le 2 décembre à 8 h 30 (heure du Pacifique). |
 | Octobre 2026 | [!DNL Experience Platform] | [Aperçu de la sécurité de l’assistant AI](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/ai-assistant/security-overview){target="_blank"} | Vidéo | Obtenez un aperçu des fonctionnalités de sécurité sous-jacentes à l’assistant AI dans Adobe Experience Platform, en vous appuyant sur la fiche d’information sur la sécurité de l’assistant AI Adobe. |
 | Octobre 2026 | [!DNL Real-Time CDP] | [Surveiller et traiter le dépassement de crédit de croissance](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/license-usage/growth-credits/monitor-and-address-growth-credit-overage){target="_blank"} | Tutoriel | Découvrez comment surveiller l’utilisation du crédit de croissance dans Adobe Experience Platform et résoudre les problèmes de dépassement avant qu’ils n’affectent votre compte. |
 | Octobre 2026 | [!DNL Real-Time CDP] | [Planifier la capacité de diffusion en continu](https://experienceleague.adobe.com/fr/docs/platform-learn/tutorials/license-usage/growth-credits/schedule-streaming-capacity){target="_blank"} | Vidéo | Découvrez comment planifier une capacité de diffusion en continu supplémentaire en amont des événements métier majeurs, afin qu’Experience Platform puisse assurer le bon fonctionnement des services en temps réel pendant les pics de trafic. |
