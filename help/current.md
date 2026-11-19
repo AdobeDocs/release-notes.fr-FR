@@ -6,16 +6,16 @@ last-update: November 2026
 last-substantial-update: 2026-13-2026
 author: mfrei
 mini-toc-levels: 2
-source-git-commit: 8f06996ad7b33f0561546d175ac9477b6ad850f1
+source-git-commit: 2af6881cef5361493a998e137976b76342790be8
 workflow-type: tm+mt
-source-wordcount: '34970'
+source-wordcount: '35075'
 ht-degree: 11%
 ---
 # [!DNL CX Enterprise] notes de mise à jour centrales — Novembre 2026 {#top}
 
 Cette page vous aide à trouver les dernières :
 
-* [Résumé des notes de mise à jour](#application-release-notes) pour toutes les applications [!DNL CX Enterprise] (mise à jour le **17 novembre**)
+* [Résumé des notes de mise à jour](#application-release-notes) pour toutes les applications [!DNL CX Enterprise] (mise à jour le **19 novembre**)
 * [Dernières vidéos et articles d’assistance](#articles) par application
 
 >[!TIP]
@@ -36,11 +36,12 @@ Découvrez les nouvelles mises à jour (et les mises à jour prévues) de toutes
 
 **Important :** Certaines applications sont publiées chaque semaine. Pour rester à jour, consultez fréquemment ces pages.
 
-Dernière mise à jour : **16 novembre 2026**
+Dernière mise à jour : **19 novembre 2026**
 
 | Application | Date d’ajout | URL des notes de mise à jour | Nouveautés |
 | ------------- | ------------- | ------------- | ------------- |
-| **[!DNL Adobe Journey Optimizer]** | 16 Novembre 2026 | [[!DNL Journey Optimizer] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Migrer les campagnes par e-mail transactionnelles : l’espace de travail de migration prend désormais en charge les campagnes , afin que vous puissiez convertir les e-mails transactionnels de votre plateforme marketing existante en campagnes déclenchées par API (disponibilité limitée) (13 novembre)</li><li>Substitution dynamique des jetons pour les fragments Experience Manager : utilisez les chemins d’accès des attributs de profil directement dans les fragments de contenu, aucun mappage de jeton n’est nécessaire (disponibilité limitée) (5 novembre)</li><li>Fonctionnalités de profil et de contexte pour les modèles d’optimisation personnalisés afin d’améliorer la pertinence de l’offre (disponibilité limitée) (3 novembre)</li><li>Compétences en campagnes orchestrées dans [!DNL CX Enterprise Coworker] : lister et filtrer les campagnes, récupérer les détails et l&#39;historique, et générer des graphiques de workflow (3 novembre)</li><li>Métadonnées personnalisées pour les campagnes et les parcours : jusqu’à 10 champs métier personnalisés par type d’entité (disponibilité limitée) (29 octobre)</li></ul>[Tutoriels et articles d’assistance](#tutorials-ajo) |
+| **[!DNL Adobe Campaign Classic]v7** | 18 Novembre 2026 | [[!DNL Campaign Classic] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>Mises à jour de sécurité pour les vulnérabilités critiques (7.4.5, build 9421 et 7.4.4, build 9404, 18 novembre ; redémarrage de `nlserver` requis ; instances hébergées par Adobe déjà corrigées)</li><li>7.4.5 (build 9420, 15 octobre) : correctifs pour l’erreur du compte externe Analytics `Gone`, diffusions bloquées dans l’attente de personnalisation, CPU élevé provenant d’une boucle de verrouillage, erreur « Échec de la vérification du spam » erronée et destinataires non mis en quarantaine après des soft bounces</li><li>Mises à jour de sécurité pour les vulnérabilités critiques (v7.4.3, build 9401, 25 août)</li><li>Connecteur Adobe Analytics migré vers l’API Analytics 2.0 (version 9400, 11 août)</li></ul>[Tutoriels et articles d’assistance](#tutorials-campaign) |
+| **[!DNL Adobe Journey Optimizer]** | 17 Novembre 2026 | [[!DNL Journey Optimizer] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Migrer les campagnes par e-mail transactionnelles : l’espace de travail de migration prend désormais en charge les campagnes , afin que vous puissiez convertir les e-mails transactionnels de votre plateforme marketing existante en campagnes déclenchées par API (disponibilité limitée) (17 novembre)</li><li>Cartes de recommandation de l’IA sur la page d’accueil pour les alertes Parcours d’action personnalisée en échec et Parcours d’anomalie détectée , avec une analyse et les étapes suivantes préparées dans [!DNL CX Enterprise Coworker] (Disponibilité limitée) (16 novembre)</li><li>Substitution dynamique des jetons pour les fragments Experience Manager : utilisez les chemins d’accès des attributs de profil directement dans les fragments de contenu, aucun mappage de jeton n’est nécessaire (disponibilité limitée) (5 novembre)</li><li>Fonctionnalités de profil et de contexte pour les modèles d’optimisation personnalisés afin d’améliorer la pertinence de l’offre (disponibilité limitée) (3 novembre)</li><li>Compétences en campagnes orchestrées dans [!DNL CX Enterprise Coworker] : lister et filtrer les campagnes, récupérer les détails et l&#39;historique, et générer des graphiques de workflow (3 novembre)</li></ul>[Tutoriels et articles d’assistance](#tutorials-ajo) |
 | **[!DNL Adobe Target]** | 12 Novembre 2026 | [[!DNL Adobe Target] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>26.11.1 : [!DNL Coworker] points d’entrée dans la liste Activités : un bouton Vérifier mes tests en direct et un menu Demander [!DNL Coworker] sur chaque activité</li><li>26.10.2 : paramètres d’objectifs fixes incorrectement affichés dans la Présentation des activités, recommandations de sauvegarde créées après les modifications des promotions et paramètres prédéfinis de rapports supprimés après environ deux semaines ; ajout de la prise en charge de Safari (non pris en charge dans le compositeur d’expérience visuelle ou le compositeur d’expérience amélioré)</li><li>26.10.1 : correction d’une erreur de création de rapports A4T en raison de l’affichage de nouvelles suites de rapports et d’HTML brutes au lieu du nom de l’offre pour les fragments d’expérience dans le compositeur d’expérience visuelle</li><li>26.9.8 : Calculateur de taille d’échantillon (version bêta) pour planifier les expériences en estimant le trafic, la durée et l’effet détectable minimal</li></ul>[Tutoriels et articles d’assistance](#tutorials-target) |
 | **[!DNL Adobe Commerce]as a Cloud Service** | 10 Novembre 2026 | [Notes de mise à jour d’Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/fr/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>Révisions de produit (désactivées par défaut) lisibles et créables via GraphQL ; filtrage des avoirs par attributs personnalisés ; point d’entrée pour ajouter ou mettre à jour les attributs personnalisés de commande ; attributs personnalisés sur les retours (RMA) (18 novembre ; Sandbox)</li><li>Attributs personnalisés sur les articles du panier via la mutation `addProductsToCart` ; webhook de filtre d’article d’expédition pour exclure les articles remplis par un tiers (10 novembre ; Sandbox maintenant)</li><li>Nouveau webhook `observer.rma_save_before` pour lire et modifier les données de retour avant leur enregistrement (10 novembre)</li><li>Les commandes non virtuelles créées via l’API REST nécessitent désormais une adresse de livraison (10 novembre)</li><li>Point d’entrée `GET /V1/customers/:customerId/balance` pour les soldes de crédit de magasin ; champ `row_total` sur `InvoiceItemInterface` (10 novembre)</li></ul>[Tutoriels et articles d’assistance](#tutorials-commerce) |
 | **[!DNL Adobe Marketo Engage]** | 6 novembre 2026 | [Notes de mise à jour actuelles de Marketo Engage](https://experienceleague.adobe.com/fr/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>Compétences en [!DNL CX Enterprise Coworker] Planifier des campagnes : transformer un résumé de campagne en document de configuration de programme [!DNL Marketo Engage]</li><li>Agents appelables : agents d’IA qui s’exécutent en tant qu’étape de flux de campagne intelligente et écrivent les résultats dans les champs de prospect (bientôt disponible)</li><li>Option Cloner vers ce programme/dossier pour le clonage des destinations (bientôt disponible)</li><li>Alerte instantanée sur les modifications du statut de synchronisation CRM pour les administrateurs abonnés</li><li>[!DNL Marketo Engage] nouvelle interface utilisateur : menus, icônes et disposition actualisés</li></ul>[Tutoriels et articles d’assistance](#tutorials-marketo) |
@@ -56,7 +57,6 @@ Dernière mise à jour : **16 novembre 2026**
 | **[!DNL Adobe Experience Platform and Real-Time CDP]** | 27 Octobre 2026 | [[!DNL Experience Platform] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/experience-platform/release-notes/latest){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker] : compétences en détection des anomalies (disponibilité limitée) et en notification ; [!DNL Coworker] disponibles dans Microsoft 365 Copilot, ChatGPT et Claude</li><li>Destinations : compte 6sense (version bêta), audiences tierces The Trade Desk, nouveaux espaces de noms de conversion UID2 pour The Trade Desk - CRM et quand activer disponible pour tous</li><li>Real-Time Customer Profile : prise en charge des données non structurées (version bêta)</li><li>Destinations : Data Landing Zone prend en charge la suppression manuelle des fichiers exportés pour Azure et AWS</li><li>Sources : réseau virtuel Azure Event Hubs</li></ul>[Tutoriels et articles d’assistance](#tutorials-aep) |
 | **[!DNL Adobe Brand Visibility] (anciennement [!DNL Adobe LLM Optimizer])** | 24 Octobre 2026 | [Notes de mise à jour de Brand Visibility](https://abv.adobe.com/articles/release-notes){target="_blank"} | <ul><li>Bibliothèque d’invites : balises personnalisées (clients payants) pour trier les bibliothèques d’invites volumineuses selon vos propres catégories</li><li>Workspace d’opportunité : notification avec un lien vers les résultats à la fin d’une expérience</li><li>Visibilité de l’IA : choisissez des invites individuelles à ajouter lors du suivi d’une rubrique</li><li>Revendications de marque : recherchez le texte de la revendication dans la liste Toutes les revendications</li><li>Bibliothèque d’invites : statut plus fiable pour les imports, les écritures et les suppressions</li><li>Disponibilité générale : mesure de la visibilité de l’IA, optimisation et suivi de l’impact unifié dans Brand Visibility (rebranding depuis LLM Optimizer)</li></ul>[Tutoriels et articles d’assistance](#tutorials-llm-optimizer) |
 | **[!DNL Adobe Workfront]** | 22 Octobre 2026 (T4 2026) | [Notes de mise à jour du produit Adobe Workfront](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker] remplace l’assistant AI comme interface de conversation pour travailler dans [!DNL Workfront] et les systèmes Adobe connectés (déploiement échelonné à partir du 22 octobre)</li><li>Regrouper plusieurs documents en un seul workflow d’approbation</li><li>Jeux d’outils de serveur MCP Workfront : limitez le catalogue MCP à des jeux d’outils spécifiques et filtrez par droits de produit</li><li>Les tableaux de bord de la zone de travail s’ouvrent en version Beta pour les instances sur Google Cloud Platform et Azure</li><li>Les hiérarchies d’attributs de taux restent automatiquement connectées (Workflow Ultimate)</li></ul>[Tutoriels et articles d’assistance](#tutorials-workfront) |
-| **[!DNL Adobe Campaign Classic]v7** | 15 Octobre 2026 | [[!DNL Campaign Classic] Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>7.4.5 (build 9420, 15 octobre) : correctifs pour l’erreur du compte externe Analytics `Gone`, diffusions bloquées dans l’attente de personnalisation, CPU élevé provenant d’une boucle de verrouillage, erreur « Échec de la vérification du spam » erronée et destinataires non mis en quarantaine après des soft bounces</li><li>Mises à jour de sécurité pour les vulnérabilités critiques (7.4.4, build 9403, 15 octobre ; redémarrage de `nlserver` requis)</li><li>Mises à jour de sécurité pour les vulnérabilités critiques (v7.4.3, build 9401, 25 août)</li><li>Connecteur Adobe Analytics migré vers l’API Analytics 2.0 (version 9400, 11 août)</li></ul>[Tutoriels et articles d’assistance](#tutorials-campaign) |
 | Interface utilisateur web **[!DNL Adobe Campaign]** | 22 septembre 2026 | [Notes de mise à jour de l’interface d’utilisation de Campaign Web](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>Prise en charge du canal LINE : créez et envoyez des messages LINE dans des diffusions ou des workflows autonomes</li><li>Types de validation du budget et du lancement de la diffusion</li><li>Les diffusions SMS prennent désormais en charge le ciblage basé sur les visiteurs</li><li>Enrichissement de base de données externe dans les activités Enrichissement et Créer une audience</li><li>Les administrateurs peuvent restreindre des entrées spécifiques du menu de navigation latéral</li></ul>[Tutoriels et articles d’assistance](#tutorials-campaign) |
 | **[!DNL Adobe System Status]** | 16 septembre 2026 | [Notes de mise à jour du statut du système Adobe](system-status-release-notes.md) | <ul><li>Contexte dans l’assistant virtuel d’IA pour les invites consécutives</li><li>Pages d’accueil, cloud et produit par défaut en fonction de vos droits et de vos abonnements (basculer entre **Tous** et **Mes événements**)</li><li>MCP de statut (version bêta) : connexion des API de statut aux agents d’IA et aux LLM via le protocole ModelContext</li><li>Disponibilité générale de l’assistant virtuel d’IA (4 juin)</li><li>Notifications Microsoft Teams pour les abonnements avec statut (4 juin)</li></ul>[Tutoriels et articles d’assistance](#status) |
 | **[!DNL Adobe GenStudio for Performance Marketing]** | 15 septembre 2026 | [Notes de mise à jour de GenStudio for Performance Marketing](https://experienceleague.adobe.com/fr/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>Activation en bloc : publiez plusieurs expériences approuvées sur les canaux d’annonces payantes ([!DNL Meta], [!DNL LinkedIn], Google Campaign Manager 360, Amazon Ads, Innovid, [!DNL TikTok], [!DNL YouTube], ChatGPT, The Trade Desk) à partir d’un seul tableau d’activation</li><li>Modification en bloc sur la zone de travail Horizon (les champs de texte/image liés propagent les modifications sur plusieurs tailles et pages)</li><li>Afficher et activer pour The Trade Desk</li><li>Permutation de fragments de contenu : remplacez les blocs de texte par des fragments de contenu préapprouvés et réutilisables d’AEM.</li></ul>[Tutoriels et articles d’assistance](#tutorials-genstudio-marketing) |
@@ -82,7 +82,9 @@ Dernière mise à jour : **16 novembre 2026**
 
 ## Dernières vidéos et articles d’assistance {#articles}
 
-Liens vers les derniers tutoriels vidéo et les articles de [support](https://experienceleague.adobe.com/support/v2/en/?lang=fr) par application. (Pour consulter la documentation du produit relative aux fonctionnalités et aux correctifs, accédez aux [notes de mise à jour par application](#application-release-notes) ou utilisez le lien des notes de mise à jour dans chaque section.)
+Liens vers les derniers tutoriels vidéo et les articles de [support](https://experienceleague.adobe.com/support/v2/en/?lang=fr) par application.
+
+**Vous recherchez des notes de mise à jour ?** Accédez au tableau des [notes de mise à jour](#application-release-notes) pour connaître les nouvelles fonctionnalités et les correctifs par application. Les sections ci-dessous répertorient uniquement les vidéos et les articles d’assistance.
 
 * [Adobe [!DNL CX Enterprise Coworker]](#ai)
 * [[!DNL Adobe Experience Platform]](#tutorials-aep)
@@ -143,7 +145,7 @@ Recherchez les dernières ressources d’apprentissage publiées pour [!DNL Cowo
 
 Pour obtenir une compilation des notes de mise à jour, consultez les [notes de mise à jour du statut du système Adobe](system-status-release-notes.md).
 
-### [!DNL Adobe Experience Platform] - dernières ressources {#tutorials-aep}
+### [!DNL Adobe Experience Platform] vidéos et articles d’assistance {#tutorials-aep}
 
 Pour connaître les nouvelles fonctionnalités et les correctifs, consultez les [[!DNL Experience Platform] notes de mise à jour](https://experienceleague.adobe.com/fr/docs/experience-platform/release-notes/latest){target="_blank"}.
 
@@ -170,7 +172,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 | June 2026 | [SFTP destination connection fails in Adobe Experience Platform](https://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-33771) | New article | Learn about the solutions to the issue when the SFTP destination connection fails in Adobe Experience Platform even when all required IP addresses are allow-listed and the credentials are correct because the SFTP server supports only outdated SSH key exchange algorithms that are incompatible with the validator. |
 -->
 
-### [!DNL Adobe Real-Time CDP] {#tutorials-rtcdp}
+### [!DNL Adobe Real-Time CDP] vidéos et articles d’assistance {#tutorials-rtcdp}
 
 Pour connaître les nouvelles fonctionnalités et les correctifs, consultez les [[!DNL Experience Platform] notes de mise à jour](https://experienceleague.adobe.com/fr/docs/experience-platform/release-notes/latest){target="_blank"}, qui couvrent également [!DNL Real-Time CDP].
 
@@ -188,7 +190,7 @@ Consultez les derniers tutoriels vidéo et articles d’aide pour Real-Time CDP
 
 * Documentation du produit : [Real-Time CDP](https://experienceleague.adobe.com/fr/docs/real-time-customer-data-platform){target="_blank"}
 
-### [!DNL Adobe Analytics] {#tutorials-analytics}
+### [!DNL Adobe Analytics] vidéos et articles d’assistance {#tutorials-analytics}
 
 Les mises à jour d’Adobe Analytics fonctionnent sur un modèle de diffusion continue qui permet une approche plus évolutive et plus progressive du déploiement des fonctionnalités. Les notes de mise à jour sont mises à jour plusieurs fois par mois. Pour connaître les nouvelles fonctionnalités et les correctifs, consultez les [[!DNL Analytics] notes de mise à jour](https://experienceleague.adobe.com/fr/docs/analytics/release-notes/latest){target="_blank"}.
 
@@ -206,7 +208,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 | February 2026 | [Data Warehouse export contains values exceeding 255 bytes due to escape sequences](https://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-29977){target="_blank"} | New article | Learn about the solutions to the issue when Data Warehouse export contains field values that exceed the 255-byte limit because special characters are escaped with additional backslashes. |
 -->
 
-### [!DNL Adobe Customer Journey Analytics] {#tutorials-cja}
+### [!DNL Adobe Customer Journey Analytics] vidéos et articles d’assistance {#tutorials-cja}
 
 Pour connaître les nouvelles fonctionnalités et les correctifs, consultez les [[!DNL Customer Journey Analytics] notes de mise à jour](https://experienceleague.adobe.com/fr/docs/analytics-platform/using/releases/latest?lang=fr#releases){target="_blank"}.
 
@@ -230,13 +232,13 @@ Nouveaux articles et mises à jour des articles existants pour [!DNL Customer Jo
 | --------- | ---- | ---- | ----------- |
 | Octobre 2026 | [Les conteneurs de champs dérivés sont limités à l’étendue d’événement, de session et de personne](https://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-50143) | Nouvel article | Découvrez les solutions au problème lorsque les fonctions de champ dérivé dans Customer Journey Analytics prennent uniquement en charge les conteneurs d’étendue d’événement, de session et de personne et ne permettent pas à une dimension d’agir comme conteneur. |
 
-### [!DNL Marketing Campaign Analytics] (anciennement [!DNL Mix Modeler]) {#tutorials-mca}
+### [!DNL Marketing Campaign Analytics] vidéos et articles d’assistance {#tutorials-mca}
 
 [!DNL Marketing Campaign Analytics] repose sur [!DNL Adobe Experience Platform] et mesure les performances de la campagne et aide à optimiser la planification marketing sur les canaux payants, gagnés et détenus. Pour connaître les nouvelles fonctionnalités et les correctifs, consultez les [[!DNL Marketing Campaign Analytics] notes de mise à jour](https://experienceleague.adobe.com/fr/docs/marketing-campaign-analytics/using/releases/latest){target="_blank"}.
 
 * [Documentation de Marketing Campaign Analytics](https://experienceleague.adobe.com/fr/docs/marketing-campaign-analytics/using/overview){target="_blank"} pour consulter des présentations de produits, des guides pratiques et des informations sur les versions.
 
-### [!DNL Adobe Experience Manager] {#tutorials-aem}
+### [!DNL Adobe Experience Manager] vidéos et articles d’assistance {#tutorials-aem}
 
 Pour connaître les nouvelles fonctionnalités et les correctifs, consultez les [[!DNL Experience Manager] notes de mise à jour d’as a Cloud Service](https://experienceleague.adobe.com/fr/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"}.
 
@@ -692,7 +694,7 @@ Nouveaux articles et mises à jour des articles existants pour [!DNL Experience 
 | Octobre 2026 | [Conservation et suppression des journaux dans Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-43643) | Nouvel article | Découvrez les solutions au problème lorsque vous avez des questions sur la durée pendant laquelle AEM as a Cloud Service conserve les fichiers journaux et sur la manière dont les données de journal sont consultées et supprimées. |
 | Octobre 2026 | [Le rôle AEM Cloud Manager n’est pas mis à jour après l’affectation du profil](https://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-42376) | Nouvel article | Découvrez les solutions au problème lorsque votre rôle n’est pas mis à jour dans AEM Cloud Manager après l’affectation du profil de produit Cloud Manager requis dans Adobe Admin Console. |
 
-### [!DNL Adobe Commerce] {#tutorials-commerce}
+### [!DNL Adobe Commerce] vidéos et articles d’assistance {#tutorials-commerce}
 
 Pour connaître les nouvelles fonctionnalités et les correctifs, consultez les [[!DNL Adobe Commerce] notes de mise à jour d’as a Cloud Service](https://experienceleague.adobe.com/fr/docs/commerce/cloud-service/release-notes){target="_blank"} ou les [notes de mise à jour pour [!DNL Adobe Commerce]  et [!DNL Magento Open Source]](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/notes/adobe-commerce/overview){target="_blank"}.
 
@@ -730,7 +732,7 @@ Nouveaux articles et mises à jour d’articles existants pour Adobe Commerce.
 | Octobre 2026 | [Aide générale pour le dépannage des modules personnalisés](https://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-51556) | Nouvel article | Découvrez les solutions au problème lorsque les fonctionnalités de votre module personnalisé dans Adobe Commerce ne fonctionnent pas comme prévu et qu’aucun message d’erreur évident n’indique le problème. |
 | Octobre 2026 | [Préchauffage du cache et indisponibilité du site sur Adobe Commerce](https://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-51557) | Nouvel article | Découvrez les solutions au problème en raison duquel le script de préchauffage du cache à l’issue de la phase post-déploiement envoie des requêtes à un taux si élevé que les instances d’Adobe Commerce sur l’infrastructure cloud ne peuvent pas y faire face, ce qui entraîne un déploiement bloqué ou un temps d’arrêt du site. |
 
-### [!DNL Adobe Target] {#tutorials-target}
+### [!DNL Adobe Target] vidéos et articles d’assistance {#tutorials-target}
 
 Pour connaître les nouvelles fonctionnalités et les correctifs, consultez les [[!DNL Adobe Target] notes de mise à jour](https://experienceleague.adobe.com/fr/docs/target/using/release-notes/release-notes){target="_blank"}.
 
@@ -742,7 +744,7 @@ Consultez les [tutoriels](https://experienceleague.adobe.com/fr/docs/target-lear
 | ----------- | ---------- | ---------- | ---------- |
 | Octobre 2026 | [Recommandations basées sur les attributs de profil](https://experienceleague.adobe.com/fr/docs/target-learn/tutorials/recommendations/most-viewed-by-profile-attribute){target="_blank"} | Vidéo | Découvrez comment utiliser la fonctionnalité Adobe Target Les plus consultés par les attributs de profil pour fournir des recommandations localisées et spécifiques aux segments au lieu d’une liste de popularité à taille unique. |
 
-### [!DNL Adobe Campaign] {#tutorials-campaign}
+### [!DNL Adobe Campaign] vidéos et articles d’assistance {#tutorials-campaign}
 
 Pour connaître les nouvelles fonctionnalités et les correctifs, consultez les notes de mise à jour de [[!DNL Campaign] v8](https://experienceleague.adobe.com/fr/docs/campaign/campaign-v8/releases/release-notes){target="_blank"}, [[!DNL Campaign Classic] v7](https://experienceleague.adobe.com/fr/docs/campaign-classic/using/release-notes/latest-release){target="_blank"}, [[!DNL Campaign] l’interface utilisateur web](https://experienceleague.adobe.com/fr/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} et [[!DNL Campaign Standard]](https://experienceleague.adobe.com/fr/docs/campaign-standard/using/release-notes/release-notes){target="_blank"}.
 
@@ -768,7 +770,7 @@ Nouveaux articles et mises à jour des articles existants pour [!DNL Campaign].
 | Octobre 2026 | [Organisation manquante lors de la connexion à la console cliente](https://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-51055) | Nouvel article | Découvrez les solutions au problème lorsque la console cliente Adobe Campaign Classic ne répertorie pas l’organisation requise lors de la connexion IMS, même si la même Adobe ID accède à l’instance par le biais de l’interface utilisateur web. |
 | Octobre 2026 | [La diffusion d’e-mails échoue pour les types d’événements transactionnels dans Adobe Campaign](https://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-49447) | Nouvel article | Découvrez les solutions au problème d’échec des diffusions par e-mail des types d’événements transactionnels dans Adobe Campaign lors de la préparation du message et l’erreur DLV-490094 *Erreur lors du téléchargement* apparaît pour les images. |
 
-### [!DNL Adobe Journey Optimizer] {#tutorials-ajo}
+### [!DNL Adobe Journey Optimizer] vidéos et articles d’assistance {#tutorials-ajo}
 
 Pour connaître les nouvelles fonctionnalités et les correctifs, consultez les [[!DNL Journey Optimizer] notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"}.
 
@@ -778,7 +780,7 @@ Consultez les derniers tutoriels et articles d’assistance sur Experience Leagu
 
 | Publié | Applications | Nom | Type | Description |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| Octobre 2026 | [!DNL Journey Optimizer] | [Utilisez l’optimisation des canaux pour atteindre les clients là où ils interagissent](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/journeys/use-channel-optimization){target="_blank"} | Vidéo | Découvrez comment utiliser les groupes d’actions pour combiner les e-mails, les notifications push et les SMS, puis optimiser la sélection de canal avec une priorité manuelle, les préférences du client ou les scores d’engagement de l’IA. |
+| Octobre 2026 | [!DNL Journey Optimizer] | [Utilisez l’optimisation des canaux pour atteindre les clients là où ils interagissent](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/journeys/use-channel-optimization){target="_blank"} | Vidéo | Découvrez comment utiliser les groupes d’actions pour combiner les e-mails, les notifications push et les SMS, puis optimiser la sélection de canal avec une priorité manuelle, les préférences de la clientèle ou les scores d’engagement de l’IA. |
 | Octobre 2026 | [!DNL Journey Optimizer] | [Créer des conditions de parcours à l&#39;aide du langage naturel](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/journeys/create-journey-conditions-using-natural-language){target="_blank"} | Vidéo | Découvrez comment l’IA de [!DNL Journey Optimizer] transforme des invites en anglais brut en conditions de parcours, sans écrire de langage d’expression. |
 | Octobre 2026 | [!DNL Journey Optimizer] | [Explorer les options de configuration pour les défis de fidélité](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/loyalty/set-up-loyality/explore-the-configuration-options-for-loyalty-challenges){target="_blank"} | Vidéo | Explorez les options de configuration qui prennent en charge les défis de fidélité, notamment les paramètres globaux, les rapports, les récompenses, le mappage d’événements, l’inventaire de produits et les exclusions. |
 | Octobre 2026 | [!DNL Journey Optimizer] | [Configurer des mises à jour en direct pour Android](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/channels/live-activities/android-live-updates){target="_blank"} | Vidéo | Découvrez comment configurer le canal Android Live Updates dans Journey Optimizer pour offrir des expériences client persistantes en temps réel par le biais de campagnes et d’API. |
@@ -800,7 +802,7 @@ Nouveaux articles et mises à jour des articles existants pour [!DNL Journey Opt
 * Documentation [[!DNL Journey Optimizer] &#x200B;](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/ajo-home){target="_blank"} - [Vidéos pratiques](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/overview){target="_blank"}
 * [Documentation de la gestion des décisions](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning){target="_blank"} - [Vidéos pratiques](https://experienceleague.adobe.com/fr/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management){target="_blank"} - [Dernières mises à jour de la documentation](https://experienceleague.adobe.com/fr/docs/journey-optimizer/using/whats-new/documentation-updates){target="_blank"}
 
-### [!DNL Adobe Journey Optimizer B2B Edition] {#tutorials-ajo-b2b}
+### [!DNL Adobe Journey Optimizer B2B Edition] vidéos et articles d’assistance {#tutorials-ajo-b2b}
 
 Pour connaître les nouvelles fonctionnalités et les correctifs, consultez les [[!DNL Journey Optimizer B2B Edition] notes de mise à jour](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b/user/release-notes){target="_blank"}.
 
@@ -812,7 +814,7 @@ Découvrez les ressources d’apprentissage de Journey Optimizer édition B2B.
 * [Documentation du produit](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b/user/guide-overview){target="_blank"} pour [!DNL Journey Optimizer B2B Edition]
 * [Vues d’ensemble vidéo et tutoriels](https://experienceleague.adobe.com/fr/docs/journey-optimizer-b2b-learn/tutorials/overview){target="_blank"} pour [!DNL Journey Optimizer B2B Edition]
 
-### [!DNL Adobe Marketo Engage] {#tutorials-marketo}
+### [!DNL Adobe Marketo Engage] vidéos et articles d’assistance {#tutorials-marketo}
 
 Pour connaître les nouvelles fonctionnalités et les correctifs, consultez les [[!DNL Marketo Engage] notes de mise à jour](https://experienceleague.adobe.com/fr/docs/marketo/using/release-notes/current){target="_blank"}.
 
@@ -839,7 +841,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 | February 2026 | [Understanding persistent report subscriptions for standard analytics reports](https://experienceleague.adobe.com/fr/docs/experience-cloud-kcs/kbarticles/ka-29909){target="_blank"} | New article | Learn about the solutions to the issue when Marketo Engage continues sending scheduled subscription emails for standard workspace-level analytics reports even when the report isn't a custom or standalone report. |
 -->
 
-### [!DNL Adobe Workfront] {#tutorials-workfront}
+### [!DNL Adobe Workfront] vidéos et articles d’assistance {#tutorials-workfront}
 
 Pour connaître les nouvelles fonctionnalités et les correctifs, voir les [[!DNL Workfront] versions du produit](https://experienceleague.adobe.com/fr/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"} ou l’[[!DNL Workfront Fusion] activité de version](https://experienceleague.adobe.com/fr/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}.
 
@@ -868,7 +870,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 Pour obtenir la documentation la plus récente sur le produit, consultez la [page d’accueil de la documentation d’Adobe  [!DNL Workfront] &#x200B;](https://experienceleague.adobe.com/fr/docs/workfront/using/home){target="_blank"}.
 
-### [!DNL Adobe GenStudio for Performance Marketing] {#tutorials-genstudio-marketing}
+### [!DNL Adobe GenStudio for Performance Marketing] vidéos et articles d’assistance {#tutorials-genstudio-marketing}
 
 Pour connaître les nouvelles fonctionnalités et les correctifs, consultez les [[!DNL GenStudio for Performance Marketing] notes de mise à jour](https://experienceleague.adobe.com/fr/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"}.
 
@@ -886,13 +888,13 @@ Tutoriels vidéo pour GenStudio for Performance Marketing.
 * [Documentation produit](https://experienceleague.adobe.com/fr/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"} pour GenStudio for Performance Marketing
 * Informations sur le produit [GenStudio for Performance Marketing](https://business.adobe.com/fr/products/genstudio-for-performance-marketing.html)
 
-### [!DNL Adobe Pass] {#tutorials-pass}
+### [!DNL Adobe Pass] vidéos et articles d’assistance {#tutorials-pass}
 
 [!DNL Adobe Pass] est une plateforme de télévision multi-écran qui aide les diffuseurs, les réseaux câblés et les prestataires de services à créer et monétiser des expériences de visionnage personnalisées et attrayantes. Pour connaître les nouvelles fonctionnalités et les correctifs, consultez les [[!DNL Adobe Pass] notes de mise à jour](https://experienceleague.adobe.com/fr/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"}.
 
 * [Documentation Adobe Pass](https://experienceleague.adobe.com/fr/docs/pass){target="_blank"} pour accéder aux informations spécifiques à la version, à la configuration requise, aux limites, aux problèmes résolus et aux problèmes connus.
 
-### [!DNL Adobe Document Cloud] {#tutorials-document-cloud}
+### [!DNL Adobe Document Cloud] vidéos et articles d’assistance {#tutorials-document-cloud}
 
 Consultez les nouveaux tutoriels publiés pour [!DNL Document Cloud], y compris pour [!DNL Acrobat Services] et [!DNL Acrobat Sign].
 
@@ -909,7 +911,7 @@ Pour parcourir les tutoriels [!DNL Document Cloud], consultez :
 * [Tutoriels sur l’API Adobe Acrobat Services](https://experienceleague.adobe.com/fr/docs/acrobat-services-learn/tutorials/overview){target="_blank"}
 * [Formation et assistance pour Document Cloud](https://helpx.adobe.com/fr/support/document-cloud.html)
 
-### [!DNL Adobe Creative Cloud] pour les entreprises {#tutorials-creative-cloud}
+### [!DNL Adobe Creative Cloud for enterprise] vidéos et articles d’assistance {#tutorials-creative-cloud}
 
 Pour en savoir plus, parcourez la bibliothèque de tutoriels de [Creative Cloud abonnement Entreprise](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview){target="_blank"}.
 
@@ -926,7 +928,7 @@ Nouveaux tutoriels pour [!DNL Firefly Graph], outil d’automatisation créative
 | Octobre 2026 | [Du résumé au storyboard : explorez les directions de la vidéo avant la production](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/cceaitutorials/brief-to-storyboard){target="_blank"} | Vidéo | Découvrez comment transformer un bref et quelques références en blocs de storyboard, générer des tests de mouvement courts et comparer deux directions côte à côte dans les tableaux Firefly. |
 | Octobre 2026 | [Retouchez plus rapidement et conservez vos pixels d’origine](https://experienceleague.adobe.com/fr/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/cceaitutorials/retouch-faster){target="_blank"} | Vidéo | Découvrez comment ajouter des ombres naturelles à une photo de produit dans Photoshop avec Harmoniser tout en conservant vos pixels d’origine intacts. |
 
-### [!DNL Adobe Brand Concierge] {#tutorials-brand-concierge}
+### [!DNL Adobe Brand Concierge] vidéos et articles d’assistance {#tutorials-brand-concierge}
 
 Pour connaître les nouvelles fonctionnalités et les correctifs, consultez les [[!DNL Brand Concierge] notes de mise à jour](https://experienceleague.adobe.com/fr/docs/brand-concierge/content/release-notes/current){target="_blank"}.
 
@@ -947,7 +949,7 @@ Afficher les nouveaux tutoriels pour [!DNL Adobe Brand Concierge].
 | Octobre 2026 | [Configuration technique et fonctionnalités facultatives](https://experienceleague.adobe.com/fr/docs/brand-concierge/content/go-live-guide/technical-setup-and-optional-features){target="_blank"} | Tutoriel | Découvrez la configuration technique requise pour déployer Brand Concierge (gestion des balises, ciblage de page, sandbox AEP et flux de données), ainsi que des fonctionnalités facultatives telles que la réservation de réunions, le chat en direct et l’intégration de Marketo. |
 | Octobre 2026 | [Votre liste de contrôle avant la mise en production et votre plan de déploiement](https://experienceleague.adobe.com/fr/docs/brand-concierge/content/go-live-guide/your-pre-go-live-checklist-and-rollout-plan){target="_blank"} | Tutoriel | Parcourez la liste de contrôle avant la mise en production de Brand Concierge et apprenez à procéder à un déploiement graduel, des tests internes au trafic complet, tout en surveillant la qualité tout au long du processus. |
 
-### [!DNL Adobe Brand Visibility] (anciennement [!DNL Adobe LLM Optimizer]) {#tutorials-llm-optimizer}
+### Vidéos et articles d’assistance [!DNL Adobe Brand Visibility] (anciennement [!DNL Adobe LLM Optimizer]) {#tutorials-llm-optimizer}
 
 Pour connaître les nouvelles fonctionnalités et les correctifs, consultez les [[!DNL Brand Visibility] notes de mise à jour](https://abv.adobe.com/articles/release-notes){target="_blank"}.
 
